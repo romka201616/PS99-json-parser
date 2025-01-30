@@ -1,0 +1,507 @@
+{
+  "data": [
+    {
+      "configName": "Active Huge Egg",
+      "category": "Machine Eggs",
+      "configData": {
+        "disableGold": false,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableRainbow": false,
+        "shinyChance": 2,
+        "disableModifiers": true,
+        "rainbowChance": 2,
+        "name": "Active Huge Egg",
+        "pets": [
+          [
+            "Huge Red Panda",
+            1
+          ],
+          [
+            "Huge Llama",
+            1
+          ],
+          [
+            "Huge Shadow Dominus",
+            1
+          ],
+          [
+            "Huge Skateboard Bulldog",
+            1
+          ]
+        ],
+        "goldChance": 5,
+        "icon": "rbxassetid://16756521111"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Eggs"
+    },
+    {
+      "configName": "5 | Player Egg",
+      "category": "PetGamesEvent",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "GameCoins",
+        "name": "Player Egg",
+        "overrideCost": 4000,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Guard Wolf",
+            90
+          ],
+          [
+            "Player Corgi",
+            9.996796
+          ],
+          [
+            "Guard Dragon",
+            0.05
+          ],
+          [
+            "Guard Dominus",
+            0.003,
+            "Great"
+          ],
+          [
+            "Frontman Jellyfish",
+            0.0003,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Exclusive Egg 43",
+      "category": "Exclusive Eggs",
+      "configData": {
+        "disableGold": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "rainbowChance": 2,
+        "shinyChance": 2,
+        "disableRainbow": false,
+        "name": "Exclusive Googly Egg",
+        "productIds": {
+          "Exclusive Egg": 2702095849,
+          "3 Exclusive Eggs": 2702095962,
+          "100 Exclusive Eggs": 2702096139,
+          "10 Exclusive Eggs": 2702096031
+        },
+        "pets": [
+          [
+            "Googly Corgi",
+            50
+          ],
+          [
+            "Googly Cat",
+            35
+          ],
+          [
+            "Googly Shark",
+            13
+          ],
+          [
+            "Huge Googly Corgi",
+            1.5
+          ],
+          [
+            "Huge Googly Shark",
+            0.39
+          ],
+          [
+            "Titanic Googly Blobfish",
+            0.1
+          ],
+          [
+            "Gargantuan Googly Agony",
+            0.01
+          ]
+        ],
+        "goldChance": 0,
+        "icon": "rbxassetid://87034502118666",
+        "disableModifiers": true
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "6 | Marble Bag Egg",
+      "category": "PetGamesEvent",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "GameCoins",
+        "name": "Marble Bag Egg",
+        "overrideCost": 8000,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Frontman Jellyfish",
+            90
+          ],
+          [
+            "Player Penguin",
+            10
+          ],
+          [
+            "Player Gecko",
+            1
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "7 | Dalgona Egg",
+      "category": "PetGamesEvent",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "GameCoins",
+        "name": "Dalgona Egg",
+        "overrideCost": 16000,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Player Penguin",
+            90
+          ],
+          [
+            "Player Gecko",
+            10
+          ],
+          [
+            "Player Fox",
+            0.1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "8 | Prize Egg",
+      "category": "PetGamesEvent",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "GameCoins",
+        "name": "Prize Egg",
+        "overrideCost": 35000,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Guard Hydra": "EggMultiplier_E2",
+          "Huge Player Fox": "EggMultiplier_E3",
+          "Guard Bunny": "EggMultiplier_E1"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Player Gecko",
+            90
+          ],
+          [
+            "Player Fox",
+            9.998441
+          ],
+          [
+            "Recruiter Axolotl",
+            0.05
+          ],
+          [
+            "Guard Bunny",
+            0.0015,
+            "Great"
+          ],
+          [
+            "Guard Hydra",
+            0.00015,
+            "Insane"
+          ],
+          [
+            "Huge Player Fox",
+            1.5e-05,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "1 | Hellfire Egg",
+      "category": "CannonTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "CannonTycoonCoins",
+        "name": "Hellfire Egg",
+        "overrideCost": 1,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Rocket Shark",
+            90
+          ],
+          [
+            "Stunt Raccoon",
+            10
+          ],
+          [
+            "Crash Dummy Noob",
+            0.1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "2 | Striped Balloon Egg",
+      "category": "CannonTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "CannonTycoonCoins",
+        "name": "Striped Balloon Egg",
+        "overrideCost": 10,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Stunt Raccoon",
+            90
+          ],
+          [
+            "Crash Dummy Noob",
+            10
+          ],
+          [
+            "Turbo Cheetah",
+            0.1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "3 | Rocketeer Egg",
+      "category": "CannonTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "CannonTycoonCoins",
+        "name": "Rocketeer Egg",
+        "overrideCost": 150,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Crash Dummy Noob",
+            90
+          ],
+          [
+            "Turbo Cheetah",
+            10
+          ],
+          [
+            "Plane Dragon",
+            0.1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "4 | Jetpack Egg",
+      "category": "CannonTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "CannonTycoonCoins",
+        "name": "Jetpack Egg",
+        "overrideCost": 750,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Turbo Cheetah",
+            90
+          ],
+          [
+            "Plane Dragon",
+            10
+          ],
+          [
+            "Torpedo Shepherd",
+            0.1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "5 | Stunt Egg",
+      "category": "CannonTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "CannonTycoonCoins",
+        "name": "Stunt Egg",
+        "overrideCost": 2500,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Plane Dragon",
+            90
+          ],
+          [
+            "Torpedo Shepherd",
+            9.996796
+          ],
+          [
+            "Stunt Corgi",
+            0.05
+          ],
+          [
+            "Stunt Cat",
+            0.003,
+            "Great"
+          ],
+          [
+            "Fireball Cat",
+            0.0003,
+            "Insane"
+          ],
+          [
+            "Huge Stunt Corgi",
+            1e-05,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    }
+  ]
+}

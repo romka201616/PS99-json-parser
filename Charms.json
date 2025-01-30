@@ -1,0 +1,390 @@
+{
+  "data": [
+    {
+      "configName": "Charm | Strength",
+      "category": "Charms",
+      "configData": {
+        "BaseTier": 1,
+        "Tiers": [
+          {
+            "Desc": "Pet does 30% more damage!",
+            "DisplayName": "Strength Charm",
+            "Rarity": {
+              "RarityNumber": 5,
+              "Lootbag": null,
+              "_id": "Mythical",
+              "Color": null,
+              "DisplayName": "Mythical",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Power": 30
+          }
+        ],
+        "MaxTier": 1,
+        "Icon": "rbxassetid://15185586607"
+      },
+      "dateModified": null,
+      "hash": null,
+      "dateCreated": null,
+      "collection": "Charms"
+    },
+    {
+      "configName": "Charm | Coins",
+      "category": "Charms",
+      "configData": {
+        "BaseTier": 1,
+        "Tiers": [
+          {
+            "Desc": "Pet earns 25% more Coins!",
+            "DisplayName": "Coins Charm",
+            "Rarity": {
+              "RarityNumber": 5,
+              "Lootbag": null,
+              "_id": "Mythical",
+              "Color": null,
+              "DisplayName": "Mythical",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Power": 25
+          }
+        ],
+        "MaxTier": 1,
+        "Icon": "rbxassetid://15185586825"
+      },
+      "dateModified": null,
+      "hash": null,
+      "dateCreated": null,
+      "collection": "Charms"
+    },
+    {
+      "configName": "Charm | Diamonds",
+      "category": "Charms",
+      "configData": {
+        "BaseTier": 1,
+        "Tiers": [
+          {
+            "Desc": "Pet earns 10% more Diamonds!",
+            "DisplayName": "Diamonds Charm",
+            "Rarity": {
+              "RarityNumber": 6,
+              "Lootbag": null,
+              "_id": "Exotic",
+              "Color": null,
+              "DisplayName": "Exotic",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": true,
+              "_script": null
+            },
+            "Power": 10
+          }
+        ],
+        "MaxTier": 1,
+        "Icon": "rbxassetid://15185586450"
+      },
+      "dateModified": null,
+      "hash": null,
+      "dateCreated": null,
+      "collection": "Charms"
+    },
+    {
+      "configName": "Charm | Bonus",
+      "category": "Charms",
+      "configData": {
+        "BaseTier": 1,
+        "Tiers": [
+          {
+            "Desc": "Pet is 35% more likely to get a bonus!",
+            "DisplayName": "Bonus Charm",
+            "Rarity": {
+              "RarityNumber": 4,
+              "Lootbag": null,
+              "_id": "Legendary",
+              "Color": null,
+              "DisplayName": "Legendary",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Power": 35
+          }
+        ],
+        "MaxTier": 1,
+        "Icon": "rbxassetid://15185586240"
+      },
+      "dateModified": null,
+      "hash": null,
+      "dateCreated": null,
+      "collection": "Charms"
+    },
+    {
+      "configName": "Charm | Agility",
+      "category": "Charms",
+      "configData": {
+        "BaseTier": 1,
+        "Tiers": [
+          {
+            "Desc": "Pet moves 150% faster!",
+            "DisplayName": "Agility Charm",
+            "Rarity": {
+              "RarityNumber": 4,
+              "Lootbag": null,
+              "_id": "Legendary",
+              "Color": null,
+              "DisplayName": "Legendary",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Power": 150
+          }
+        ],
+        "MaxTier": 1,
+        "Icon": "rbxassetid://15185586077"
+      },
+      "dateModified": null,
+      "hash": null,
+      "dateCreated": null,
+      "collection": "Charms"
+    },
+    {
+      "configName": "Charm | Royalty",
+      "category": "Charms",
+      "configData": {
+        "BaseTier": 1,
+        "Tiers": [
+          {
+            "Desc": "Pet does 40% more damage, earns 20% more Diamonds, and moves faster!",
+            "DisplayName": "Royalty Charm",
+            "Rarity": {
+              "RarityNumber": 9,
+              "Lootbag": null,
+              "_id": "Celestial",
+              "Color": null,
+              "DisplayName": "Celestial",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": true,
+              "_script": null
+            },
+            "Power": 1
+          }
+        ],
+        "MaxTier": 1,
+        "Icon": "rbxassetid://15286764793"
+      },
+      "dateModified": null,
+      "hash": null,
+      "dateCreated": null,
+      "collection": "Charms"
+    },
+    {
+      "configName": "Charm | Glittering",
+      "category": "Charms",
+      "configData": {
+        "DiminishPowerThreshold": 1.6666666666666667,
+        "Tiers": [
+          {
+            "Desc": "Pet randomly spawns Diamonds!",
+            "DisplayName": "Glittering Charm",
+            "Rarity": {
+              "RarityNumber": 8,
+              "Lootbag": null,
+              "_id": "Superior",
+              "Color": null,
+              "DisplayName": "Superior",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": true,
+              "_script": null
+            },
+            "Power": 0.8333333333333334
+          }
+        ],
+        "MaxTier": 1,
+        "Icon": "rbxassetid://15219668902",
+        "BaseTier": 1
+      },
+      "dateModified": null,
+      "hash": null,
+      "dateCreated": null,
+      "collection": "Charms"
+    },
+    {
+      "configName": "Charm | Criticals",
+      "category": "Charms",
+      "configData": {
+        "BaseTier": 1,
+        "Tiers": [
+          {
+            "Desc": "Pet randomly inflicts critical hits!",
+            "DisplayName": "Criticals Charm",
+            "Rarity": {
+              "RarityNumber": 5,
+              "Lootbag": null,
+              "_id": "Mythical",
+              "Color": null,
+              "DisplayName": "Mythical",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Power": 5
+          }
+        ],
+        "MaxTier": 1,
+        "Icon": "rbxassetid://16009187068"
+      },
+      "dateModified": null,
+      "hash": null,
+      "dateCreated": null,
+      "collection": "Charms"
+    },
+    {
+      "configName": "Charm | XP",
+      "category": "Charms",
+      "configData": {
+        "BaseTier": 1,
+        "Tiers": [
+          {
+            "Desc": "Pet levels up 30% faster!",
+            "DisplayName": "XP Charm",
+            "Rarity": {
+              "RarityNumber": 7,
+              "Lootbag": null,
+              "_id": "Divine",
+              "Color": null,
+              "DisplayName": "Divine",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": true,
+              "_script": null
+            },
+            "Power": 30
+          }
+        ],
+        "MaxTier": 1,
+        "Icon": "rbxassetid://16012045025"
+      },
+      "dateModified": null,
+      "hash": null,
+      "dateCreated": null,
+      "collection": "Charms"
+    },
+    {
+      "configName": "Charm | Overload",
+      "category": "Charms",
+      "configData": {
+        "Unique": true,
+        "Tiers": [
+          {
+            "Desc": "Adds 2 extra charm slots!\nCan only be used once per pet!",
+            "DisplayName": "Overload Charm",
+            "Rarity": {
+              "RarityNumber": 9,
+              "Lootbag": null,
+              "_id": "Celestial",
+              "Color": null,
+              "DisplayName": "Celestial",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": true,
+              "_script": null
+            },
+            "Power": 1
+          }
+        ],
+        "MaxTier": 1,
+        "Icon": "rbxassetid://16009186779",
+        "BaseTier": 1
+      },
+      "dateModified": null,
+      "hash": null,
+      "dateCreated": null,
+      "collection": "Charms"
+    },
+    {
+      "configName": "Charm | TNT",
+      "category": "Charms",
+      "configData": {
+        "BaseTier": 1,
+        "Tiers": [
+          {
+            "Desc": "Pet randomly spawns TNT!",
+            "DisplayName": "TNT Charm",
+            "Rarity": {
+              "RarityNumber": 6,
+              "Lootbag": null,
+              "_id": "Exotic",
+              "Color": null,
+              "DisplayName": "Exotic",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": true,
+              "_script": null
+            },
+            "Power": 1
+          }
+        ],
+        "MaxTier": 1,
+        "Icon": "rbxassetid://16012045090"
+      },
+      "dateModified": null,
+      "hash": null,
+      "dateCreated": null,
+      "collection": "Charms"
+    },
+    {
+      "configName": "Charm | Lightning",
+      "category": "Charms",
+      "configData": {
+        "BaseTier": 1,
+        "Tiers": [
+          {
+            "Desc": "Pet randomly shoots lightning at breakables!",
+            "DisplayName": "Lightning Charm",
+            "Rarity": {
+              "RarityNumber": 7,
+              "Lootbag": null,
+              "_id": "Divine",
+              "Color": null,
+              "DisplayName": "Divine",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": true,
+              "_script": null
+            },
+            "Power": 2.5
+          }
+        ],
+        "MaxTier": 1,
+        "Icon": "rbxassetid://16009186960"
+      },
+      "dateModified": null,
+      "hash": null,
+      "dateCreated": null,
+      "collection": "Charms"
+    }
+  ]
+}

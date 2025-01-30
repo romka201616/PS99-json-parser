@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "configName": "Booth | Mushroom",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Mushroom Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://80654746806747",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2025 Mushroom Clan Battle!"
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Hellfire",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Hellfire Booth",
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://129863787578049",
+        "Desc": "🔥 Hot and fiery deals! 🔥"
+      },
+      "collection": "Booths"
+    }
+  ]
+}

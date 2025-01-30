@@ -1,0 +1,1179 @@
+{
+  "data": [
+    {
+      "configName": "Large Christmas Present",
+      "category": "Lootboxes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "2023 Large Christmas Present",
+        "Icon": "rbxassetid://15635476600",
+        "Desc": "Big present with lots of goodies!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Medium Christmas Present",
+      "category": "Lootboxes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "2023 Medium Christmas Present",
+        "Icon": "rbxassetid://15635476705",
+        "Desc": "Open for a bunch of goodies!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Small Christmas Present",
+      "category": "Lootboxes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "2023 Small Christmas Present",
+        "Icon": "rbxassetid://15635476827",
+        "Desc": "Open for goodies!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Titanic Christmas Present",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "2023 Titanic Christmas Present",
+        "Icon": "rbxassetid://15635476408",
+        "Desc": "TITANIC present with sooo many goodies! Includes chance for a Titanic & Huge pet!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "X-Large Christmas Present",
+      "category": "Lootboxes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "2023 X-Large Christmas Present",
+        "Icon": "rbxassetid://15635476534",
+        "Desc": "Huge present with a ton of goodies!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "2024 New Years Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "2024 New Year's Gift",
+        "Icon": "rbxassetid://15800024082",
+        "Desc": "Special gift for attending the 2024 New Year's Party! Chance for Huge Party Crown Ducky!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Adventurer Lootbox",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Adventurer's Lootbox",
+        "Icon": "rbxassetid://16745658276",
+        "Desc": "Adventurer's Lootbox containing a chance for the Active Huge Egg, Huge Firefly, and other high value items!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Arcade Egg 1",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Arcade Egg 1x",
+        "Icon": "rbxassetid://16759780030",
+        "Desc": "Obtained from the Claw Machine!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Arcade Egg 2",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Arcade Egg 5x",
+        "Icon": "rbxassetid://16759779878",
+        "Desc": "Obtained from the Claw Machine!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Arcade Egg 3",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Arcade Egg 10x",
+        "Icon": "rbxassetid://16759779792",
+        "Desc": "Obtained from the Claw Machine!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Arcade Egg 4",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Arcade Egg 20x",
+        "Icon": "rbxassetid://16759779714",
+        "Desc": "Obtained from the Claw Machine!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Arcade Egg 5",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Arcade Egg 50x",
+        "Icon": "rbxassetid://16759779609",
+        "Desc": "Obtained from the Claw Machine!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Hype Egg",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Hype Egg",
+        "Icon": "rbxassetid://16901624489",
+        "Desc": "Awarded by completing the Hype Event after the update!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Clan Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Clan Gift",
+        "Icon": "rbxassetid://17025063453",
+        "Desc": "Rewarded to the top 500 clans in clan battles! Chance for Huge Tech Samurai Cat!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Global Event Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Global Event Gift",
+        "Icon": "rbxassetid://17024878528",
+        "Desc": "Special gift in global events!\nChance for the Huge Lunar Moth!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Glitched Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Glitched Gift",
+        "Icon": "rbxassetid://17288649241",
+        "Desc": "Made from Glitch Cores in the Glitched Event. Chance for a HUGE 404 Demon!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Summer Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Summer Gift",
+        "Icon": "rbxassetid://17671375342",
+        "Desc": "Made from Seashells in the Summer Event. Chance for a HUGE Pineapple Monkey!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Good Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Good Gift",
+        "Icon": "rbxassetid://18100921410",
+        "Desc": "Made from items in the Good vs. Evil Event. Chance for a HUGE!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Evil Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Evil Gift",
+        "Icon": "rbxassetid://18100921552",
+        "Desc": "Made from items in the Good vs. Evil Event. Chance for a HUGE!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Good vs Evil Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Good vs. Evil Gift",
+        "Icon": "rbxassetid://18100928783",
+        "Desc": "Reward for playing the Good vs. Evil Event. Chance for a HUGE!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Rave Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Rave Gift",
+        "Icon": "rbxassetid://18336837008",
+        "Desc": "Reward for playing Rave World's lucky tiles game. Chance for a HUGE!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Dino Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Dino Gift",
+        "Icon": "rbxassetid://18670684055",
+        "Desc": "Earned from drops in the Dino Tycoon World. Chance for a HUGE!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Meteor Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Meteor Gift",
+        "Icon": "rbxassetid://18742082777",
+        "Desc": "Earned from meteors in the Dino Tycoon World. Chance for a HUGE!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Color Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Color Gift",
+        "Icon": "rbxassetid://85136591230954",
+        "Desc": "Reward for playing the Color Event. Chance for a HUGE!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Graffiti Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Graffiti Gift",
+        "Icon": "rbxassetid://133244977374611",
+        "Desc": "Reward for playing the Color Event. Chance for a HUGE!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Elemental Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Elemental Gift",
+        "Icon": "rbxassetid://128952309639623",
+        "Desc": "Reward for catching pets in the Elemental World! Chance for a HUGE!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Pumpkin Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Pumpkin Gift",
+        "Icon": "rbxassetid://114513766713319",
+        "Desc": "Made from Pumpkins in the Haunted Backrooms. Chance for a HUGE!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Candy Corn Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Candy Corn Gift",
+        "Icon": "rbxassetid://107004803757637",
+        "Desc": "Made from Candy Corn in the Halloween Event. Chance for a HUGE!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Ghostface Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Ghostface Gift",
+        "Icon": "rbxassetid://111099902427867",
+        "Desc": "Dropped in the Halloween Event's neighborhoods."
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Wooden Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Wooden Gift",
+        "Icon": "rbxassetid://113799638322740",
+        "Desc": "Reward in the Woodcutting minigame! Chance for a HUGE!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Adoption Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Adoption Gift",
+        "Icon": "rbxassetid://136345451971873",
+        "Desc": "Earned from drops in the \"Line for a Huge Pet\" Event. Chance for a HUGE!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "School Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "School Gift",
+        "Icon": "rbxassetid://138084904848130",
+        "Desc": "Earned from time drops in the \"Line for a Titanic Pet\" Event. Chance for a HUGE!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Autumn Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Autumn Gift",
+        "Icon": "rbxassetid://79016165994597",
+        "Desc": "Earned from the Autumn Boss Chest in the Autumn Event. Chance for a HUGE!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Turkey Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Turkey Gift",
+        "Icon": "rbxassetid://89033758007241",
+        "Desc": "Found in the Forever Pack or Chest Hunt!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "2024 Anniversary Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "2024 Anniversary Gift",
+        "Icon": "rbxassetid://91598628386274",
+        "Desc": "Earned from participating in the 2024 Anniversary Event!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Snowflake Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Snowflake Gift",
+        "Icon": "rbxassetid://80753300898363",
+        "Desc": "Created using the Snow Machine during the Holiday Event!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "2024 Small Christmas Present",
+      "category": "Lootboxes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "2024 Small Christmas Present",
+        "Icon": "rbxassetid://78444032843973",
+        "Desc": "Open for goodies!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "2024 Medium Christmas Present",
+      "category": "Lootboxes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "2024 Medium Christmas Present",
+        "Icon": "rbxassetid://91349208436997",
+        "Desc": "Open for a bunch of goodies!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "2024 Large Christmas Present",
+      "category": "Lootboxes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "2024 Large Christmas Present",
+        "Icon": "rbxassetid://71891761708931",
+        "Desc": "Big present with lots of goodies!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "2024 X-Large Christmas Present",
+      "category": "Lootboxes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "2024 X-Large Christmas Present",
+        "Icon": "rbxassetid://121101105785977",
+        "Desc": "Huge present with a ton of goodies!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "2024 Gargantuan Christmas Present",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "2024 Gargantuan Christmas Present",
+        "Icon": "rbxassetid://117601296319615",
+        "Desc": "GARGANTUAN present with sooo many goodies! Includes chance for a Gargantuan, Titanic & Huge pet!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "2025 New Years Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "2025 New Year's Gift",
+        "Icon": "rbxassetid://122498561966140",
+        "Desc": "Special gift for attending the 2025 New Year's Party!!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Jolly Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Jolly Gift",
+        "Icon": "rbxassetid://87807639552107",
+        "Desc": "Found by saving pets from the Grinch Cat ice cubes!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Doodle Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Doodle Gift",
+        "Icon": "rbxassetid://88860297257801",
+        "Desc": "Reward for defeating the final drawing boss in the Doodle World! Chance for a HUGE!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Pet Games Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Pet Games Gift",
+        "Icon": "rbxassetid://86173258251252",
+        "Desc": "Earned from playing the Pet Games!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "More Hype Egg",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "More Hype Egg",
+        "Icon": "",
+        "Desc": "Awarded for being online before the update!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Hype Egg 2",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Hype Egg #2",
+        "Icon": "rbxassetid://125781246617646",
+        "Desc": "Awarded for being online before the update!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Hellfire Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Hellfire Gift",
+        "Icon": "rbxassetid://130668450135546",
+        "Desc": "Obtained by using a Hellfire Core during the Cannon Tycoon!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Locked Hype Egg",
+      "category": "Lootboxes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Instant": true,
+        "DisplayName": "Locked Hype Egg!",
+        "RequireSave": false,
+        "Desc": "Open after the update to receive a Hype Egg!",
+        "ShowExists": false,
+        "MaxAmount": 1,
+        "InstantSound": "rbxassetid://77914312637440",
+        "Icon": "rbxassetid://94077876373608",
+        "Tradable": false
+      },
+      "collection": "Lootboxes"
+    }
+  ]
+}

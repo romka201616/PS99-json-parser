@@ -1,0 +1,284 @@
+{
+  "data": [
+    {
+      "configName": "ZoneFlag | Magnet Flag",
+      "category": "ZoneFlags",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Color": "#DB302B",
+        "Duration": 300,
+        "Desc": "A portable magnet that can be placed in any area! Lasts 5 minutes!",
+        "Name": "Magnet Flag",
+        "Model": null,
+        "Icon": "rbxassetid://15000810137"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "ZoneFlags"
+    },
+    {
+      "configName": "ZoneFlag | Hasty Flag",
+      "category": "ZoneFlags",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Color": "#F19234",
+        "Duration": 300,
+        "Desc": "Place in an area to super-charge pets! Lasts 5 minutes!",
+        "Name": "Hasty Flag",
+        "Model": null,
+        "Icon": "rbxassetid://15000810356"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "ZoneFlags"
+    },
+    {
+      "configName": "ZoneFlag | Diamonds Flag",
+      "category": "ZoneFlags",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Color": "#1992D7",
+        "Duration": 300,
+        "Desc": "Place in an area to increase diamond breakables by 2x! Lasts 5 minutes!",
+        "Name": "Diamonds Flag",
+        "Model": null,
+        "Icon": "rbxassetid://15000810493"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "ZoneFlags"
+    },
+    {
+      "configName": "ZoneFlag | Coins Flag",
+      "category": "ZoneFlags",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Color": "#F2C134",
+        "Duration": 300,
+        "Desc": "Place in an area to increase coins you earn by 50%! Lasts 5 minutes!",
+        "Name": "Coins Flag",
+        "Model": null,
+        "Icon": "rbxassetid://15000809958"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "ZoneFlags"
+    },
+    {
+      "configName": "ZoneFlag | Exotic Treasure Flag",
+      "category": "ZoneFlags",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Color": "#18D5D7",
+        "Duration": 300,
+        "Desc": "Place in an area to SUBSTANTIALLY increase drops! Lasts 5 minutes!",
+        "Name": "Exotic Treasure Flag",
+        "Model": null,
+        "Icon": "rbxassetid://15011948755"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "ZoneFlags"
+    },
+    {
+      "configName": "ZoneFlag | Rainbow Flag",
+      "category": "ZoneFlags",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Color": "#AA00FF",
+        "Duration": 300,
+        "Desc": "When placed in an area, temporarily makes ALL pets Rainbow! Lasts 5 minutes!",
+        "Name": "Rainbow Flag",
+        "Model": null,
+        "Icon": "rbxassetid://15853949239"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "ZoneFlags"
+    },
+    {
+      "configName": "ZoneFlag | Shiny Flag",
+      "category": "ZoneFlags",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Color": "#FFDCFF",
+        "Duration": 300,
+        "Desc": "When placed in an area, temporarily makes ALL pets Shiny! Lasts 5 minutes!",
+        "Name": "Shiny Flag",
+        "Model": null,
+        "Icon": "rbxassetid://15853949167"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "ZoneFlags"
+    },
+    {
+      "configName": "ZoneFlag | Strength Flag",
+      "category": "ZoneFlags",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Color": "#940037",
+        "Duration": 300,
+        "Desc": "Place in an area to increase your pet strength by 50%! Lasts 5 minutes!",
+        "Name": "Strength Flag",
+        "Model": null,
+        "Icon": "rbxassetid://15853955101"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "ZoneFlags"
+    },
+    {
+      "configName": "ZoneFlag | Golden Flag",
+      "category": "ZoneFlags",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Color": "#FFFF37",
+        "Duration": 300,
+        "Desc": "When placed in an area, temporarily makes ALL pets Golden! Lasts 5 minutes!",
+        "Name": "Golden Flag",
+        "Model": null,
+        "Icon": "rbxassetid://15853955173"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "ZoneFlags"
+    },
+    {
+      "configName": "ZoneFlag | Fortune Flag",
+      "category": "ZoneFlags",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Color": "#9C34F1",
+        "Duration": 300,
+        "Desc": "Place in an area to increase coins by 50% and diamonds by 2.5x! Lasts 5 minutes!",
+        "Name": "Fortune Flag",
+        "Model": null,
+        "Icon": "rbxassetid://15000810242"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "ZoneFlags"
+    }
+  ]
+}

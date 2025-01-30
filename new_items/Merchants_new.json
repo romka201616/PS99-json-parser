@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "configName": "PetCubeStore",
+      "category": "Merchants",
+      "configData": {
+        "PriceMult": 1,
+        "IsStatic": false,
+        "HideNotification": true,
+        "DisplayName": "Pet Cube Store",
+        "HideRespect": true,
+        "GetOffers": null,
+        "RefreshRate": 1500,
+        "MachineName": "PetCubeStore"
+      },
+      "collection": "Merchants"
+    }
+  ]
+}

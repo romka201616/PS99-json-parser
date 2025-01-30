@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "configName": "Hoverboard | Mushroom",
+      "category": "Hoverboards",
+      "configData": {
+        "Sounds": [],
+        "DisplayName": "Mushroom Hoverboard",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Icon": "rbxassetid://73437399037786",
+        "Desc": "⚔️ Rewarded to the top 10 clans in the 2025 Mushroom Clan Battle!"
+      },
+      "collection": "Hoverboards"
+    },
+    {
+      "configName": "Hoverboard | Hellfire",
+      "category": "Hoverboards",
+      "configData": {
+        "Sounds": [],
+        "DisplayName": "Hellfire Hoverboard",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Icon": "rbxassetid://133315600460960",
+        "Desc": "🔥 Blaze away and leave 'em in flames! 🔥"
+      },
+      "collection": "Hoverboards"
+    }
+  ]
+}

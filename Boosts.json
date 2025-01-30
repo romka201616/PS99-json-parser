@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "configName": "Boost | Friends",
+      "category": "Boosts",
+      "configData": {
+        "DisplayName": "Friends Boost",
+        "Icon": "rbxassetid://15210563507",
+        "MaximumPercent": 100
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Boosts"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "configName": "World 1",
+      "category": "Worlds",
+      "configData": {
+        "SpawnId": "Spawn",
+        "FallbackSpawnLocation": null,
+        "Lighting": null,
+        "PlaceId": 17473989780,
+        "MapName": "Map",
+        "WorldCurrency": "Coins",
+        "WorldNumber": 1
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Worlds"
+    },
+    {
+      "configName": "World 2",
+      "category": "Worlds",
+      "configData": {
+        "SpawnId": "Tech Spawn",
+        "FallbackSpawnLocation": null,
+        "WorldCurrency": "TechCoins",
+        "PlaceId": 16170461708,
+        "MapName": "Map2",
+        "WorldNumber": 2,
+        "Lighting": null,
+        "AdditionalMusic": [
+          "rbxassetid://16494370682",
+          "rbxassetid://16494369253",
+          "rbxassetid://16494371914"
+        ]
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Worlds"
+    },
+    {
+      "configName": "World 3",
+      "category": "Worlds",
+      "configData": {
+        "SpawnId": "Void Spawn",
+        "FallbackSpawnLocation": null,
+        "Lighting": null,
+        "PlaceId": 15502302041,
+        "MapName": "Map3",
+        "WorldCurrency": "VoidCoins",
+        "WorldNumber": 3
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Worlds"
+    }
+  ]
+}

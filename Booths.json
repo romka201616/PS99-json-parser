@@ -1,0 +1,2360 @@
+{
+  "data": [
+    {
+      "configName": "Booth | Axolotl",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Axolotl Booth",
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://14988725263",
+        "Desc": "Under the sea..."
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Balloon",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Hidden": false,
+        "DisplayName": "Balloon Booth",
+        "Model": null,
+        "Icon": "rbxassetid://14988725164",
+        "Desc": "Don't pop it!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Cat",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Cat Booth",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://14988725079",
+        "Desc": "Meow!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Christmas",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Christmas Booth",
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://14988724966",
+        "Desc": "🎄 Participate in the 2023 Christmas Event!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Corgi",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Hidden": false,
+        "DisplayName": "Corgi Booth",
+        "Model": null,
+        "Icon": "rbxassetid://14988724844",
+        "Desc": "Everybody loves corgis."
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Cupcake",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Cupcake Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://14988724735",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2024 New Year Clan Battle!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Default",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Default Booth",
+        "Model": null,
+        "Desc": "Let's make a deal!",
+        "Icon": "rbxassetid://14988724636",
+        "Tradable": false
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Dragon",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Dragon Booth",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://14988724467",
+        "Desc": "Dragon deez"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Fire",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": false,
+        "Callback": null,
+        "DisplayName": "Fire Booth",
+        "Model": null,
+        "Desc": "Time to have a fire sale!",
+        "Icon": "rbxassetid://14988724220"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Glitched",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Glitched Booth",
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://14988723954",
+        "Desc": "From the edge of the universe."
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Hippomelon",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Hippomelon Booth",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://14988723752",
+        "Desc": "Part hippo, part melon!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Lightning",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Lightning Booth",
+        "Model": null,
+        "Desc": "These deals are going lightning fast! (Redeem a merch code)",
+        "Icon": "rbxassetid://14988723588",
+        "Tradable": true
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | M10",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "M-10 Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://14988723452",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2024 Pet Collecting Clan Battle!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Maskot",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "Callback": null,
+        "DisplayName": "Maskot Booth",
+        "Model": null,
+        "Desc": "Thanks for the support! ❤️",
+        "Icon": "rbxassetid://14988723315"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Monkey",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Monkey Booth",
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://14988723229",
+        "Desc": "Time for some monkey business!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Neon Twilight",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Neon Twilight Booth",
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://14988723116",
+        "Desc": "Your deals will light up the plaza!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Parrot",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Parrot Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://14988722892",
+        "Desc": "Looking for potions! Looking for potions! Looking for potions!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Pls Donate",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "Callback": null,
+        "DisplayName": "Pls Donate Booth",
+        "Model": null,
+        "Desc": "Play Pls Donate to unlock this!",
+        "Icon": "rbxassetid://14988722801"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Unicorn",
+      "category": "Booths",
+      "configData": {
+        "OffSale": false,
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Unicorn Booth",
+        "Model": null,
+        "Desc": "Magical deals!",
+        "Icon": "rbxassetid://14988722426"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | VIP",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "VIP Booth",
+        "Model": null,
+        "Desc": "For VIP members!",
+        "Icon": "rbxassetid://14988722264",
+        "Tradable": false
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Gold",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Gold Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://14988723861",
+        "Desc": "24 Karat!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Rainbow",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Rainbow Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://14988722695",
+        "Desc": "Ovveeerrr the rainbowww!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Egg",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Egg Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://14988724317",
+        "Desc": "Time to get crackin'!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Merchant",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Hidden": false,
+        "DisplayName": "Merchant Booth",
+        "Model": null,
+        "Icon": "rbxassetid://15122625881",
+        "Desc": "I'm an NPC!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Fishing",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Fishing Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://15477647840",
+        "Desc": "Wanna buy a fish?"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Present",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Present Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://15642817138",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2023 Christmas Clan Battle!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Comet",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Comet Booth",
+        "Model": null,
+        "Desc": "Incoming! Take cover!",
+        "Icon": "rbxassetid://16250803297",
+        "ProductId": 1756049183
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Empyrean",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Empyrean Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://16250803198",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2024 Achievements Clan Battle!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Fruit",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Fruit Booth",
+        "Model": null,
+        "Desc": "Go bananas!",
+        "Icon": "rbxassetid://16250803088",
+        "DiamondPrice": 300000
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Throne",
+      "category": "Booths",
+      "configData": {
+        "Sittable": true,
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Throne Booth",
+        "Model": null,
+        "Desc": "Sit on your shiny throne and watch over all of the peasants. Har har har",
+        "Icon": "rbxassetid://16250802704",
+        "ProductId": 1756047791
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Galaxy",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Galaxy Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://14988724081",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2024 Raid Clan Battle!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Money",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Money Booth",
+        "Model": null,
+        "Desc": "Dolla' dolla' bills ya'll",
+        "Icon": "rbxassetid://16250803841",
+        "ProductId": 1756048200
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | TNT",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "TNT Booth",
+        "Model": null,
+        "Desc": "BOOM! EXPLOSIVE DEALS!",
+        "Icon": "rbxassetid://16250802614",
+        "DiamondPrice": 1000000
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Lucky Block",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Lucky Block Booth",
+        "Model": null,
+        "Desc": "Feeling lucky?",
+        "Icon": "rbxassetid://16250802980",
+        "DiamondPrice": 600000
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Panda",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Panda Booth",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://14988723018",
+        "Desc": "Cute and cuddly!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Alien",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Alien Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://16756708947",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2024 Quest Clan Battle!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Pixel",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Pixel Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://17028277869",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2024 Pixel Clan Battle!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Bubble",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Bubble Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://17277978399",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2024 Bubble Clan Battle!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Night Terror",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Night Terror Booth",
+        "Model": null,
+        "Desc": "I'm watching you...",
+        "Icon": "rbxassetid://17375196021",
+        "Tradable": true
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Black Hole",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Black Hole Booth",
+        "Tradable": true,
+        "Model": null,
+        "Desc": "Deals that are out of this world!",
+        "ProductId": 1826488413,
+        "Icon": "rbxassetid://17453426812",
+        "RenderStepped": null
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Pop Cat",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Pop Cat Booth",
+        "DiamondPrice": 1000000,
+        "Model": null,
+        "Tradable": true,
+        "Desc": "POP!",
+        "Icon": "rbxassetid://17450667490",
+        "RenderStepped": null
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Dino Cat",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Dino Cat Booth",
+        "Model": null,
+        "Tradable": true,
+        "Desc": "Meow.. ROOOOAR!",
+        "Icon": "rbxassetid://17450667964",
+        "DiamondPrice": 600000
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Giraffe",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Giraffe Booth",
+        "Model": null,
+        "Tradable": true,
+        "Desc": "You're short, I'm tall!",
+        "Icon": "rbxassetid://17450667779",
+        "DiamondPrice": 300000
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Hotdog",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Hotdog Booth",
+        "Model": null,
+        "Desc": "HOT DOOOOOOGS FOR SALE!",
+        "ProductId": 1826488634,
+        "Icon": "rbxassetid://17450667650",
+        "Tradable": true
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Cardboard",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Cardboard Booth",
+        "Model": null,
+        "Desc": "Cardboard thin! A very unique booth ✏️",
+        "ProductId": 1826488565,
+        "Icon": "rbxassetid://17453426637",
+        "Tradable": true
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Fragmented",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Fragmented Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://17513950717",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2024 Fragmented Clan Battle!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Summer",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Summer Booth",
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://14988722572",
+        "Desc": "😎 Summer vibessss\n🌴 Found in Summer Gifts!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Wicked",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Wicked Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://17761182857",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2024 Wicked Clan Battle!"
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Hacker",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Hacker Booth",
+        "Model": null,
+        "Desc": "Sell items like a 1337 HAx0r!\nFound in the Virus Pack!",
+        "Icon": "rbxassetid://17821959103",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Good vs Evil",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Good vs. Evil Booth",
+        "Model": null,
+        "Desc": "Heavenly bargains or devilish deals?\nFound in Good vs. Evil Gift!",
+        "Icon": "rbxassetid://18124105990",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Safety",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Safety Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://18127818411",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2024 Safety Clan Battle!"
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Rave",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Rave Booth",
+        "Model": null,
+        "Desc": "Where the beats are bumping, and the sales are pumping!\nFound in Rave Gifts!",
+        "Icon": "rbxassetid://18351989646",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Millionaire",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Millionaire Booth",
+        "Model": null,
+        "Desc": "AYO MILLIONAIRE STATUS!",
+        "Icon": "rbxassetid://18556521700",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Clown",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Clown Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://18556638001",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2024 Clown Clan Battle!"
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Dino",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Dino Booth",
+        "Model": null,
+        "Desc": "Scare people to buy your items!",
+        "Icon": "rbxassetid://18674081395",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Error",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Error Booth",
+        "Model": null,
+        "Tradable": true,
+        "Desc": "E͔͋ͤͫR͕̩̠̪̎͐Ŕ͚͈̱̤̌ͧ͛ͫͦ̔ͅO͓̹̗̓R͛́̈́ͣ͌ͣ̚",
+        "Icon": "rbxassetid://18743460785",
+        "DiamondPrice": 300000
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Abyssal",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Abyssal Booth",
+        "Tradable": true,
+        "Model": null,
+        "Desc": "Extracted from the depths of the ocean! Glows!",
+        "ProductId": 1895005415,
+        "Icon": "rbxassetid://18743461063",
+        "RenderStepped": null
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Nightmare Cat",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Nightmare Cat Booth",
+        "Model": null,
+        "Desc": "Frighten your customers into buying!",
+        "ProductId": 1895005891,
+        "Icon": "rbxassetid://18743459857",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Enchant",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Enchant Booth",
+        "Model": null,
+        "Tradable": true,
+        "Desc": "It'd be a shame to not sell enchants on this booth!",
+        "Icon": "rbxassetid://18743460916",
+        "DiamondPrice": 1000000
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Lemonade",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Lemonade Stand",
+        "Desc": "Freshly squeezed lemonade here! Sittable!",
+        "Model": null,
+        "Sittable": true,
+        "ProductId": 1895005656,
+        "Icon": "rbxassetid://18743460234",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Kawaii",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Kawaii Booth",
+        "Model": null,
+        "Tradable": true,
+        "Desc": "UwU ~ so cute! ~ OwO",
+        "Icon": "rbxassetid://18743460539",
+        "DiamondPrice": 600000
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Ice Cream",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Ice Cream Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://18856297202",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2024 Ice Cream Battle!"
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Aura",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Aura Booth",
+        "Model": null,
+        "Desc": "FEEL THE POWER OF THE AURA!",
+        "Icon": "rbxassetid://18856297369",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Strawberry",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Strawberry Booth",
+        "Model": null,
+        "Desc": "🍓 A little kawaii, a little strawberry 🍓",
+        "Icon": "rbxassetid://124056518386268",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Art",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Art Booth",
+        "Model": null,
+        "Desc": "Brushes, paints, and fun!",
+        "Icon": "rbxassetid://114352649775707",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Rave Crab",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Rave Crab Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://74989206681600",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2024 Rave Crab Clan Battle!"
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Reversed",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Reversed Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://92516703556038",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2024 Upside Down Clan Battle!"
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Elemental",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Elemental Booth",
+        "Model": null,
+        "Desc": "Hot to cold, real quick!",
+        "Icon": "rbxassetid://123291639842612",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Pumpkin Cat",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Pumpkin Cat Booth",
+        "Model": null,
+        "Desc": "Found in the Pumpkin Gift!",
+        "Icon": "rbxassetid://78631128412163",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Haunted",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Haunted Booth",
+        "Model": null,
+        "Desc": "Obtained from the Halloween 2024 Quests!",
+        "Icon": "rbxassetid://84447484401361",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Ghost Cat",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Ghost Cat Booth",
+        "Model": null,
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2024 Ghost Clan Battle!",
+        "Icon": "rbxassetid://93214200492370",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Vampire",
+      "category": "Booths",
+      "configData": {
+        "Sittable": true,
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Vampire Booth",
+        "Model": null,
+        "Desc": "Found in the Spider Pack!",
+        "Icon": "rbxassetid://71075446811250",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Cauldron",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Cauldron Booth",
+        "Model": null,
+        "Desc": "Found in the Candy Corn Gift!",
+        "Icon": "rbxassetid://118769625385144",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Forcefield",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Forcefield Booth",
+        "Setup": null,
+        "Model": null,
+        "Desc": "Step back! Spawns with a random color!",
+        "Icon": "rbxassetid://114893506412929",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Daycare",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Daycare Booth",
+        "Model": null,
+        "Desc": "Drop your pets off.. for sale!",
+        "Icon": "rbxassetid://130012882774116",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Blimp Dragon",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Blimp Dragon Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://79373071847009",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2024 Blimp Dragon Clan Battle!"
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Jelly",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Jelly Booth",
+        "Model": null,
+        "Desc": "Squishy squishy, yummy yummy",
+        "ProductId": 2654752512,
+        "Icon": "rbxassetid://108592258229615",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Nuclear",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Nuclear Booth",
+        "Model": null,
+        "Desc": "It's gonna get toxic if ya don't buy somethin'!",
+        "ProductId": 2654752425,
+        "Icon": "rbxassetid://92922375244335",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Pirate",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Pirate Booth",
+        "Model": null,
+        "Desc": "ARR MATEY, DO WE HAVE A DEAL?",
+        "ProductId": 2654752326,
+        "Icon": "rbxassetid://97538960613527",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Crayon",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Crayon Booth",
+        "Model": null,
+        "Desc": "Colorful, waxy deals!",
+        "Icon": "rbxassetid://85413228064710",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | School",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "School Booth",
+        "Model": null,
+        "Desc": "Anyone got chalk?",
+        "Icon": "rbxassetid://130040438263651",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Autumn",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Autumn Booth",
+        "Model": null,
+        "Desc": "getcha pumpkins over here!",
+        "Icon": "rbxassetid://128354098670574",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Turkey",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Turkey Booth",
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://126321925176479",
+        "Desc": "gobble gobble gimme diamonds!"
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Snowflake",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Snowflake Booth",
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://84209385426941",
+        "Desc": "brrrrrrrrrrrrr!"
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Bee",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Bee Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://100830249479387",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2024 Bee Clan Battle!"
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Candy Cane",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Candy Cane Booth",
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://116993815094514",
+        "Desc": "Free tastings! 😛"
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Gingerbread",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Gingerbread Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://89607474717261",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2024 Gingerbread Clan Battle!"
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Diamond",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Diamond Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://14988724547",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2024 Diamond Clan Battle!"
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Blurred",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Blurred Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://90797637506761",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2024 Blurred Clan Battle!"
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Wyvern of Hades",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Wyvern Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://85644191583516",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2025 Wyvern Clan Battle!"
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Pet Games",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Pet Games Booth",
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://79694243068469",
+        "Desc": "I've played these games before..."
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Mushroom",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Mushroom Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://80654746806747",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2025 Mushroom Clan Battle!"
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Hellfire",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Hellfire Booth",
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://129863787578049",
+        "Desc": "🔥 Hot and fiery deals! 🔥"
+      },
+      "collection": "Booths"
+    }
+  ]
+}

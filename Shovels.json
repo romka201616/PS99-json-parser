@@ -1,0 +1,177 @@
+{
+  "data": [
+    {
+      "configName": "Shovel | Flimsy Shovel",
+      "category": "Shovels",
+      "configData": {
+        "AssociatedItemID": "Flimsy Shovel",
+        "DisplayName": "Wooden Shovel",
+        "Model": null,
+        "Icon": "rbxassetid://16039332097",
+        "Desc": "Really flimsy. Doesn't dig very fast."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Shovels"
+    },
+    {
+      "configName": "Shovel | Sharp Shovel",
+      "category": "Shovels",
+      "configData": {
+        "DisplayName": "Stone Shovel",
+        "AssociatedItemID": "Sharp Shovel",
+        "MerchantSalePrice": 55000,
+        "Model": null,
+        "Icon": "rbxassetid://16039332182",
+        "Desc": "me dig"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Shovels"
+    },
+    {
+      "configName": "Shovel | Bluesteel Shovel",
+      "category": "Shovels",
+      "configData": {
+        "DisplayName": "Advanced Shovel",
+        "AssociatedItemID": "Bluesteel Shovel",
+        "MerchantSalePrice": 12500,
+        "Model": null,
+        "Icon": "rbxassetid://16039333077",
+        "Desc": "Cuts through solid rock easily!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Shovels"
+    },
+    {
+      "configName": "Shovel | Golden Shovel",
+      "category": "Shovels",
+      "configData": {
+        "AssociatedItemID": "Golden Shovel",
+        "Model": null,
+        "DisplayName": "Golden Shovel",
+        "Icon": "rbxassetid://16039332602",
+        "Desc": "Shiny! Digs insanely fast!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Shovels"
+    },
+    {
+      "configName": "Shovel | Normal Shovel",
+      "category": "Shovels",
+      "configData": {
+        "DisplayName": "Sturdy Shovel",
+        "AssociatedItemID": "Normal Shovel",
+        "MerchantSalePrice": 2000,
+        "Model": null,
+        "Icon": "rbxassetid://16039331991",
+        "Desc": "It's a shovel. It digs!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Shovels"
+    },
+    {
+      "configName": "Shovel | Pro Shovel",
+      "category": "Shovels",
+      "configData": {
+        "DisplayName": "Iron Shovel",
+        "AssociatedItemID": "Pro Shovel",
+        "MerchantSalePrice": 250000,
+        "Model": null,
+        "Icon": "rbxassetid://16039332500",
+        "Desc": "For professionals only! Digs super fast!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Shovels"
+    },
+    {
+      "configName": "Shovel | Platinum Shovel",
+      "category": "Shovels",
+      "configData": {
+        "DisplayName": "Platinum Shovel",
+        "AssociatedItemID": "Platinum Shovel",
+        "MerchantSalePrice": 250000,
+        "Model": null,
+        "Icon": "rbxassetid://16039332375",
+        "Desc": "Platinum means quality."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Shovels"
+    },
+    {
+      "configName": "Shovel | Diamond Shovel",
+      "category": "Shovels",
+      "configData": {
+        "AssociatedItemID": "Diamond Shovel",
+        "Model": null,
+        "DisplayName": "Diamond Shovel",
+        "Icon": "rbxassetid://16039332788",
+        "Desc": "Do you like my Diamond Shovel?"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Shovels"
+    },
+    {
+      "configName": "Shovel | Sapphire Shovel",
+      "category": "Shovels",
+      "configData": {
+        "DisplayName": "Sapphire Shovel",
+        "AssociatedItemID": "Sapphire Shovel",
+        "MerchantSalePrice": 4000000,
+        "Model": null,
+        "Icon": "rbxassetid://16039332265",
+        "Desc": "Sapphire is the best, but that's just my opinion."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Shovels"
+    },
+    {
+      "configName": "Shovel | Emerald Shovel",
+      "category": "Shovels",
+      "configData": {
+        "DisplayName": "Emerald Shovel",
+        "AssociatedItemID": "Emerald Shovel",
+        "MerchantSalePrice": 1250000,
+        "Model": null,
+        "Icon": "rbxassetid://16039332703",
+        "Desc": "Sharpened really carefully. Digs really fast!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Shovels"
+    },
+    {
+      "configName": "Shovel | Amethyst Shovel",
+      "category": "Shovels",
+      "configData": {
+        "DisplayName": "Amethyst Shovel",
+        "AssociatedItemID": "Amethyst Shovel",
+        "MerchantSalePrice": 12500000,
+        "Model": null,
+        "Icon": "rbxassetid://16039332930",
+        "Desc": "As sharp as crystal!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Shovels"
+    }
+  ]
+}

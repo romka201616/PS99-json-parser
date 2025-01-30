@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "configName": "XPPotion | Titanic",
+      "category": "XPPotions",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Titanic XP Potion",
+        "Amount": 10000,
+        "Desc": "Grants 10,000 XP to a Titanic pet of your choice!",
+        "Recipe": null,
+        "Icon": "rbxassetid://16976302798",
+        "ItemId": "Titanic XP Potion"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "XPPotions"
+    },
+    {
+      "configName": "XPPotion | Mastery",
+      "category": "XPPotions",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Mastery XP Potion",
+        "Amount": 10000,
+        "Desc": "Grants 10,000 XP to a Mastery of your choice!",
+        "Recipe": null,
+        "Icon": "rbxassetid://16976302916",
+        "ItemId": "Mastery XP Potion"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "XPPotions"
+    },
+    {
+      "configName": "XPPotion | Huge",
+      "category": "XPPotions",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Huge XP Potion",
+        "Amount": 10000,
+        "Desc": "Grants 10,000 XP to a Huge pet of your choice!",
+        "Recipe": null,
+        "Icon": "rbxassetid://16976303066",
+        "ItemId": "Huge XP Potion"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "XPPotions"
+    },
+    {
+      "configName": "XPPotion | Ultimate",
+      "category": "XPPotions",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Ultimate XP Potion",
+        "Amount": 10000,
+        "Desc": "Grants 10,000 XP to an Ultimate of your choice!",
+        "Recipe": null,
+        "Icon": "rbxassetid://16976302626",
+        "ItemId": "Ultimate XP Potion"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "XPPotions"
+    }
+  ]
+}

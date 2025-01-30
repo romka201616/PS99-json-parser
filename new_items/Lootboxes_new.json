@@ -1,0 +1,101 @@
+{
+  "data": [
+    {
+      "configName": "More Hype Egg",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "More Hype Egg",
+        "Icon": "",
+        "Desc": "Awarded for being online before the update!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Hype Egg 2",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Hype Egg #2",
+        "Icon": "rbxassetid://125781246617646",
+        "Desc": "Awarded for being online before the update!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Hellfire Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Hellfire Gift",
+        "Icon": "rbxassetid://130668450135546",
+        "Desc": "Obtained by using a Hellfire Core during the Cannon Tycoon!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Locked Hype Egg",
+      "category": "Lootboxes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Instant": true,
+        "DisplayName": "Locked Hype Egg!",
+        "RequireSave": false,
+        "Desc": "Open after the update to receive a Hype Egg!",
+        "ShowExists": false,
+        "MaxAmount": 1,
+        "InstantSound": "rbxassetid://77914312637440",
+        "Icon": "rbxassetid://94077876373608",
+        "Tradable": false
+      },
+      "collection": "Lootboxes"
+    }
+  ]
+}

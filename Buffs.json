@@ -1,0 +1,349 @@
+{
+  "data": [
+    {
+      "configName": "Buff | Grinch-B-Gone",
+      "category": "Christmas 2024",
+      "configData": {
+        "DisplayName": "Grinch-B-Gone",
+        "AssociatedItemID": "Grinch-B-Gone",
+        "StackMode": true,
+        "Length": 1,
+        "AssociatedItemClass": "Misc",
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Ultra Grinch-B-Gone",
+      "category": "Christmas 2024",
+      "configData": {
+        "DisplayName": "Ultra Grinch-B-Gone",
+        "AssociatedItemID": "Ultra Grinch-B-Gone",
+        "StackMode": true,
+        "Length": 1,
+        "AssociatedItemClass": "Misc",
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Golden Pencil",
+      "category": "Doodle",
+      "configData": {
+        "AssociatedItemID": "Golden Pencil",
+        "AssociatedItemClass": "Misc",
+        "StackMode": true,
+        "Length": 1,
+        "DisplayName": "Golden Pencil"
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Diamond Pencil",
+      "category": "Doodle",
+      "configData": {
+        "AssociatedItemID": "Diamond Pencil",
+        "AssociatedItemClass": "Misc",
+        "StackMode": true,
+        "Length": 1,
+        "DisplayName": "Diamond Pencil"
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Rainbow Pencil",
+      "category": "Doodle",
+      "configData": {
+        "AssociatedItemID": "Rainbow Pencil",
+        "AssociatedItemClass": "Misc",
+        "StackMode": true,
+        "Length": 1,
+        "DisplayName": "Rainbow Pencil"
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Pet Token Boost",
+      "category": "Paw Games",
+      "configData": {
+        "AssociatedItemID": "Pet Token Boost",
+        "AssociatedItemClass": "Misc",
+        "DisplayName": "Pet Token Boost",
+        "Length": 900,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Ultra Pet Token Boost",
+      "category": "Paw Games",
+      "configData": {
+        "AssociatedItemID": "Ultra Pet Token Boost",
+        "AssociatedItemClass": "Misc",
+        "DisplayName": "Ultra Pet Token Boost",
+        "Length": 900,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Toy Ball",
+      "category": "Buffs",
+      "configData": {
+        "AssociatedItemID": "Toy Ball",
+        "AssociatedItemClass": "Misc",
+        "Length": 300,
+        "DisplayName": "Toy Ball"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Toy Bone",
+      "category": "Buffs",
+      "configData": {
+        "AssociatedItemID": "Toy Bone",
+        "AssociatedItemClass": "Misc",
+        "Length": 300,
+        "DisplayName": "Toy Bone"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Squeaky Toy",
+      "category": "Buffs",
+      "configData": {
+        "AssociatedItemID": "Squeaky Toy",
+        "AssociatedItemClass": "Misc",
+        "Length": 600,
+        "DisplayName": "Squeaky Toy"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Christmas Cookie",
+      "category": "Christmas 2023",
+      "configData": {
+        "AssociatedItemID": "Christmas Cookie",
+        "AssociatedItemClass": "Misc",
+        "Length": 300,
+        "DisplayName": "Christmas Cookie"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Hot Cocoa",
+      "category": "Christmas 2023",
+      "configData": {
+        "AssociatedItemID": "Hot Cocoa",
+        "AssociatedItemClass": "Misc",
+        "Length": 300,
+        "DisplayName": "Hot Cocoa"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Glitched Drive",
+      "category": "Glitch 2024",
+      "configData": {
+        "AssociatedItemID": "Glitched Drive",
+        "AssociatedItemClass": "Misc",
+        "Length": 300,
+        "DisplayName": "Glitched Drive"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Nightmare Fuel",
+      "category": "Buffs",
+      "configData": {
+        "AssociatedItemID": "Nightmare Fuel",
+        "AssociatedItemClass": "Misc",
+        "DisplayName": "Nightmare Fuel",
+        "Length": 600,
+        "IgnoreInstancePause": true
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Lucky Tile",
+      "category": "Buffs",
+      "configData": {
+        "DisplayName": "Lucky Tile Boost",
+        "AssociatedItemID": "Lucky Tile",
+        "StackMode": true,
+        "Length": 1,
+        "AssociatedItemClass": "Misc",
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Ultra Lucky Tile",
+      "category": "Buffs",
+      "configData": {
+        "DisplayName": "Ultra Lucky Tile Boost",
+        "AssociatedItemID": "Ultra Lucky Tile",
+        "StackMode": true,
+        "Length": 1,
+        "AssociatedItemClass": "Misc",
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Lucky Dice",
+      "category": "RNG",
+      "configData": {
+        "AssociatedItemID": "Lucky Dice",
+        "AssociatedItemClass": "Misc",
+        "DisplayName": "Lucky Dice",
+        "Length": 60,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Lucky Dice II",
+      "category": "RNG",
+      "configData": {
+        "AssociatedItemID": "Lucky Dice II",
+        "AssociatedItemClass": "Misc",
+        "DisplayName": "Lucky Dice II",
+        "Length": 300,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Mega Lucky Dice",
+      "category": "RNG",
+      "configData": {
+        "DisplayName": "Mega Lucky Dice",
+        "AssociatedItemID": "Mega Lucky Dice",
+        "StackMode": true,
+        "Length": 1,
+        "AssociatedItemClass": "Misc",
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Mega Lucky Dice II",
+      "category": "RNG",
+      "configData": {
+        "DisplayName": "Mega Lucky Dice II",
+        "AssociatedItemID": "Mega Lucky Dice II",
+        "StackMode": true,
+        "Length": 1,
+        "AssociatedItemClass": "Misc",
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Fire Dice",
+      "category": "RNG",
+      "configData": {
+        "AssociatedItemID": "Fire Dice",
+        "AssociatedItemClass": "Misc",
+        "DisplayName": "Fire Dice",
+        "Length": 60,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Lucky Dice III",
+      "category": "RNG",
+      "configData": {
+        "AssociatedItemID": "Lucky Dice III",
+        "AssociatedItemClass": "Misc",
+        "DisplayName": "Lucky Dice III",
+        "Length": 300,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Rng Chest Luck",
+      "category": "RNG",
+      "configData": {
+        "AssociatedItemID": "Rng Chest Luck",
+        "AssociatedItemClass": "Misc",
+        "DisplayName": "RNG Chest Luck",
+        "Length": 120,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Super Rng Chest Luck",
+      "category": "RNG",
+      "configData": {
+        "AssociatedItemID": "Super Rng Chest Luck",
+        "AssociatedItemClass": "Misc",
+        "DisplayName": "Super RNG Chest Luck",
+        "Length": 120,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Ultra Rng Chest Luck",
+      "category": "RNG",
+      "configData": {
+        "AssociatedItemID": "Ultra Rng Chest Luck",
+        "AssociatedItemClass": "Misc",
+        "DisplayName": "Ultra RNG Chest Luck",
+        "Length": 120,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Adoption Token Boost",
+      "category": "Line For Huge",
+      "configData": {
+        "AssociatedItemID": "Adoption Token Boost",
+        "AssociatedItemClass": "Misc",
+        "DisplayName": "Adoption Token Boost",
+        "Length": 900,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Ultra Adoption Token Boost",
+      "category": "Line For Huge",
+      "configData": {
+        "AssociatedItemID": "Ultra Adoption Token Boost",
+        "AssociatedItemClass": "Misc",
+        "DisplayName": "Ultra Adoption Token Boost",
+        "Length": 900,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    }
+  ]
+}

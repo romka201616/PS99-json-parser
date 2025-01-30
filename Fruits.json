@@ -1,0 +1,252 @@
+{
+  "data": [
+    {
+      "configName": "Fruit | Candycane",
+      "category": "Fruits",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Duration": 300,
+        "DisplayName": "Candycane",
+        "IgnoreFruitMachine": true,
+        "Desc": "Christmas snack for your pets! Increases chance for drops by <X>%! \n(Stacks!)",
+        "Icon": "rbxassetid://15636388090",
+        "Boost": [
+          {
+            "Amount": 1.5,
+            "Type": "Drops"
+          }
+        ]
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Fruits"
+    },
+    {
+      "configName": "Fruit | Banana",
+      "category": "Fruits",
+      "configData": {
+        "ShinyIcon": "rbxassetid://18577433706",
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Duration": 300,
+        "DisplayName": "Banana",
+        "Desc": null,
+        "Icon": "rbxassetid://15030757462",
+        "Boost": [
+          {
+            "Amount": 5,
+            "Type": "Coins"
+          }
+        ]
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Fruits"
+    },
+    {
+      "configName": "Fruit | Orange",
+      "category": "Fruits",
+      "configData": {
+        "ShinyIcon": "rbxassetid://18577433264",
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Duration": 300,
+        "DisplayName": "Orange",
+        "Desc": null,
+        "Icon": "rbxassetid://15030757291",
+        "Boost": [
+          {
+            "Amount": 1,
+            "Type": "Diamonds"
+          }
+        ]
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Fruits"
+    },
+    {
+      "configName": "Fruit | Pineapple",
+      "category": "Fruits",
+      "configData": {
+        "ShinyIcon": "rbxassetid://18577434101",
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Duration": 300,
+        "DisplayName": "Pineapple",
+        "Desc": null,
+        "Icon": "rbxassetid://15030757105",
+        "Boost": [
+          {
+            "Amount": 1,
+            "Type": "Drops"
+          }
+        ]
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Fruits"
+    },
+    {
+      "configName": "Fruit | Rainbow",
+      "category": "Fruits",
+      "configData": {
+        "ShinyIcon": "rbxassetid://18577433891",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "preventShiny": true,
+        "Duration": 300,
+        "DisplayName": "Rainbow Fruit",
+        "Desc": null,
+        "Icon": "rbxassetid://15030756988",
+        "Boost": [
+          {
+            "Amount": 5,
+            "Type": "Coins"
+          },
+          {
+            "Amount": 1,
+            "Type": "Diamonds"
+          },
+          {
+            "Amount": 1.5,
+            "Type": "Damage"
+          },
+          {
+            "Amount": 1,
+            "Type": "Drops"
+          },
+          {
+            "Amount": 1,
+            "Type": "Bonus"
+          }
+        ]
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Fruits"
+    },
+    {
+      "configName": "Fruit | Apple",
+      "category": "Fruits",
+      "configData": {
+        "ShinyIcon": "rbxassetid://18577434379",
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Duration": 300,
+        "DisplayName": "Apple",
+        "Desc": null,
+        "Icon": "rbxassetid://15030757644",
+        "Boost": [
+          {
+            "Amount": 1.5,
+            "Type": "Damage"
+          }
+        ]
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Fruits"
+    },
+    {
+      "configName": "Fruit | Watermelon",
+      "category": "Fruits",
+      "configData": {
+        "ShinyIcon": "rbxassetid://18577639540",
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Duration": 300,
+        "DisplayName": "Watermelon",
+        "Desc": "Tasty snack for your pets! Boosts chance of bonuses by <X>%! \n(Stacks!)",
+        "Icon": "rbxassetid://16717381270",
+        "Boost": [
+          {
+            "Amount": 1,
+            "Type": "Bonus"
+          }
+        ]
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Fruits"
+    }
+  ]
+}

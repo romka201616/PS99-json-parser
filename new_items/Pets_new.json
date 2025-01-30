@@ -1,0 +1,585 @@
+{
+  "data": [
+    {
+      "configName": "Gargantuan Hypnotic Kitsune",
+      "category": "Gargantuan",
+      "configData": {
+        "goldenThumbnail": "",
+        "animations": {
+          "idleActionAnimations": [
+            [
+              "CorgiJumping",
+              0.5
+            ]
+          ],
+          "customAnimations": true,
+          "ridingJumpPower": 125
+        },
+        "indexObtainable": true,
+        "name": "Gargantuan Hypnotic Kitsune",
+        "gargantuan": true,
+        "indexDesc": "Found in the Exclusive Hypnotic Egg!\n\nGround Slam - Pet will damage breakables in a large area!",
+        "thumbnail": "rbxassetid://130525621588743"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Player Fox",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://75571034855083",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Player Fox",
+        "indexDesc": "Earned from the 2025 Pet Games Event!",
+        "thumbnail": "rbxassetid://101605254258375"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Guard Wolf",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://131272994056412",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Guard Wolf",
+        "indexDesc": "Earned from the 2025 Pet Games Event!",
+        "thumbnail": "rbxassetid://120663531720305"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Guard Bunny",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://114032962278654",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Guard Bunny",
+        "indexDesc": "Earned from the 2025 Pet Games Event!",
+        "thumbnail": "rbxassetid://70728047813207"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Doll Cat",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://82164429493620",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Doll Cat",
+        "indexDesc": "Earned from Pet Games World's huge raffles!",
+        "thumbnail": "rbxassetid://104297588937430"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Guard Hydra",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://71562430342400",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Guard Hydra",
+        "indexDesc": "x",
+        "thumbnail": "rbxassetid://79622017350328"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Player Penguin",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://132921278503250",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Player Penguin",
+        "indexDesc": "x",
+        "thumbnail": "rbxassetid://121118923201338"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Googly Corgi",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Googly Corgi",
+        "indexDesc": "Found in the Exclusive Googly Egg!",
+        "thumbnail": "rbxassetid://127100039471519"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Googly Shark",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Googly Shark",
+        "indexDesc": "Found in the Exclusive Googly Egg!",
+        "thumbnail": "rbxassetid://103658339806343"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Frontman Jellyfish",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://89425189487820",
+        "animations": {
+          "flyHeight": 2.2,
+          "swerve": true,
+          "ridingCameraOffset": null,
+          "swerveMaxAngle": 45
+        },
+        "indexObtainable": true,
+        "name": "Titanic Frontman Jellyfish",
+        "fly": true,
+        "indexDesc": "Earned from the 2025 Pet Games Event!",
+        "thumbnail": "rbxassetid://91877971354703"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Googly Blobfish",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "indexDesc": "Found in the Exclusive Googly Egg!",
+        "name": "Titanic Googly Blobfish",
+        "thumbnail": "rbxassetid://110994339382883"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Doll Cat",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://139466436169821",
+        "indexObtainable": true,
+        "name": "Titanic Doll Cat",
+        "indexDesc": "Earned from Pet Games World's huge raffles!",
+        "thumbnail": "rbxassetid://93143962349458"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Player Fox",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://90425733592958",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          199448153404762
+        ],
+        "name": "Player Fox",
+        "thumbnail": "rbxassetid://100748278204952"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Guard Hydra",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://99285561619050",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          204312742512195
+        ],
+        "name": "Guard Hydra",
+        "thumbnail": "rbxassetid://108242113920946"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Player Penguin",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://82554093523959",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          196407785212616
+        ],
+        "name": "Player Penguin",
+        "thumbnail": "rbxassetid://112146088574937"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Guard Bunny",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://138227622666014",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          202488521596908
+        ],
+        "name": "Guard Bunny",
+        "thumbnail": "rbxassetid://79555963266888"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Recruiter Axolotl",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://83957208265289",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          201272374320050
+        ],
+        "name": "Recruiter Axolotl",
+        "thumbnail": "rbxassetid://115924107292362"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Player Gecko",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://73623201205111",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          197623932489475
+        ],
+        "name": "Player Gecko",
+        "thumbnail": "rbxassetid://91560073558553"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Googly Cat",
+      "category": "Uncategorized",
+      "configData": {
+        "exclusiveLevel": 2,
+        "goldenThumbnail": "",
+        "name": "Googly Cat",
+        "thumbnail": "rbxassetid://83360103208326"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Googly Corgi",
+      "category": "Uncategorized",
+      "configData": {
+        "exclusiveLevel": 1,
+        "goldenThumbnail": "",
+        "name": "Googly Corgi",
+        "thumbnail": "rbxassetid://121730983168479"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Googly Shark",
+      "category": "Uncategorized",
+      "configData": {
+        "exclusiveLevel": 3,
+        "goldenThumbnail": "",
+        "name": "Googly Shark",
+        "thumbnail": "rbxassetid://95174422189322"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Gargantuan Googly Agony",
+      "category": "Gargantuan",
+      "configData": {
+        "goldenThumbnail": "",
+        "animations": {
+          "boneFlyingAnimation": "rbxassetid://113382735394237",
+          "customAnimations": true,
+          "ridingCameraOffset": null,
+          "ridingJumpPower": 125
+        },
+        "indexObtainable": true,
+        "flyingTitanic": true,
+        "thumbnail": "rbxassetid://99540557591138",
+        "name": "Gargantuan Googly Agony",
+        "gargantuan": true,
+        "indexDesc": "Found in the Exclusive Googly Egg!\n\nGround Slam - Pet will damage breakables in a large area!",
+        "fly": true
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Party Panda",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://118293765690599",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Party Panda",
+        "indexDesc": "Found in the Hype Egg every update!",
+        "thumbnail": "rbxassetid://102306587085097"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Mushroom King",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://93918872693622",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Mushroom King",
+        "indexDesc": "Reward in the 2025 Mushroom Clan Battle!",
+        "thumbnail": "rbxassetid://125986697104431"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Fireball Cat",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://105374619873954",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Fireball Cat",
+        "fly": true,
+        "indexDesc": "Found in the Cannon Tycoon's Rocketeer Pack!",
+        "thumbnail": "rbxassetid://106665613932679"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Stunt Cat",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://114576749666110",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Stunt Cat",
+        "indexDesc": "Found in the Cannon Tycoon's boss chest!",
+        "thumbnail": "rbxassetid://80484506977971"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Stunt Corgi",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://124889772980701",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Stunt Corgi",
+        "indexDesc": "Found in the Cannon Tycoon's final egg!",
+        "thumbnail": "rbxassetid://132747851336356"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Torpedo Shepherd",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://126005955826456",
+        "animations": {
+          "flyHeightChange": 0.15
+        },
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Torpedo Shepherd",
+        "fly": true,
+        "indexDesc": "Found in the Hellfire Gift Bag!",
+        "thumbnail": "rbxassetid://82812436217592"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Crash Dummy Noob",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://111208644414427",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Crash Dummy Noob",
+        "indexDesc": "Reward in the Cannon Tycoon's leaderboard contest!",
+        "thumbnail": "rbxassetid://138395333405462"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Party Panda",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://91986863296560",
+        "indexObtainable": true,
+        "name": "Titanic Party Panda",
+        "indexDesc": "Found in the Hype Egg every update!",
+        "thumbnail": "rbxassetid://74514642411800"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Stunt Cat",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://130862635898580",
+        "indexObtainable": true,
+        "name": "Titanic Stunt Cat",
+        "indexDesc": "Found in the Cannon Tycoon's boss chest!",
+        "thumbnail": "rbxassetid://128964854488748"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Plane Dragon",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968306213",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          192421524694025
+        ],
+        "name": "Plane Dragon",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968306296"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Crash Dummy Noob",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968199768",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          188097445487418
+        ],
+        "name": "Crash Dummy Noob",
+        "thumbnail": "rbxassetid://14968199866"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Rocket Shark",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968321593",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          183773366280811
+        ],
+        "name": "Rocket Shark",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968321747"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Stunt Cat",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968346530",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          206745037065912
+        ],
+        "name": "Stunt Cat",
+        "thumbnail": "rbxassetid://14968346741"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Torpedo Shepherd",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968354685",
+        "animations": {
+          "flyHeightChange": 0.15
+        },
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          194583564297329
+        ],
+        "name": "Torpedo Shepherd",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968354807"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Fireball Cat",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968237505",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          211609626173345
+        ],
+        "name": "Fireball Cat",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968237630"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Stunt Corgi",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968347124",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          199448153404762
+        ],
+        "name": "Stunt Corgi",
+        "thumbnail": "rbxassetid://14968347214"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Stunt Raccoon",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://83687861870881",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          185935405884114
+        ],
+        "name": "Stunt Raccoon",
+        "thumbnail": "rbxassetid://122189989972498"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Turbo Cheetah",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://127439243988119",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          190259485090722
+        ],
+        "name": "Turbo Cheetah",
+        "thumbnail": "rbxassetid://116697842764654"
+      },
+      "collection": "Pets"
+    }
+  ]
+}

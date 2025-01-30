@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "configName": "CannonBattle",
+      "category": "GuildBattles",
+      "configData": {
+        "PlacementRewards": [
+          {
+            "Item": {
+              "_data": {
+                "id": "Clan Gift"
+              }
+            },
+            "Best": 1,
+            "Worst": 500
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Mushroom"
+              }
+            },
+            "Best": 1,
+            "Worst": 50
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Mushroom"
+              }
+            },
+            "Best": 1,
+            "Worst": 10
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Huge Mushroom King",
+                "pt": 2
+              }
+            },
+            "Best": 1,
+            "Worst": 1
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Huge Mushroom King",
+                "pt": 1
+              }
+            },
+            "Best": 2,
+            "Worst": 3
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Huge Mushroom King"
+              }
+            },
+            "Best": 4,
+            "Worst": 10
+          }
+        ],
+        "FinishTime": 1738342800,
+        "Title": "Cannon Battle",
+        "StartTime": 1737824400,
+        "Rewards": {
+          "Good": [],
+          "Bronze": [],
+          "Silver": [],
+          "Gold": []
+        }
+      },
+      "collection": "GuildBattles"
+    }
+  ]
+}
