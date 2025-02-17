@@ -1716,6 +1716,80 @@
         }
       },
       "collection": "GuildBattles"
+    },
+    {
+      "configName": "ValBattle",
+      "category": "GuildBattles",
+      "configData": {
+        "PlacementRewards": [
+          {
+            "Item": {
+              "_data": {
+                "id": "Clan Gift"
+              }
+            },
+            "Best": 1,
+            "Worst": 500
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Holographic"
+              }
+            },
+            "Best": 1,
+            "Worst": 50
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Holographic"
+              }
+            },
+            "Best": 1,
+            "Worst": 10
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Huge Holographic Monkey",
+                "pt": 2
+              }
+            },
+            "Best": 1,
+            "Worst": 1
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Huge Holographic Monkey",
+                "pt": 1
+              }
+            },
+            "Best": 2,
+            "Worst": 3
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Huge Holographic Monkey"
+              }
+            },
+            "Best": 4,
+            "Worst": 10
+          }
+        ],
+        "FinishTime": 1739552400,
+        "Title": "Holographic Battle",
+        "StartTime": 1739034000,
+        "Rewards": {
+          "Good": [],
+          "Bronze": [],
+          "Silver": [],
+          "Gold": []
+        }
+      },
+      "collection": "GuildBattles"
     }
   ]
 }

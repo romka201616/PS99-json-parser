@@ -1,10 +1,10 @@
 {
   "data": [
     {
-      "configName": "Booth | Mushroom",
+      "configName": "Booth | Holographic",
       "category": "Booths",
       "configData": {
-        "DisplayName": "Mushroom Booth",
+        "DisplayName": "Holographic Booth",
         "Rarity": {
           "RarityNumber": 6,
           "Lootbag": null,
@@ -18,22 +18,22 @@
           "_script": null
         },
         "Model": null,
-        "Icon": "rbxassetid://80654746806747",
-        "Desc": "⚔️ Rewarded to the top 50 clans in the 2025 Mushroom Clan Battle!"
+        "Icon": "rbxassetid://111848916018772",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2025 Holographic Clan Battle!"
       },
       "collection": "Booths"
     },
     {
-      "configName": "Booth | Hellfire",
+      "configName": "Booth | Valentines",
       "category": "Booths",
       "configData": {
-        "DisplayName": "Hellfire Booth",
+        "DisplayName": "Valentine's Booth",
         "Rarity": {
-          "RarityNumber": 8,
+          "RarityNumber": 6,
           "Lootbag": null,
-          "_id": "Superior",
+          "_id": "Exotic",
           "Color": null,
-          "DisplayName": "Superior",
+          "DisplayName": "Exotic",
           "Message": null,
           "ItemSlot": null,
           "Gradient": null,
@@ -41,8 +41,8 @@
           "_script": null
         },
         "Model": null,
-        "Icon": "rbxassetid://129863787578049",
-        "Desc": "🔥 Hot and fiery deals! 🔥"
+        "Icon": "rbxassetid://70550176243929",
+        "Desc": "Love is in the air... 💕"
       },
       "collection": "Booths"
     }

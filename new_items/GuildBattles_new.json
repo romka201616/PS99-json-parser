@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "configName": "CannonBattle",
+      "configName": "ValBattle",
       "category": "GuildBattles",
       "configData": {
         "PlacementRewards": [
@@ -17,7 +17,7 @@
           {
             "Item": {
               "_data": {
-                "id": "Mushroom"
+                "id": "Holographic"
               }
             },
             "Best": 1,
@@ -26,7 +26,7 @@
           {
             "Item": {
               "_data": {
-                "id": "Mushroom"
+                "id": "Holographic"
               }
             },
             "Best": 1,
@@ -35,7 +35,7 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Mushroom King",
+                "id": "Huge Holographic Monkey",
                 "pt": 2
               }
             },
@@ -45,7 +45,7 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Mushroom King",
+                "id": "Huge Holographic Monkey",
                 "pt": 1
               }
             },
@@ -55,16 +55,16 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Mushroom King"
+                "id": "Huge Holographic Monkey"
               }
             },
             "Best": 4,
             "Worst": 10
           }
         ],
-        "FinishTime": 1738342800,
-        "Title": "Cannon Battle",
-        "StartTime": 1737824400,
+        "FinishTime": 1739552400,
+        "Title": "Holographic Battle",
+        "StartTime": 1739034000,
         "Rewards": {
           "Good": [],
           "Bronze": [],

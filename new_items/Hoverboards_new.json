@@ -1,11 +1,11 @@
 {
   "data": [
     {
-      "configName": "Hoverboard | Mushroom",
+      "configName": "Hoverboard | Holographic",
       "category": "Hoverboards",
       "configData": {
         "Sounds": [],
-        "DisplayName": "Mushroom Hoverboard",
+        "DisplayName": "Holographic Hoverboard",
         "Rarity": {
           "RarityNumber": 6,
           "Lootbag": null,
@@ -18,17 +18,17 @@
           "Announce": true,
           "_script": null
         },
-        "Icon": "rbxassetid://73437399037786",
-        "Desc": "⚔️ Rewarded to the top 10 clans in the 2025 Mushroom Clan Battle!"
+        "Icon": "rbxassetid://103941046192500",
+        "Desc": "⚔️ Rewarded to the top 10 clans in the 2025 Holographic Clan Battle!"
       },
       "collection": "Hoverboards"
     },
     {
-      "configName": "Hoverboard | Hellfire",
+      "configName": "Hoverboard | Valentines",
       "category": "Hoverboards",
       "configData": {
         "Sounds": [],
-        "DisplayName": "Hellfire Hoverboard",
+        "DisplayName": "Valentine's Hoverboard",
         "Rarity": {
           "RarityNumber": 5,
           "Lootbag": null,
@@ -41,8 +41,8 @@
           "Announce": false,
           "_script": null
         },
-        "Icon": "rbxassetid://133315600460960",
-        "Desc": "🔥 Blaze away and leave 'em in flames! 🔥"
+        "Icon": "rbxassetid://115773151085992",
+        "Desc": "💕 Glide through love at the speed of heart!"
       },
       "collection": "Hoverboards"
     }

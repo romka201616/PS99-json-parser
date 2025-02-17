@@ -385,6 +385,35 @@
       "hash": null,
       "dateCreated": null,
       "collection": "Charms"
+    },
+    {
+      "configName": "Charm | Treasure",
+      "category": "Charms",
+      "configData": {
+        "BaseTier": 1,
+        "Tiers": [
+          {
+            "Desc": "Pet increases item drops by 200%, earns 100% more diamonds, and earns 50% more coins!",
+            "DisplayName": "Treasure Charm",
+            "Rarity": {
+              "RarityNumber": 999,
+              "Lootbag": null,
+              "_id": "Exclusive",
+              "Color": null,
+              "DisplayName": "Exclusive",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": true,
+              "_script": null
+            },
+            "Power": 1
+          }
+        ],
+        "MaxTier": 1,
+        "Icon": "rbxassetid://134064160006487"
+      },
+      "collection": "Charms"
     }
   ]
 }

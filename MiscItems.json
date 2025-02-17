@@ -5468,6 +5468,126 @@
         "Desc": "Used to unlock the Nuclear Cannon in the Cannon Tycoon!"
       },
       "collection": "MiscItems"
+    },
+    {
+      "configName": "Confetti Cannon",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Confetti Cannon Token",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Category": "Event",
+        "Tradable": true,
+        "Icon": "rbxassetid://127806152682787",
+        "Desc": "Used to unlock the Confetti Cannon in the Cannon Tycoon!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Black Hole Cannon",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Black Hole Cannon Token",
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Category": "Event",
+        "Tradable": true,
+        "Icon": "rbxassetid://132067941069511",
+        "Desc": "Used to unlock the Black Hole Cannon in the Cannon Tycoon!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Valentines Heart",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Valentine's Heart",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Category": "Event",
+        "Tradable": false,
+        "Icon": "rbxassetid://80016575197859",
+        "Desc": "Can be combined into Love Gifts using the Valentine's Machine!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Tower Rebirth Token",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Tower Rebirth Token",
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Category": "Event",
+        "Tradable": false,
+        "Icon": "rbxassetid://82298514528405",
+        "Desc": "Earned from rebirthing your tower!\n\nEach token allows you to hatch the HUGE Shattered Heart Agony for 1 hour!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Tower Raffle Ticket",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Tower Raffle Ticket",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Category": "Event",
+        "Tradable": false,
+        "Icon": "rbxassetid://103699563240148",
+        "Desc": "Used to enter the Valentine's Tower Tycoon raffle!"
+      },
+      "collection": "MiscItems"
     }
   ]
 }

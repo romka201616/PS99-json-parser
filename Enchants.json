@@ -2951,6 +2951,38 @@
         "BaseTier": 1
       },
       "collection": "Enchants"
+    },
+    {
+      "configName": "Enchant | Breakable Mayhem",
+      "category": "Exclusive",
+      "configData": {
+        "DiminishPowerThreshold": 1,
+        "Tiers": [
+          {
+            "Rarity": {
+              "RarityNumber": 999,
+              "Lootbag": null,
+              "_id": "Exclusive",
+              "Color": null,
+              "DisplayName": "Exclusive",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": true,
+              "_script": null
+            },
+            "Power": 0.5,
+            "Desc": "Random HUGE & TITANIC chance while destroying breakables!\n\nHuge & Titanic rotates DAILY!",
+            "Icon": "rbxassetid://136082909959165",
+            "DisplayName": "Breakable Mayhem"
+          }
+        ],
+        "ProductId": 2689880249,
+        "MaxTier": 1,
+        "MaxPage": 0,
+        "BaseTier": 1
+      },
+      "collection": "Enchants"
     }
   ]
 }

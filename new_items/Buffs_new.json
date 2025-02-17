@@ -2,7 +2,7 @@
   "data": [
     {
       "configName": "Buff | Lucky Tile",
-      "category": "Buffs",
+      "category": "Lucky Tile Event",
       "configData": {
         "DisplayName": "Lucky Tile Boost",
         "AssociatedItemID": "Lucky Tile",
@@ -15,147 +15,13 @@
     },
     {
       "configName": "Buff | Ultra Lucky Tile",
-      "category": "Buffs",
+      "category": "Lucky Tile Event",
       "configData": {
         "DisplayName": "Ultra Lucky Tile Boost",
         "AssociatedItemID": "Ultra Lucky Tile",
         "StackMode": true,
         "Length": 1,
         "AssociatedItemClass": "Misc",
-        "IgnoreInstancePause": true
-      },
-      "collection": "Buffs"
-    },
-    {
-      "configName": "Buff | Lucky Dice",
-      "category": "RNG",
-      "configData": {
-        "AssociatedItemID": "Lucky Dice",
-        "AssociatedItemClass": "Misc",
-        "DisplayName": "Lucky Dice",
-        "Length": 60,
-        "IgnoreInstancePause": true
-      },
-      "collection": "Buffs"
-    },
-    {
-      "configName": "Buff | Lucky Dice II",
-      "category": "RNG",
-      "configData": {
-        "AssociatedItemID": "Lucky Dice II",
-        "AssociatedItemClass": "Misc",
-        "DisplayName": "Lucky Dice II",
-        "Length": 300,
-        "IgnoreInstancePause": true
-      },
-      "collection": "Buffs"
-    },
-    {
-      "configName": "Buff | Mega Lucky Dice",
-      "category": "RNG",
-      "configData": {
-        "DisplayName": "Mega Lucky Dice",
-        "AssociatedItemID": "Mega Lucky Dice",
-        "StackMode": true,
-        "Length": 1,
-        "AssociatedItemClass": "Misc",
-        "IgnoreInstancePause": true
-      },
-      "collection": "Buffs"
-    },
-    {
-      "configName": "Buff | Mega Lucky Dice II",
-      "category": "RNG",
-      "configData": {
-        "DisplayName": "Mega Lucky Dice II",
-        "AssociatedItemID": "Mega Lucky Dice II",
-        "StackMode": true,
-        "Length": 1,
-        "AssociatedItemClass": "Misc",
-        "IgnoreInstancePause": true
-      },
-      "collection": "Buffs"
-    },
-    {
-      "configName": "Buff | Fire Dice",
-      "category": "RNG",
-      "configData": {
-        "AssociatedItemID": "Fire Dice",
-        "AssociatedItemClass": "Misc",
-        "DisplayName": "Fire Dice",
-        "Length": 60,
-        "IgnoreInstancePause": true
-      },
-      "collection": "Buffs"
-    },
-    {
-      "configName": "Buff | Lucky Dice III",
-      "category": "RNG",
-      "configData": {
-        "AssociatedItemID": "Lucky Dice III",
-        "AssociatedItemClass": "Misc",
-        "DisplayName": "Lucky Dice III",
-        "Length": 300,
-        "IgnoreInstancePause": true
-      },
-      "collection": "Buffs"
-    },
-    {
-      "configName": "Buff | Rng Chest Luck",
-      "category": "RNG",
-      "configData": {
-        "AssociatedItemID": "Rng Chest Luck",
-        "AssociatedItemClass": "Misc",
-        "DisplayName": "RNG Chest Luck",
-        "Length": 120,
-        "IgnoreInstancePause": true
-      },
-      "collection": "Buffs"
-    },
-    {
-      "configName": "Buff | Super Rng Chest Luck",
-      "category": "RNG",
-      "configData": {
-        "AssociatedItemID": "Super Rng Chest Luck",
-        "AssociatedItemClass": "Misc",
-        "DisplayName": "Super RNG Chest Luck",
-        "Length": 120,
-        "IgnoreInstancePause": true
-      },
-      "collection": "Buffs"
-    },
-    {
-      "configName": "Buff | Ultra Rng Chest Luck",
-      "category": "RNG",
-      "configData": {
-        "AssociatedItemID": "Ultra Rng Chest Luck",
-        "AssociatedItemClass": "Misc",
-        "DisplayName": "Ultra RNG Chest Luck",
-        "Length": 120,
-        "IgnoreInstancePause": true
-      },
-      "collection": "Buffs"
-    },
-    {
-      "configName": "Buff | Adoption Token Boost",
-      "category": "Line For Huge",
-      "configData": {
-        "AssociatedItemID": "Adoption Token Boost",
-        "AssociatedItemClass": "Misc",
-        "DisplayName": "Adoption Token Boost",
-        "Length": 900,
-        "IgnoreInstancePause": true
-      },
-      "collection": "Buffs"
-    },
-    {
-      "configName": "Buff | Ultra Adoption Token Boost",
-      "category": "Line For Huge",
-      "configData": {
-        "AssociatedItemID": "Ultra Adoption Token Boost",
-        "AssociatedItemClass": "Misc",
-        "DisplayName": "Ultra Adoption Token Boost",
-        "Length": 900,
         "IgnoreInstancePause": true
       },
       "collection": "Buffs"

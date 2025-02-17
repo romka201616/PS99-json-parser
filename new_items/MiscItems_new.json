@@ -1,106 +1,10 @@
 {
   "data": [
     {
-      "configName": "Pet Game Card",
+      "configName": "Tower Rebirth Token",
       "category": "Event",
       "configData": {
-        "DisplayName": "Pet Game Card",
-        "Rarity": {
-          "RarityNumber": 4,
-          "Lootbag": null,
-          "_id": "Legendary",
-          "Color": null,
-          "DisplayName": "Legendary",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Category": "Event",
-        "Tradable": false,
-        "Icon": "rbxassetid://98658891834395",
-        "Desc": "Used to purchase Pet Games Upgrades!"
-      },
-      "collection": "MiscItems"
-    },
-    {
-      "configName": "Hellfire Crystal",
-      "category": "Event",
-      "configData": {
-        "DisplayName": "Hellfire Crystal",
-        "Rarity": {
-          "RarityNumber": 4,
-          "Lootbag": null,
-          "_id": "Legendary",
-          "Color": null,
-          "DisplayName": "Legendary",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Category": "Event",
-        "Tradable": false,
-        "Icon": "rbxassetid://82320386530923",
-        "Desc": "Used to craft Hellfire Cores in the Cannon Tycoon!"
-      },
-      "collection": "MiscItems"
-    },
-    {
-      "configName": "Hellfire Core",
-      "category": "Event",
-      "configData": {
-        "DisplayName": "Hellfire Core",
-        "Rarity": {
-          "RarityNumber": 4,
-          "Lootbag": null,
-          "_id": "Legendary",
-          "Color": null,
-          "DisplayName": "Legendary",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Category": "Event",
-        "Tradable": true,
-        "Icon": "rbxassetid://129202746553338",
-        "Desc": "Spawns Mega Hellfire Gift in the Cannon Tycoon!"
-      },
-      "collection": "MiscItems"
-    },
-    {
-      "configName": "Lightning Cannon",
-      "category": "Event",
-      "configData": {
-        "DisplayName": "Lightning Cannon Token",
-        "Rarity": {
-          "RarityNumber": 6,
-          "Lootbag": null,
-          "_id": "Exotic",
-          "Color": null,
-          "DisplayName": "Exotic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "Category": "Event",
-        "Tradable": true,
-        "Icon": "rbxassetid://88877115487128",
-        "Desc": "Used to unlock the Lightning Cannon in the Cannon Tycoon!"
-      },
-      "collection": "MiscItems"
-    },
-    {
-      "configName": "Nuclear Cannon",
-      "category": "Event",
-      "configData": {
-        "DisplayName": "Nuclear Cannon Token",
+        "DisplayName": "Tower Rebirth Token",
         "Rarity": {
           "RarityNumber": 7,
           "Lootbag": null,
@@ -114,9 +18,33 @@
           "_script": null
         },
         "Category": "Event",
-        "Tradable": true,
-        "Icon": "rbxassetid://92952222395298",
-        "Desc": "Used to unlock the Nuclear Cannon in the Cannon Tycoon!"
+        "Tradable": false,
+        "Icon": "rbxassetid://82298514528405",
+        "Desc": "Earned from rebirthing your tower!\n\nEach token allows you to hatch the HUGE Shattered Heart Agony for 1 hour!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Tower Raffle Ticket",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Tower Raffle Ticket",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Category": "Event",
+        "Tradable": false,
+        "Icon": "rbxassetid://103699563240148",
+        "Desc": "Used to enter the Valentine's Tower Tycoon raffle!"
       },
       "collection": "MiscItems"
     }

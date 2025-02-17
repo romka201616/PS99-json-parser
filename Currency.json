@@ -2190,6 +2190,250 @@
         ]
       },
       "collection": "Currency"
+    },
+    {
+      "configName": "Currency | CannonTycoonCoins",
+      "category": "Currency",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "Tiers": [
+          {
+            "orbImage": "rbxassetid://85576749924261",
+            "imageOutline": "rbxassetid://102648063822047",
+            "Order": 1,
+            "isBottom": true,
+            "value": 1,
+            "tierName": "Cannon Tycoon Coins",
+            "tinyImage": "rbxassetid://112132454266141",
+            "textColor": null
+          }
+        ],
+        "DisplayName": "Cannon Tycoon Coins",
+        "_index": 3,
+        "Desc": "BOOM!",
+        "IsWorldCurrency": false,
+        "PermitAutoLootScaling": true,
+        "MaxAmount": 999999999999999,
+        "BagTiers": [
+          {
+            "value": 0,
+            "image": "rbxassetid://18325334566"
+          }
+        ]
+      },
+      "collection": "Currency"
+    },
+    {
+      "configName": "Currency | VoidCoins",
+      "category": "Currency",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "Tiers": [
+          {
+            "orbImage": "rbxassetid://17485511514",
+            "imageOutline": "rbxassetid://17485511390",
+            "Order": 1,
+            "isBottom": true,
+            "value": 1,
+            "tierName": "Void Gold Coins",
+            "tinyImage": "rbxassetid://17485511298",
+            "textColor": null
+          },
+          {
+            "orbImage": "rbxassetid://17485511963",
+            "imageOutline": "rbxassetid://17485511753",
+            "Order": 2,
+            "value": 1000000,
+            "tierName": "Void Gold Bars",
+            "tinyImage": "rbxassetid://17485511655",
+            "textColor": null
+          },
+          {
+            "orbImage": "rbxassetid://17485510856",
+            "imageOutline": "rbxassetid://17485510795",
+            "Order": 3,
+            "value": 1000000000000,
+            "tierName": "Void Platinum Coins",
+            "tinyImage": "rbxassetid://17485510673",
+            "textColor": null
+          },
+          {
+            "orbImage": "rbxassetid://17485511171",
+            "imageOutline": "rbxassetid://17485511062",
+            "Order": 4,
+            "value": 1000000000000000000,
+            "tierName": "Void Platinum Bars",
+            "tinyImage": "rbxassetid://17485510951",
+            "textColor": null
+          },
+          {
+            "orbImage": "rbxassetid://17485512267",
+            "imageOutline": "rbxassetid://17485512181",
+            "Order": 5,
+            "value": 1e+24,
+            "tierName": "Void Emerald Coins",
+            "tinyImage": "rbxassetid://17485512064",
+            "textColor": null
+          },
+          {
+            "orbImage": "rbxassetid://17485512787",
+            "imageOutline": "rbxassetid://17485512638",
+            "Order": 6,
+            "value": 1e+30,
+            "tierName": "Void Emerald Bars",
+            "tinyImage": "rbxassetid://17485512506",
+            "textColor": null
+          },
+          {
+            "orbImage": "rbxassetid://17485509987",
+            "imageOutline": "rbxassetid://17485509428",
+            "Order": 7,
+            "value": 1e+36,
+            "tierName": "Void Sapphire Coins",
+            "tinyImage": "rbxassetid://17485509321",
+            "textColor": null
+          },
+          {
+            "orbImage": "rbxassetid://17485510528",
+            "imageOutline": "rbxassetid://17485510417",
+            "Order": 8,
+            "value": 1e+42,
+            "tierName": "Void Sapphire Bars",
+            "tinyImage": "rbxassetid://17485510258",
+            "textColor": null
+          }
+        ],
+        "DisplayName": "Void Coins",
+        "_index": 23,
+        "IsWorldCurrency": true,
+        "Desc": "Void!",
+        "BagTiers": [
+          {
+            "value": 0,
+            "image": "rbxassetid://16482243315"
+          },
+          {
+            "value": 1000,
+            "image": "rbxassetid://16480911112"
+          },
+          {
+            "value": 10000,
+            "image": "rbxassetid://16480911203"
+          }
+        ],
+        "MaxAmount": 300000000000000000000
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Currency"
+    },
+    {
+      "configName": "Currency | Woodcutting",
+      "category": "Currency",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "Tiers": [
+          {
+            "orbImage": "rbxassetid://136557753458490",
+            "imageOutline": "rbxassetid://138618537382780",
+            "isBottom": true,
+            "Order": 1,
+            "rainData": {
+              "LightEmission": 0.2
+            },
+            "value": 1,
+            "tinyImage": "rbxassetid://114330766597581",
+            "tierName": "Woodcutting Tokens",
+            "textColor": null
+          }
+        ],
+        "DisplayName": "Woodcutting Tokens",
+        "_index": 24,
+        "Desc": "Woodcutting Tokens!",
+        "MaxAmount": 999999999
+      },
+      "collection": "Currency"
+    },
+    {
+      "configName": "Currency | ValentinesCoins",
+      "category": "Currency",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "Tiers": [
+          {
+            "orbImage": "rbxassetid://123511168949350",
+            "imageOutline": "rbxassetid://136778042221220",
+            "Order": 1,
+            "isBottom": true,
+            "value": 1,
+            "tierName": "Valentines Coins",
+            "tinyImage": "rbxassetid://127904753900493",
+            "textColor": null
+          }
+        ],
+        "DisplayName": "Valentines Coins",
+        "_index": 22,
+        "Desc": "Spread the love!",
+        "IsWorldCurrency": false,
+        "PermitAutoLootScaling": true,
+        "MaxAmount": 9999999999,
+        "BagTiers": [
+          {
+            "value": 0,
+            "image": "rbxassetid://15058306423"
+          }
+        ]
+      },
+      "collection": "Currency"
     }
   ]
 }

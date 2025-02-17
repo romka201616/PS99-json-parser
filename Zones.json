@@ -14535,6 +14535,80 @@
         }
       },
       "collection": "Zones"
+    },
+    {
+      "configName": "1 | Spawn",
+      "category": "World 1",
+      "configData": {
+        "ZoneName": "Spawn",
+        "Ambience": {
+          "SoundId": "rbxassetid://14183513311"
+        },
+        "Price": 0,
+        "Currency": "Coins",
+        "GateHealth": 0,
+        "ZoneNumber": 1,
+        "Breakables": {
+          "VIP": {
+            "Settings": {
+              "RespawnTime": 0.5,
+              "DaycareIgnore": true,
+              "Maximum": 25
+            },
+            "Data": [
+              {
+                "WorldNumber": 1,
+                "Type": "VIP Diamond Pile",
+                "Weight": 1
+              }
+            ]
+          },
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "RandomDiamondBreakables": false,
+              "Maximum": 25
+            },
+            "Data": [
+              {
+                "WorldNumber": 1,
+                "Type": "Medium Coins (Default)",
+                "Weight": 100
+              },
+              {
+                "Weight": 25,
+                "Type": "Large Coins (Default)"
+              }
+            ]
+          },
+          "Easy": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "RandomDiamondBreakables": false,
+              "Maximum": 50
+            },
+            "Data": [
+              {
+                "WorldNumber": 1,
+                "Type": "Small Coins (Default)",
+                "Weight": 100
+              },
+              {
+                "WorldNumber": 1,
+                "Type": "Medium Coins (Default)",
+                "Weight": 15
+              }
+            ]
+          }
+        },
+        "MaximumAvailableEgg": 2,
+        "WorldNumber": 1,
+        "ZoneFolder": null
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
     }
   ]
 }

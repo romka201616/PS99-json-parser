@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "configName": "More Hype Egg",
+      "configName": "Mega Enchant Chest",
       "category": "Lootboxes",
       "configData": {
         "RequireSave": true,
@@ -17,14 +17,14 @@
           "Announce": true,
           "_script": null
         },
-        "DisplayName": "More Hype Egg",
-        "Icon": "",
-        "Desc": "Awarded for being online before the update!"
+        "DisplayName": "Mega Enchant Chest",
+        "Icon": "rbxassetid://117764701926181",
+        "Desc": "Contains OP enchants! Including Tier X and IX!"
       },
       "collection": "Lootboxes"
     },
     {
-      "configName": "Hype Egg 2",
+      "configName": "Mega Potion Chest",
       "category": "Lootboxes",
       "configData": {
         "RequireSave": true,
@@ -40,39 +40,17 @@
           "Announce": true,
           "_script": null
         },
-        "DisplayName": "Hype Egg #2",
-        "Icon": "rbxassetid://125781246617646",
-        "Desc": "Awarded for being online before the update!"
+        "DisplayName": "Mega Potion Chest",
+        "Icon": "rbxassetid://78223799295283",
+        "Desc": "Contains OP Potions! Including The Cocktail II!"
       },
       "collection": "Lootboxes"
     },
     {
-      "configName": "Hellfire Gift",
+      "configName": "Mega Ultimate Chest",
       "category": "Lootboxes",
       "configData": {
         "RequireSave": true,
-        "Rarity": {
-          "RarityNumber": 6,
-          "Lootbag": null,
-          "_id": "Exotic",
-          "Color": null,
-          "DisplayName": "Exotic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "DisplayName": "Hellfire Gift",
-        "Icon": "rbxassetid://130668450135546",
-        "Desc": "Obtained by using a Hellfire Core during the Cannon Tycoon!"
-      },
-      "collection": "Lootboxes"
-    },
-    {
-      "configName": "Locked Hype Egg",
-      "category": "Lootboxes",
-      "configData": {
         "Rarity": {
           "RarityNumber": 999,
           "Lootbag": null,
@@ -85,15 +63,55 @@
           "Announce": true,
           "_script": null
         },
-        "Instant": true,
-        "DisplayName": "Locked Hype Egg!",
-        "RequireSave": false,
-        "Desc": "Open after the update to receive a Hype Egg!",
-        "ShowExists": false,
-        "MaxAmount": 1,
-        "InstantSound": "rbxassetid://77914312637440",
-        "Icon": "rbxassetid://94077876373608",
-        "Tradable": false
+        "DisplayName": "Mega Ultimate Chest",
+        "Icon": "rbxassetid://125621489436651",
+        "Desc": "Contains OP ultimates! Including Chest Spell, Tsunami and tons of Ultimate XP Potions!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Mega Charm Chest",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Mega Charm Chest",
+        "Icon": "rbxassetid://120862195809324",
+        "Desc": "Contains OP charms! Including the Exclusive Treasure Charm!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Mega Boost Chest",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Mega Boost Chest",
+        "Icon": "rbxassetid://102254859923515",
+        "Desc": "Contains OP enchants, ultimates, potions, charms and so much MORE!"
       },
       "collection": "Lootboxes"
     }

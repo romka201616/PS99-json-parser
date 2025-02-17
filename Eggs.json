@@ -21859,6 +21859,1481 @@
         ]
       },
       "collection": "Eggs"
+    },
+    {
+      "configName": "Active Huge Egg",
+      "category": "Machine Eggs",
+      "configData": {
+        "disableGold": false,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableRainbow": false,
+        "shinyChance": 2,
+        "disableModifiers": true,
+        "rainbowChance": 2,
+        "name": "Active Huge Egg",
+        "pets": [
+          [
+            "Huge Skateboard Bulldog",
+            1
+          ],
+          [
+            "Huge Fancy Axolotl",
+            1
+          ],
+          [
+            "Huge Llama",
+            1
+          ],
+          [
+            "Huge Knight Beagle",
+            1
+          ]
+        ],
+        "goldChance": 5,
+        "icon": "rbxassetid://16756521111"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Exclusive Egg 43",
+      "category": "Exclusive Eggs",
+      "configData": {
+        "disableGold": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableRainbow": false,
+        "shinyChance": 2,
+        "disableModifiers": true,
+        "rainbowChance": 2,
+        "name": "Exclusive Googly Egg",
+        "pets": [
+          [
+            "Googly Corgi",
+            50
+          ],
+          [
+            "Googly Cat",
+            35
+          ],
+          [
+            "Googly Shark",
+            13
+          ],
+          [
+            "Huge Googly Corgi",
+            1.5
+          ],
+          [
+            "Huge Googly Shark",
+            0.39
+          ],
+          [
+            "Titanic Googly Blobfish",
+            0.1
+          ],
+          [
+            "Gargantuan Googly Agony",
+            0.01
+          ]
+        ],
+        "goldChance": 0,
+        "icon": "rbxassetid://87034502118666"
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "5 | Stunt Egg",
+      "category": "CannonTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "CannonTycoonCoins",
+        "name": "Stunt Egg",
+        "overrideCost": 2500,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Stunt Corgi": "EggMultiplier_I1"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Plane Dragon",
+            90
+          ],
+          [
+            "Torpedo Shepherd",
+            9.996796
+          ],
+          [
+            "Stunt Corgi",
+            0.05
+          ],
+          [
+            "Stunt Cat",
+            0.003,
+            "Great"
+          ],
+          [
+            "Fireball Cat",
+            0.0003,
+            "Insane"
+          ],
+          [
+            "Huge Stunt Corgi",
+            1e-05,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Exclusive Egg 44",
+      "category": "Exclusive Eggs",
+      "configData": {
+        "disableGold": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "rainbowChance": 2,
+        "shinyChance": 2,
+        "disableRainbow": false,
+        "name": "Exclusive Matryoshka Egg",
+        "productIds": {
+          "Exclusive Egg": 2760222141,
+          "3 Exclusive Eggs": 2760237452,
+          "100 Exclusive Eggs": 2760265084,
+          "10 Exclusive Eggs": 2760253306
+        },
+        "pets": [
+          [
+            "Matryoshka Capybara",
+            50
+          ],
+          [
+            "Matryoshka Fox",
+            35
+          ],
+          [
+            "Matryoshka Dino",
+            13
+          ],
+          [
+            "Huge Matryoshka Capybara",
+            1.5
+          ],
+          [
+            "Huge Matryoshka Dino",
+            0.39
+          ],
+          [
+            "Titanic Matryoshka Cat",
+            0.1
+          ],
+          [
+            "Gargantuan Matryoshka Bear",
+            0.01
+          ]
+        ],
+        "goldChance": 0,
+        "icon": "rbxassetid://127054123305927",
+        "disableModifiers": true
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "6 | Wild Fire Egg",
+      "category": "CannonTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "CannonTycoonCoins",
+        "name": "Wild Fire Egg",
+        "overrideCost": 10000,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Fireball Cat",
+            90
+          ],
+          [
+            "Springy Axolotl",
+            10
+          ],
+          [
+            "Parachute Monkey",
+            1
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "7 | Wild Frost Egg",
+      "category": "CannonTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "CannonTycoonCoins",
+        "name": "Wild Frost Egg",
+        "overrideCost": 50000,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Parachute Monkey",
+            90
+          ],
+          [
+            "Jetpack Tiger",
+            10
+          ],
+          [
+            "Wild Frost Agony",
+            1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "8 | Wild Galaxy Egg",
+      "category": "CannonTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "CannonTycoonCoins",
+        "name": "Wild Galaxy Egg",
+        "overrideCost": 250000,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Parachute Monkey": "EggMultiplier_I1"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Jetpack Tiger",
+            90
+          ],
+          [
+            "Wild Frost Agony",
+            10
+          ],
+          [
+            "Wild Fire Agony",
+            0.05,
+            "Great"
+          ],
+          [
+            "Wild Galaxy Agony",
+            0.0001,
+            "Insane"
+          ],
+          [
+            "Huge Parachute Monkey",
+            6e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Active Huge Egg",
+      "category": "Machine Eggs",
+      "configData": {
+        "disableGold": false,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableRainbow": false,
+        "shinyChance": 2,
+        "disableModifiers": true,
+        "rainbowChance": 2,
+        "name": "Active Huge Egg",
+        "pets": [
+          [
+            "Huge Beaver",
+            1
+          ],
+          [
+            "Huge Skateboard Bulldog",
+            1
+          ],
+          [
+            "Huge Zebra",
+            1
+          ],
+          [
+            "Huge Knight Beagle",
+            1
+          ]
+        ],
+        "goldChance": 5,
+        "icon": "rbxassetid://16756521111"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Valentines Present",
+      "category": "Exclusive Eggs",
+      "configData": {
+        "disableGold": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableRainbow": false,
+        "shinyChance": 2,
+        "disableModifiers": true,
+        "rainbowChance": 2,
+        "name": "Valentine's Present",
+        "pets": [
+          [
+            "Valentines Dominus",
+            50
+          ],
+          [
+            "Lovemelon",
+            35
+          ],
+          [
+            "Valentines Angelus",
+            13
+          ],
+          [
+            "Huge Valentines Dominus",
+            1.5
+          ],
+          [
+            "Huge Valentines Angelus",
+            0.4
+          ],
+          [
+            "Titanic M-14 PROTOTYPE",
+            0.1
+          ]
+        ],
+        "goldChance": 0,
+        "icon": "rbxassetid://78947231277939"
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "0 | Love Tower Egg",
+      "category": "TowerTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "ValentinesCoins",
+        "name": "Love Tower Egg",
+        "overrideCost": 250,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Pink Poodle",
+            90
+          ],
+          [
+            "Valentines Bee",
+            10
+          ],
+          [
+            "Cupcake Hamster",
+            0.1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "1 | Arrow Egg",
+      "category": "TowerTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "ValentinesCoins",
+        "name": "Arrow Egg",
+        "overrideCost": 250,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Valentines Bear": "ValHuge1"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Pink Poodle",
+            90
+          ],
+          [
+            "Valentines Bee",
+            10
+          ],
+          [
+            "Cupcake Hamster",
+            0.1,
+            "Nice"
+          ],
+          [
+            "Huge Valentines Bear",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "2 | Cupid Egg",
+      "category": "TowerTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "ValentinesCoins",
+        "name": "Cupid Egg",
+        "overrideCost": 250,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Valentines Bear": "ValHuge1"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Valentines Bee",
+            90
+          ],
+          [
+            "Cupcake Hamster",
+            10
+          ],
+          [
+            "Valentines Bear",
+            0.1,
+            "Nice"
+          ],
+          [
+            "Huge Valentines Bear",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "3 | Valentine Heart Egg",
+      "category": "TowerTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "ValentinesCoins",
+        "name": "Valentine Heart Egg",
+        "overrideCost": 250,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Valentines Bear": "ValHuge1"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Cupcake Hamster",
+            90
+          ],
+          [
+            "Valentines Bear",
+            10
+          ],
+          [
+            "Love Cow",
+            0.1,
+            "Nice"
+          ],
+          [
+            "Huge Valentines Bear",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "4 | Valentine Bow Egg",
+      "category": "TowerTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "ValentinesCoins",
+        "name": "Valentine Bow Egg",
+        "overrideCost": 250,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Valentines Bear": "ValHuge1"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Valentines Bear",
+            90
+          ],
+          [
+            "Love Cow",
+            10
+          ],
+          [
+            "Valentines Owl",
+            0.1,
+            "Nice"
+          ],
+          [
+            "Huge Valentines Bear",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "5 | Valentine Cupcake Egg",
+      "category": "TowerTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "ValentinesCoins",
+        "name": "Valentine Cupcake Egg",
+        "overrideCost": 250,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Valentines Bear": "ValHuge1"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Love Cow",
+            89.05
+          ],
+          [
+            "Valentines Owl",
+            10
+          ],
+          [
+            "Love Lion",
+            1,
+            "Nice"
+          ],
+          [
+            "Rose Cat",
+            0.005,
+            "Insane"
+          ],
+          [
+            "Valentines Unicorn",
+            5e-05,
+            "Insane"
+          ],
+          [
+            "Huge Valentines Bear",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "6 | Valentine Cupcake Egg 2",
+      "category": "TowerTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "ValentinesCoins",
+        "name": "Valentine Cupcake Egg",
+        "overrideCost": 250,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Love Corgi": "ValHuge2",
+          "Huge Valentines Bear": "ValHuge1"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Love Cow",
+            89.05
+          ],
+          [
+            "Valentines Owl",
+            10
+          ],
+          [
+            "Love Lion",
+            1,
+            "Nice"
+          ],
+          [
+            "Rose Cat",
+            0.005,
+            "Insane"
+          ],
+          [
+            "Valentines Unicorn",
+            5e-05,
+            "Insane"
+          ],
+          [
+            "Huge Valentines Bear",
+            1.2e-06,
+            "Insane"
+          ],
+          [
+            "Huge Love Corgi",
+            3e-07,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "7 | Valentine Cupcake Egg 3",
+      "category": "TowerTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "ValentinesCoins",
+        "name": "Valentine Cupcake Egg",
+        "overrideCost": 250,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Love Corgi": "ValHuge2",
+          "Titanic Love Corgi": "ValTitanic1",
+          "Huge Valentines Bear": "ValHuge1"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Love Cow",
+            89.05
+          ],
+          [
+            "Valentines Owl",
+            10
+          ],
+          [
+            "Love Lion",
+            1,
+            "Nice"
+          ],
+          [
+            "Rose Cat",
+            0.005,
+            "Insane"
+          ],
+          [
+            "Valentines Unicorn",
+            5e-05,
+            "Insane"
+          ],
+          [
+            "Huge Valentines Bear",
+            1.2e-06,
+            "Insane"
+          ],
+          [
+            "Huge Love Corgi",
+            3e-07,
+            "Insane"
+          ],
+          [
+            "Titanic Love Corgi",
+            1.5e-08,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Active Huge Egg",
+      "category": "Machine Eggs",
+      "configData": {
+        "disableGold": false,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableRainbow": false,
+        "shinyChance": 2,
+        "disableModifiers": true,
+        "rainbowChance": 2,
+        "name": "Active Huge Egg",
+        "pets": [
+          [
+            "Huge Shadow Dominus",
+            1
+          ],
+          [
+            "Huge Red Panda",
+            1
+          ],
+          [
+            "Huge Punksky",
+            1
+          ],
+          [
+            "Huge Skateboard Bulldog",
+            1
+          ]
+        ],
+        "goldChance": 5,
+        "icon": "rbxassetid://16756521111"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Exclusive Egg 44",
+      "category": "Exclusive Eggs",
+      "configData": {
+        "disableGold": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableRainbow": false,
+        "shinyChance": 2,
+        "disableModifiers": true,
+        "rainbowChance": 2,
+        "name": "Exclusive Matryoshka Egg",
+        "pets": [
+          [
+            "Matryoshka Capybara",
+            50
+          ],
+          [
+            "Matryoshka Fox",
+            35
+          ],
+          [
+            "Matryoshka Dino",
+            13
+          ],
+          [
+            "Huge Matryoshka Capybara",
+            1.5
+          ],
+          [
+            "Huge Matryoshka Dino",
+            0.39
+          ],
+          [
+            "Titanic Matryoshka Cat",
+            0.1
+          ],
+          [
+            "Gargantuan Matryoshka Bear",
+            0.01
+          ]
+        ],
+        "goldChance": 0,
+        "icon": "rbxassetid://127054123305927"
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "0 | Love Tower Egg",
+      "category": "TowerTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "ValentinesCoins",
+        "name": "Love Tower Egg",
+        "overrideCost": 250,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Valentines Sloth",
+            90
+          ],
+          [
+            "Rose Garden Cat",
+            10
+          ],
+          [
+            "Raining Love Dog",
+            0.1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Exclusive Egg 45",
+      "category": "Exclusive Eggs",
+      "configData": {
+        "disableGold": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "rainbowChance": 2,
+        "shinyChance": 2,
+        "disableRainbow": false,
+        "name": "Exclusive Jurassic Egg",
+        "productIds": {
+          "Exclusive Egg": 3030460554,
+          "3 Exclusive Eggs": 3030460761,
+          "100 Exclusive Eggs": 3030461170,
+          "10 Exclusive Eggs": 3030460968
+        },
+        "pets": [
+          [
+            "Jurassic Crocodile",
+            50
+          ],
+          [
+            "Jurassic Elephant",
+            35
+          ],
+          [
+            "Jurassic Beaver",
+            13
+          ],
+          [
+            "Huge Jurassic Crocodile",
+            1.5
+          ],
+          [
+            "Huge Jurassic Beaver",
+            0.39
+          ],
+          [
+            "Titanic Jurassic Feline",
+            0.1
+          ],
+          [
+            "Gargantuan Jurassic Dragon",
+            0.01
+          ]
+        ],
+        "goldChance": 0,
+        "icon": "rbxassetid://88086887334640",
+        "disableModifiers": true
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "1 | Valentine Cupcake Egg",
+      "category": "TowerTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "extraPetsClient": null,
+        "isCustomEgg": true,
+        "extraPetsServer": null,
+        "pets": [
+          [
+            "Valentines Sloth",
+            90
+          ],
+          [
+            "Rose Garden Cat",
+            10
+          ],
+          [
+            "Raining Love Dog",
+            0.1,
+            "Nice"
+          ],
+          [
+            "Huge Heartbreak Fairy",
+            1.2e-06,
+            "Insane"
+          ]
+        ],
+        "currency": "ValentinesCoins",
+        "name": "Valentine Cupcake Egg",
+        "overrideCost": 250,
+        "oddsFFlags": {
+          "Huge Heartbreak Fairy": "ValHuge1",
+          "Huge Shattered Heart Agony": "ValHuge3"
+        },
+        "icon": "rbxassetid://15172355963"
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "2 | Valentine Rose Egg",
+      "category": "TowerTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "extraPetsClient": null,
+        "isCustomEgg": true,
+        "extraPetsServer": null,
+        "pets": [
+          [
+            "Rose Garden Cat",
+            90
+          ],
+          [
+            "Raining Love Dog",
+            10
+          ],
+          [
+            "Valentines Axolotl",
+            0.1,
+            "Nice"
+          ],
+          [
+            "Huge Heartbreak Fairy",
+            1.2e-06,
+            "Insane"
+          ]
+        ],
+        "currency": "ValentinesCoins",
+        "name": "Valentine Rose Egg",
+        "overrideCost": 250,
+        "oddsFFlags": {
+          "Huge Heartbreak Fairy": "ValHuge1",
+          "Huge Shattered Heart Agony": "ValHuge3"
+        },
+        "icon": "rbxassetid://15172355963"
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "3 | Valentine Ice Cream Egg",
+      "category": "TowerTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "extraPetsClient": null,
+        "isCustomEgg": true,
+        "extraPetsServer": null,
+        "pets": [
+          [
+            "Raining Love Dog",
+            90
+          ],
+          [
+            "Valentines Axolotl",
+            10
+          ],
+          [
+            "Heartbreak Fairy",
+            0.1,
+            "Nice"
+          ],
+          [
+            "Huge Heartbreak Fairy",
+            1.2e-06,
+            "Insane"
+          ]
+        ],
+        "currency": "ValentinesCoins",
+        "name": "Valentine Ice Cream Egg",
+        "overrideCost": 250,
+        "oddsFFlags": {
+          "Huge Heartbreak Fairy": "ValHuge1",
+          "Huge Shattered Heart Agony": "ValHuge3"
+        },
+        "icon": "rbxassetid://15172355963"
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "4 | Valentine Jar Egg",
+      "category": "TowerTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "extraPetsClient": null,
+        "isCustomEgg": true,
+        "extraPetsServer": null,
+        "pets": [
+          [
+            "Valentines Axolotl",
+            90
+          ],
+          [
+            "Heartbreak Fairy",
+            10
+          ],
+          [
+            "Mr. Love Cat",
+            0.1,
+            "Nice"
+          ],
+          [
+            "Huge Heartbreak Fairy",
+            1.2e-06,
+            "Insane"
+          ]
+        ],
+        "currency": "ValentinesCoins",
+        "name": "Valentine Jar Egg",
+        "overrideCost": 250,
+        "oddsFFlags": {
+          "Huge Heartbreak Fairy": "ValHuge1",
+          "Huge Shattered Heart Agony": "ValHuge3"
+        },
+        "icon": "rbxassetid://15172355963"
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "5 | Valentine Present Egg",
+      "category": "TowerTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "extraPetsClient": null,
+        "isCustomEgg": true,
+        "extraPetsServer": null,
+        "pets": [
+          [
+            "Heartbreak Fairy",
+            89.05
+          ],
+          [
+            "Mr. Love Cat",
+            10
+          ],
+          [
+            "Love Peacock",
+            1,
+            "Nice"
+          ],
+          [
+            "Shattered Heart Agony",
+            0.005,
+            "Insane"
+          ],
+          [
+            "Loveserker",
+            5e-05,
+            "Insane"
+          ],
+          [
+            "Huge Heartbreak Fairy",
+            1.2e-06,
+            "Insane"
+          ]
+        ],
+        "currency": "ValentinesCoins",
+        "name": "Valentine Present Egg",
+        "overrideCost": 250,
+        "oddsFFlags": {
+          "Huge Heartbreak Fairy": "ValHuge1",
+          "Huge Shattered Heart Agony": "ValHuge3"
+        },
+        "icon": "rbxassetid://15172355963"
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "7 | Valentine Present Egg 3",
+      "category": "TowerTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "extraPetsClient": null,
+        "isCustomEgg": true,
+        "extraPetsServer": null,
+        "pets": [
+          [
+            "Love Cow",
+            89.05
+          ],
+          [
+            "Valentines Owl",
+            10
+          ],
+          [
+            "Love Lion",
+            1,
+            "Nice"
+          ],
+          [
+            "Rose Cat",
+            0.005,
+            "Insane"
+          ],
+          [
+            "Valentines Unicorn",
+            5e-05,
+            "Insane"
+          ],
+          [
+            "Huge Heartbreak Fairy",
+            1.2e-06,
+            "Insane"
+          ],
+          [
+            "Huge Love Corgi",
+            2.4000000000000003e-07,
+            "Insane"
+          ],
+          [
+            "Titanic Loveserker",
+            1.5e-08,
+            "Insane"
+          ]
+        ],
+        "currency": "ValentinesCoins",
+        "name": "Valentine Present Egg 3",
+        "overrideCost": 250,
+        "oddsFFlags": {
+          "Huge Heartbreak Fairy": "ValHuge1",
+          "Huge Love Corgi": "ValHuge2",
+          "Huge Shattered Heart Agony": "ValHuge3",
+          "Titanic Loveserker": "ValTitanic1"
+        },
+        "icon": "rbxassetid://15172355963"
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "6 | Valentine Present Egg 2",
+      "category": "TowerTycoon",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "extraPetsClient": null,
+        "isCustomEgg": true,
+        "extraPetsServer": null,
+        "pets": [
+          [
+            "Love Cow",
+            89.05
+          ],
+          [
+            "Valentines Owl",
+            10
+          ],
+          [
+            "Love Lion",
+            1,
+            "Nice"
+          ],
+          [
+            "Rose Cat",
+            0.005,
+            "Insane"
+          ],
+          [
+            "Valentines Unicorn",
+            5e-05,
+            "Insane"
+          ],
+          [
+            "Huge Heartbreak Fairy",
+            1.2e-06,
+            "Insane"
+          ],
+          [
+            "Huge Loveserker",
+            2.4000000000000003e-07,
+            "Insane"
+          ]
+        ],
+        "currency": "ValentinesCoins",
+        "name": "Valentine Present Egg 2",
+        "overrideCost": 250,
+        "oddsFFlags": {
+          "Huge Heartbreak Fairy": "ValHuge1",
+          "Huge Loveserker": "ValHuge2",
+          "Huge Shattered Heart Agony": "ValHuge3"
+        },
+        "icon": "rbxassetid://15172355963"
+      },
+      "collection": "Eggs"
     }
   ]
 }

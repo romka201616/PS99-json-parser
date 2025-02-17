@@ -1229,6 +1229,60 @@
       "dateModified": null,
       "dateCreated": null,
       "collection": "Potions"
+    },
+    {
+      "configName": "Potion | The Cocktail",
+      "category": "Potions",
+      "configData": {
+        "Tiers": [
+          {
+            "Rarity": {
+              "RarityNumber": 8,
+              "Lootbag": null,
+              "_id": "Superior",
+              "Color": null,
+              "DisplayName": "Superior",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": true,
+              "_script": null
+            },
+            "Power": 1,
+            "Desc": "Temporarily increases:\n- Coins by 200%\n- Diamonds by 50%\n- Damage by 100%\n- Egg luck by 300%\n- Item drops by 100%\n- Walkspeed by 50%!",
+            "Time": 1800,
+            "Icon": "rbxassetid://15245389767",
+            "DisplayName": "The Cocktail"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 9,
+              "Lootbag": null,
+              "_id": "Celestial",
+              "Color": null,
+              "DisplayName": "Celestial",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": true,
+              "_script": null
+            },
+            "Power": 2,
+            "Desc": "Temporarily increases:\n- Coins by 300%\n- Diamonds by 100%\n- Damage by 150%\n- Egg luck by 400%\n- Item drops by 150%\n- Walkspeed by 75%!",
+            "Time": 1800,
+            "Icon": "rbxassetid://88218761146440",
+            "DisplayName": "The Cocktail II"
+          }
+        ],
+        "PrimaryColor": "#FFF6D3",
+        "MaxTier": 2,
+        "SecondaryColor": "#FDFFCE",
+        "BaseTier": 1
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Potions"
     }
   ]
 }

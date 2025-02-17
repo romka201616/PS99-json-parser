@@ -31022,6 +31022,1132 @@
         "thumbnail": "rbxassetid://116697842764654"
       },
       "collection": "Pets"
+    },
+    {
+      "configName": "Huge Player Corgi",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://137486887432785",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Player Corgi",
+        "indexDesc": "Earned from the Pet Games inside Pet Games Gifts and leaderboard contest!",
+        "thumbnail": "rbxassetid://120748568564871"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Guard Hydra",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://71562430342400",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Guard Hydra",
+        "indexDesc": "Found in The Spotlight Pack!",
+        "thumbnail": "rbxassetid://79622017350328"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Player Penguin",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://132921278503250",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Player Penguin",
+        "indexDesc": "Reward in the Pet Games leaderboard contest!",
+        "thumbnail": "rbxassetid://121118923201338"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Fireball Cat",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968237505",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          212825773450203
+        ],
+        "name": "Fireball Cat",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968237630"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Wild Galaxy Agony",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://117737726684564",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Wild Galaxy Agony",
+        "fly": true,
+        "indexDesc": "Found in the Cannon Tycoon's Pack!",
+        "thumbnail": "rbxassetid://126232720900762"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Wild Corrupt Agony",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://73337213578536",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Wild Corrupt Agony",
+        "fly": true,
+        "indexDesc": "Found in the Cannon Tycoon's Part 2 frost boss chest while corrupt!",
+        "thumbnail": "rbxassetid://83829095123136"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Wild Frost Agony",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://89869158958989",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Wild Frost Agony",
+        "fly": true,
+        "indexDesc": "Found in the Cannon Tycoon's Part 2 frost boss chest",
+        "thumbnail": "rbxassetid://80433316929327"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Parachute Monkey",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://86115039165426",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Parachute Monkey",
+        "fly": true,
+        "indexDesc": "Found in the Cannon Tycoon's final egg!",
+        "thumbnail": "rbxassetid://137651133282362"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Matryoshka Dino",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "matryoshka": true,
+        "name": "Huge Matryoshka Dino",
+        "indexDesc": "Found in the Exclusive Matryoshka Egg!",
+        "huge": true,
+        "thumbnail": "rbxassetid://130741332412242"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Matryoshka Capybara",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "matryoshka": true,
+        "name": "Huge Matryoshka Capybara",
+        "indexDesc": "Found in the Exclusive Matryoshka Egg!",
+        "huge": true,
+        "thumbnail": "rbxassetid://135978924000516"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Bobcat",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://96870501648318",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Bobcat",
+        "indexDesc": "Found by using the Breakable Mayhem Enchant!",
+        "thumbnail": "rbxassetid://117053043329448"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Jetpack Tiger",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://135359972353104",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Jetpack Tiger",
+        "fly": true,
+        "indexDesc": "Reward in the Cannon Tycoon's leaderboard contest!",
+        "thumbnail": "rbxassetid://124866391707961"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Nyan Cat",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://132365962948483",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Nyan Cat",
+        "indexDesc": "Found in The Forever Pack!",
+        "thumbnail": "rbxassetid://111205928887511"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Wild Frost Agony",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://119488969070522",
+        "indexObtainable": true,
+        "name": "Titanic Wild Frost Agony",
+        "fly": true,
+        "indexDesc": "Found in the Cannon Tycoon's Part 2 boss chest!",
+        "thumbnail": "rbxassetid://116274982839546"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Wild Corrupt Agony",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://113375608897979",
+        "indexObtainable": true,
+        "name": "Titanic Wild Corrupt Agony",
+        "fly": true,
+        "indexDesc": "Found in the Cannon Tycoon's Part 2 boss chest while corrupt!",
+        "thumbnail": "rbxassetid://103464099228930"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Matryoshka Cat",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "matryoshka": true,
+        "name": "Titanic Matryoshka Cat",
+        "indexDesc": "Found in the Exclusive Matryoshka Egg!",
+        "thumbnail": "rbxassetid://113135543154400"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Bobcat",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://105026104970425",
+        "indexObtainable": true,
+        "name": "Titanic Bobcat",
+        "indexDesc": "Found by using the Breakable Mayhem Enchant!",
+        "thumbnail": "rbxassetid://93912731395332"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Nyan Cat",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://91708546556743",
+        "indexObtainable": true,
+        "name": "Titanic Nyan Cat",
+        "indexDesc": "Found in The Forever Pack!",
+        "thumbnail": "rbxassetid://102693200913432"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Springy Axolotl",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968337458",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          211609626173345
+        ],
+        "name": "Springy Axolotl",
+        "thumbnail": "rbxassetid://14968337554"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Parachute Monkey",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968294811",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          214041920727062
+        ],
+        "name": "Parachute Monkey",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968294961"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Wild Fire Agony",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968360181",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          217690362557636
+        ],
+        "name": "Wild Fire Agony",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968360279"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Wild Frost Agony",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968360411",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          216474215280779
+        ],
+        "name": "Wild Frost Agony",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968360564"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Jetpack Tiger",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968267030",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          215258068003920
+        ],
+        "name": "Jetpack Tiger",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968267180"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Wild Galaxy Agony",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://91942668438575",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          218906509834495
+        ],
+        "name": "Wild Galaxy Agony",
+        "fly": true,
+        "thumbnail": "rbxassetid://126907949611923"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Matryoshka Capybara",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "",
+        "matryoshka": true,
+        "name": "Matryoshka Capybara",
+        "exclusiveLevel": 3,
+        "thumbnail": "rbxassetid://114701135093781"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Matryoshka Dino",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "",
+        "matryoshka": true,
+        "name": "Matryoshka Dino",
+        "exclusiveLevel": 1,
+        "thumbnail": "rbxassetid://89272517128125"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Matryoshka Fox",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "",
+        "matryoshka": true,
+        "name": "Matryoshka Fox",
+        "exclusiveLevel": 2,
+        "thumbnail": "rbxassetid://92313476700380"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Gargantuan Matryoshka Bear",
+      "category": "Gargantuan",
+      "configData": {
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "matryoshka": true,
+        "name": "Gargantuan Matryoshka Bear",
+        "thumbnail": "rbxassetid://96710812218566",
+        "indexDesc": "Found in the Exclusive Matryoshka Egg!\n\nGround Slam - Pet will damage breakables in a large area!",
+        "gargantuan": true
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Nyan Cat",
+      "category": "Uncategorized",
+      "configData": {
+        "exclusiveLevel": 2,
+        "goldenThumbnail": "rbxassetid://14968293066",
+        "name": "Nyan Cat",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968293166"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Nyan Cat",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://132365962948483",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Nyan Cat",
+        "fly": true,
+        "indexDesc": "Found in The Forever Pack!",
+        "thumbnail": "rbxassetid://111205928887511"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Nyan Cat",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://91708546556743",
+        "indexObtainable": true,
+        "name": "Titanic Nyan Cat",
+        "fly": true,
+        "indexDesc": "Found in The Forever Pack!",
+        "thumbnail": "rbxassetid://102693200913432"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Matryoshka Capybara",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "",
+        "matryoshka": true,
+        "name": "Matryoshka Capybara",
+        "exclusiveLevel": 1,
+        "thumbnail": "rbxassetid://114701135093781"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Matryoshka Dino",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "",
+        "matryoshka": true,
+        "name": "Matryoshka Dino",
+        "exclusiveLevel": 3,
+        "thumbnail": "rbxassetid://89272517128125"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Holographic Monkey",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://85649029224909",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Holographic Monkey",
+        "indexDesc": "Reward in the 2025 Holographic Clan Battle!",
+        "thumbnail": "rbxassetid://77505723512124"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Valentines Dominus",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://127420449429711",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Valentine's Dominus",
+        "indexDesc": "Found in the Exclusive Valentine's Present!",
+        "thumbnail": "rbxassetid://79026289241532"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Valentines Angelus",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://88177467277036",
+        "animations": {
+          "angelusSpin": true
+        },
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Valentine's Angelus",
+        "fly": true,
+        "indexDesc": "Found in the Exclusive Valentine's Present!",
+        "thumbnail": "rbxassetid://74709418271997"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Love Lion",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://74187995856303",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Love Lion",
+        "indexDesc": "Found in the Valentine's event leaderboard contest!",
+        "thumbnail": "rbxassetid://123099034281785"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Rose Cat",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://140234251678055",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Rose Cat",
+        "indexDesc": "Found in the Valentine's event Forever Pack!",
+        "thumbnail": "rbxassetid://103846288511073"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Love Corgi",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://82277453440240",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Love Corgi",
+        "fly": true,
+        "indexDesc": "Found in the Valentine's event eggs!",
+        "thumbnail": "rbxassetid://112650153241543"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Valentines Bear",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://77123412302383",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Valentine's Bear",
+        "indexDesc": "Found in the Valentine's event eggs!",
+        "thumbnail": "rbxassetid://140051319290107"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Valentines Unicorn",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://102569440945030",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Valentine's Unicorn",
+        "indexDesc": "Found in the Love Gift Bag!",
+        "thumbnail": "rbxassetid://87559926254835"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic M-14 PROTOTYPE",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://80355751274594",
+        "indexObtainable": true,
+        "flyingTitanic": true,
+        "name": "Titanic M-14 PROTOTYPE",
+        "flyingTitanicAlwaysFly": true,
+        "fly": true,
+        "indexDesc": "Found in the Exclusive Valentine's Present!",
+        "thumbnail": "rbxassetid://99810281877777"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Love Corgi",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://120237492042364",
+        "indexObtainable": true,
+        "name": "Titanic Love Corgi",
+        "fly": true,
+        "indexDesc": "Found in the Valentine's event eggs!",
+        "thumbnail": "rbxassetid://124293758484647"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Lovemelon",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968275024",
+        "name": "Lovemelon",
+        "exclusiveLevel": 2,
+        "thumbnail": "rbxassetid://14968275107"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Valentines Bear",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968356962",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          211609626173345
+        ],
+        "name": "Valentine's Bear",
+        "thumbnail": "rbxassetid://14968357106"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Love Lion",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968274808",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          218906509834495
+        ],
+        "name": "Love Lion",
+        "thumbnail": "rbxassetid://14968274956"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Love Cow",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://18882337450",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          214041920727062
+        ],
+        "name": "Love Cow",
+        "fly": true,
+        "thumbnail": "rbxassetid://18882337248"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Valentines Angelus",
+      "category": "Uncategorized",
+      "configData": {
+        "exclusiveLevel": 3,
+        "goldenThumbnail": "rbxassetid://131927181078806",
+        "animations": {
+          "angelusSpin": true
+        },
+        "name": "Valentine's Angelus",
+        "fly": true,
+        "thumbnail": "rbxassetid://76082507412985"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Valentines Unicorn",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://100856494247409",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          224379172580357
+        ],
+        "name": "Valentine's Unicorn",
+        "thumbnail": "rbxassetid://71712994105333"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Valentines Dominus",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://132097085188024",
+        "name": "Valentine's Dominus",
+        "exclusiveLevel": 1,
+        "thumbnail": "rbxassetid://130758694104529"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Pink Poodle",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://96013114640415",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          204312742512195
+        ],
+        "name": "Pink Poodle",
+        "thumbnail": "rbxassetid://139531908890965"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Cupcake Hamster",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://110397938096589",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          209177331619628
+        ],
+        "name": "Cupcake Hamster",
+        "thumbnail": "rbxassetid://102832017803256"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Valentines Owl",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://70385382173968",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          216474215280779
+        ],
+        "name": "Valentine's Owl",
+        "thumbnail": "rbxassetid://122568617432041"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Valentines Bee",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://133678056932154",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          206745037065912
+        ],
+        "name": "Valentine's Bee",
+        "fly": true,
+        "thumbnail": "rbxassetid://136715267522591"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Rose Cat",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://109927584502797",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          221642841207426
+        ],
+        "name": "Rose Cat",
+        "thumbnail": "rbxassetid://133173780447865"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Heartbreak Fairy",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://105863710772900",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Heartbreak Fairy",
+        "fly": true,
+        "indexDesc": "Found in the Valentine's event eggs!",
+        "thumbnail": "rbxassetid://129589212875010"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Loveserker",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://130278222124258",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Loveserker",
+        "indexDesc": "Found in the Valentine's event eggs!",
+        "thumbnail": "rbxassetid://100447142740271"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Shattered Heart Agony",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://70688409780639",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Shattered Heart Agony",
+        "fly": true,
+        "indexDesc": "Found in the Valentine's event eggs when Tower Rebirth Tokens are used!",
+        "thumbnail": "rbxassetid://129768641287127"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Valentines Axolotl",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://103926492701156",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Valentine's Axolotl",
+        "indexDesc": "Earned from Tower Tycoon's huge raffles!",
+        "thumbnail": "rbxassetid://92646115385136"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Raining Love Dog",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://73592474964251",
+        "animations": {
+          "flyHeight": 1,
+          "flyHeightChange": 4,
+          "flySpeed": 0.4
+        },
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Raining Love Dog",
+        "fly": true,
+        "indexDesc": "Found in the Valentine's event leaderboard contest!",
+        "thumbnail": "rbxassetid://73797455811877"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Love Peacock",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://76058926787368",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Love Peacock",
+        "indexDesc": "Found in the Valentine's event Forever Pack!",
+        "thumbnail": "rbxassetid://126019438810546"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Jurassic Crocodile",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Jurassic Crocodile",
+        "indexDesc": "Found in the Exclusive Jurassic Egg!",
+        "exclusiveLevel": 1,
+        "thumbnail": "rbxassetid://116989921255882"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Jurassic Beaver",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Jurassic Beaver",
+        "indexDesc": "Found in the Exclusive Jurassic Egg!",
+        "exclusiveLevel": 3,
+        "thumbnail": "rbxassetid://97754526096215"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Loveserker",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://128784734873882",
+        "indexObtainable": true,
+        "name": "Titanic Loveserker",
+        "indexDesc": "Found in the Valentine's event eggs!",
+        "thumbnail": "rbxassetid://134671434987896"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Valentines Axolotl",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://113009280752079",
+        "indexObtainable": true,
+        "name": "Titanic Valentine's Axolotl",
+        "indexDesc": "Earned from Tower Tycoon's huge raffles!",
+        "thumbnail": "rbxassetid://123399141850216"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Jurassic Feline",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "name": "Titanic Jurassic Feline",
+        "indexDesc": "Found in the Exclusive Jurassic Egg!",
+        "thumbnail": "rbxassetid://129218443079434"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Heartbreak Fairy",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://108341702816726",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          218906509834495
+        ],
+        "name": "Heartbreak Fairy",
+        "fly": true,
+        "thumbnail": "rbxassetid://138024894421618"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Valentines Axolotl",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://129518008885595",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          216474215280779
+        ],
+        "name": "Valentine's Axolotl",
+        "thumbnail": "rbxassetid://82287408719437"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Valentines Sloth",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://86400756511805",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          209177331619628
+        ],
+        "name": "Valentine's Sloth",
+        "thumbnail": "rbxassetid://126268185920724"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Love Peacock",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://70706051226604",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          224379172580357
+        ],
+        "name": "Love Peacock",
+        "thumbnail": "rbxassetid://138181621351068"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Mr. Love Cat",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://71675287519496",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          221642841207426
+        ],
+        "name": "Mr. Love Cat",
+        "thumbnail": "rbxassetid://111640322548502"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Shattered Heart Agony",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://72157730821813",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          227115503953289
+        ],
+        "name": "Shattered Heart Agony",
+        "fly": true,
+        "thumbnail": "rbxassetid://131484910764396"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Rose Garden Cat",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://99592890399210",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          211609626173345
+        ],
+        "name": "Rose Garden Cat",
+        "thumbnail": "rbxassetid://113685692492564"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Loveserker",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://93289590221840",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          229851835326220
+        ],
+        "name": "Loveserker",
+        "thumbnail": "rbxassetid://99157504737014"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Raining Love Dog",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://87654641806891",
+        "animations": {
+          "flyHeight": 1,
+          "flyHeightChange": 4,
+          "flySpeed": 0.4
+        },
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          214041920727062
+        ],
+        "name": "Raining Love Dog",
+        "fly": true,
+        "thumbnail": "rbxassetid://138339975683307"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Jurassic Beaver",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "",
+        "name": "Jurassic Beaver",
+        "exclusiveLevel": 3,
+        "thumbnail": "rbxassetid://113378775323433"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Jurassic Crocodile",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "",
+        "name": "Jurassic Crocodile",
+        "exclusiveLevel": 1,
+        "thumbnail": "rbxassetid://139858822372179"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Jurassic Elephant",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "",
+        "name": "Jurassic Elephant",
+        "exclusiveLevel": 2,
+        "thumbnail": "rbxassetid://121229772863082"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Gargantuan Jurassic Dragon",
+      "category": "Gargantuan",
+      "configData": {
+        "goldenThumbnail": "",
+        "animations": {
+          "idleActionAnimations": [
+            [
+              "CorgiJumping",
+              0.5
+            ]
+          ],
+          "customAnimations": true,
+          "ridingJumpPower": 125
+        },
+        "indexObtainable": true,
+        "flyingTitanic": true,
+        "gargantuan": true,
+        "name": "Gargantuan Jurassic Dragon",
+        "thumbnail": "rbxassetid://135125751282892",
+        "fly": true,
+        "indexDesc": "Found in the Exclusive Jurassic Egg!\n\nGround Slam - Pet will damage breakables in a large area!"
+      },
+      "collection": "Pets"
     }
   ]
 }

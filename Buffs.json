@@ -344,6 +344,32 @@
         "IgnoreInstancePause": true
       },
       "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Lucky Tile",
+      "category": "Lucky Tile Event",
+      "configData": {
+        "DisplayName": "Lucky Tile Boost",
+        "AssociatedItemID": "Lucky Tile",
+        "StackMode": true,
+        "Length": 1,
+        "AssociatedItemClass": "Misc",
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Ultra Lucky Tile",
+      "category": "Lucky Tile Event",
+      "configData": {
+        "DisplayName": "Ultra Lucky Tile Boost",
+        "AssociatedItemID": "Ultra Lucky Tile",
+        "StackMode": true,
+        "Length": 1,
+        "AssociatedItemClass": "Misc",
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
     }
   ]
 }
