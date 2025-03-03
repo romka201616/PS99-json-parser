@@ -358,6 +358,49 @@
         "MachineName": "PetCubeStore"
       },
       "collection": "Merchants"
+    },
+    {
+      "configName": "PackMerchant",
+      "category": "Merchants",
+      "configData": {
+        "PriceMult": 1,
+        "GetOffers": null,
+        "DisplayName": "Pack Merchant",
+        "StockRangeByRespectLevel": [
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ]
+        ],
+        "MachineName": "PackMerchant",
+        "SlotRespectLevels": [
+          1,
+          1,
+          2,
+          2,
+          3,
+          5
+        ],
+        "HasAccess": null,
+        "RefreshRate": 600
+      },
+      "collection": "Merchants"
     }
   ]
 }

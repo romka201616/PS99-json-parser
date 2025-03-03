@@ -1790,6 +1790,80 @@
         }
       },
       "collection": "GuildBattles"
+    },
+    {
+      "configName": "CardBattle",
+      "category": "GuildBattles",
+      "configData": {
+        "PlacementRewards": [
+          {
+            "Item": {
+              "_data": {
+                "id": "Clan Gift"
+              }
+            },
+            "Best": 1,
+            "Worst": 500
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Evil"
+              }
+            },
+            "Best": 1,
+            "Worst": 50
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Evil"
+              }
+            },
+            "Best": 1,
+            "Worst": 10
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Huge Evil Deer",
+                "pt": 2
+              }
+            },
+            "Best": 1,
+            "Worst": 1
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Huge Evil Deer",
+                "pt": 1
+              }
+            },
+            "Best": 2,
+            "Worst": 3
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Huge Evil Deer"
+              }
+            },
+            "Best": 4,
+            "Worst": 10
+          }
+        ],
+        "FinishTime": 1740762000,
+        "Title": "Evil Battle",
+        "StartTime": 1740243600,
+        "Rewards": {
+          "Good": [],
+          "Bronze": [],
+          "Silver": [],
+          "Gold": []
+        }
+      },
+      "collection": "GuildBattles"
     }
   ]
 }

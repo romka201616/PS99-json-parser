@@ -1,34 +1,34 @@
 {
   "data": [
     {
-      "configName": "Tower Rebirth Token",
+      "configName": "Upgrade Card",
       "category": "Event",
       "configData": {
-        "DisplayName": "Tower Rebirth Token",
+        "DisplayName": "Upgrade Card",
         "Rarity": {
-          "RarityNumber": 7,
+          "RarityNumber": 4,
           "Lootbag": null,
-          "_id": "Divine",
+          "_id": "Legendary",
           "Color": null,
-          "DisplayName": "Divine",
+          "DisplayName": "Legendary",
           "Message": null,
           "ItemSlot": null,
           "Gradient": null,
-          "Announce": true,
+          "Announce": false,
           "_script": null
         },
         "Category": "Event",
         "Tradable": false,
-        "Icon": "rbxassetid://82298514528405",
-        "Desc": "Earned from rebirthing your tower!\n\nEach token allows you to hatch the HUGE Shattered Heart Agony for 1 hour!"
+        "Icon": "rbxassetid://103039910052534",
+        "Desc": "Used to purchase Card Event Upgrades!"
       },
       "collection": "MiscItems"
     },
     {
-      "configName": "Tower Raffle Ticket",
+      "configName": "Card Shop Key",
       "category": "Event",
       "configData": {
-        "DisplayName": "Tower Raffle Ticket",
+        "DisplayName": "Card Shop Key",
         "Rarity": {
           "RarityNumber": 6,
           "Lootbag": null,
@@ -43,8 +43,8 @@
         },
         "Category": "Event",
         "Tradable": false,
-        "Icon": "rbxassetid://103699563240148",
-        "Desc": "Used to enter the Valentine's Tower Tycoon raffle!"
+        "Icon": "rbxassetid://120760084851780",
+        "Desc": "Unlocks the Card Merchant Area! Earned from the Card Index Rewards!"
       },
       "collection": "MiscItems"
     }

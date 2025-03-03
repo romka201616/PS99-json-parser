@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "configName": "ValBattle",
+      "configName": "CardBattle",
       "category": "GuildBattles",
       "configData": {
         "PlacementRewards": [
@@ -17,7 +17,7 @@
           {
             "Item": {
               "_data": {
-                "id": "Holographic"
+                "id": "Evil"
               }
             },
             "Best": 1,
@@ -26,7 +26,7 @@
           {
             "Item": {
               "_data": {
-                "id": "Holographic"
+                "id": "Evil"
               }
             },
             "Best": 1,
@@ -35,7 +35,7 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Holographic Monkey",
+                "id": "Huge Evil Deer",
                 "pt": 2
               }
             },
@@ -45,7 +45,7 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Holographic Monkey",
+                "id": "Huge Evil Deer",
                 "pt": 1
               }
             },
@@ -55,16 +55,16 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Holographic Monkey"
+                "id": "Huge Evil Deer"
               }
             },
             "Best": 4,
             "Worst": 10
           }
         ],
-        "FinishTime": 1739552400,
-        "Title": "Holographic Battle",
-        "StartTime": 1739034000,
+        "FinishTime": 1740762000,
+        "Title": "Evil Battle",
+        "StartTime": 1740243600,
         "Rewards": {
           "Good": [],
           "Bronze": [],

@@ -1,98 +1,6 @@
 {
   "data": [
     {
-      "configName": "Mega Enchant Chest",
-      "category": "Lootboxes",
-      "configData": {
-        "RequireSave": true,
-        "Rarity": {
-          "RarityNumber": 999,
-          "Lootbag": null,
-          "_id": "Exclusive",
-          "Color": null,
-          "DisplayName": "Exclusive",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "DisplayName": "Mega Enchant Chest",
-        "Icon": "rbxassetid://117764701926181",
-        "Desc": "Contains OP enchants! Including Tier X and IX!"
-      },
-      "collection": "Lootboxes"
-    },
-    {
-      "configName": "Mega Potion Chest",
-      "category": "Lootboxes",
-      "configData": {
-        "RequireSave": true,
-        "Rarity": {
-          "RarityNumber": 999,
-          "Lootbag": null,
-          "_id": "Exclusive",
-          "Color": null,
-          "DisplayName": "Exclusive",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "DisplayName": "Mega Potion Chest",
-        "Icon": "rbxassetid://78223799295283",
-        "Desc": "Contains OP Potions! Including The Cocktail II!"
-      },
-      "collection": "Lootboxes"
-    },
-    {
-      "configName": "Mega Ultimate Chest",
-      "category": "Lootboxes",
-      "configData": {
-        "RequireSave": true,
-        "Rarity": {
-          "RarityNumber": 999,
-          "Lootbag": null,
-          "_id": "Exclusive",
-          "Color": null,
-          "DisplayName": "Exclusive",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "DisplayName": "Mega Ultimate Chest",
-        "Icon": "rbxassetid://125621489436651",
-        "Desc": "Contains OP ultimates! Including Chest Spell, Tsunami and tons of Ultimate XP Potions!"
-      },
-      "collection": "Lootboxes"
-    },
-    {
-      "configName": "Mega Charm Chest",
-      "category": "Lootboxes",
-      "configData": {
-        "RequireSave": true,
-        "Rarity": {
-          "RarityNumber": 999,
-          "Lootbag": null,
-          "_id": "Exclusive",
-          "Color": null,
-          "DisplayName": "Exclusive",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "DisplayName": "Mega Charm Chest",
-        "Icon": "rbxassetid://120862195809324",
-        "Desc": "Contains OP charms! Including the Exclusive Treasure Charm!"
-      },
-      "collection": "Lootboxes"
-    },
-    {
       "configName": "Mega Boost Chest",
       "category": "Lootboxes",
       "configData": {
@@ -109,9 +17,241 @@
           "Announce": true,
           "_script": null
         },
-        "DisplayName": "Mega Boost Chest",
+        "DisplayName": "Mega Loot Chest",
         "Icon": "rbxassetid://102254859923515",
         "Desc": "Contains OP enchants, ultimates, potions, charms and so much MORE!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Fantasy Pack",
+      "category": "CardPacks",
+      "configData": {
+        "Rolls": 5,
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Fantasy Pack",
+        "IsCardPack": true,
+        "RollsBoostable": true,
+        "Desc": "Contains 5 Fantasy Pack cards!\n\nCombine cards into pets & chance for a TITANIC card!",
+        "Icon": "rbxassetid://92535965955987",
+        "RequireSave": true
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Retro Pack",
+      "category": "CardPacks",
+      "configData": {
+        "Rolls": 5,
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Retro Pack",
+        "IsCardPack": true,
+        "RollsBoostable": true,
+        "Desc": "Contains 5 Retro Pack cards!\n\nCombine cards into pets & chance for a HUGE card!",
+        "Icon": "rbxassetid://88966826354072",
+        "RequireSave": true
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Nightmare Pack",
+      "category": "CardPacks",
+      "configData": {
+        "Rolls": 5,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Nightmare Pack",
+        "IsCardPack": true,
+        "RollsBoostable": true,
+        "Desc": "Contains 5 Nightmare Pack cards!\n\nCombine cards into pets & chance for a HUGE card!",
+        "Icon": "rbxassetid://94005127802940",
+        "RequireSave": true
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Super Hero Pack",
+      "category": "CardPacks",
+      "configData": {
+        "Rolls": 5,
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Superhero Pack",
+        "RequireSave": true,
+        "Desc": "Contains 5 Superhero Pack cards!\n\nCombine cards into EXCLUSIVE pets & chance for a TITANIC card!",
+        "Icon": "rbxassetid://122557459853685",
+        "IsCardPack": true
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "BIG Pack",
+      "category": "CardPacks",
+      "configData": {
+        "Rolls": 5,
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "BIG Pack",
+        "IsCardPack": true,
+        "RollsBoostable": true,
+        "Desc": "Contains 5 BIG Pack cards!\n\nCombine cards into pets & chance for a TITANIC card!",
+        "Icon": "rbxassetid://138485510461327",
+        "RequireSave": true
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Pog Pack",
+      "category": "CardPacks",
+      "configData": {
+        "Rolls": 5,
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Pog Pack",
+        "IsCardPack": true,
+        "RollsBoostable": true,
+        "Desc": "Contains 5 Pog Pack cards!\n\nCombine cards into pets & chance for a HUGE card!",
+        "Icon": "rbxassetid://99750379530554",
+        "RequireSave": true
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Meme Pack",
+      "category": "CardPacks",
+      "configData": {
+        "Rolls": 5,
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Meme Pack",
+        "RequireSave": true,
+        "Desc": "Contains 5 Meme Pack cards!\n\nCombine cards into EXCLUSIVE pets & chance for a TITANIC card!",
+        "Icon": "rbxassetid://137628683001800",
+        "IsCardPack": true
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Axolotl Pack",
+      "category": "CardPacks",
+      "configData": {
+        "Rolls": 5,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Axolotl Pack",
+        "IsCardPack": true,
+        "RollsBoostable": true,
+        "Desc": "Contains 5 Axolotl Pack cards!\n\nCombine cards into pets & chance for a HUGE card!",
+        "Icon": "rbxassetid://88730452047808",
+        "RequireSave": true
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Ninja Pack",
+      "category": "CardPacks",
+      "configData": {
+        "Rolls": 5,
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Ninja Pack",
+        "IsCardPack": true,
+        "RollsBoostable": true,
+        "Desc": "Contains 5 Ninja Pack cards!\n\nCombine cards into pets & chance for a HUGE card!",
+        "Icon": "rbxassetid://136542992100223",
+        "RequireSave": true
       },
       "collection": "Lootboxes"
     }

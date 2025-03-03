@@ -1,29 +1,31 @@
 {
   "data": [
     {
-      "configName": "Buff | Lucky Tile",
-      "category": "Lucky Tile Event",
+      "configName": "Buff | Christmas Cookie",
+      "category": "Buffs",
       "configData": {
-        "DisplayName": "Lucky Tile Boost",
-        "AssociatedItemID": "Lucky Tile",
-        "StackMode": true,
-        "Length": 1,
+        "AssociatedItemID": "Christmas Cookie",
         "AssociatedItemClass": "Misc",
-        "IgnoreInstancePause": true
+        "Length": 300,
+        "DisplayName": "Christmas Cookie"
       },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
       "collection": "Buffs"
     },
     {
-      "configName": "Buff | Ultra Lucky Tile",
-      "category": "Lucky Tile Event",
+      "configName": "Buff | Hot Cocoa",
+      "category": "Buffs",
       "configData": {
-        "DisplayName": "Ultra Lucky Tile Boost",
-        "AssociatedItemID": "Ultra Lucky Tile",
-        "StackMode": true,
-        "Length": 1,
+        "AssociatedItemID": "Hot Cocoa",
         "AssociatedItemClass": "Misc",
-        "IgnoreInstancePause": true
+        "Length": 300,
+        "DisplayName": "Hot Cocoa"
       },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
       "collection": "Buffs"
     }
   ]

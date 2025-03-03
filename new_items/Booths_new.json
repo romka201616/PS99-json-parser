@@ -1,10 +1,10 @@
 {
   "data": [
     {
-      "configName": "Booth | Holographic",
+      "configName": "Booth | Evil",
       "category": "Booths",
       "configData": {
-        "DisplayName": "Holographic Booth",
+        "DisplayName": "Evil Booth",
         "Rarity": {
           "RarityNumber": 6,
           "Lootbag": null,
@@ -18,22 +18,22 @@
           "_script": null
         },
         "Model": null,
-        "Icon": "rbxassetid://111848916018772",
-        "Desc": "⚔️ Rewarded to the top 50 clans in the 2025 Holographic Clan Battle!"
+        "Icon": "rbxassetid://133160346485675",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2025 Evil Clan Battle!"
       },
       "collection": "Booths"
     },
     {
-      "configName": "Booth | Valentines",
+      "configName": "Booth | Booster",
       "category": "Booths",
       "configData": {
-        "DisplayName": "Valentine's Booth",
+        "DisplayName": "Booster Booth",
         "Rarity": {
-          "RarityNumber": 6,
+          "RarityNumber": 8,
           "Lootbag": null,
-          "_id": "Exotic",
+          "_id": "Superior",
           "Color": null,
-          "DisplayName": "Exotic",
+          "DisplayName": "Superior",
           "Message": null,
           "ItemSlot": null,
           "Gradient": null,
@@ -41,8 +41,8 @@
           "_script": null
         },
         "Model": null,
-        "Icon": "rbxassetid://70550176243929",
-        "Desc": "Love is in the air... 💕"
+        "Icon": "rbxassetid://88142970517591",
+        "Desc": "Now selling card booster packs!"
       },
       "collection": "Booths"
     }

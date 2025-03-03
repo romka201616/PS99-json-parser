@@ -4,6 +4,7 @@
       "configName": "Potion | The Cocktail",
       "category": "Potions",
       "configData": {
+        "BaseTier": 1,
         "Tiers": [
           {
             "Rarity": {
@@ -44,10 +45,10 @@
             "DisplayName": "The Cocktail II"
           }
         ],
+        "PreventUpgrade": true,
         "PrimaryColor": "#FFF6D3",
         "MaxTier": 2,
-        "SecondaryColor": "#FDFFCE",
-        "BaseTier": 1
+        "SecondaryColor": "#FDFFCE"
       },
       "hash": null,
       "dateModified": null,

@@ -23334,6 +23334,266 @@
         "icon": "rbxassetid://15172355963"
       },
       "collection": "Eggs"
+    },
+    {
+      "configName": "Active Huge Egg",
+      "category": "Machine Eggs",
+      "configData": {
+        "disableGold": false,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableRainbow": false,
+        "shinyChance": 2,
+        "disableModifiers": true,
+        "rainbowChance": 2,
+        "name": "Active Huge Egg",
+        "pets": [
+          [
+            "Huge Fancy Axolotl",
+            1
+          ],
+          [
+            "Huge Honey Badger",
+            1
+          ],
+          [
+            "Huge Skateboard Bulldog",
+            1
+          ],
+          [
+            "Huge Zebra",
+            1
+          ]
+        ],
+        "goldChance": 5,
+        "icon": "rbxassetid://16756521111"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Fantasy Pack",
+      "category": "CardPacks",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "CardCoins",
+        "name": "Fantasy Pack",
+        "overrideCost": 250000,
+        "instant_purchase": [
+          [
+            "Lootbox",
+            "Fantasy Pack"
+          ]
+        ],
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "isCardPack": true
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Retro Pack",
+      "category": "CardPacks",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "CardCoins",
+        "name": "Retro Pack",
+        "overrideCost": 10000,
+        "instant_purchase": [
+          [
+            "Lootbox",
+            "Retro Pack"
+          ]
+        ],
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "isCardPack": true
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Nightmare Pack",
+      "category": "CardPacks",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "CardCoins",
+        "name": "Nightmare Pack",
+        "overrideCost": 50000,
+        "instant_purchase": [
+          [
+            "Lootbox",
+            "Nightmare Pack"
+          ]
+        ],
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "isCardPack": true
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Huge Machine Egg 5",
+      "category": "Machine Eggs",
+      "configData": {
+        "disableGold": false,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableRainbow": false,
+        "shinyChance": 2,
+        "disableModifiers": true,
+        "rainbowChance": 2,
+        "name": "Gargantuan Machine Grim Reaper Egg",
+        "pets": [
+          [
+            "Huge Green Cobra",
+            49.45
+          ],
+          [
+            "Huge Detective Terrier",
+            30
+          ],
+          [
+            "Huge Ladybug",
+            15
+          ],
+          [
+            "Huge Spitting Dino",
+            4
+          ],
+          [
+            "Huge Stacked Dominus",
+            1
+          ],
+          [
+            "Titanic Owl",
+            0.5
+          ],
+          [
+            "Gargantuan Grim Reaper",
+            0.05
+          ]
+        ],
+        "goldChance": 5,
+        "icon": "rbxassetid://81653039212838"
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Pog Pack",
+      "category": "CardPacks",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "CardCoins",
+        "name": "Pog Pack",
+        "overrideCost": 50000,
+        "instant_purchase": [
+          [
+            "Lootbox",
+            "Pog Pack"
+          ]
+        ],
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "isCardPack": true
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Axolotl Pack",
+      "category": "CardPacks",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "CardCoins",
+        "name": "Axolotl Pack",
+        "overrideCost": 75000,
+        "instant_purchase": [
+          [
+            "Lootbox",
+            "Axolotl Pack"
+          ]
+        ],
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "isCardPack": true
+      },
+      "collection": "Eggs"
     }
   ]
 }

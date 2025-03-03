@@ -2933,6 +2933,86 @@
         "Desc": "💕 Glide through love at the speed of heart!"
       },
       "collection": "Hoverboards"
+    },
+    {
+      "configName": "Hoverboard | Ruler",
+      "category": "Hoverboards",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Ruler Hoverboard",
+        "Desc": "What do these little lines mean?!",
+        "Sounds": {
+          "equip": [
+            "rbxassetid://138025106053581"
+          ],
+          "idle": [
+            "rbxassetid://121746924468436"
+          ],
+          "jump": [
+            "rbxassetid://93268074832189"
+          ]
+        },
+        "Icon": "rbxassetid://79346248252472",
+        "Tradable": true
+      },
+      "collection": "Hoverboards"
+    },
+    {
+      "configName": "Hoverboard | Evil",
+      "category": "Hoverboards",
+      "configData": {
+        "Sounds": [],
+        "DisplayName": "Evil Hoverboard",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Icon": "rbxassetid://83128724682991",
+        "Desc": "⚔️ Rewarded to the top 10 clans in the 2025 Evil Clan Battle!"
+      },
+      "collection": "Hoverboards"
+    },
+    {
+      "configName": "Hoverboard | Booster",
+      "category": "Hoverboards",
+      "configData": {
+        "Sounds": [],
+        "DisplayName": "Booster Hoverboard",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Icon": "rbxassetid://139984973539698",
+        "Desc": "Glide around and rip open some booster packs!"
+      },
+      "collection": "Hoverboards"
     }
   ]
 }

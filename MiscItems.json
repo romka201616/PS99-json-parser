@@ -5588,6 +5588,54 @@
         "Desc": "Used to enter the Valentine's Tower Tycoon raffle!"
       },
       "collection": "MiscItems"
+    },
+    {
+      "configName": "Upgrade Card",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Upgrade Card",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Category": "Event",
+        "Tradable": false,
+        "Icon": "rbxassetid://103039910052534",
+        "Desc": "Used to purchase Card Event Upgrades!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Card Shop Key",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Card Shop Key",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Category": "Event",
+        "Tradable": false,
+        "Icon": "rbxassetid://120760084851780",
+        "Desc": "Unlocks the Card Merchant Area! Earned from the Card Index Rewards!"
+      },
+      "collection": "MiscItems"
     }
   ]
 }

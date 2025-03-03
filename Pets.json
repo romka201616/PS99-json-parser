@@ -32148,6 +32148,888 @@
         "indexDesc": "Found in the Exclusive Jurassic Egg!\n\nGround Slam - Pet will damage breakables in a large area!"
       },
       "collection": "Pets"
+    },
+    {
+      "configName": "Huge Jurassic Crocodile",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Jurassic Crocodile",
+        "indexDesc": "Found in the Exclusive Jurassic Egg!",
+        "thumbnail": "rbxassetid://116989921255882"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Jurassic Beaver",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Jurassic Beaver",
+        "indexDesc": "Found in the Exclusive Jurassic Egg!",
+        "thumbnail": "rbxassetid://97754526096215"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Super Spider",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://139618643440192",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Super Spider",
+        "indexDesc": "Found in the Superhero Card Pack!",
+        "thumbnail": "rbxassetid://118018926499852"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Arcade Dog",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://74401771304010",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Arcade Dog",
+        "indexDesc": "Found in the Retro Card Pack!",
+        "thumbnail": "rbxassetid://102621669325796"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Evil Deer",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://126226836318896",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Evil Deer",
+        "indexDesc": "Reward in the 2025 Evil Clan Battle!",
+        "thumbnail": "rbxassetid://105420679784540"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Blurred Axolotl",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://89262001520583",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Blurred Axolotl",
+        "indexDesc": "Found in the Fantasy Card Pack!",
+        "thumbnail": "rbxassetid://89638501740571"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Pixel Tiger",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://85278144505331",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Pixel Tiger",
+        "indexDesc": "Found in the Card's event leaderboard contest!",
+        "thumbnail": "rbxassetid://91955794019105"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Electric Werewolf",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://98047118601636",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Electric Werewolf",
+        "indexDesc": "Found in The Spidey Forever Pack!",
+        "thumbnail": "rbxassetid://126966146144158"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Nightmare Dog",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://99755477240996",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Nightmare Dog",
+        "indexDesc": "Found in the Nightmare Card Pack!",
+        "thumbnail": "rbxassetid://78024171936128"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Super Wolf",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "name": "Titanic Super Wolf",
+        "indexDesc": "Found in the Superhero Card Pack!",
+        "thumbnail": "rbxassetid://114045876201670"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Cupcake Pegasus",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://71066562300372",
+        "indexObtainable": true,
+        "name": "Titanic Cupcake Pegasus",
+        "fly": true,
+        "indexDesc": "Found in the Fantasy Card Pack!",
+        "thumbnail": "rbxassetid://78403514636510"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Hellhound",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968256663",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          214041920727062
+        ],
+        "name": "Hellhound",
+        "thumbnail": "rbxassetid://14968256815"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Phantom Wolf",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968300857",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          229851835326220
+        ],
+        "name": "Phantom Wolf",
+        "thumbnail": "rbxassetid://14968300948"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Immortuus",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968264101",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          218906509834495
+        ],
+        "name": "Immortuus",
+        "thumbnail": "rbxassetid://14968264173"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Ghoul Horse",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968246007",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          227115503953289
+        ],
+        "name": "Ghoul Horse",
+        "thumbnail": "rbxassetid://15260349697"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Fairy Moth",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968234134",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          228483669639754
+        ],
+        "name": "Fairy Moth",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968234292"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Lumi Axolotl",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968277335",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          221642841207426
+        ],
+        "name": "Lumi Axolotl",
+        "thumbnail": "rbxassetid://14968277418"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Wicked Agony",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968359464",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          232588166699151
+        ],
+        "name": "Wicked Agony",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968359556"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Pixel Dragon",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968304690",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          216474215280779
+        ],
+        "name": "Pixel Dragon",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968304786"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Super Axolotl",
+      "category": "Uncategorized",
+      "configData": {
+        "exclusiveLevel": 3,
+        "goldenThumbnail": "rbxassetid://14968348354",
+        "name": "Super Axolotl",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968348476"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Gamer Shiba",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968243984",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          209177331619628
+        ],
+        "name": "Gamer Shiba",
+        "thumbnail": "rbxassetid://14968244080"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Error Cat",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968232686",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          211609626173345
+        ],
+        "name": "Error Cat",
+        "thumbnail": "rbxassetid://14968232784"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Hydra Cat",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968262654",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          231220001012685
+        ],
+        "name": "Hydra Cat",
+        "thumbnail": "rbxassetid://14968262744"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Super Seal",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://123359424256594",
+        "name": "Super Seal",
+        "exclusiveLevel": 1,
+        "thumbnail": "rbxassetid://81821063802586"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Super Bat",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://117134992542435",
+        "name": "Super Bat",
+        "exclusiveLevel": 2,
+        "thumbnail": "rbxassetid://97555256119408"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Retro Bulldog",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://105859177117836",
+        "animations": {
+          "flyHeightChange": 0,
+          "swerve": true,
+          "swerveMaxAngle": 60,
+          "flyHeight": 0.025,
+          "swerveAggression": 1
+        },
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          224379172580357
+        ],
+        "name": "Retro Bulldog",
+        "fly": true,
+        "thumbnail": "rbxassetid://84570711183748"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Gargantuan Super Spider",
+      "category": "Gargantuan",
+      "configData": {
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "name": "Gargantuan Super Spider",
+        "gargantuan": true,
+        "indexDesc": "Found in the Exclusive Matryoshka Egg!\n\nGround Slam - Pet will damage breakables in a large area!",
+        "thumbnail": ""
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Hubert",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://120651629741809",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Hubert",
+        "indexDesc": "Found in the Meme Card Pack!",
+        "thumbnail": "rbxassetid://140721677142555"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Storm Axolotl",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://137193812662523",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Storm Axolotl",
+        "indexDesc": "Found in the Axolotl Card Pack!",
+        "thumbnail": "rbxassetid://136706503808298"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Ninja Capybara",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://111082345297515",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Ninja Capybara",
+        "indexDesc": "Found in the Ninja Card Pack!",
+        "thumbnail": "rbxassetid://101889999202642"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Arcane Dominus",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://126608778932303",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Arcane Dominus",
+        "fly": true,
+        "indexDesc": "Found in the BIG Card Pack!",
+        "thumbnail": "rbxassetid://84981023975118"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Green Cobra",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://112745262744043",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Green Cobra",
+        "indexDesc": "Found in the Huge Machine Grim Reaper Egg!",
+        "thumbnail": "rbxassetid://136758354491136"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Detective Terrier",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://93112671163743",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Detective Terrier",
+        "indexDesc": "Found in the Huge Machine Grim Reaper Egg!",
+        "thumbnail": "rbxassetid://79798078989101"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Spitting Dino",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://72319847311923",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Spitting Dino",
+        "indexDesc": "Found in the Huge Machine Grim Reaper Egg!",
+        "thumbnail": "rbxassetid://75776145321145"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Ladybug",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://104060287777224",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Ladybug",
+        "indexDesc": "Found in the Huge Machine Grim Reaper Egg!",
+        "thumbnail": "rbxassetid://99601574590476"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Stacked Dominus",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://117229904066650",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Stacked Dominus",
+        "indexDesc": "Found in the Huge Machine Grim Reaper Egg!",
+        "thumbnail": "rbxassetid://96928518190910"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Hell Monkey",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://126710781505925",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Hell Monkey",
+        "indexDesc": "Found in the Card event leaderboard contest!",
+        "thumbnail": "rbxassetid://75557706152622"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Hell Spider",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://119769057743786",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Hell Spider",
+        "indexDesc": "Found in The Storm Forever Pack!",
+        "thumbnail": "rbxassetid://92181296313546"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Pog Cat",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://92736609812288",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Pog Cat",
+        "indexDesc": "Found in the Pog Card Pack!",
+        "thumbnail": "rbxassetid://123648690581827"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Pop Cat",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://107955973846092",
+        "animations": {
+          "flipbookAnimationGold": [
+            "rbxassetid://12442921397",
+            "rbxassetid://12445579992"
+          ],
+          "flipbookAnimationSpeed": 0.15,
+          "flipbookAnimation": [
+            "rbxassetid://12442921582",
+            "rbxassetid://12445580091"
+          ]
+        },
+        "indexObtainable": true,
+        "name": "Titanic Pop Cat",
+        "indexDesc": "Found in the Meme Card Pack!",
+        "thumbnail": "rbxassetid://107955973846092"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Signature BIG Maskot",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://119120478455736",
+        "indexObtainable": true,
+        "name": "Titanic Signature BIG Maskot",
+        "indexDesc": "Found in the BIG Card Pack!",
+        "thumbnail": "rbxassetid://87601095664895"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Owl",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://96101761006080",
+        "indexObtainable": true,
+        "name": "Titanic Owl",
+        "indexDesc": "Found in the Huge Machine Grim Reaper Egg!",
+        "fly": true,
+        "thumbnail": "rbxassetid://111258824225580"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Fancy Axolotl",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14976335407",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          232588166699151
+        ],
+        "name": "Fancy Axolotl",
+        "thumbnail": "rbxassetid://14968234743"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Hippomelon",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968257733",
+        "name": "Hippomelon",
+        "exclusiveLevel": 2,
+        "thumbnail": "rbxassetid://14968257890"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Pog Dragon",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968308171",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          217690362557636
+        ],
+        "name": "Pog Dragon",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968308295"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Blue BIG Maskot",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968183566",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          238060829445013
+        ],
+        "name": "Blue BIG Maskot",
+        "thumbnail": "rbxassetid://14968183674"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Camo Axolotl",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968189605",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          218906509834495
+        ],
+        "name": "Camo Axolotl",
+        "thumbnail": "rbxassetid://14968189680"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Nature Axolotl",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968286066",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          228483669639754
+        ],
+        "name": "Nature Axolotl",
+        "thumbnail": "rbxassetid://14968286158"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Chill Axolotl",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968193678",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          223011006893892
+        ],
+        "name": "Chill Axolotl",
+        "thumbnail": "rbxassetid://14968193849"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Tech Chest Mimic",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14976269820",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          229851835326220
+        ],
+        "name": "Tech Chest Mimic",
+        "thumbnail": "rbxassetid://14976270021"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Noob",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968291996",
+        "name": "Noob",
+        "exclusiveLevel": 1,
+        "thumbnail": "rbxassetid://14968292162"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Hot Dooooog",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968260558",
+        "name": "Hot Dooooog",
+        "exclusiveLevel": 3,
+        "thumbnail": "rbxassetid://14968260657"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Pog Dog",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968307703",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          216474215280779
+        ],
+        "name": "Pog Dog",
+        "thumbnail": "rbxassetid://14968308010"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Kung Fu Monkey",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://15565567745",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          231220001012685
+        ],
+        "name": "Kung Fu Monkey",
+        "thumbnail": "rbxassetid://15565567701"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Sensei Penguin",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://15565566296",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          233956332385617
+        ],
+        "name": "Sensei Penguin",
+        "thumbnail": "rbxassetid://15565566222"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Ninja Otter",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://111149532483250",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          225747338266823
+        ],
+        "name": "Ninja Otter",
+        "thumbnail": "rbxassetid://123135377300075"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Ninja Snake",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://97725800177188",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          220274675520961
+        ],
+        "name": "Ninja Snake",
+        "thumbnail": "rbxassetid://113363632926648"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Pog Monkey",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://101664366130785",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          221642841207426
+        ],
+        "name": "Pog Monkey",
+        "thumbnail": "rbxassetid://118788057604476"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Pog Shark",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://140711462152393",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          227115503953289
+        ],
+        "name": "Pog Shark",
+        "thumbnail": "rbxassetid://135012798506298"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Empyrean Lion",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://130974558853000",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          224379172580357
+        ],
+        "name": "Empyrean Lion",
+        "thumbnail": "rbxassetid://140472617425132"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Red Balloon Panda",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://105820560193916",
+        "animations": {
+          "balloon": true
+        },
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          235324498072082
+        ],
+        "name": "Red Balloon Panda",
+        "fly": true,
+        "thumbnail": "rbxassetid://115760295871613"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Gargantuan Grim Reaper",
+      "category": "Gargantuan",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://120856751449430",
+        "indexObtainable": true,
+        "gargantuan": true,
+        "name": "Gargantuan Grim Reaper",
+        "thumbnail": "rbxassetid://108242446619492",
+        "fly": true,
+        "indexDesc": "Found in the Gargantuan Machine Grim Reaper Egg!\n\nGround Slam - Pet will damage breakables in a large area!"
+      },
+      "collection": "Pets"
     }
   ]
 }

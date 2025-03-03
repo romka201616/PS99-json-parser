@@ -370,6 +370,34 @@
         "IgnoreInstancePause": true
       },
       "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Christmas Cookie",
+      "category": "Buffs",
+      "configData": {
+        "AssociatedItemID": "Christmas Cookie",
+        "AssociatedItemClass": "Misc",
+        "Length": 300,
+        "DisplayName": "Christmas Cookie"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Hot Cocoa",
+      "category": "Buffs",
+      "configData": {
+        "AssociatedItemID": "Hot Cocoa",
+        "AssociatedItemClass": "Misc",
+        "Length": 300,
+        "DisplayName": "Hot Cocoa"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Buffs"
     }
   ]
 }
