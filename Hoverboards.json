@@ -3013,6 +3013,29 @@
         "Desc": "Glide around and rip open some booster packs!"
       },
       "collection": "Hoverboards"
+    },
+    {
+      "configName": "Hoverboard | Sphinx",
+      "category": "Hoverboards",
+      "configData": {
+        "Sounds": [],
+        "DisplayName": "Sphinx Hoverboard",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Icon": "rbxassetid://104370511466864",
+        "Desc": "Hoverboard like an Egyptian!"
+      },
+      "collection": "Hoverboards"
     }
   ]
 }

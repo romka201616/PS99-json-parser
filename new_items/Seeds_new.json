@@ -25,10 +25,12 @@
         ],
         "LootTable": [
           {
+            "config": [],
             "_caches": [],
             "entries": [
               {
                 "Value": {
+                  "config": [],
                   "_caches": [],
                   "entries": [
                     {
@@ -107,10 +109,12 @@
           null
         ],
         "LootTable": {
+          "config": [],
           "_caches": [],
           "entries": [
             {
               "Value": {
+                "config": [],
                 "_caches": [],
                 "entries": [
                   {
@@ -393,6 +397,7 @@
           null
         ],
         "LootTable": {
+          "config": [],
           "_caches": [],
           "entries": [
             {
@@ -466,6 +471,7 @@
           null
         ],
         "LootTable": {
+          "config": [],
           "_caches": [],
           "entries": [
             {

@@ -1,10 +1,10 @@
 {
   "data": [
     {
-      "configName": "Booth | Evil",
+      "configName": "Booth | Sphinx",
       "category": "Booths",
       "configData": {
-        "DisplayName": "Evil Booth",
+        "DisplayName": "Sphinx Booth",
         "Rarity": {
           "RarityNumber": 6,
           "Lootbag": null,
@@ -18,31 +18,8 @@
           "_script": null
         },
         "Model": null,
-        "Icon": "rbxassetid://133160346485675",
-        "Desc": "⚔️ Rewarded to the top 50 clans in the 2025 Evil Clan Battle!"
-      },
-      "collection": "Booths"
-    },
-    {
-      "configName": "Booth | Booster",
-      "category": "Booths",
-      "configData": {
-        "DisplayName": "Booster Booth",
-        "Rarity": {
-          "RarityNumber": 8,
-          "Lootbag": null,
-          "_id": "Superior",
-          "Color": null,
-          "DisplayName": "Superior",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "Model": null,
-        "Icon": "rbxassetid://88142970517591",
-        "Desc": "Now selling card booster packs!"
+        "Icon": "rbxassetid://136609680567198",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2025 Egyptian Clan Battle!"
       },
       "collection": "Booths"
     }

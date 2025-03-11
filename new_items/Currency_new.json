@@ -1,123 +1,6 @@
 {
   "data": [
     {
-      "configName": "Currency | Coins",
-      "category": "Currency",
-      "configData": {
-        "Rarity": {
-          "RarityNumber": 1,
-          "Lootbag": null,
-          "_id": "Basic",
-          "Color": null,
-          "DisplayName": "Basic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Tradable": false,
-        "Tiers": [
-          {
-            "orbImage": "rbxassetid://15466375741",
-            "imageOutline": "rbxassetid://14867116080",
-            "Order": 1,
-            "isBottom": true,
-            "value": 1,
-            "tierName": "Gold Coins",
-            "tinyImage": "rbxassetid://15258327621",
-            "textColor": null
-          },
-          {
-            "orbImage": "rbxassetid://15466420899",
-            "imageOutline": "rbxassetid://14867116225",
-            "Order": 2,
-            "value": 1000000,
-            "tierName": "Gold Bars",
-            "tinyImage": "rbxassetid://15258327761",
-            "textColor": null
-          },
-          {
-            "orbImage": "rbxassetid://15466420621",
-            "imageOutline": "rbxassetid://14867115964",
-            "Order": 3,
-            "value": 1000000000000,
-            "tierName": "Platinum Coins",
-            "tinyImage": "rbxassetid://15258327405",
-            "textColor": null
-          },
-          {
-            "orbImage": "rbxassetid://15466420768",
-            "imageOutline": "rbxassetid://14867115795",
-            "Order": 4,
-            "value": 1000000000000000000,
-            "tierName": "Platinum Bars",
-            "tinyImage": "rbxassetid://15258327518",
-            "textColor": null
-          },
-          {
-            "orbImage": "rbxassetid://15642993996",
-            "imageOutline": "rbxassetid://15642993873",
-            "Order": 5,
-            "value": 1e+24,
-            "tierName": "Emerald Coins",
-            "tinyImage": "rbxassetid://15642993693",
-            "textColor": null
-          },
-          {
-            "orbImage": "rbxassetid://15642994522",
-            "imageOutline": "rbxassetid://15642994307",
-            "Order": 6,
-            "value": 1e+30,
-            "tierName": "Emerald Bars",
-            "tinyImage": "rbxassetid://15642994146",
-            "textColor": null
-          },
-          {
-            "orbImage": "rbxassetid://15865374118",
-            "imageOutline": "rbxassetid://15865374023",
-            "Order": 7,
-            "value": 1e+36,
-            "tierName": "Sapphire Coins",
-            "tinyImage": "rbxassetid://15865373901",
-            "textColor": null
-          },
-          {
-            "orbImage": "rbxassetid://15865374466",
-            "imageOutline": "rbxassetid://15865374383",
-            "Order": 8,
-            "value": 1e+42,
-            "tierName": "Sapphire Bars",
-            "tinyImage": "rbxassetid://15865374292",
-            "textColor": null
-          }
-        ],
-        "DisplayName": "Coins",
-        "_index": 6,
-        "IsWorldCurrency": true,
-        "Desc": "Gold!",
-        "BagTiers": [
-          {
-            "value": 0,
-            "image": "rbxassetid://15058306423"
-          },
-          {
-            "value": 1000,
-            "image": "rbxassetid://15058306716"
-          },
-          {
-            "value": 10000,
-            "image": "rbxassetid://15058306965"
-          }
-        ],
-        "MaxAmount": 1e+41
-      },
-      "dateCreated": null,
-      "dateModified": null,
-      "hash": null,
-      "collection": "Currency"
-    },
-    {
       "configName": "Currency | Diamonds",
       "category": "Currency",
       "configData": {
@@ -133,6 +16,8 @@
           "Announce": false,
           "_script": null
         },
+        "Tradable": true,
+        "StaticValue": 1,
         "Tiers": [
           {
             "orbImage": "rbxassetid://15466421090",
@@ -165,92 +50,7 @@
             "image": "rbxassetid://15058306840"
           }
         ],
-        "MaxAmount": 100000000000,
-        "Tradable": true
-      },
-      "dateCreated": null,
-      "dateModified": null,
-      "hash": null,
-      "collection": "Currency"
-    },
-    {
-      "configName": "Currency | Digsite",
-      "category": "Currency",
-      "configData": {
-        "Rarity": {
-          "RarityNumber": 2,
-          "Lootbag": null,
-          "_id": "Rare",
-          "Color": null,
-          "DisplayName": "Rare",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Tradable": false,
-        "Tiers": [
-          {
-            "orbImage": "rbxassetid://15466421456",
-            "imageOutline": "rbxassetid://15238661657",
-            "isBottom": true,
-            "Order": 1,
-            "rainData": {
-              "LightEmission": 0.2
-            },
-            "value": 1,
-            "tinyImage": "rbxassetid://15258328192",
-            "tierName": "Digsite Tokens",
-            "textColor": null
-          }
-        ],
-        "DisplayName": "Digsite Tokens",
-        "_index": 9,
-        "Desc": "Digsite Tokens!",
-        "MaxAmount": 999999999
-      },
-      "dateCreated": null,
-      "dateModified": null,
-      "hash": null,
-      "collection": "Currency"
-    },
-    {
-      "configName": "Currency | Fishing",
-      "category": "Currency",
-      "configData": {
-        "Rarity": {
-          "RarityNumber": 2,
-          "Lootbag": null,
-          "_id": "Rare",
-          "Color": null,
-          "DisplayName": "Rare",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Tradable": false,
-        "Tiers": [
-          {
-            "orbImage": "rbxassetid://15466421230",
-            "imageOutline": "rbxassetid://15238661515",
-            "isBottom": true,
-            "Order": 1,
-            "rainData": {
-              "LightEmission": 0.2
-            },
-            "value": 1,
-            "tinyImage": "rbxassetid://15258327975",
-            "tierName": "Fishing Tokens",
-            "textColor": null
-          }
-        ],
-        "DisplayName": "Fishing Tokens",
-        "_index": 11,
-        "Desc": "Fishing Tokens!",
-        "MaxAmount": 999999999
+        "MaxAmount": 100000000000
       },
       "dateCreated": null,
       "dateModified": null,
@@ -351,7 +151,7 @@
           }
         ],
         "DisplayName": "Tech Coins",
-        "_index": 22,
+        "_index": 23,
         "IsWorldCurrency": true,
         "Desc": "Tech!",
         "BagTiers": [
@@ -369,86 +169,6 @@
           }
         ],
         "MaxAmount": 3e+42
-      },
-      "dateCreated": null,
-      "dateModified": null,
-      "hash": null,
-      "collection": "Currency"
-    },
-    {
-      "configName": "Currency | CloverCoins",
-      "category": "Currency",
-      "configData": {
-        "Rarity": {
-          "RarityNumber": 1,
-          "Lootbag": null,
-          "_id": "Basic",
-          "Color": null,
-          "DisplayName": "Basic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Tradable": false,
-        "Tiers": [
-          {
-            "orbImage": "rbxassetid://16747553056",
-            "imageOutline": "rbxassetid://16747552939",
-            "Order": 1,
-            "isBottom": true,
-            "value": 1,
-            "tierName": "Clover Coins",
-            "tinyImage": "rbxassetid://16747552861",
-            "textColor": null
-          }
-        ],
-        "DisplayName": "Clover Coins",
-        "_index": 5,
-        "IsWorldCurrency": false,
-        "Desc": "St. Patrick's Day!",
-        "MaxAmount": 999999999
-      },
-      "dateCreated": null,
-      "dateModified": null,
-      "hash": null,
-      "collection": "Currency"
-    },
-    {
-      "configName": "Currency | GlitchCoins",
-      "category": "Currency",
-      "configData": {
-        "Rarity": {
-          "RarityNumber": 1,
-          "Lootbag": null,
-          "_id": "Basic",
-          "Color": null,
-          "DisplayName": "Basic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Tradable": false,
-        "Tiers": [
-          {
-            "orbImage": "rbxassetid://16747553056",
-            "imageOutline": "rbxassetid://16747552939",
-            "Order": 1,
-            "isBottom": true,
-            "value": 1,
-            "tierName": "Glitch Coins",
-            "tinyImage": "rbxassetid://16747552861",
-            "textColor": null
-          }
-        ],
-        "DisplayName": "Glitch Coins",
-        "_index": 14,
-        "IsWorldCurrency": false,
-        "Desc": "Glitch Event!",
-        "MaxAmount": 999999999
       },
       "dateCreated": null,
       "dateModified": null,
@@ -548,7 +268,7 @@
           }
         ],
         "DisplayName": "Void Coins",
-        "_index": 24,
+        "_index": 25,
         "IsWorldCurrency": true,
         "Desc": "Void!",
         "BagTiers": [
@@ -602,7 +322,7 @@
           }
         ],
         "DisplayName": "Summer Coins",
-        "_index": 21,
+        "_index": 22,
         "IsWorldCurrency": false,
         "Desc": "Summer!",
         "PermitAutoLootScaling": true,
@@ -611,50 +331,6 @@
       "dateCreated": null,
       "dateModified": null,
       "hash": null,
-      "collection": "Currency"
-    },
-    {
-      "configName": "Currency | GoodVsEvilCoins",
-      "category": "Currency",
-      "configData": {
-        "Rarity": {
-          "RarityNumber": 1,
-          "Lootbag": null,
-          "_id": "Basic",
-          "Color": null,
-          "DisplayName": "Basic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Tradable": false,
-        "Tiers": [
-          {
-            "orbImage": "rbxassetid://18101039723",
-            "imageOutline": "rbxassetid://18101039664",
-            "Order": 1,
-            "isBottom": true,
-            "value": 1,
-            "tierName": "Good vs. Evil Coins",
-            "tinyImage": "rbxassetid://18101039801",
-            "textColor": null
-          }
-        ],
-        "DisplayName": "Good vs. Evil Coins",
-        "_index": 15,
-        "Desc": "Fate will decide!",
-        "IsWorldCurrency": false,
-        "PermitAutoLootScaling": true,
-        "MaxAmount": 1000000000000,
-        "BagTiers": [
-          {
-            "value": 0,
-            "image": "rbxassetid://18101039664"
-          }
-        ]
-      },
       "collection": "Currency"
     },
     {
@@ -687,55 +363,11 @@
           }
         ],
         "DisplayName": "Rave Coins",
-        "_index": 18,
+        "_index": 19,
         "Desc": "Fate will decide!",
         "IsWorldCurrency": false,
         "PermitAutoLootScaling": true,
         "MaxAmount": 25000000000,
-        "BagTiers": [
-          {
-            "value": 0,
-            "image": "rbxassetid://18325334566"
-          }
-        ]
-      },
-      "collection": "Currency"
-    },
-    {
-      "configName": "Currency | DinoTycoonCoins",
-      "category": "Currency",
-      "configData": {
-        "Rarity": {
-          "RarityNumber": 1,
-          "Lootbag": null,
-          "_id": "Basic",
-          "Color": null,
-          "DisplayName": "Basic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Tradable": false,
-        "Tiers": [
-          {
-            "orbImage": "rbxassetid://18655723260",
-            "imageOutline": "rbxassetid://18655723073",
-            "Order": 1,
-            "isBottom": true,
-            "value": 1,
-            "tierName": "Dino Tycoon Coins",
-            "tinyImage": "rbxassetid://18655722812",
-            "textColor": null
-          }
-        ],
-        "DisplayName": "Dino Tycoon Coins",
-        "_index": 10,
-        "Desc": "ROAR!",
-        "IsWorldCurrency": false,
-        "PermitAutoLootScaling": true,
-        "MaxAmount": 100000000000000,
         "BagTiers": [
           {
             "value": 0,
@@ -775,7 +407,7 @@
           }
         ],
         "DisplayName": "RNG Coins",
-        "_index": 19,
+        "_index": 20,
         "Desc": "RNGGGGG!",
         "IsWorldCurrency": false,
         "PermitAutoLootScaling": true,
@@ -784,94 +416,6 @@
           {
             "value": 0,
             "image": "rbxassetid://18856064762"
-          }
-        ]
-      },
-      "collection": "Currency"
-    },
-    {
-      "configName": "Currency | ColorCoins",
-      "category": "Currency",
-      "configData": {
-        "Rarity": {
-          "RarityNumber": 1,
-          "Lootbag": null,
-          "_id": "Basic",
-          "Color": null,
-          "DisplayName": "Basic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Tradable": false,
-        "Tiers": [
-          {
-            "orbImage": "rbxassetid://90175647682619",
-            "imageOutline": "rbxassetid://71727371212764",
-            "Order": 1,
-            "isBottom": true,
-            "value": 1,
-            "tierName": "Color Coins",
-            "tinyImage": "rbxassetid://102269372822590",
-            "textColor": null
-          }
-        ],
-        "DisplayName": "Color Coins",
-        "_index": 7,
-        "Desc": "I'm color blind...",
-        "IsWorldCurrency": false,
-        "PermitAutoLootScaling": true,
-        "MaxAmount": 1000000000000,
-        "BagTiers": [
-          {
-            "value": 0,
-            "image": "rbxassetid://18101039664"
-          }
-        ]
-      },
-      "collection": "Currency"
-    },
-    {
-      "configName": "Currency | HalloweenCandy",
-      "category": "Currency",
-      "configData": {
-        "Rarity": {
-          "RarityNumber": 1,
-          "Lootbag": null,
-          "_id": "Basic",
-          "Color": null,
-          "DisplayName": "Basic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Tradable": false,
-        "Tiers": [
-          {
-            "orbImage": "rbxassetid://103840258916135",
-            "imageOutline": "rbxassetid://75134390965970",
-            "Order": 1,
-            "isBottom": true,
-            "value": 1,
-            "tierName": "Halloween Candy",
-            "tinyImage": "rbxassetid://109049002662412",
-            "textColor": null
-          }
-        ],
-        "DisplayName": "Halloween Candy",
-        "_index": 16,
-        "Desc": "Spooky!",
-        "IsWorldCurrency": false,
-        "PermitAutoLootScaling": true,
-        "MaxAmount": 99999999999,
-        "BagTiers": [
-          {
-            "value": 0,
-            "image": "rbxassetid://75134390965970"
           }
         ]
       },
@@ -910,97 +454,9 @@
           }
         ],
         "DisplayName": "Woodcutting Tokens",
-        "_index": 25,
+        "_index": 26,
         "Desc": "Woodcutting Tokens!",
         "MaxAmount": 999999999
-      },
-      "collection": "Currency"
-    },
-    {
-      "configName": "Currency | LineCoins",
-      "category": "Currency",
-      "configData": {
-        "Rarity": {
-          "RarityNumber": 1,
-          "Lootbag": null,
-          "_id": "Basic",
-          "Color": null,
-          "DisplayName": "Basic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Tradable": false,
-        "Tiers": [
-          {
-            "orbImage": "rbxassetid://106884662861777",
-            "imageOutline": "rbxassetid://136388628527905",
-            "Order": 1,
-            "isBottom": true,
-            "value": 1,
-            "tierName": "Line Coins",
-            "tinyImage": "rbxassetid://129524495734614",
-            "textColor": null
-          }
-        ],
-        "DisplayName": "Line Coins",
-        "_index": 17,
-        "Desc": "Wait in line!",
-        "IsWorldCurrency": false,
-        "PermitAutoLootScaling": true,
-        "MaxAmount": 999999999999,
-        "BagTiers": [
-          {
-            "value": 0,
-            "image": "rbxassetid://15058306423"
-          }
-        ]
-      },
-      "collection": "Currency"
-    },
-    {
-      "configName": "Currency | GingerbreadCoins",
-      "category": "Currency",
-      "configData": {
-        "Rarity": {
-          "RarityNumber": 1,
-          "Lootbag": null,
-          "_id": "Basic",
-          "Color": null,
-          "DisplayName": "Basic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Tradable": false,
-        "Tiers": [
-          {
-            "orbImage": "rbxassetid://85787805590293",
-            "imageOutline": "rbxassetid://92340184269519",
-            "Order": 1,
-            "isBottom": true,
-            "value": 1,
-            "tierName": "Holiday Coins",
-            "tinyImage": "rbxassetid://101534124159156",
-            "textColor": null
-          }
-        ],
-        "DisplayName": "Holiday Coins",
-        "_index": 13,
-        "Desc": "Tis the season of joy!",
-        "IsWorldCurrency": false,
-        "PermitAutoLootScaling": true,
-        "MaxAmount": 9999999999999,
-        "BagTiers": [
-          {
-            "value": 0,
-            "image": "rbxassetid://15058306423"
-          }
-        ]
       },
       "collection": "Currency"
     },
@@ -1037,53 +493,9 @@
           }
         ],
         "DisplayName": "Logs",
-        "_index": 20,
+        "_index": 21,
         "Desc": "Logs!",
         "MaxAmount": 999999999
-      },
-      "collection": "Currency"
-    },
-    {
-      "configName": "Currency | GameCoins",
-      "category": "Currency",
-      "configData": {
-        "Rarity": {
-          "RarityNumber": 1,
-          "Lootbag": null,
-          "_id": "Basic",
-          "Color": null,
-          "DisplayName": "Basic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Tradable": false,
-        "Tiers": [
-          {
-            "orbImage": "rbxassetid://74387622182212",
-            "imageOutline": "rbxassetid://82191237394638",
-            "Order": 1,
-            "isBottom": true,
-            "value": 1,
-            "tierName": "Game Coins",
-            "tinyImage": "rbxassetid://138122925639868",
-            "textColor": null
-          }
-        ],
-        "DisplayName": "Game Coins",
-        "_index": 12,
-        "Desc": "Paw Games!",
-        "IsWorldCurrency": false,
-        "PermitAutoLootScaling": true,
-        "MaxAmount": 99999999999,
-        "BagTiers": [
-          {
-            "value": 0,
-            "image": "rbxassetid://82191237394638"
-          }
-        ]
       },
       "collection": "Currency"
     },
@@ -1117,7 +529,7 @@
           }
         ],
         "DisplayName": "Valentines Coins",
-        "_index": 23,
+        "_index": 24,
         "Desc": "Spread the love!",
         "IsWorldCurrency": false,
         "PermitAutoLootScaling": true,
@@ -1165,7 +577,51 @@
         "Desc": "These are not the cards you are looking for!",
         "IsWorldCurrency": false,
         "PermitAutoLootScaling": true,
-        "MaxAmount": 30000000,
+        "MaxAmount": 40000000,
+        "BagTiers": [
+          {
+            "value": 0,
+            "image": "rbxassetid://15058306423"
+          }
+        ]
+      },
+      "collection": "Currency"
+    },
+    {
+      "configName": "Currency | LuckyCoins",
+      "category": "Currency",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "Tiers": [
+          {
+            "orbImage": "rbxassetid://133498641445950",
+            "imageOutline": "rbxassetid://90246759786963",
+            "Order": 1,
+            "isBottom": true,
+            "value": 1,
+            "tierName": "Lucky Coins",
+            "tinyImage": "rbxassetid://100737449873738",
+            "textColor": null
+          }
+        ],
+        "DisplayName": "Lucky Coins",
+        "_index": 18,
+        "Desc": "Feeling lucky!",
+        "IsWorldCurrency": false,
+        "PermitAutoLootScaling": true,
+        "MaxAmount": 99999999,
         "BagTiers": [
           {
             "value": 0,

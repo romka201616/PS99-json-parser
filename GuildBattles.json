@@ -1864,6 +1864,80 @@
         }
       },
       "collection": "GuildBattles"
+    },
+    {
+      "configName": "LuckyBattle",
+      "category": "GuildBattles",
+      "configData": {
+        "PlacementRewards": [
+          {
+            "Item": {
+              "_data": {
+                "id": "Clan Gift"
+              }
+            },
+            "Best": 1,
+            "Worst": 500
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Sphinx"
+              }
+            },
+            "Best": 1,
+            "Worst": 50
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Sphinx"
+              }
+            },
+            "Best": 1,
+            "Worst": 10
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Huge Sphinx",
+                "pt": 2
+              }
+            },
+            "Best": 1,
+            "Worst": 1
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Huge Sphinx",
+                "pt": 1
+              }
+            },
+            "Best": 2,
+            "Worst": 3
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Huge Sphinx"
+              }
+            },
+            "Best": 4,
+            "Worst": 10
+          }
+        ],
+        "FinishTime": 1741971600,
+        "Title": "Lucky Battle",
+        "StartTime": 1741453200,
+        "Rewards": {
+          "Good": [],
+          "Bronze": [],
+          "Silver": [],
+          "Gold": []
+        }
+      },
+      "collection": "GuildBattles"
     }
   ]
 }

@@ -23594,6 +23594,1074 @@
         "isCardPack": true
       },
       "collection": "Eggs"
+    },
+    {
+      "configName": "Active Huge Egg",
+      "category": "Machine Eggs",
+      "configData": {
+        "disableGold": false,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableRainbow": false,
+        "shinyChance": 2,
+        "disableModifiers": true,
+        "rainbowChance": 2,
+        "name": "Active Huge Egg",
+        "pets": [
+          [
+            "Huge Punksky",
+            1
+          ],
+          [
+            "Huge Llama",
+            1
+          ],
+          [
+            "Huge Helicopter Cat",
+            1
+          ],
+          [
+            "Huge Skateboard Bulldog",
+            1
+          ]
+        ],
+        "goldChance": 5,
+        "icon": "rbxassetid://16756521111"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Exclusive Egg 45",
+      "category": "Exclusive Eggs",
+      "configData": {
+        "disableGold": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableRainbow": false,
+        "shinyChance": 2,
+        "disableModifiers": true,
+        "rainbowChance": 2,
+        "name": "Exclusive Jurassic Egg",
+        "pets": [
+          [
+            "Jurassic Crocodile",
+            50
+          ],
+          [
+            "Jurassic Elephant",
+            35
+          ],
+          [
+            "Jurassic Beaver",
+            13
+          ],
+          [
+            "Huge Jurassic Crocodile",
+            1.5
+          ],
+          [
+            "Huge Jurassic Beaver",
+            0.39
+          ],
+          [
+            "Titanic Jurassic Feline",
+            0.1
+          ],
+          [
+            "Gargantuan Jurassic Dragon",
+            0.01
+          ]
+        ],
+        "goldChance": 0,
+        "icon": "rbxassetid://88086887334640"
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Exclusive Egg 46",
+      "category": "Exclusive Eggs",
+      "configData": {
+        "disableGold": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "rainbowChance": 2,
+        "shinyChance": 2,
+        "disableRainbow": false,
+        "name": "Exclusive Dot Matrix Egg",
+        "productIds": {
+          "Exclusive Egg": 3234243790,
+          "3 Exclusive Eggs": 3234243894,
+          "100 Exclusive Eggs": 3234244354,
+          "10 Exclusive Eggs": 3234244263
+        },
+        "pets": [
+          [
+            "Dot Matrix Cat",
+            50
+          ],
+          [
+            "Dot Matrix Snail",
+            35
+          ],
+          [
+            "Dot Matrix Axolotl",
+            13
+          ],
+          [
+            "Huge Dot Matrix Cat",
+            1.5
+          ],
+          [
+            "Huge Dot Matrix Axolotl",
+            0.39
+          ],
+          [
+            "Titanic Dot Matrix Kitsune",
+            0.1
+          ],
+          [
+            "Gargantuan Dot Matrix Pegasus",
+            0.01
+          ]
+        ],
+        "goldChance": 0,
+        "icon": "rbxassetid://110505952197309",
+        "disableModifiers": true
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "2 | Lucky Raid Lobby Egg 2",
+      "category": "Lobby",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "LuckyCoins",
+        "name": "Horseshoe Egg",
+        "overrideCost": 100,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Lucki Cat": "LuckyRaidEggHuge"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Lucki Cat",
+            99
+          ],
+          [
+            "Leprechaun Dog",
+            1
+          ],
+          [
+            "Lucki Tiger",
+            0.005,
+            "Nice"
+          ],
+          [
+            "Huge Lucki Cat",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "3 | Lucky Raid Lobby Egg 3",
+      "category": "Lobby",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "LuckyCoins",
+        "name": "Clover Egg",
+        "overrideCost": 100,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Lucki Cat": "LuckyRaidEggHuge"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Leprechaun Dog",
+            99.9
+          ],
+          [
+            "Lucki Tiger",
+            0.1
+          ],
+          [
+            "Lucki Monkey",
+            5e-05,
+            "Nice"
+          ],
+          [
+            "Huge Lucki Cat",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "4 | Lucky Raid Lobby Egg 4",
+      "category": "Lobby",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "LuckyCoins",
+        "name": "Clover Egg",
+        "overrideCost": 100,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Lucki Cat": "LuckyRaidEggHuge"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Leprechaun Dog",
+            99.954545
+          ],
+          [
+            "Lucki Tiger",
+            0.1
+          ],
+          [
+            "Lucki Monkey",
+            0.0005,
+            "Nice"
+          ],
+          [
+            "Clover Lion",
+            5e-06,
+            "Nice"
+          ],
+          [
+            "Huge Lucki Cat",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "5 | Lucky Raid Lobby Egg 5",
+      "category": "Lobby",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "LuckyCoins",
+        "name": "Clover Egg",
+        "overrideCost": 100,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Lucki Cat": "LuckyRaidEggHuge"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Lucki Tiger",
+            99.954545
+          ],
+          [
+            "Lucki Monkey",
+            0.1
+          ],
+          [
+            "Clover Lion",
+            0.0005,
+            "Nice"
+          ],
+          [
+            "Lucki Wolf",
+            5e-06,
+            "Nice"
+          ],
+          [
+            "Huge Lucki Cat",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "6 | Lucky Raid Lobby Egg 6",
+      "category": "Lobby",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "LuckyCoins",
+        "name": "Leprechaun Egg",
+        "overrideCost": 100,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Lucki Cat": "LuckyRaidEggHuge"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Lucki Monkey",
+            99.954545
+          ],
+          [
+            "Clover Lion",
+            0.1
+          ],
+          [
+            "Lucki Wolf",
+            0.0005,
+            "Nice"
+          ],
+          [
+            "Clover Peacock",
+            5e-06,
+            "Nice"
+          ],
+          [
+            "Huge Lucki Cat",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "7 | Lucky Raid Lobby Egg 7",
+      "category": "Lobby",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "LuckyCoins",
+        "name": "Leprechaun Egg",
+        "overrideCost": 100,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Lucki Cat": "LuckyRaidEggHuge"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Clover Lion",
+            99.954545
+          ],
+          [
+            "Lucki Wolf",
+            0.1
+          ],
+          [
+            "Clover Peacock",
+            0.0005,
+            "Nice"
+          ],
+          [
+            "Clover Butterfly",
+            5e-06,
+            "Nice"
+          ],
+          [
+            "Huge Lucki Cat",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "8 | Lucky Raid Lobby Egg 8",
+      "category": "Lobby",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "LuckyCoins",
+        "name": "Pot of Gold Egg",
+        "overrideCost": 100,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Lucki Cat": "LuckyRaidEggHuge"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Lucki Wolf",
+            99.954545
+          ],
+          [
+            "Clover Peacock",
+            0.1
+          ],
+          [
+            "Clover Butterfly",
+            0.0005,
+            "Great"
+          ],
+          [
+            "Lucki Dominus",
+            5e-06,
+            "Insane"
+          ],
+          [
+            "Huge Lucki Cat",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "9 | Lucky Raid Lobby Egg 9",
+      "category": "Lobby",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "LuckyCoins",
+        "name": "Pot of Gold Egg",
+        "overrideCost": 100,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Lucki Cat": "LuckyRaidEggHuge"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Lucki Wolf",
+            99.949995
+          ],
+          [
+            "Clover Peacock",
+            0.1
+          ],
+          [
+            "Clover Butterfly",
+            0.005,
+            "Great"
+          ],
+          [
+            "Lucki Dominus",
+            5e-05,
+            "Insane"
+          ],
+          [
+            "Pot of Gold Cat",
+            5e-06,
+            "Insane"
+          ],
+          [
+            "Huge Lucki Cat",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "1 | Lucky Raid Lobby Egg 1",
+      "category": "Lobby",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "LuckyCoins",
+        "name": "Horseshoe Egg",
+        "overrideCost": 100,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Lucki Cat",
+            99
+          ],
+          [
+            "Leprechaun Dog",
+            1
+          ],
+          [
+            "Huge Lucki Cat",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "1 | Lucky Raid Egg 1",
+      "category": "Raid",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "LuckyCoins",
+        "name": "Horseshoe Egg",
+        "overrideCost": 200,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Lucki Cat",
+            99
+          ],
+          [
+            "Leprechaun Dog",
+            1
+          ],
+          [
+            "Huge Lucki Cat",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "2 | Lucky Raid Egg 2",
+      "category": "Raid",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "LuckyCoins",
+        "name": "Horseshoe Egg",
+        "overrideCost": 200,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Lucki Cat": "LuckyRaidEggHuge"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Lucki Cat",
+            95
+          ],
+          [
+            "Leprechaun Dog",
+            5
+          ],
+          [
+            "Lucki Tiger",
+            0.05,
+            "Nice"
+          ],
+          [
+            "Huge Lucki Cat",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "3 | Lucky Raid Egg 3",
+      "category": "Raid",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "LuckyCoins",
+        "name": "Clover Egg",
+        "overrideCost": 200,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Lucki Cat": "LuckyRaidEggHuge"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Leprechaun Dog",
+            99
+          ],
+          [
+            "Lucki Tiger",
+            1
+          ],
+          [
+            "Lucki Monkey",
+            0.0005,
+            "Nice"
+          ],
+          [
+            "Huge Lucki Cat",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "4 | Lucky Raid Egg 4",
+      "category": "Raid",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "LuckyCoins",
+        "name": "Clover Egg",
+        "overrideCost": 200,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Lucki Cat": "LuckyRaidEggHuge"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Leprechaun Dog",
+            99.05
+          ],
+          [
+            "Lucki Tiger",
+            1
+          ],
+          [
+            "Lucki Monkey",
+            0.005,
+            "Nice"
+          ],
+          [
+            "Clover Lion",
+            5e-05,
+            "Nice"
+          ],
+          [
+            "Huge Lucki Cat",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "5 | Lucky Raid Egg 5",
+      "category": "Raid",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "LuckyCoins",
+        "name": "Clover Egg",
+        "overrideCost": 200,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Lucki Cat": "LuckyRaidEggHuge"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Lucki Tiger",
+            99.05
+          ],
+          [
+            "Lucki Monkey",
+            1
+          ],
+          [
+            "Clover Lion",
+            0.005,
+            "Nice"
+          ],
+          [
+            "Lucki Wolf",
+            5e-05,
+            "Nice"
+          ],
+          [
+            "Huge Lucki Cat",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "6 | Lucky Raid Egg 6",
+      "category": "Raid",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "LuckyCoins",
+        "name": "Leprechaun Egg",
+        "overrideCost": 200,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Lucki Cat": "LuckyRaidEggHuge"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Lucki Monkey",
+            99.05
+          ],
+          [
+            "Clover Lion",
+            1
+          ],
+          [
+            "Lucki Wolf",
+            0.005,
+            "Nice"
+          ],
+          [
+            "Clover Peacock",
+            5e-05,
+            "Nice"
+          ],
+          [
+            "Huge Lucki Cat",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "7 | Lucky Raid Egg 7",
+      "category": "Raid",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "LuckyCoins",
+        "name": "Leprechaun Egg",
+        "overrideCost": 200,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Lucki Cat": "LuckyRaidEggHuge"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Clover Lion",
+            99.05
+          ],
+          [
+            "Lucki Wolf",
+            1
+          ],
+          [
+            "Clover Peacock",
+            0.005,
+            "Nice"
+          ],
+          [
+            "Clover Butterfly",
+            5e-05,
+            "Nice"
+          ],
+          [
+            "Huge Lucki Cat",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "8 | Lucky Raid Egg 8",
+      "category": "Raid",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "LuckyCoins",
+        "name": "Pot of Gold Egg",
+        "overrideCost": 200,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Lucki Cat": "LuckyRaidEggHuge"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Lucki Wolf",
+            99.05
+          ],
+          [
+            "Clover Peacock",
+            1
+          ],
+          [
+            "Clover Butterfly",
+            0.005,
+            "Great"
+          ],
+          [
+            "Lucki Dominus",
+            5e-05,
+            "Insane"
+          ],
+          [
+            "Huge Lucki Cat",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "9 | Lucky Raid Egg 9",
+      "category": "Raid",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "LuckyCoins",
+        "name": "Pot of Gold Egg",
+        "overrideCost": 200,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Lucki Cat": "LuckyRaidEggHuge"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Lucki Wolf",
+            99.0045
+          ],
+          [
+            "Clover Peacock",
+            1
+          ],
+          [
+            "Clover Butterfly",
+            0.05,
+            "Great"
+          ],
+          [
+            "Lucki Dominus",
+            0.0005,
+            "Insane"
+          ],
+          [
+            "Pot of Gold Cat",
+            5e-05,
+            "Insane"
+          ],
+          [
+            "Huge Lucki Cat",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
     }
   ]
 }

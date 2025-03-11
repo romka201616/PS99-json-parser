@@ -1,10 +1,10 @@
 {
   "data": [
     {
-      "configName": "Upgrade Card",
+      "configName": "Clover",
       "category": "Event",
       "configData": {
-        "DisplayName": "Upgrade Card",
+        "DisplayName": "Clover",
         "Rarity": {
           "RarityNumber": 4,
           "Lootbag": null,
@@ -19,22 +19,22 @@
         },
         "Category": "Event",
         "Tradable": false,
-        "Icon": "rbxassetid://103039910052534",
-        "Desc": "Used to purchase Card Event Upgrades!"
+        "Icon": "rbxassetid://121838700496664",
+        "Desc": "Can be combined into Lucky Gifts using the Leprechaun Machine!"
       },
       "collection": "MiscItems"
     },
     {
-      "configName": "Card Shop Key",
+      "configName": "Leprechaun Key",
       "category": "Event",
       "configData": {
-        "DisplayName": "Card Shop Key",
+        "DisplayName": "Leprechaun Key",
         "Rarity": {
-          "RarityNumber": 6,
+          "RarityNumber": 7,
           "Lootbag": null,
-          "_id": "Exotic",
+          "_id": "Divine",
           "Color": null,
-          "DisplayName": "Exotic",
+          "DisplayName": "Divine",
           "Message": null,
           "ItemSlot": null,
           "Gradient": null,
@@ -43,8 +43,32 @@
         },
         "Category": "Event",
         "Tradable": false,
-        "Icon": "rbxassetid://120760084851780",
-        "Desc": "Unlocks the Card Merchant Area! Earned from the Card Index Rewards!"
+        "Icon": "rbxassetid://97209544403492",
+        "Desc": "Unlocks the Leprechaun Chest at the end of Lucky Raids!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Lucky Raid Orb",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Lucky Raid Orb",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Category": "Event",
+        "Tradable": false,
+        "Icon": "rbxassetid://107058871267889",
+        "Desc": "Used to purchase Lucky Raid Upgrades! Earned from gaining Lucky Raid levels!"
       },
       "collection": "MiscItems"
     }

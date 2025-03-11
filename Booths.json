@@ -2447,6 +2447,29 @@
         "Desc": "Now selling card booster packs!"
       },
       "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Sphinx",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Sphinx Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://136609680567198",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2025 Egyptian Clan Battle!"
+      },
+      "collection": "Booths"
     }
   ]
 }

@@ -1567,6 +1567,29 @@
         "RequireSave": true
       },
       "collection": "Lootboxes"
+    },
+    {
+      "configName": "Lucky Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Lucky Gift",
+        "Icon": "rbxassetid://82101319883195",
+        "Desc": "Obtained during the St. Patrick's Raid Event!"
+      },
+      "collection": "Lootboxes"
     }
   ]
 }
