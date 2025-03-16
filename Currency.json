@@ -4240,6 +4240,50 @@
         ]
       },
       "collection": "Currency"
+    },
+    {
+      "configName": "Currency | LuckyCoins",
+      "category": "Currency",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "Tiers": [
+          {
+            "orbImage": "rbxassetid://133498641445950",
+            "imageOutline": "rbxassetid://90246759786963",
+            "Order": 1,
+            "isBottom": true,
+            "value": 1,
+            "tierName": "Lucky Coins",
+            "tinyImage": "rbxassetid://100737449873738",
+            "textColor": null
+          }
+        ],
+        "DisplayName": "Lucky Coins",
+        "_index": 18,
+        "Desc": "Feeling lucky!",
+        "IsWorldCurrency": false,
+        "PermitAutoLootScaling": true,
+        "MaxAmount": 999999999999,
+        "BagTiers": [
+          {
+            "value": 0,
+            "image": "rbxassetid://15058306423"
+          }
+        ]
+      },
+      "collection": "Currency"
     }
   ]
 }

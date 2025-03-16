@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "configName": "LuckyBattle",
+      "configName": "TieDyeBattle",
       "category": "GuildBattles",
       "configData": {
         "PlacementRewards": [
@@ -17,7 +17,7 @@
           {
             "Item": {
               "_data": {
-                "id": "Sphinx"
+                "id": "Tie Dye"
               }
             },
             "Best": 1,
@@ -26,7 +26,7 @@
           {
             "Item": {
               "_data": {
-                "id": "Sphinx"
+                "id": "Tie Dye"
               }
             },
             "Best": 1,
@@ -35,7 +35,7 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Sphinx",
+                "id": "Huge Tiedye Dog",
                 "pt": 2
               }
             },
@@ -45,7 +45,7 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Sphinx",
+                "id": "Huge Tiedye Dog",
                 "pt": 1
               }
             },
@@ -55,16 +55,16 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Sphinx"
+                "id": "Huge Tiedye Dog"
               }
             },
             "Best": 4,
             "Worst": 10
           }
         ],
-        "FinishTime": 1741971600,
-        "Title": "Lucky Battle",
-        "StartTime": 1741453200,
+        "FinishTime": 1742572800,
+        "Title": "Tie Dye Battle",
+        "StartTime": 1742054400,
         "Rewards": {
           "Good": [],
           "Bronze": [],

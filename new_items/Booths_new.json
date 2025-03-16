@@ -1,16 +1,16 @@
 {
   "data": [
     {
-      "configName": "Booth | Sphinx",
+      "configName": "Booth | Tie Dye",
       "category": "Booths",
       "configData": {
-        "DisplayName": "Sphinx Booth",
+        "DisplayName": "Tie Dye Booth",
         "Rarity": {
-          "RarityNumber": 6,
+          "RarityNumber": 8,
           "Lootbag": null,
-          "_id": "Exotic",
+          "_id": "Superior",
           "Color": null,
-          "DisplayName": "Exotic",
+          "DisplayName": "Superior",
           "Message": null,
           "ItemSlot": null,
           "Gradient": null,
@@ -18,8 +18,8 @@
           "_script": null
         },
         "Model": null,
-        "Icon": "rbxassetid://136609680567198",
-        "Desc": "⚔️ Rewarded to the top 50 clans in the 2025 Egyptian Clan Battle!"
+        "Icon": "rbxassetid://112210909215256",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2025 Tie Dye Clan Battle!"
       },
       "collection": "Booths"
     }

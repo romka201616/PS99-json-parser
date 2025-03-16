@@ -1,274 +1,50 @@
 {
   "data": [
     {
-      "configName": "Huge Sphinx",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://136927162943851",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Sphinx",
-        "indexDesc": "Reward in the 2025 Egyptian Clan Battle!",
-        "thumbnail": "rbxassetid://112960031922397"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Lucki Cat",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://127868583646798",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Lucki Cat",
-        "fly": true,
-        "indexDesc": "Found in the 2025 St. Patrick's Day event eggs!",
-        "thumbnail": "rbxassetid://90438658462311"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Leprechaun Dog",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://135276639961189",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Leprechaun Dog",
-        "indexDesc": "Found in the Leprechaun Chest at the end of Lucky Raids!",
-        "thumbnail": "rbxassetid://82125738012621"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Clover Peacock",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://85469816915665",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Clover Peacock",
-        "indexDesc": "Found in the Huge Chest at the end of Lucky Raids!",
-        "thumbnail": "rbxassetid://109285154435259"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Lucki Tiger",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://87657752961831",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Lucki Tiger",
-        "fly": true,
-        "indexDesc": "Found in the Lucky Gift Bag!",
-        "thumbnail": "rbxassetid://79319215201881"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Clover Lion",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://91293394805565",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Clover Lion",
-        "indexDesc": "Earned from the St. Patrick's Day event leaderboard contest!",
-        "thumbnail": "rbxassetid://123334593122447"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Lucki Monkey",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://126314554744427",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Lucki Monkey",
-        "fly": true,
-        "indexDesc": "Found in The Lucky Forever Pack!",
-        "thumbnail": "rbxassetid://114063062613222"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Clover Butterfly",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://71438153975957",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Clover Butterfly",
-        "fly": true,
-        "indexDesc": "Earned from the St. Patrick's Day event leaderboard contest!",
-        "thumbnail": "rbxassetid://111786177414558"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Dot Matrix Cat",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "",
-        "animations": {
-          "dotMatrix": {
-            "ColorB": null,
-            "ColorA": null
-          }
-        },
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Dot Matrix Cat",
-        "indexDesc": "Found in the Exclusive Dot Matrix Egg!",
-        "thumbnail": "rbxassetid://118273434697077"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Dot Matrix Axolotl",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "",
-        "animations": {
-          "dotMatrix": {
-            "ColorB": null,
-            "ColorA": null
-          }
-        },
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Dot Matrix Axolotl",
-        "indexDesc": "Found in the Exclusive Dot Matrix Egg!",
-        "thumbnail": "rbxassetid://121462024507634"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Titanic Leprechaun Dog",
-      "category": "Titanic",
-      "configData": {
-        "titanic": true,
-        "goldenThumbnail": "rbxassetid://95862883499557",
-        "indexObtainable": true,
-        "name": "Titanic Leprechaun Dog",
-        "indexDesc": "Found in the Titanic Chest at the end of Lucky Raids!",
-        "thumbnail": "rbxassetid://82186253097928"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Titanic Clover Butterfly",
-      "category": "Titanic",
-      "configData": {
-        "titanic": true,
-        "goldenThumbnail": "rbxassetid://127988799586401",
-        "indexObtainable": true,
-        "name": "Titanic Clover Butterfly",
-        "fly": true,
-        "indexDesc": "Earned from the St. Patrick's Day event leaderboard contest!",
-        "thumbnail": "rbxassetid://131125477985744"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Titanic Dot Matrix Kitsune",
-      "category": "Titanic",
-      "configData": {
-        "titanic": true,
-        "goldenThumbnail": "",
-        "animations": {
-          "dotMatrix": {
-            "ColorB": null,
-            "ColorA": null
-          }
-        },
-        "indexObtainable": true,
-        "name": "Titanic Dot Matrix Kitsune",
-        "indexDesc": "Found in the Exclusive Dot Matrix Egg!",
-        "thumbnail": "rbxassetid://101711904618223"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Lucki Cat",
+      "configName": "Doodle Bunny",
       "category": "Uncategorized",
       "configData": {
-        "goldenThumbnail": "rbxassetid://14968275883",
+        "goldenThumbnail": "rbxassetid://14968212581",
         "fromWorldNumber": 3,
-        "fromZoneNumber": 239,
+        "fromZoneNumber": 235,
         "cachedPower": [
-          218906509834495
+          92689946233890
         ],
-        "name": "Lucki Cat",
-        "fly": true,
-        "thumbnail": "rbxassetid://14968275994"
+        "name": "Doodle Bunny",
+        "thumbnail": "rbxassetid://14968212719",
+        "fromEgg": "Doodle Flower Egg"
       },
       "collection": "Pets"
     },
     {
-      "configName": "Lucki Dominus",
+      "configName": "Doodle Cat",
       "category": "Uncategorized",
       "configData": {
-        "goldenThumbnail": "rbxassetid://14968276067",
+        "goldenThumbnail": "rbxassetid://14968212872",
         "fromWorldNumber": 3,
-        "fromZoneNumber": 239,
+        "fromZoneNumber": 235,
         "cachedPower": [
-          240797160817945
+          75899685046566
         ],
-        "name": "Lucki Dominus",
-        "fly": true,
-        "thumbnail": "rbxassetid://14968276146"
+        "name": "Doodle Cat",
+        "thumbnail": "rbxassetid://14968212948",
+        "fromEgg": "Doodle Flower Egg"
       },
       "collection": "Pets"
     },
     {
-      "configName": "Lucki Wolf",
+      "configName": "Doodle Corgi",
       "category": "Uncategorized",
       "configData": {
-        "goldenThumbnail": "rbxassetid://14968276672",
+        "goldenThumbnail": "rbxassetid://14968213301",
         "fromWorldNumber": 3,
-        "fromZoneNumber": 239,
+        "fromZoneNumber": 235,
         "cachedPower": [
-          232588166699151
+          86944208262139
         ],
-        "name": "Lucki Wolf",
-        "fly": true,
-        "thumbnail": "rbxassetid://14968276787"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Lucki Monkey",
-      "category": "Uncategorized",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://14968276253",
-        "fromWorldNumber": 3,
-        "fromZoneNumber": 239,
-        "cachedPower": [
-          227115503953289
-        ],
-        "name": "Lucki Monkey",
-        "fly": true,
-        "thumbnail": "rbxassetid://14968276400"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Lucki Tiger",
-      "category": "Uncategorized",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://14968276529",
-        "fromWorldNumber": 3,
-        "fromZoneNumber": 239,
-        "cachedPower": [
-          224379172580357
-        ],
-        "name": "Lucki Tiger",
-        "fly": true,
-        "thumbnail": "rbxassetid://14968276602"
+        "name": "Doodle Corgi",
+        "thumbnail": "rbxassetid://14968213833",
+        "fromEgg": "Doodle Flower Egg"
       },
       "collection": "Pets"
     },
@@ -276,14 +52,14 @@
       "configName": "Clover Peacock",
       "category": "Uncategorized",
       "configData": {
-        "goldenThumbnail": "rbxassetid://125664405356324",
+        "goldenThumbnail": "rbxassetid://138287122287032",
         "fromWorldNumber": 3,
         "fromZoneNumber": 239,
         "cachedPower": [
           235324498072082
         ],
         "name": "Clover Peacock",
-        "thumbnail": "rbxassetid://83929206936489"
+        "thumbnail": "rbxassetid://77811074784797"
       },
       "collection": "Pets"
     },
@@ -291,14 +67,14 @@
       "configName": "Clover Lion",
       "category": "Uncategorized",
       "configData": {
-        "goldenThumbnail": "rbxassetid://89472240354634",
+        "goldenThumbnail": "rbxassetid://126465041139844",
         "fromWorldNumber": 3,
         "fromZoneNumber": 239,
         "cachedPower": [
           229851835326220
         ],
         "name": "Clover Lion",
-        "thumbnail": "rbxassetid://103447607943951"
+        "thumbnail": "rbxassetid://92090569174852"
       },
       "collection": "Pets"
     },
@@ -306,14 +82,14 @@
       "configName": "Leprechaun Dog",
       "category": "Uncategorized",
       "configData": {
-        "goldenThumbnail": "rbxassetid://107690232279457",
+        "goldenThumbnail": "rbxassetid://83136146082674",
         "fromWorldNumber": 3,
         "fromZoneNumber": 239,
         "cachedPower": [
           221642841207426
         ],
         "name": "Leprechaun Dog",
-        "thumbnail": "rbxassetid://132686904569096"
+        "thumbnail": "rbxassetid://70418015784814"
       },
       "collection": "Pets"
     },
@@ -321,7 +97,7 @@
       "configName": "Clover Butterfly",
       "category": "Uncategorized",
       "configData": {
-        "goldenThumbnail": "rbxassetid://130583438995754",
+        "goldenThumbnail": "rbxassetid://111375276143562",
         "fromWorldNumber": 3,
         "fromZoneNumber": 239,
         "cachedPower": [
@@ -329,7 +105,7 @@
         ],
         "name": "Clover Butterfly",
         "fly": true,
-        "thumbnail": "rbxassetid://124213660935163"
+        "thumbnail": "rbxassetid://116380484302777"
       },
       "collection": "Pets"
     },
@@ -337,84 +113,355 @@
       "configName": "Pot of Gold Cat",
       "category": "Uncategorized",
       "configData": {
-        "goldenThumbnail": "rbxassetid://128954732524090",
+        "goldenThumbnail": "rbxassetid://73956829372262",
         "fromWorldNumber": 3,
         "fromZoneNumber": 239,
         "cachedPower": [
           243533492190876
         ],
         "name": "Pot of Gold Cat",
-        "thumbnail": "rbxassetid://127927633906514"
+        "thumbnail": "rbxassetid://74626937713423"
       },
       "collection": "Pets"
     },
     {
-      "configName": "Dot Matrix Cat",
-      "category": "Uncategorized",
+      "configName": "Huge Tiedye Dog",
+      "category": "Huge",
       "configData": {
-        "goldenThumbnail": "",
-        "animations": {
-          "dotMatrix": {
-            "ColorB": null,
-            "ColorA": null
-          }
-        },
-        "name": "Dot Matrix Cat",
-        "exclusiveLevel": 1,
-        "thumbnail": "rbxassetid://96651992077473"
+        "goldenThumbnail": "rbxassetid://81492022889764",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Tiedye Dog",
+        "indexDesc": "Reward in the 2025 Tie Dye Clan Battle!",
+        "thumbnail": "rbxassetid://117016363569133"
       },
       "collection": "Pets"
     },
     {
-      "configName": "Dot Matrix Snail",
-      "category": "Uncategorized",
+      "configName": "Huge Clover Griffin",
+      "category": "Huge",
       "configData": {
-        "goldenThumbnail": "",
-        "animations": {
-          "dotMatrix": {
-            "ColorB": null,
-            "ColorA": null
-          }
-        },
-        "name": "Dot Matrix Snail",
-        "exclusiveLevel": 2,
-        "thumbnail": "rbxassetid://129735105448057"
+        "goldenThumbnail": "rbxassetid://76543717927150",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Clover Griffin",
+        "fly": true,
+        "indexDesc": "Found in the 2025 St. Patrick's Day event eggs!",
+        "thumbnail": "rbxassetid://129397965885657"
       },
       "collection": "Pets"
     },
     {
-      "configName": "Dot Matrix Axolotl",
-      "category": "Uncategorized",
+      "configName": "Huge Hydra Axolotl",
+      "category": "Huge",
       "configData": {
-        "goldenThumbnail": "",
-        "animations": {
-          "dotMatrix": {
-            "ColorB": null,
-            "ColorA": null
-          }
-        },
-        "name": "Dot Matrix Axolotl",
-        "exclusiveLevel": 3,
-        "thumbnail": "rbxassetid://137759357538257"
+        "goldenThumbnail": "rbxassetid://72203256306429",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Hydra Axolotl",
+        "indexDesc": "Found in The Forever Pack!",
+        "thumbnail": "rbxassetid://76323621337981"
       },
       "collection": "Pets"
     },
     {
-      "configName": "Gargantuan Dot Matrix Pegasus",
-      "category": "Gargantuan",
+      "configName": "Huge Pot of Gold Cat",
+      "category": "Huge",
       "configData": {
-        "goldenThumbnail": "",
+        "goldenThumbnail": "rbxassetid://89378799160723",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Pot of Gold Cat",
+        "indexDesc": "Found in The Pot of Gold Forever Pack!",
+        "thumbnail": "rbxassetid://123890112908568"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Clover Bee",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://129229996923770",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Clover Bee",
+        "fly": true,
+        "indexDesc": "Earned by defeating the Tier 300 Lucky Raid Boss!",
+        "thumbnail": "rbxassetid://92697373462590"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Lucki Angelus",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://106453225511334",
         "animations": {
-          "dotMatrix": {
-            "ColorB": null,
-            "ColorA": null
-          }
+          "spinZ": true
         },
         "indexObtainable": true,
-        "name": "Gargantuan Dot Matrix Pegasus",
-        "thumbnail": "rbxassetid://133716042717345",
-        "indexDesc": "Found in the Exclusive Dot Matrix Egg!",
-        "gargantuan": true
+        "huge": true,
+        "name": "Huge Lucki Angelus",
+        "fly": true,
+        "indexDesc": "Earned by defeating the Tier 1,000 Lucky Raid Boss!",
+        "thumbnail": "rbxassetid://139803624702732"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Emerald Owl",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://123175144561252",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Emerald Owl",
+        "fly": true,
+        "indexDesc": "Found in the Leprechaun Chest at the end of Lucky Raids!",
+        "thumbnail": "rbxassetid://86244728271610"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Leprechaun Corgi",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://78046479704494",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Leprechaun Corgi",
+        "indexDesc": "Earned from the St. Patrick's Day event leaderboard contest!",
+        "thumbnail": "rbxassetid://121626640440926"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Wishing Dragon",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://111837955481533",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Wishing Dragon",
+        "fly": true,
+        "indexDesc": "Earned from the St. Patrick's Day event leaderboard contest!",
+        "thumbnail": "rbxassetid://106906458368266"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Lucki Elephant",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://136231403295192",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Lucki Elephant",
+        "indexDesc": "Earned by defeating the Tier 100 Lucky Raid Boss!",
+        "thumbnail": "rbxassetid://101748445167482"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Hydra Axolotl",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://94667830042202",
+        "indexObtainable": true,
+        "name": "Titanic Hydra Axolotl",
+        "indexDesc": "Found in The Forever Pack!",
+        "thumbnail": "rbxassetid://116530316117361"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Lucki Angelus",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://78169662483276",
+        "animations": {
+          "spinZ": true
+        },
+        "indexObtainable": true,
+        "name": "Titanic Lucki Angelus",
+        "fly": true,
+        "indexDesc": "Earned by defeating the Tier 1,000 Lucky Raid Boss!",
+        "thumbnail": "rbxassetid://140159437559092"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Wishing Dragon",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://93105033492234",
+        "indexObtainable": true,
+        "name": "Titanic Wishing Dragon",
+        "fly": true,
+        "indexDesc": "Earned from the St. Patrick's Day event leaderboard contest!",
+        "thumbnail": "rbxassetid://133278674561506"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Lucki Agony",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968275684",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          250887382755628
+        ],
+        "name": "Lucki Agony",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968275778"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Emerald Owl",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://82899609699791",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          249348196358354
+        ],
+        "name": "Emerald Owl",
+        "fly": true,
+        "thumbnail": "rbxassetid://102569224681414"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Leprechaun Corgi",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://98612561193858",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          245585740720574
+        ],
+        "name": "Leprechaun Corgi",
+        "thumbnail": "rbxassetid://94825916121197"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Lucki Angelus",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://79144895549039",
+        "animations": {
+          "spinZ": true
+        },
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          255504941947450
+        ],
+        "name": "Lucki Angelus",
+        "fly": true,
+        "thumbnail": "rbxassetid://90493602438892"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Lucki Elephant",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://124838982302199",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          244901657877341
+        ],
+        "name": "Lucki Elephant",
+        "thumbnail": "rbxassetid://125873942319354"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Lucki Bunny",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://119112793102736",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          244217575034109
+        ],
+        "name": "Lucki Bunny",
+        "thumbnail": "rbxassetid://101962619406517"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Horseshoe Crab",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://117314816219748",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          246269823563807
+        ],
+        "name": "Horseshoe Crab",
+        "thumbnail": "rbxassetid://80414589872638"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Wishing Dragon",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://73161274488659",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          252426569152902
+        ],
+        "name": "Wishing Dragon",
+        "fly": true,
+        "thumbnail": "rbxassetid://123146990640983"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Clover Griffin",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://117022617688201",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          247809009961081
+        ],
+        "name": "Clover Griffin",
+        "fly": true,
+        "thumbnail": "rbxassetid://83133369856634"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Clover Bee",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://83653024525779",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          243943941896815
+        ],
+        "name": "Clover Bee",
+        "fly": true,
+        "thumbnail": "rbxassetid://139480259905097"
       },
       "collection": "Pets"
     }

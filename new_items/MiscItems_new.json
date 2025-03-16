@@ -1,30 +1,6 @@
 {
   "data": [
     {
-      "configName": "Clover",
-      "category": "Event",
-      "configData": {
-        "DisplayName": "Clover",
-        "Rarity": {
-          "RarityNumber": 4,
-          "Lootbag": null,
-          "_id": "Legendary",
-          "Color": null,
-          "DisplayName": "Legendary",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Category": "Event",
-        "Tradable": false,
-        "Icon": "rbxassetid://121838700496664",
-        "Desc": "Can be combined into Lucky Gifts using the Leprechaun Machine!"
-      },
-      "collection": "MiscItems"
-    },
-    {
       "configName": "Leprechaun Key",
       "category": "Event",
       "configData": {
@@ -42,33 +18,102 @@
           "_script": null
         },
         "Category": "Event",
-        "Tradable": false,
+        "Tradable": true,
         "Icon": "rbxassetid://97209544403492",
         "Desc": "Unlocks the Leprechaun Chest at the end of Lucky Raids!"
       },
       "collection": "MiscItems"
     },
     {
-      "configName": "Lucky Raid Orb",
-      "category": "Event",
+      "configName": "Lucky Raid Boss Key Lower Half",
+      "category": "Keys",
       "configData": {
-        "DisplayName": "Lucky Raid Orb",
         "Rarity": {
-          "RarityNumber": 4,
+          "RarityNumber": 5,
           "Lootbag": null,
-          "_id": "Legendary",
+          "_id": "Mythical",
           "Color": null,
-          "DisplayName": "Legendary",
+          "DisplayName": "Mythical",
           "Message": null,
           "ItemSlot": null,
           "Gradient": null,
           "Announce": false,
           "_script": null
         },
+        "DisplayName": "Lucky Raid Boss Key: Lower Half",
+        "Category": "Keys",
+        "Icon": "rbxassetid://85599753132358",
+        "Desc": "The lower half to the Lucky Raid Boss Key. Combine this with the upper half!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Lucky Raid Boss Key Upper Half",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Lucky Raid Boss Key: Upper Half",
+        "Category": "Keys",
+        "Icon": "rbxassetid://125658414860429",
+        "Desc": "The lower half to the Lucky Raid Boss Key. Combine this with the lower half!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Lucky Raid Boss Key",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Lucky Raid Boss Key",
+        "Category": "Keys",
+        "Icon": "rbxassetid://110981208047993",
+        "Desc": "Used to unlock the final Lucky Raid Boss room!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Mystery Lucky Raid Key",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Mystery Lucky Raid Key",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
         "Category": "Event",
         "Tradable": false,
-        "Icon": "rbxassetid://107058871267889",
-        "Desc": "Used to purchase Lucky Raid Upgrades! Earned from gaining Lucky Raid levels!"
+        "Icon": "rbxassetid://97209544403492",
+        "Desc": "Who's there? Nobody knows!"
       },
       "collection": "MiscItems"
     }

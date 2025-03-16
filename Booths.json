@@ -2470,6 +2470,29 @@
         "Desc": "⚔️ Rewarded to the top 50 clans in the 2025 Egyptian Clan Battle!"
       },
       "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Tie Dye",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Tie Dye Booth",
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://112210909215256",
+        "Desc": "⚔️ Rewarded to the top 50 clans in the 2025 Tie Dye Clan Battle!"
+      },
+      "collection": "Booths"
     }
   ]
 }

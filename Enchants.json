@@ -2983,6 +2983,38 @@
         "BaseTier": 1
       },
       "collection": "Enchants"
+    },
+    {
+      "configName": "Enchant | Mega Chest Breaker",
+      "category": "Special",
+      "configData": {
+        "DiminishPowerThreshold": 500,
+        "Tiers": [
+          {
+            "Rarity": {
+              "RarityNumber": 999,
+              "Lootbag": null,
+              "_id": "Exclusive",
+              "Color": null,
+              "DisplayName": "Exclusive",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": true,
+              "_script": null
+            },
+            "Power": 500,
+            "Desc": "Increases the damage you deal to chests by 500%!",
+            "Icon": "rbxassetid://116837175751892",
+            "DisplayName": "Mega Chest Breaker"
+          }
+        ],
+        "ProductId": 3239158650,
+        "MaxTier": 1,
+        "MaxPage": 0,
+        "BaseTier": 1
+      },
+      "collection": "Enchants"
     }
   ]
 }

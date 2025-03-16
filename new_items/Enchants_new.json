@@ -1,10 +1,10 @@
 {
   "data": [
     {
-      "configName": "Enchant | Breakable Mayhem",
-      "category": "Exclusive",
+      "configName": "Enchant | Mega Chest Breaker",
+      "category": "Special",
       "configData": {
-        "DiminishPowerThreshold": 1,
+        "DiminishPowerThreshold": 500,
         "Tiers": [
           {
             "Rarity": {
@@ -19,13 +19,13 @@
               "Announce": true,
               "_script": null
             },
-            "Power": 0.5,
-            "Desc": "Random HUGE & TITANIC chance while destroying breakables!\n\nHuge & Titanic rotates DAILY!",
-            "Icon": "rbxassetid://136082909959165",
-            "DisplayName": "Breakable Mayhem"
+            "Power": 500,
+            "Desc": "Increases the damage you deal to chests by 500%!",
+            "Icon": "rbxassetid://116837175751892",
+            "DisplayName": "Mega Chest Breaker"
           }
         ],
-        "ProductId": 2689880249,
+        "ProductId": 3239158650,
         "MaxTier": 1,
         "MaxPage": 0,
         "BaseTier": 1
