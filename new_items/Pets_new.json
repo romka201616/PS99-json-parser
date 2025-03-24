@@ -1,467 +1,338 @@
 {
   "data": [
     {
-      "configName": "Doodle Bunny",
+      "configName": "Kaiju Volcano",
       "category": "Uncategorized",
       "configData": {
-        "goldenThumbnail": "rbxassetid://14968212581",
-        "fromWorldNumber": 3,
-        "fromZoneNumber": 235,
-        "cachedPower": [
-          92689946233890
-        ],
-        "name": "Doodle Bunny",
-        "thumbnail": "rbxassetid://14968212719",
-        "fromEgg": "Doodle Flower Egg"
+        "goldenThumbnail": "rbxassetid://91076098978665",
+        "name": "Kaiju Volcano",
+        "exclusiveLevel": 2,
+        "thumbnail": "rbxassetid://101340449423952"
       },
       "collection": "Pets"
     },
     {
-      "configName": "Doodle Cat",
+      "configName": "Kaiju Sea Dragon",
       "category": "Uncategorized",
       "configData": {
-        "goldenThumbnail": "rbxassetid://14968212872",
-        "fromWorldNumber": 3,
-        "fromZoneNumber": 235,
-        "cachedPower": [
-          75899685046566
-        ],
-        "name": "Doodle Cat",
-        "thumbnail": "rbxassetid://14968212948",
-        "fromEgg": "Doodle Flower Egg"
+        "goldenThumbnail": "rbxassetid://127540284925826",
+        "name": "Kaiju Sea Dragon",
+        "exclusiveLevel": 1,
+        "thumbnail": "rbxassetid://105586421223527"
       },
       "collection": "Pets"
     },
     {
-      "configName": "Doodle Corgi",
+      "configName": "Fragmented Golem",
       "category": "Uncategorized",
       "configData": {
-        "goldenThumbnail": "rbxassetid://14968213301",
-        "fromWorldNumber": 3,
-        "fromZoneNumber": 235,
-        "cachedPower": [
-          86944208262139
-        ],
-        "name": "Doodle Corgi",
-        "thumbnail": "rbxassetid://14968213833",
-        "fromEgg": "Doodle Flower Egg"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Clover Peacock",
-      "category": "Uncategorized",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://138287122287032",
+        "goldenThumbnail": "rbxassetid://80900220192797",
         "fromWorldNumber": 3,
         "fromZoneNumber": 239,
         "cachedPower": [
-          235324498072082
+          257044128344723
         ],
-        "name": "Clover Peacock",
-        "thumbnail": "rbxassetid://77811074784797"
+        "name": "Fragmented Golem",
+        "thumbnail": "rbxassetid://79467586113278"
       },
       "collection": "Pets"
     },
     {
-      "configName": "Clover Lion",
+      "configName": "Jungle Golem",
       "category": "Uncategorized",
       "configData": {
-        "goldenThumbnail": "rbxassetid://126465041139844",
-        "fromWorldNumber": 3,
-        "fromZoneNumber": 239,
-        "cachedPower": [
-          229851835326220
-        ],
-        "name": "Clover Lion",
-        "thumbnail": "rbxassetid://92090569174852"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Leprechaun Dog",
-      "category": "Uncategorized",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://83136146082674",
-        "fromWorldNumber": 3,
-        "fromZoneNumber": 239,
-        "cachedPower": [
-          221642841207426
-        ],
-        "name": "Leprechaun Dog",
-        "thumbnail": "rbxassetid://70418015784814"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Clover Butterfly",
-      "category": "Uncategorized",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://111375276143562",
-        "fromWorldNumber": 3,
-        "fromZoneNumber": 239,
-        "cachedPower": [
-          238060829445013
-        ],
-        "name": "Clover Butterfly",
-        "fly": true,
-        "thumbnail": "rbxassetid://116380484302777"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Pot of Gold Cat",
-      "category": "Uncategorized",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://73956829372262",
-        "fromWorldNumber": 3,
-        "fromZoneNumber": 239,
-        "cachedPower": [
-          243533492190876
-        ],
-        "name": "Pot of Gold Cat",
-        "thumbnail": "rbxassetid://74626937713423"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Tiedye Dog",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://81492022889764",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Tiedye Dog",
-        "indexDesc": "Reward in the 2025 Tie Dye Clan Battle!",
-        "thumbnail": "rbxassetid://117016363569133"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Clover Griffin",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://76543717927150",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Clover Griffin",
-        "fly": true,
-        "indexDesc": "Found in the 2025 St. Patrick's Day event eggs!",
-        "thumbnail": "rbxassetid://129397965885657"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Hydra Axolotl",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://72203256306429",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Hydra Axolotl",
-        "indexDesc": "Found in The Forever Pack!",
-        "thumbnail": "rbxassetid://76323621337981"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Pot of Gold Cat",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://89378799160723",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Pot of Gold Cat",
-        "indexDesc": "Found in The Pot of Gold Forever Pack!",
-        "thumbnail": "rbxassetid://123890112908568"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Clover Bee",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://129229996923770",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Clover Bee",
-        "fly": true,
-        "indexDesc": "Earned by defeating the Tier 300 Lucky Raid Boss!",
-        "thumbnail": "rbxassetid://92697373462590"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Lucki Angelus",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://106453225511334",
-        "animations": {
-          "spinZ": true
-        },
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Lucki Angelus",
-        "fly": true,
-        "indexDesc": "Earned by defeating the Tier 1,000 Lucky Raid Boss!",
-        "thumbnail": "rbxassetid://139803624702732"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Emerald Owl",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://123175144561252",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Emerald Owl",
-        "fly": true,
-        "indexDesc": "Found in the Leprechaun Chest at the end of Lucky Raids!",
-        "thumbnail": "rbxassetid://86244728271610"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Leprechaun Corgi",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://78046479704494",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Leprechaun Corgi",
-        "indexDesc": "Earned from the St. Patrick's Day event leaderboard contest!",
-        "thumbnail": "rbxassetid://121626640440926"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Wishing Dragon",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://111837955481533",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Wishing Dragon",
-        "fly": true,
-        "indexDesc": "Earned from the St. Patrick's Day event leaderboard contest!",
-        "thumbnail": "rbxassetid://106906458368266"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Lucki Elephant",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://136231403295192",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Lucki Elephant",
-        "indexDesc": "Earned by defeating the Tier 100 Lucky Raid Boss!",
-        "thumbnail": "rbxassetid://101748445167482"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Titanic Hydra Axolotl",
-      "category": "Titanic",
-      "configData": {
-        "titanic": true,
-        "goldenThumbnail": "rbxassetid://94667830042202",
-        "indexObtainable": true,
-        "name": "Titanic Hydra Axolotl",
-        "indexDesc": "Found in The Forever Pack!",
-        "thumbnail": "rbxassetid://116530316117361"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Titanic Lucki Angelus",
-      "category": "Titanic",
-      "configData": {
-        "titanic": true,
-        "goldenThumbnail": "rbxassetid://78169662483276",
-        "animations": {
-          "spinZ": true
-        },
-        "indexObtainable": true,
-        "name": "Titanic Lucki Angelus",
-        "fly": true,
-        "indexDesc": "Earned by defeating the Tier 1,000 Lucky Raid Boss!",
-        "thumbnail": "rbxassetid://140159437559092"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Titanic Wishing Dragon",
-      "category": "Titanic",
-      "configData": {
-        "titanic": true,
-        "goldenThumbnail": "rbxassetid://93105033492234",
-        "indexObtainable": true,
-        "name": "Titanic Wishing Dragon",
-        "fly": true,
-        "indexDesc": "Earned from the St. Patrick's Day event leaderboard contest!",
-        "thumbnail": "rbxassetid://133278674561506"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Lucki Agony",
-      "category": "Uncategorized",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://14968275684",
-        "fromWorldNumber": 3,
-        "fromZoneNumber": 239,
-        "cachedPower": [
-          250887382755628
-        ],
-        "name": "Lucki Agony",
-        "fly": true,
-        "thumbnail": "rbxassetid://14968275778"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Emerald Owl",
-      "category": "Uncategorized",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://82899609699791",
-        "fromWorldNumber": 3,
-        "fromZoneNumber": 239,
-        "cachedPower": [
-          249348196358354
-        ],
-        "name": "Emerald Owl",
-        "fly": true,
-        "thumbnail": "rbxassetid://102569224681414"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Leprechaun Corgi",
-      "category": "Uncategorized",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://98612561193858",
-        "fromWorldNumber": 3,
-        "fromZoneNumber": 239,
-        "cachedPower": [
-          245585740720574
-        ],
-        "name": "Leprechaun Corgi",
-        "thumbnail": "rbxassetid://94825916121197"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Lucki Angelus",
-      "category": "Uncategorized",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://79144895549039",
-        "animations": {
-          "spinZ": true
-        },
+        "goldenThumbnail": "rbxassetid://88966220691911",
         "fromWorldNumber": 3,
         "fromZoneNumber": 239,
         "cachedPower": [
           255504941947450
         ],
-        "name": "Lucki Angelus",
-        "fly": true,
-        "thumbnail": "rbxassetid://90493602438892"
+        "name": "Jungle Golem",
+        "thumbnail": "rbxassetid://94359397613247"
       },
       "collection": "Pets"
     },
     {
-      "configName": "Lucki Elephant",
+      "configName": "Minecart Hamster",
       "category": "Uncategorized",
       "configData": {
-        "goldenThumbnail": "rbxassetid://124838982302199",
-        "fromWorldNumber": 3,
-        "fromZoneNumber": 239,
-        "cachedPower": [
-          244901657877341
-        ],
-        "name": "Lucki Elephant",
-        "thumbnail": "rbxassetid://125873942319354"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Lucki Bunny",
-      "category": "Uncategorized",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://119112793102736",
-        "fromWorldNumber": 3,
-        "fromZoneNumber": 239,
-        "cachedPower": [
-          244217575034109
-        ],
-        "name": "Lucki Bunny",
-        "thumbnail": "rbxassetid://101962619406517"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Horseshoe Crab",
-      "category": "Uncategorized",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://117314816219748",
+        "goldenThumbnail": "rbxassetid://85826572332689",
         "fromWorldNumber": 3,
         "fromZoneNumber": 239,
         "cachedPower": [
           246269823563807
         ],
-        "name": "Horseshoe Crab",
-        "thumbnail": "rbxassetid://80414589872638"
+        "name": "Minecart Hamster",
+        "thumbnail": "rbxassetid://94241789871737"
       },
       "collection": "Pets"
     },
     {
-      "configName": "Wishing Dragon",
+      "configName": "Abyss Carbuncle",
       "category": "Uncategorized",
       "configData": {
-        "goldenThumbnail": "rbxassetid://73161274488659",
+        "goldenThumbnail": "rbxassetid://116419627397949",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          261661687536545
+        ],
+        "name": "Abyss Carbuncle",
+        "thumbnail": "rbxassetid://132835629822914"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Mining Penguin",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://73168468310625",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          243533492190876
+        ],
+        "name": "Mining Penguin",
+        "thumbnail": "rbxassetid://135904679485668"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Crystal Spider",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://93052620010433",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          249348196358354
+        ],
+        "name": "Crystal Spider",
+        "thumbnail": "rbxassetid://98426075610969"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Mining Raccoon",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://129006327954262",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          240797160817945
+        ],
+        "name": "Mining Raccoon",
+        "thumbnail": "rbxassetid://120972875093348"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Crystal Bat",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://94069014409916",
         "fromWorldNumber": 3,
         "fromZoneNumber": 239,
         "cachedPower": [
           252426569152902
         ],
-        "name": "Wishing Dragon",
+        "name": "Crystal Bat",
         "fly": true,
-        "thumbnail": "rbxassetid://123146990640983"
+        "thumbnail": "rbxassetid://96230769745826"
       },
       "collection": "Pets"
     },
     {
-      "configName": "Clover Griffin",
+      "configName": "Abstract Dominus",
       "category": "Uncategorized",
       "configData": {
-        "goldenThumbnail": "rbxassetid://117022617688201",
+        "goldenThumbnail": "rbxassetid://100049514849518",
         "fromWorldNumber": 3,
         "fromZoneNumber": 239,
         "cachedPower": [
-          247809009961081
+          258583314741997
         ],
-        "name": "Clover Griffin",
-        "fly": true,
-        "thumbnail": "rbxassetid://83133369856634"
+        "name": "Abstract Dominus",
+        "thumbnail": "rbxassetid://78101983924468"
       },
       "collection": "Pets"
     },
     {
-      "configName": "Clover Bee",
+      "configName": "Kaiju Hydra",
       "category": "Uncategorized",
       "configData": {
-        "goldenThumbnail": "rbxassetid://83653024525779",
-        "fromWorldNumber": 3,
-        "fromZoneNumber": 239,
-        "cachedPower": [
-          243943941896815
-        ],
-        "name": "Clover Bee",
+        "goldenThumbnail": "rbxassetid://88113076176074",
+        "name": "Kaiju Hydra",
+        "exclusiveLevel": 3,
+        "thumbnail": "rbxassetid://97508264722074"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Gargantuan Hellish Axolotl",
+      "category": "Gargantuan",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://111236540845186",
+        "animations": {
+          "idleActionAnimations": [
+            [
+              "CorgiJumping",
+              0.5
+            ]
+          ],
+          "customAnimations": true,
+          "ridingJumpPower": 125
+        },
+        "indexObtainable": true,
+        "gargantuan": true,
+        "name": "Gargantuan Hellish Axolotl",
+        "thumbnail": "rbxassetid://74041646461593",
         "fly": true,
-        "thumbnail": "rbxassetid://139480259905097"
+        "indexDesc": "Earned from the Combine-O-Matic!\n\nGround Slam - Pet will damage breakables in a large area!"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Gargantuan Kaiju King",
+      "category": "Gargantuan",
+      "configData": {
+        "goldenThumbnail": "",
+        "animations": {
+          "idleActionAnimations": [
+            [
+              "CorgiJumping",
+              0.5
+            ]
+          ],
+          "customAnimations": true,
+          "ridingJumpPower": 125
+        },
+        "indexObtainable": true,
+        "name": "Gargantuan Kaiju King",
+        "gargantuan": true,
+        "indexDesc": "Found in the Exclusive Kaiju Egg!\n\nGround Slam - Pet will damage breakables in a large area!",
+        "thumbnail": "rbxassetid://122037254674435"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Mining Penguin",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://139465239417636",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Mining Penguin",
+        "indexDesc": "Earned from the 2025 Mining Event!",
+        "thumbnail": "rbxassetid://107393069000800"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Crystal Spider",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://70592879555241",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Crystal Spider",
+        "indexDesc": "Earned from the 2025 Mining Event!",
+        "thumbnail": "rbxassetid://78631219465603"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Fragmented Golem",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://124123306751895",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Fragmented Golem",
+        "indexDesc": "Earned from the 2025 Mining Event!",
+        "thumbnail": "rbxassetid://104056264494147"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Kaiju Sea Dragon",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://125398970610563",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Kaiju Sea Dragon",
+        "indexDesc": "Found in the Exclusive Kaiju Egg!",
+        "thumbnail": "rbxassetid://77556334425969"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Kaiju Hydra",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://116779986656695",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Kaiju Hydra",
+        "indexDesc": "Found in the Exclusive Kaiju Egg!",
+        "thumbnail": "rbxassetid://104819925091161"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Abstract Dominus",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://104529894966052",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Abstract Dominus",
+        "indexDesc": "Found in The Gem Forever Pack!",
+        "thumbnail": "rbxassetid://138676503703270"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Mining Raccoon",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://94818260225356",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Mining Raccoon",
+        "indexDesc": "Earned from the Mining Event's final egg!",
+        "thumbnail": "rbxassetid://81824551142457"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Abyss Carbuncle",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://80517635638750",
+        "indexObtainable": true,
+        "name": "Titanic Abyss Carbuncle",
+        "indexDesc": "Found in the Exclusive Kaiju Egg!",
+        "thumbnail": "rbxassetid://121024391063626"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Kaiju Moth",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "flyingTitanic": true,
+        "name": "Titanic Kaiju Moth",
+        "flyingTitanicAlwaysFly": true,
+        "fly": true,
+        "indexDesc": "Found in the Exclusive Kaiju Egg!",
+        "thumbnail": "rbxassetid://119404602163936"
       },
       "collection": "Pets"
     }

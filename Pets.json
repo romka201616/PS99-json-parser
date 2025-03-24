@@ -33913,6 +33913,342 @@
         "thumbnail": "rbxassetid://139480259905097"
       },
       "collection": "Pets"
+    },
+    {
+      "configName": "Kaiju Volcano",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://91076098978665",
+        "name": "Kaiju Volcano",
+        "exclusiveLevel": 2,
+        "thumbnail": "rbxassetid://101340449423952"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Kaiju Sea Dragon",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://127540284925826",
+        "name": "Kaiju Sea Dragon",
+        "exclusiveLevel": 1,
+        "thumbnail": "rbxassetid://105586421223527"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Fragmented Golem",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://80900220192797",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          257044128344723
+        ],
+        "name": "Fragmented Golem",
+        "thumbnail": "rbxassetid://79467586113278"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Jungle Golem",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://88966220691911",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          255504941947450
+        ],
+        "name": "Jungle Golem",
+        "thumbnail": "rbxassetid://94359397613247"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Minecart Hamster",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://85826572332689",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          246269823563807
+        ],
+        "name": "Minecart Hamster",
+        "thumbnail": "rbxassetid://94241789871737"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Abyss Carbuncle",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://116419627397949",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          261661687536545
+        ],
+        "name": "Abyss Carbuncle",
+        "thumbnail": "rbxassetid://132835629822914"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Mining Penguin",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://73168468310625",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          243533492190876
+        ],
+        "name": "Mining Penguin",
+        "thumbnail": "rbxassetid://135904679485668"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Crystal Spider",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://93052620010433",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          249348196358354
+        ],
+        "name": "Crystal Spider",
+        "thumbnail": "rbxassetid://98426075610969"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Mining Raccoon",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://129006327954262",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          240797160817945
+        ],
+        "name": "Mining Raccoon",
+        "thumbnail": "rbxassetid://120972875093348"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Crystal Bat",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://94069014409916",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          252426569152902
+        ],
+        "name": "Crystal Bat",
+        "fly": true,
+        "thumbnail": "rbxassetid://96230769745826"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Abstract Dominus",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://100049514849518",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          258583314741997
+        ],
+        "name": "Abstract Dominus",
+        "thumbnail": "rbxassetid://78101983924468"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Kaiju Hydra",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://88113076176074",
+        "name": "Kaiju Hydra",
+        "exclusiveLevel": 3,
+        "thumbnail": "rbxassetid://97508264722074"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Gargantuan Hellish Axolotl",
+      "category": "Gargantuan",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://111236540845186",
+        "animations": {
+          "idleActionAnimations": [
+            [
+              "CorgiJumping",
+              0.5
+            ]
+          ],
+          "customAnimations": true,
+          "ridingJumpPower": 125
+        },
+        "indexObtainable": true,
+        "gargantuan": true,
+        "name": "Gargantuan Hellish Axolotl",
+        "thumbnail": "rbxassetid://74041646461593",
+        "fly": true,
+        "indexDesc": "Earned from the Combine-O-Matic!\n\nGround Slam - Pet will damage breakables in a large area!"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Gargantuan Kaiju King",
+      "category": "Gargantuan",
+      "configData": {
+        "goldenThumbnail": "",
+        "animations": {
+          "idleActionAnimations": [
+            [
+              "CorgiJumping",
+              0.5
+            ]
+          ],
+          "customAnimations": true,
+          "ridingJumpPower": 125
+        },
+        "indexObtainable": true,
+        "name": "Gargantuan Kaiju King",
+        "gargantuan": true,
+        "indexDesc": "Found in the Exclusive Kaiju Egg!\n\nGround Slam - Pet will damage breakables in a large area!",
+        "thumbnail": "rbxassetid://122037254674435"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Mining Penguin",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://139465239417636",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Mining Penguin",
+        "indexDesc": "Earned from the 2025 Mining Event!",
+        "thumbnail": "rbxassetid://107393069000800"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Crystal Spider",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://70592879555241",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Crystal Spider",
+        "indexDesc": "Earned from the 2025 Mining Event!",
+        "thumbnail": "rbxassetid://78631219465603"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Fragmented Golem",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://124123306751895",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Fragmented Golem",
+        "indexDesc": "Earned from the 2025 Mining Event!",
+        "thumbnail": "rbxassetid://104056264494147"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Kaiju Sea Dragon",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://125398970610563",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Kaiju Sea Dragon",
+        "indexDesc": "Found in the Exclusive Kaiju Egg!",
+        "thumbnail": "rbxassetid://77556334425969"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Kaiju Hydra",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://116779986656695",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Kaiju Hydra",
+        "indexDesc": "Found in the Exclusive Kaiju Egg!",
+        "thumbnail": "rbxassetid://104819925091161"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Abstract Dominus",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://104529894966052",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Abstract Dominus",
+        "indexDesc": "Found in The Gem Forever Pack!",
+        "thumbnail": "rbxassetid://138676503703270"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Mining Raccoon",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://94818260225356",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Mining Raccoon",
+        "indexDesc": "Earned from the Mining Event's final egg!",
+        "thumbnail": "rbxassetid://81824551142457"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Abyss Carbuncle",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://80517635638750",
+        "indexObtainable": true,
+        "name": "Titanic Abyss Carbuncle",
+        "indexDesc": "Found in the Exclusive Kaiju Egg!",
+        "thumbnail": "rbxassetid://121024391063626"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Kaiju Moth",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "flyingTitanic": true,
+        "name": "Titanic Kaiju Moth",
+        "flyingTitanicAlwaysFly": true,
+        "fly": true,
+        "indexDesc": "Found in the Exclusive Kaiju Egg!",
+        "thumbnail": "rbxassetid://119404602163936"
+      },
+      "collection": "Pets"
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "data": [
     {
-      "configName": "Hoverboard | Candy Cane",
+      "configName": "Hoverboard | Holographic",
       "category": "Hoverboards",
       "configData": {
         "Sounds": {
           "equip": [
-            "rbxassetid://108000256742283"
+            "rbxassetid://70457754737744"
           ],
           "idle": [
-            "rbxassetid://135371599615340"
+            "rbxassetid://94336915565161"
           ],
           "jump": [
-            "rbxassetid://100894417890087"
+            "rbxassetid://124935760573286"
           ]
         },
-        "DisplayName": "Candy Cane Hoverboard",
+        "DisplayName": "Holographic Hoverboard",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Icon": "rbxassetid://103941046192500",
+        "Desc": "⚔️ Rewarded to the top 10 clans in the 2025 Holographic Clan Battle!"
+      },
+      "collection": "Hoverboards"
+    },
+    {
+      "configName": "Hoverboard | Valentines",
+      "category": "Hoverboards",
+      "configData": {
+        "Sounds": {
+          "equip": [
+            "rbxassetid://127663878790269"
+          ],
+          "idle": [
+            "rbxassetid://124945513461027"
+          ],
+          "jump": [
+            "rbxassetid://104613779716544"
+          ]
+        },
+        "DisplayName": "Valentine's Hoverboard",
         "Rarity": {
           "RarityNumber": 5,
           "Lootbag": null,
@@ -28,27 +61,27 @@
           "Announce": false,
           "_script": null
         },
-        "Icon": "rbxassetid://74381927537414",
-        "Desc": "Sweeeeeet I love candy canes!"
+        "Icon": "rbxassetid://115773151085992",
+        "Desc": "💕 Glide through love at the speed of heart!"
       },
       "collection": "Hoverboards"
     },
     {
-      "configName": "Hoverboard | Gingerbread",
+      "configName": "Hoverboard | Evil",
       "category": "Hoverboards",
       "configData": {
         "Sounds": {
           "equip": [
-            "rbxassetid://116171088883033"
+            "rbxassetid://128510221263119"
           ],
           "idle": [
-            "rbxassetid://129855673388630"
+            "rbxassetid://93074453176674"
           ],
           "jump": [
-            "rbxassetid://78705373207967"
+            "rbxassetid://85489764060509"
           ]
         },
-        "DisplayName": "Gingerbread Hoverboard",
+        "DisplayName": "Evil Hoverboard",
         "Rarity": {
           "RarityNumber": 6,
           "Lootbag": null,
@@ -61,27 +94,27 @@
           "Announce": true,
           "_script": null
         },
-        "Icon": "rbxassetid://118516797186175",
-        "Desc": "⚔️ Rewarded to the top 10 clans in the 2024 Gingerbread Clan Battle!"
+        "Icon": "rbxassetid://83128724682991",
+        "Desc": "⚔️ Rewarded to the top 10 clans in the 2025 Evil Clan Battle!"
       },
       "collection": "Hoverboards"
     },
     {
-      "configName": "Hoverboard | Blurred",
+      "configName": "Hoverboard | Booster",
       "category": "Hoverboards",
       "configData": {
         "Sounds": {
           "equip": [
-            "rbxassetid://97821521708749"
+            "rbxassetid://73745152005776"
           ],
           "idle": [
-            "rbxassetid://72187750834667"
+            "rbxassetid://77150957127083"
           ],
           "jump": [
-            "rbxassetid://79426796657551"
+            "rbxassetid://89652934548669"
           ]
         },
-        "DisplayName": "Blurred Hoverboard",
+        "DisplayName": "Booster Hoverboard",
         "Rarity": {
           "RarityNumber": 6,
           "Lootbag": null,
@@ -94,140 +127,8 @@
           "Announce": true,
           "_script": null
         },
-        "Icon": "rbxassetid://134893611907484",
-        "Desc": "⚔️ Rewarded to the top 10 clans in the 2024 Blurred Clan Battle!"
-      },
-      "collection": "Hoverboards"
-    },
-    {
-      "configName": "Hoverboard | Wyvern of Hades",
-      "category": "Hoverboards",
-      "configData": {
-        "Sounds": {
-          "equip": [
-            "rbxassetid://88131588316412"
-          ],
-          "idle": [
-            "rbxassetid://103319341107005"
-          ],
-          "jump": [
-            "rbxassetid://103280125080397"
-          ]
-        },
-        "DisplayName": "Wyvern of Hades",
-        "Rarity": {
-          "RarityNumber": 6,
-          "Lootbag": null,
-          "_id": "Exotic",
-          "Color": null,
-          "DisplayName": "Exotic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "Icon": "rbxassetid://103080624006267",
-        "Desc": "⚔️ Rewarded to the top 10 clans in the 2025 Wyvern Clan Battle!"
-      },
-      "collection": "Hoverboards"
-    },
-    {
-      "configName": "Hoverboard | Pet Games",
-      "category": "Hoverboards",
-      "configData": {
-        "Sounds": {
-          "equip": [
-            "rbxassetid://135483925138466"
-          ],
-          "idle": [
-            "rbxassetid://84635980017066"
-          ],
-          "jump": [
-            "rbxassetid://122827411778557"
-          ]
-        },
-        "DisplayName": "Pet Games Hoverboard",
-        "Rarity": {
-          "RarityNumber": 5,
-          "Lootbag": null,
-          "_id": "Mythical",
-          "Color": null,
-          "DisplayName": "Mythical",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Icon": "rbxassetid://118257511137876",
-        "Desc": "Red light, green light!"
-      },
-      "collection": "Hoverboards"
-    },
-    {
-      "configName": "Hoverboard | Mushroom",
-      "category": "Hoverboards",
-      "configData": {
-        "Sounds": {
-          "equip": [
-            "rbxassetid://122141340476698"
-          ],
-          "idle": [
-            "rbxassetid://135390777126369"
-          ],
-          "jump": [
-            "rbxassetid://121841509916595"
-          ]
-        },
-        "DisplayName": "Mushroom Hoverboard",
-        "Rarity": {
-          "RarityNumber": 6,
-          "Lootbag": null,
-          "_id": "Exotic",
-          "Color": null,
-          "DisplayName": "Exotic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "Icon": "rbxassetid://73437399037786",
-        "Desc": "⚔️ Rewarded to the top 10 clans in the 2025 Mushroom Clan Battle!"
-      },
-      "collection": "Hoverboards"
-    },
-    {
-      "configName": "Hoverboard | Hellfire",
-      "category": "Hoverboards",
-      "configData": {
-        "Sounds": {
-          "equip": [
-            "rbxassetid://118557230795776"
-          ],
-          "idle": [
-            "rbxassetid://76805929032229"
-          ],
-          "jump": [
-            "rbxassetid://79212298752857"
-          ]
-        },
-        "DisplayName": "Hellfire Hoverboard",
-        "Rarity": {
-          "RarityNumber": 5,
-          "Lootbag": null,
-          "_id": "Mythical",
-          "Color": null,
-          "DisplayName": "Mythical",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Icon": "rbxassetid://133315600460960",
-        "Desc": "🔥 Blaze away and leave 'em in flames! 🔥"
+        "Icon": "rbxassetid://139984973539698",
+        "Desc": "Glide around and rip open some booster packs!"
       },
       "collection": "Hoverboards"
     },
@@ -235,7 +136,17 @@
       "configName": "Hoverboard | Sphinx",
       "category": "Hoverboards",
       "configData": {
-        "Sounds": [],
+        "Sounds": {
+          "equip": [
+            "rbxassetid://110508519240348"
+          ],
+          "idle": [
+            "rbxassetid://85426351855572"
+          ],
+          "jump": [
+            "rbxassetid://107953240205142"
+          ]
+        },
         "DisplayName": "Sphinx Hoverboard",
         "Rarity": {
           "RarityNumber": 6,
@@ -258,7 +169,17 @@
       "configName": "Hoverboard | Tie Dye",
       "category": "Hoverboards",
       "configData": {
-        "Sounds": [],
+        "Sounds": {
+          "equip": [
+            "rbxassetid://92910015066248"
+          ],
+          "idle": [
+            "rbxassetid://140542402615167"
+          ],
+          "jump": [
+            "rbxassetid://117148585999409"
+          ]
+        },
         "DisplayName": "Tie Dye Hoverboard",
         "Rarity": {
           "RarityNumber": 6,

@@ -5825,6 +5825,4295 @@
         "Desc": "Who's there? Nobody knows!"
       },
       "collection": "MiscItems"
+    },
+    {
+      "configName": "Spinny Wheel Ticket",
+      "category": "Vouchers",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Spinny Wheel Ticket",
+        "InventoryTags": [
+          "Vouchers"
+        ],
+        "Icon": "rbxassetid://15038312495",
+        "Desc": "Redeem to spin the spinny wheel! [Rebirth 1 Required]"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Clan Voucher",
+      "category": "Vouchers",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Clan Voucher",
+        "InventoryTags": [
+          "Vouchers"
+        ],
+        "Icon": "rbxassetid://15107493633",
+        "Desc": "Used to create a clan! [Rebirth 2 Required]"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Booth Slot Voucher",
+      "category": "Vouchers",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Booth Slot Voucher",
+        "InventoryTags": [
+          "Vouchers"
+        ],
+        "Icon": "rbxassetid://15286722824",
+        "Desc": "Use this to gain an extra booth listing slot!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Daycare Slot Voucher",
+      "category": "Vouchers",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Daycare Slot Voucher",
+        "InventoryTags": [
+          "Vouchers"
+        ],
+        "Icon": "rbxassetid://15938616670",
+        "Desc": "Use this to gain an extra Daycare enroll slot!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Index Token",
+      "category": "Vouchers",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Index Token",
+        "Tradable": false,
+        "Desc": "Earned for every pet you index!\n\nRedeem in the Index Machine!",
+        "InventoryTags": [
+          "Vouchers"
+        ],
+        "Icon": "rbxassetid://16047269848",
+        "AltIcon": "rbxassetid://16042314493"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Mystery Ticket",
+      "category": "Vouchers",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Mystery Ticket",
+        "InventoryTags": [
+          "Vouchers"
+        ],
+        "Icon": "rbxassetid://16038106883",
+        "Desc": "???"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Basic Coin Jar",
+      "category": "Boosts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Basic Coin Jar",
+        "InventoryTags": [
+          "Boosts"
+        ],
+        "Icon": "rbxassetid://15000811448",
+        "Desc": "Drop a Coin Jar in the area you're standing in for rewards!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Magic Coin Jar",
+      "category": "Boosts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Magic Coin Jar",
+        "InventoryTags": [
+          "Boosts"
+        ],
+        "Icon": "rbxassetid://15000811194",
+        "Desc": "Drop a Magic Coin Jar into a *RANDOM AREA* you have unlocked for rewards!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Giant Coin Jar",
+      "category": "Boosts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Giant Coin Jar",
+        "InventoryTags": [
+          "Boosts"
+        ],
+        "Icon": "rbxassetid://15000811334",
+        "Desc": "Drop a Giant Coin Jar in the area you're standing in for rewards!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Advanced Fishing Rod",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Advanced Fishing Rod",
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://16028879358",
+        "Desc": "Catch better fish, faster!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Super Fishing Rod",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Stone Fishing Rod",
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://16028878295",
+        "Desc": "It's super!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Sturdy Fishing Rod",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Sturdy Fishing Rod",
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://16028878219",
+        "Desc": "You could catch a big fish with this!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pro Fishing Rod",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Iron Fishing Rod",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://16028878776",
+        "Desc": "Very efficient fishing rod."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Golden Fishing Rod",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Golden Fishing Rod",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": true,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://16028878947",
+        "Desc": "A fishing rod made of gold? Doesn't seem very realistic."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Wooden Fishing Rod",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Wooden Fishing Rod",
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://16028878115",
+        "Desc": "Simple fishing rod. You can catch stuff."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Platinum Fishing Rod",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Platinum Fishing Rod",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://16028878591",
+        "Desc": "Sleek and efficient fishing rod."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Emerald Fishing Rod",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Emerald Fishing Rod",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://16028879073",
+        "Desc": "Streamlined casting perfection."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Sapphire Fishing Rod",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Sapphire Fishing Rod",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://16028878380",
+        "Desc": "Unmatched casting performance."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Diamond Fishing Rod",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Diamond Fishing Rod",
+        "Rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": true,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://16028879185",
+        "Desc": "Do you like my Diamond Fishing Rod?"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Amethyst Fishing Rod",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Amethyst Fishing Rod",
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://16028879272",
+        "Desc": "Elegant fishing mastery."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Large Gift Bag",
+      "category": "Gifts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Large Gift Bag",
+        "InventoryTags": [
+          "Gifts"
+        ],
+        "Icon": "rbxassetid://15000940153",
+        "Desc": "Open for large rewards!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Gift Bag",
+      "category": "Gifts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Gift Bag",
+        "InventoryTags": [
+          "Gifts"
+        ],
+        "Icon": "rbxassetid://15092672146",
+        "Desc": "Open for rewards!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Charm Stone",
+      "category": "Gifts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Charm Stone",
+        "InventoryTags": [
+          "Gifts"
+        ],
+        "Icon": "rbxassetid://15581313849",
+        "Desc": "Break open to reveal a Charm!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Seed Bag",
+      "category": "Gifts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Seed Bag",
+        "InventoryTags": [
+          "Farming"
+        ],
+        "Icon": "rbxassetid://15554896174",
+        "Desc": "Open for random seeds!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Flag Bundle",
+      "category": "Gifts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Bundle O' Flags",
+        "InventoryTags": [
+          "Gifts"
+        ],
+        "Icon": "rbxassetid://15938615884",
+        "Desc": "Open for random flags!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Toy Bundle",
+      "category": "Gifts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Bundle O' Toys",
+        "InventoryTags": [
+          "Gifts"
+        ],
+        "Icon": "rbxassetid://15938615671",
+        "Desc": "Open for random toys!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Potion Bundle",
+      "category": "Gifts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Bundle O' Potions",
+        "InventoryTags": [
+          "Gifts"
+        ],
+        "Icon": "rbxassetid://15938615802",
+        "Desc": "Open for random potions!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Enchant Bundle",
+      "category": "Gifts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Bundle O' Enchants",
+        "InventoryTags": [
+          "Gifts"
+        ],
+        "Icon": "rbxassetid://15938615986",
+        "Desc": "Open for random enchants!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Mini Chest",
+      "category": "Gifts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Mini Chest",
+        "InventoryTags": [
+          "Gifts"
+        ],
+        "Icon": "rbxassetid://15854077741",
+        "Desc": "Open for THE MOST EPIC rewards!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Exotic Treasure Flag",
+      "category": "Flags",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Exotic Treasure Flag",
+        "InventoryTags": [
+          "Flags"
+        ],
+        "Icon": "rbxassetid://15011948755",
+        "Desc": "Place in an area to SUBSTANTIALLY increase drops! Lasts 5 minutes!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Magnet Flag",
+      "category": "Flags",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Magnet Flag",
+        "InventoryTags": [
+          "Flags"
+        ],
+        "Icon": "rbxassetid://15000810137",
+        "Desc": "A portable magnet that can be placed in any area! Lasts 5 minutes!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Fortune Flag",
+      "category": "Flags",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Fortune Flag",
+        "InventoryTags": [
+          "Flags"
+        ],
+        "Icon": "rbxassetid://15000810242",
+        "Desc": "Place in an area to increase coins by 50% and diamonds by 2.5x! Lasts 5 minutes!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Diamonds Flag",
+      "category": "Flags",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Diamonds Flag",
+        "InventoryTags": [
+          "Flags"
+        ],
+        "Icon": "rbxassetid://15000810493",
+        "Desc": "Place in an area to increase diamond breakables by 2x! Lasts 5 minutes!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Strength Flag",
+      "category": "Flags",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Strength Flag",
+        "InventoryTags": [
+          "Flags"
+        ],
+        "Icon": "rbxassetid://15853955101",
+        "Desc": "Place in an area to increase your pet strength by 50%! Lasts 5 minutes!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Hasty Flag",
+      "category": "Flags",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Hasty Flag",
+        "InventoryTags": [
+          "Flags"
+        ],
+        "Icon": "rbxassetid://15000810356",
+        "Desc": "Place in an area to super-charge pets! Lasts 5 minutes!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Coins Flag",
+      "category": "Flags",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Coins Flag",
+        "InventoryTags": [
+          "Flags"
+        ],
+        "Icon": "rbxassetid://15000809958",
+        "Desc": "Place in an area to increase coins you earn by 50%! Lasts 5 minutes!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Shiny Flag",
+      "category": "Flags",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Shiny Flag",
+        "InventoryTags": [
+          "Flags"
+        ],
+        "Icon": "rbxassetid://15853949167",
+        "Desc": "When placed in an area, temporarily makes ALL pets Shiny! Lasts 5 minutes!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Rainbow Flag",
+      "category": "Flags",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Rainbow Flag",
+        "InventoryTags": [
+          "Flags"
+        ],
+        "Icon": "rbxassetid://15853949239",
+        "Desc": "When placed in an area, temporarily makes ALL pets Rainbow! Lasts 5 minutes!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Crystal Key",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Crystal Key",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://15000810910",
+        "Desc": "Used to unlock the Crystal Chest!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Castle Key",
+      "category": "Keys",
+      "configData": {
+        "DisplayName": "Castle Key",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://15000809142",
+        "Desc": "Unlock the door to the Castle! Big key for a big lock."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Crystal Key Lower Half",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Crystal Key: Lower Half",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://15000810798",
+        "Desc": "The lower half to the Crystal Key. Combine this with the upper half!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Crystal Key Upper Half",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Crystal Key: Upper Half",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://15000810636",
+        "Desc": "The upper half to the Crystal Key. Combine this with the lower half!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Secret Key",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Secret Key",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://16008658412",
+        "Desc": "Used to unlock any Secret Room!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Secret Key Lower Half",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Secret Key: Lower Half",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://16008658599",
+        "Desc": "The lower half to the Secret Key. Combine this with the upper half!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Secret Key Upper Half",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Secret Key: Upper Half",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://16008658794",
+        "Desc": "The upper half to the Secret Key. Combine this with the lower half!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Sharp Shovel",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Stone Shovel",
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://16039332182",
+        "Desc": "me dig"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Bluesteel Shovel",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Advanced Shovel",
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://16039333077",
+        "Desc": "Cuts through solid rock easily!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Diamond Shovel",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Diamond Shovel",
+        "Rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": true,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://16039332788",
+        "Desc": "Do you like my Diamond Shovel?"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Emerald Shovel",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Emerald Shovel",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://16039332703",
+        "Desc": "Sharpened really carefully. Digs really fast!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Flimsy Shovel",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Wooden Shovel",
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://16039332097",
+        "Desc": "Really flimsy. Doesn't dig very fast."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Golden Shovel",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Golden Shovel",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": true,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://16039332602",
+        "Desc": "Shiny! Digs insanely fast!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Normal Shovel",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Sturdy Shovel",
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://16039331991",
+        "Desc": "It's a shovel. It digs!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Platinum Shovel",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Platinum Shovel",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://16039332375",
+        "Desc": "Platinum means quality."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pro Shovel",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Iron Shovel",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://16039332500",
+        "Desc": "For professionals only! Digs super fast!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Sapphire Shovel",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Sapphire Shovel",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://16039332265",
+        "Desc": "Sapphire is the best, but that's just my opinion."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Amethyst Shovel",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Amethyst Shovel",
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://16039332930",
+        "Desc": "As sharp as crystal!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Toy Bone",
+      "category": "Buffs",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Toy Bone",
+        "InventoryTags": [
+          "Buffs"
+        ],
+        "Icon": "rbxassetid://15000808284",
+        "Desc": "Reward your pets! Pets deal damage 10% faster for 5 minutes."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Toy Ball",
+      "category": "Buffs",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Toy Ball",
+        "InventoryTags": [
+          "Buffs"
+        ],
+        "Icon": "rbxassetid://15000808391",
+        "Desc": "Reward your pets! Pets run 3x as fast for 5 minutes."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "TNT Crate",
+      "category": "Boosts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "TNT Crate",
+        "InventoryTags": [
+          "Boosts"
+        ],
+        "Icon": "rbxassetid://15107493489",
+        "Desc": "Rain down dozens of TNT into your zone! Loses power after area 40!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "TNT",
+      "category": "Boosts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "TNT",
+        "InventoryTags": [
+          "Boosts"
+        ],
+        "Icon": "rbxassetid://15107493549",
+        "Desc": "Blow up some Coins! Loses power after area 40!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Squeaky Toy",
+      "category": "Buffs",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Squeaky Toy",
+        "InventoryTags": [
+          "Buffs"
+        ],
+        "Icon": "rbxassetid://15000808163",
+        "Desc": "Reward your pets! Pets deal damage 25% faster for 10 minutes."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Party Box",
+      "category": "Boosts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Party Box",
+        "InventoryTags": [
+          "Boosts"
+        ],
+        "Icon": "rbxassetid://15938616590",
+        "Desc": "It's a party! Starts a random event in your area!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Comet",
+      "category": "Boosts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Comet",
+        "InventoryTags": [
+          "Boosts"
+        ],
+        "Icon": "rbxassetid://15000811043",
+        "Desc": "Send a comet down from the sky to the area you're standing in!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Mini Lucky Block",
+      "category": "Boosts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Lucky Block",
+        "InventoryTags": [
+          "Boosts"
+        ],
+        "Icon": "rbxassetid://15938616838",
+        "Desc": "Starts a Lucky Block Event in your area!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Mini Pinata",
+      "category": "Boosts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Piñata",
+        "InventoryTags": [
+          "Boosts"
+        ],
+        "Icon": "rbxassetid://15938616489",
+        "Desc": "Starts a Piñata Event in your area!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Nametag",
+      "category": "Miscellaneous",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Nametag",
+        "InventoryTags": [
+          "Miscellaneous"
+        ],
+        "Icon": "rbxassetid://15000808651",
+        "Desc": "Use on a pet to give it a name! Just don't name it Joe."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pet Signature",
+      "category": "Miscellaneous",
+      "configData": {
+        "DisplayName": "Pet Signature",
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Miscellaneous"
+        ],
+        "Icon": "rbxassetid://15000808506",
+        "Desc": "Sign a pet with your name!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Snorkel",
+      "category": "Miscellaneous",
+      "configData": {
+        "DisplayName": "Snorkel",
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Miscellaneous"
+        ],
+        "Icon": "rbxassetid://15246142163",
+        "Desc": "Makes you swim faster! (no action required)"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Rainbow Swirl",
+      "category": "Miscellaneous",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Rainbow Swirl",
+        "InventoryTags": [
+          "Miscellaneous"
+        ],
+        "Icon": "rbxassetid://15254924332",
+        "Desc": "💩💩💩"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Old Boot",
+      "category": "Miscellaneous",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Old Boot",
+        "InventoryTags": [
+          "Miscellaneous"
+        ],
+        "Icon": "rbxassetid://15254924540",
+        "Desc": "Does absolutely nothing."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Banana Peel",
+      "category": "Miscellaneous",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Banana Peel",
+        "InventoryTags": [
+          "Miscellaneous"
+        ],
+        "Icon": "rbxassetid://15254924672",
+        "Desc": "[LAUGH TRACK]"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Slingshot",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Slingy",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://15278596130",
+        "Desc": "Slingy the slingshot is perfect for popping balloons!\n\nClick to equip!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Watering Can",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Watering Can",
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://15555104581",
+        "Desc": "Plants love water and grow faster! Lasts 20 minutes!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Golden Watering Can",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Golden Watering Can",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": true,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://15555104643",
+        "Desc": "Plants love gold water and grow faster! Lasts 1 hour!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Insta Plant Capsule",
+      "category": "Miscellaneous",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Insta-Plant Capsule",
+        "InventoryTags": [
+          "Farming"
+        ],
+        "Icon": "rbxassetid://15554896248",
+        "Desc": "Instantly grow a plant!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Christmas Cookie",
+      "category": "Buffs",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Christmas Cookie",
+        "InventoryTags": [
+          "Buffs"
+        ],
+        "Icon": "rbxassetid://15636387872",
+        "Desc": "A Christmas treat! Pets deal damage 10% faster for 5 minutes."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Hot Cocoa",
+      "category": "Buffs",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Hot Cocoa",
+        "InventoryTags": [
+          "Buffs"
+        ],
+        "Icon": "rbxassetid://15636387987",
+        "Desc": "A Christmas treat! You and your pets run 50% faster for 5 minutes."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Snowball Launcher",
+      "category": "Tools",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Snowball Launcher",
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://15636482701",
+        "Desc": "The ultimate snowball throwing machine!\n\nClick to equip!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Fireworks",
+      "category": "Miscellaneous",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Fireworks",
+        "InventoryTags": [
+          "Miscellaneous"
+        ],
+        "Icon": "rbxassetid://15803238824",
+        "Desc": "Use as ammo for the Firework Cannon!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Firework Cannon",
+      "category": "Tools",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Firework Cannon",
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://15803239074",
+        "Desc": "Careful not to set anything on fire!\n\nClick to equip!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Snowball",
+      "category": "Miscellaneous",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Snowball",
+        "InventoryTags": [
+          "Miscellaneous"
+        ],
+        "Icon": "rbxassetid://15636387722",
+        "Desc": "Use as ammo for the Snowball Launcher!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Bucket",
+      "category": "Tools",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Bucket",
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://15938616333",
+        "Desc": "Can be filled with Magic!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Bucket O' Magic",
+      "category": "Miscellaneous",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Bucket O' Magic",
+        "InventoryTags": [
+          "Miscellaneous"
+        ],
+        "Icon": "rbxassetid://15938616124",
+        "Desc": "A bucket filled with magic! Obtainable in the Advanced Digsite minigame."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Magic Shard",
+      "category": "Miscellaneous",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Magic Shard",
+        "InventoryTags": [
+          "Miscellaneous"
+        ],
+        "Icon": "rbxassetid://15938615522",
+        "Desc": "Shards filled with magic! Obtainable in the Advanced Fishing minigame"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Breakable Sprinkler",
+      "category": "Boosts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Sprinkler",
+        "InventoryTags": [
+          "Boosts"
+        ],
+        "Icon": "rbxassetid://16467241128",
+        "Desc": "Place in an area to increase breakable respawn rate by 50%! Lasts 5 minutes!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Tech Key",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Tech Key",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://16290745791",
+        "Desc": "Used to unlock the Tech Chest!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Tech Key Lower Half",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Tech Key: Lower Half",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://16290745686",
+        "Desc": "The lower half to the Tech Key. Combine this with the upper half!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Tech Key Upper Half",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Tech Key: Upper Half",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://16290745565",
+        "Desc": "The upper half to the Tech Key. Combine this with the lower half!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Charm Hammer",
+      "category": "Tools",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Charm Hammer",
+        "InventoryTags": [
+          "Charms"
+        ],
+        "Icon": "rbxassetid://16396229292",
+        "Desc": "Destroy one charm on your pet!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Charm Chisel",
+      "category": "Tools",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Charm Chisel",
+        "InventoryTags": [
+          "Charms"
+        ],
+        "Icon": "rbxassetid://16396229151",
+        "Desc": "Extract one charm from a pet and add it back into your inventory!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Tech Spinny Wheel Ticket",
+      "category": "Vouchers",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Tech Spinny Wheel Ticket",
+        "InventoryTags": [
+          "Vouchers"
+        ],
+        "Icon": "rbxassetid://16481320320",
+        "Desc": "Redeem to spin the tech spinny wheel! [Rebirth 4 Required]"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Arcade Token",
+      "category": "Miscellaneous",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Arcade Token",
+        "InventoryTags": [
+          "Miscellaneous"
+        ],
+        "Icon": "rbxassetid://16756837238",
+        "Desc": "Used to play the Claw Machine!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Enchant Essence",
+      "category": "Miscellaneous",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Enchant Essence",
+        "InventoryTags": [
+          "Miscellaneous"
+        ],
+        "Icon": "rbxassetid://16847071561",
+        "Desc": "Used to empower enchants! Created at the Enchant Empowering Machine!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Basic Item Jar",
+      "category": "Boosts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Basic Item Jar",
+        "InventoryTags": [
+          "Boosts"
+        ],
+        "Icon": "rbxassetid://16717382310",
+        "Desc": "Drop an Item Jar in the area you're standing in for items!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Large Enchant Bundle",
+      "category": "Gifts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Large Bundle O' Enchants",
+        "InventoryTags": [
+          "Gifts"
+        ],
+        "Icon": "rbxassetid://16717382051",
+        "Desc": "Open for a ton of random enchants!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Large Potion Bundle",
+      "category": "Gifts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Large Bundle O' Potions",
+        "InventoryTags": [
+          "Gifts"
+        ],
+        "Icon": "rbxassetid://16717381901",
+        "Desc": "Open for a ton of random potions!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Fruit Bundle",
+      "category": "Gifts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Bundle O' Fruit",
+        "InventoryTags": [
+          "Gifts"
+        ],
+        "Icon": "rbxassetid://16717381443",
+        "Desc": "Open for random fruit!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Quest Medal",
+      "category": "Vouchers",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Quest Medal",
+        "Tradable": false,
+        "Desc": "Earned for completing Area Quests!\n\nRedeem at the Area 140 Quest Merchant!",
+        "InventoryTags": [
+          "Vouchers"
+        ],
+        "Icon": "rbxassetid://16756918013",
+        "AltIcon": "rbxassetid://16756922746"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Exclusive Daycare Slot Voucher",
+      "category": "Vouchers",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Exclusive Daycare Slot Voucher",
+        "InventoryTags": [
+          "Vouchers"
+        ],
+        "Icon": "rbxassetid://16756631444",
+        "Desc": "Use this to gain an extra Exclusive Daycare enroll slot!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Rainbow Mini Chest",
+      "category": "Gifts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Rainbow Mini Chest",
+        "InventoryTags": [
+          "Gifts"
+        ],
+        "Icon": "rbxassetid://17024878999",
+        "Desc": "Open for the best high tier loot!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Treasure Hideout Key",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Treasure Hideout Key",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://16992800008",
+        "Desc": "Used to gain access to the Treasure Hideout minigame!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Treasure Hideout Key Lower Half",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Treasure Hideout Key: Lower Half",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://16992799849",
+        "Desc": "The lower half to the Treasure Hideout Key. Combine this with the upper half!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Treasure Hideout Key Upper Half",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Treasure Hideout Key: Upper Half",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://16992799743",
+        "Desc": "The upper half to the Treasure Hideout Key. Combine this with the lower half!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Nightmare Fuel",
+      "category": "Buffs",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Nightmare Fuel",
+        "InventoryTags": [
+          "Buffs"
+        ],
+        "Icon": "rbxassetid://17298505497",
+        "Desc": "Beware! Consuming this improves your drops from mini games by 100%!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Glitched Drive",
+      "category": "Buffs",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Glitched Drive",
+        "InventoryTags": [
+          "Buffs"
+        ],
+        "Icon": "rbxassetid://17296978433",
+        "Desc": "Glitched into the game!\n\nTemporarily increases:\n- Coins by 250%\n- Diamonds by 25%\n- Egg luck by 400%"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Void Key Upper Half",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Void Key: Upper Half",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://17496073194",
+        "Desc": "The upper half to the Void Key. Combine this with the lower half!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Void Key Lower Half",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Void Key: Lower Half",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://17496073368",
+        "Desc": "The lower half to the Void Key. Combine this with the upper half!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Void Key",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Void Key",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://17496073535",
+        "Desc": "Used to unlock the Void Chest!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Void Spinny Wheel Ticket",
+      "category": "Vouchers",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Void Spinny Wheel Ticket",
+        "InventoryTags": [
+          "Vouchers"
+        ],
+        "Icon": "rbxassetid://17496073736",
+        "Desc": "Redeem to spin the void spinny wheel! [World 3 Required]"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Water Gun",
+      "category": "Tools",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Water Blaster",
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://17688308367",
+        "Desc": "Capable of drenching players!\n\nClick to equip!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Hacker Key",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Hacker Key",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://17745239286",
+        "Desc": "Unlocks the chest in Hacker World for a HUGE pet chance! Drops randomly!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Diamond Gift Bag",
+      "category": "Gifts",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Diamond Gift Bag",
+        "InventoryTags": [
+          "Gifts"
+        ],
+        "Icon": "rbxassetid://18254455124",
+        "Desc": "Open for diamond rewards!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Millionaire Bucks",
+      "category": "Miscellaneous",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Millionaire Bucks",
+        "InventoryTags": [
+          "Miscellaneous"
+        ],
+        "Icon": "rbxassetid://18519989805",
+        "Desc": "Used in the Boost Exchange to boost your stats!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Millionaire Ticket",
+      "category": "Vouchers",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Millionaire Ticket",
+        "InventoryTags": [
+          "Vouchers"
+        ],
+        "Icon": "rbxassetid://18519989607",
+        "Desc": "Used to enter the Millionaire World raffle!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Supercomputer Radio",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Supercomputer Radio",
+        "Rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://129682687691555",
+        "Desc": "Open the Supercomputer anytime, anywhere!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pet Cube",
+      "category": "Tools",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Pet Cube",
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://113496508867455",
+        "Desc": "Throw at roaming pets in Elemental World to catch them!\n\nTap pets in Elemental World to throw!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Ultra Pet Cube",
+      "category": "Tools",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Ultra Pet Cube",
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://120583016270769",
+        "Desc": "Throw at roaming pets in Elemental World to catch them! Better odds!\n\nTap pets in Elemental World to throw!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Essence Fuel",
+      "category": "Miscellaneous",
+      "configData": {
+        "DisplayName": "Wing Essence",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Miscellaneous"
+        ],
+        "Icon": "rbxassetid://134564960334253",
+        "Desc": "Used to purchase Wings Upgrades!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Wooden Axe",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Wooden Axe",
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://127504061331887",
+        "Desc": "Barely works, but gets the job done."
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Sturdy Axe",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Sturdy Axe",
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://131990094481938",
+        "Desc": "Better than the wooden, but still just a regular axe."
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Advanced Axe",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Advanced Axe",
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://94326920206595",
+        "Desc": "Advanced chopping use only!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Stone Axe",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Stone Axe",
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://82444457148431",
+        "Desc": "Chop! Chop!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Iron Axe",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Iron Axe",
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://88653140383342",
+        "Desc": "Chop trees super fast!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Golden Axe",
+      "category": "Tools",
+      "configData": {
+        "DisplayName": "Golden Axe",
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://95880593705578",
+        "Desc": "Axe fit for the gods!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Potions Cape",
+      "category": "Capes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Potions Mastery Cape",
+        "Model": null,
+        "Desc": "Awarded for reaching level 99 Potions Mastery!",
+        "InventoryTags": [
+          "Capes"
+        ],
+        "Icon": "rbxassetid://94807953344008",
+        "Tradable": false
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Boost Exchange Cape",
+      "category": "Capes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Boost Exchange Mastery Cape",
+        "Model": null,
+        "Desc": "Awarded for reaching level 99 Boost Exchange Mastery!",
+        "InventoryTags": [
+          "Capes"
+        ],
+        "Icon": "rbxassetid://138147678113813",
+        "Tradable": false
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Breakables Cape",
+      "category": "Capes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Breakables Mastery Cape",
+        "Model": null,
+        "Desc": "Awarded for reaching level 99 Breakable Mastery!",
+        "InventoryTags": [
+          "Capes"
+        ],
+        "Icon": "rbxassetid://78678040876122",
+        "Tradable": false
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Digging Cape",
+      "category": "Capes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Digging Mastery Cape",
+        "Model": null,
+        "Desc": "Awarded for reaching level 99 Digging Mastery!",
+        "InventoryTags": [
+          "Capes"
+        ],
+        "Icon": "rbxassetid://94175128426596",
+        "Tradable": false
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Economy Cape",
+      "category": "Capes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Economy Mastery Cape",
+        "Model": null,
+        "Desc": "Awarded for reaching level 99 Economy Mastery!",
+        "InventoryTags": [
+          "Capes"
+        ],
+        "Icon": "rbxassetid://115046183678435",
+        "Tradable": false
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Eggs Cape",
+      "category": "Capes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Eggs Mastery Cape",
+        "Model": null,
+        "Desc": "Awarded for reaching level 99 Eggs Mastery!",
+        "InventoryTags": [
+          "Capes"
+        ],
+        "Icon": "rbxassetid://94868981819101",
+        "Tradable": false
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Enchants Cape",
+      "category": "Capes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Enchants Mastery Cape",
+        "Model": null,
+        "Desc": "Awarded for reaching level 99 Enchants Mastery!",
+        "InventoryTags": [
+          "Capes"
+        ],
+        "Icon": "rbxassetid://136323422523839",
+        "Tradable": false
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Fishing Cape",
+      "category": "Capes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Fishing Mastery Cape",
+        "Model": null,
+        "Desc": "Awarded for reaching level 99 Fishing Mastery!",
+        "InventoryTags": [
+          "Capes"
+        ],
+        "Icon": "rbxassetid://74451097864801",
+        "Tradable": false
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Fruit Cape",
+      "category": "Capes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Fruit Mastery Cape",
+        "Model": null,
+        "Desc": "Awarded for reaching level 99 Fruit Mastery!",
+        "InventoryTags": [
+          "Capes"
+        ],
+        "Icon": "rbxassetid://94409019683767",
+        "Tradable": false
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Fuse Cape",
+      "category": "Capes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Fuse Mastery Cape",
+        "Model": null,
+        "Desc": "Awarded for reaching level 99 Fuse Mastery!",
+        "InventoryTags": [
+          "Capes"
+        ],
+        "Icon": "rbxassetid://139314016282209",
+        "Tradable": false
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Gifts Cape",
+      "category": "Capes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Gifts Mastery Cape",
+        "Model": null,
+        "Desc": "Awarded for reaching level 99 Gifts Mastery!",
+        "InventoryTags": [
+          "Capes"
+        ],
+        "Icon": "rbxassetid://72336666116568",
+        "Tradable": false
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Keys Cape",
+      "category": "Capes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Keys Mastery Cape",
+        "Model": null,
+        "Desc": "Awarded for reaching level 99 Keys Mastery!",
+        "InventoryTags": [
+          "Capes"
+        ],
+        "Icon": "rbxassetid://134446493475392",
+        "Tradable": false
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pets Cape",
+      "category": "Capes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Pets Mastery Cape",
+        "Model": null,
+        "Desc": "Awarded for reaching level 99 Pets Mastery!",
+        "InventoryTags": [
+          "Capes"
+        ],
+        "Icon": "rbxassetid://122726992963192",
+        "Tradable": false
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Superior Chests Cape",
+      "category": "Capes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Superior Chests Mastery Cape",
+        "Model": null,
+        "Desc": "Awarded for reaching level 99 Superior Chests Mastery!",
+        "InventoryTags": [
+          "Capes"
+        ],
+        "Icon": "rbxassetid://133459577246192",
+        "Tradable": false
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Ultra Adoption Token Boost",
+      "category": "Buffs",
+      "configData": {
+        "DisplayName": "Ultra Adoption Token Boost",
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": true,
+        "InventoryTags": [
+          "Buffs"
+        ],
+        "Icon": "rbxassetid://83102991911162",
+        "Desc": "Earn 10x Adoption Tokens for 15 minutes!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Adoption Token Boost",
+      "category": "Buffs",
+      "configData": {
+        "DisplayName": "Adoption Token Boost",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": true,
+        "InventoryTags": [
+          "Buffs"
+        ],
+        "Icon": "rbxassetid://72705510493016",
+        "Desc": "Earn 3x Adoption Tokens for 15 minutes!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Master Skill Cape",
+      "category": "Capes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Master Skill Cape",
+        "Model": null,
+        "Desc": "Awarded for reaching level 99 in all Masteries! (Gives +10% Diamond Earn)",
+        "InventoryTags": [
+          "Capes"
+        ],
+        "Icon": "rbxassetid://114415394611739",
+        "Tradable": false
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pet Token Boost",
+      "category": "Buffs",
+      "configData": {
+        "DisplayName": "Pet Games Token Boost",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": true,
+        "InventoryTags": [
+          "Buffs"
+        ],
+        "Icon": "rbxassetid://111961401269954",
+        "Desc": "Earn 2x Pet Tokens for 15 minutes!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Ultra Pet Token Boost",
+      "category": "Buffs",
+      "configData": {
+        "DisplayName": "Ultra Pet Games Token Boost",
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": true,
+        "InventoryTags": [
+          "Buffs"
+        ],
+        "Icon": "rbxassetid://117650953398875",
+        "Desc": "Earn 5x Pet Tokens for 15 minutes!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Clover",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Clover",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://121838700496664",
+        "Desc": "Can be combined into Lucky Gifts using the Leprechaun Machine!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Leprechaun Key",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Leprechaun Key",
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://97209544403492",
+        "Desc": "Unlocks the Leprechaun Chest at the end of Lucky Raids!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Lucky Raid Orb",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Lucky Raid Orb",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://107058871267889",
+        "Desc": "Used to purchase Lucky Raid Upgrades! Earned from gaining Lucky Raid levels!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Lucky Raid Boss Key Lower Half",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Lucky Raid Boss Key: Lower Half",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://85599753132358",
+        "Desc": "The lower half to the Lucky Raid Boss Key. Combine this with the upper half!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Lucky Raid Boss Key Upper Half",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Lucky Raid Boss Key: Upper Half",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://125658414860429",
+        "Desc": "The lower half to the Lucky Raid Boss Key. Combine this with the lower half!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Lucky Raid Boss Key",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Lucky Raid Boss Key",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://110981208047993",
+        "Desc": "Used to unlock the final Lucky Raid Boss room!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Mystery Lucky Raid Key",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Mystery Lucky Raid Key",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://97209544403492",
+        "Desc": "Who's there? Nobody knows!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Sapphire Gem",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Sapphire Gem",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://84504397312679",
+        "Desc": "Deep blue gem of clarity"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Ruby Gem",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Ruby Gem",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://138741487405849",
+        "Desc": "Firey red stone of passion"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Emerald Gem",
+      "category": "Event",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Emerald Gem",
+        "Tradable": false,
+        "Desc": "Brilliant green jewel",
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://85917747502089",
+        "AltIcon": "rbxassetid://85917747502089"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Amethyst Gem",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Amethyst Gem",
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://135888300759373",
+        "Desc": "Mystic purple crystal"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Rainbow Gem",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Rainbow Gem",
+        "Rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://139521341995918",
+        "Desc": "Gem with a shimmering spectrum of colors overflowing"
+      },
+      "collection": "MiscItems"
     }
   ]
 }

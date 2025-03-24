@@ -3313,6 +3313,204 @@
         "Desc": "⚔️ Rewarded to the top 10 clans in the 2025 Tie Dye Clan Battle!"
       },
       "collection": "Hoverboards"
+    },
+    {
+      "configName": "Hoverboard | Holographic",
+      "category": "Hoverboards",
+      "configData": {
+        "Sounds": {
+          "equip": [
+            "rbxassetid://70457754737744"
+          ],
+          "idle": [
+            "rbxassetid://94336915565161"
+          ],
+          "jump": [
+            "rbxassetid://124935760573286"
+          ]
+        },
+        "DisplayName": "Holographic Hoverboard",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Icon": "rbxassetid://103941046192500",
+        "Desc": "⚔️ Rewarded to the top 10 clans in the 2025 Holographic Clan Battle!"
+      },
+      "collection": "Hoverboards"
+    },
+    {
+      "configName": "Hoverboard | Valentines",
+      "category": "Hoverboards",
+      "configData": {
+        "Sounds": {
+          "equip": [
+            "rbxassetid://127663878790269"
+          ],
+          "idle": [
+            "rbxassetid://124945513461027"
+          ],
+          "jump": [
+            "rbxassetid://104613779716544"
+          ]
+        },
+        "DisplayName": "Valentine's Hoverboard",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Icon": "rbxassetid://115773151085992",
+        "Desc": "💕 Glide through love at the speed of heart!"
+      },
+      "collection": "Hoverboards"
+    },
+    {
+      "configName": "Hoverboard | Evil",
+      "category": "Hoverboards",
+      "configData": {
+        "Sounds": {
+          "equip": [
+            "rbxassetid://128510221263119"
+          ],
+          "idle": [
+            "rbxassetid://93074453176674"
+          ],
+          "jump": [
+            "rbxassetid://85489764060509"
+          ]
+        },
+        "DisplayName": "Evil Hoverboard",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Icon": "rbxassetid://83128724682991",
+        "Desc": "⚔️ Rewarded to the top 10 clans in the 2025 Evil Clan Battle!"
+      },
+      "collection": "Hoverboards"
+    },
+    {
+      "configName": "Hoverboard | Booster",
+      "category": "Hoverboards",
+      "configData": {
+        "Sounds": {
+          "equip": [
+            "rbxassetid://73745152005776"
+          ],
+          "idle": [
+            "rbxassetid://77150957127083"
+          ],
+          "jump": [
+            "rbxassetid://89652934548669"
+          ]
+        },
+        "DisplayName": "Booster Hoverboard",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Icon": "rbxassetid://139984973539698",
+        "Desc": "Glide around and rip open some booster packs!"
+      },
+      "collection": "Hoverboards"
+    },
+    {
+      "configName": "Hoverboard | Sphinx",
+      "category": "Hoverboards",
+      "configData": {
+        "Sounds": {
+          "equip": [
+            "rbxassetid://110508519240348"
+          ],
+          "idle": [
+            "rbxassetid://85426351855572"
+          ],
+          "jump": [
+            "rbxassetid://107953240205142"
+          ]
+        },
+        "DisplayName": "Sphinx Hoverboard",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Icon": "rbxassetid://104370511466864",
+        "Desc": "⚔️ Rewarded to the top 10 clans in the 2025 Sphinx Clan Battle!"
+      },
+      "collection": "Hoverboards"
+    },
+    {
+      "configName": "Hoverboard | Tie Dye",
+      "category": "Hoverboards",
+      "configData": {
+        "Sounds": {
+          "equip": [
+            "rbxassetid://92910015066248"
+          ],
+          "idle": [
+            "rbxassetid://140542402615167"
+          ],
+          "jump": [
+            "rbxassetid://117148585999409"
+          ]
+        },
+        "DisplayName": "Tie Dye Hoverboard",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Icon": "rbxassetid://81154668871970",
+        "Desc": "⚔️ Rewarded to the top 10 clans in the 2025 Tie Dye Clan Battle!"
+      },
+      "collection": "Hoverboards"
     }
   ]
 }

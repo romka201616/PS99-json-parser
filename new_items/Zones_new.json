@@ -1,73 +1,1790 @@
 {
   "data": [
     {
-      "configName": "1 | Spawn",
+      "configName": "12 | Dead Forest",
       "category": "World 1",
       "configData": {
-        "ZoneName": "Spawn",
-        "Ambience": {
-          "SoundId": "rbxassetid://14183513311"
-        },
-        "Price": 0,
-        "Currency": "Coins",
-        "GateHealth": 0,
-        "ZoneNumber": 1,
         "Breakables": {
-          "VIP": {
-            "Settings": {
-              "RespawnTime": 0.5,
-              "DaycareIgnore": true,
-              "Maximum": 25
-            },
-            "Data": [
-              {
-                "WorldNumber": 1,
-                "Type": "VIP Diamond Pile",
-                "Weight": 1
-              }
-            ]
-          },
           "Main": {
             "Settings": {
               "RespawnTime": 0.05,
-              "RandomDiamondBreakables": false,
-              "Maximum": 25
+              "Maximum": 35
             },
             "Data": [
               {
-                "WorldNumber": 1,
-                "Type": "Medium Coins (Default)",
-                "Weight": 100
+                "Weight": 6.75,
+                "Type": "Medium Coins (Default)"
               },
               {
-                "Weight": 25,
+                "Weight": 10,
                 "Type": "Large Coins (Default)"
-              }
-            ]
-          },
-          "Easy": {
-            "Settings": {
-              "RespawnTime": 0.05,
-              "RandomDiamondBreakables": false,
-              "Maximum": 50
-            },
-            "Data": [
-              {
-                "WorldNumber": 1,
-                "Type": "Small Coins (Default)",
-                "Weight": 100
               },
               {
-                "WorldNumber": 1,
-                "Type": "Medium Coins (Default)",
-                "Weight": 15
+                "Weight": 8,
+                "Type": "Crate (Mossy)"
+              },
+              {
+                "Weight": 8,
+                "Type": "Present (Mossy)"
               }
             ]
           }
         },
-        "MaximumAvailableEgg": 2,
+        "ZoneName": "Dead Forest",
+        "ZoneNumber": 12,
+        "Currency": "Coins",
+        "MaximumAvailableEgg": 17,
+        "GateHealth": 0,
         "WorldNumber": 1,
-        "ZoneFolder": null
+        "ExtraDropTable": null,
+        "ZoneFolder": null,
+        "Lighting": {
+          "ClockTime": 8,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.15,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://116368153118009",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://137443665258748",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://106907389052906",
+            "SkyboxLf": "rbxassetid://113607300469386",
+            "SunTextureId": "rbxasset://sky/sun.jpg",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://86198878822372",
+            "SkyboxRt": "rbxassetid://87644663726388",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.4449999928474426,
+            "Haze": 0.5,
+            "Color": null,
+            "Decay": null,
+            "Glare": 0,
+            "Offset": 0
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        }
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "13 | Dark Forest",
+      "category": "World 1",
+      "configData": {
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 60,
+                "Type": "Small Coins (Default)"
+              },
+              {
+                "Weight": 80,
+                "Type": "Medium Coins (Default)"
+              },
+              {
+                "Weight": 60,
+                "Type": "Large Coins (Default)"
+              },
+              {
+                "Weight": 25,
+                "Type": "Crate (Mossy)"
+              },
+              {
+                "Weight": 30,
+                "Type": "Safe (Mossy)"
+              },
+              {
+                "Weight": 20,
+                "Type": "Vault (Mossy)"
+              }
+            ]
+          }
+        },
+        "ZoneName": "Dark Forest",
+        "ZoneNumber": 13,
+        "Currency": "Coins",
+        "MaximumAvailableEgg": 18,
+        "GateHealth": 0,
+        "WorldNumber": 1,
+        "ExtraDropTable": null,
+        "ZoneFolder": null,
+        "Lighting": {
+          "ClockTime": 8,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.15,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://116368153118009",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://137443665258748",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://106907389052906",
+            "SkyboxLf": "rbxassetid://113607300469386",
+            "SunTextureId": "rbxasset://sky/sun.jpg",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://86198878822372",
+            "SkyboxRt": "rbxassetid://87644663726388",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.4449999928474426,
+            "Haze": 0.5,
+            "Color": null,
+            "Decay": null,
+            "Glare": 0,
+            "Offset": 0
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        }
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "21 | Coral Reef",
+      "category": "World 1",
+      "configData": {
+        "Lighting": {
+          "ClockTime": 9,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.699999988079071,
+            "Contrast": 0.07999999821186066,
+            "TintColor": null,
+            "Brightness": 0.11999999731779099
+          },
+          "Brightness": 1.15,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.74399995803833,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://116368153118009",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://137443665258748",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://106907389052906",
+            "SkyboxLf": "rbxassetid://113607300469386",
+            "SunTextureId": "rbxasset://sky/sun.jpg",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://86198878822372",
+            "SkyboxRt": "rbxassetid://87644663726388",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 322,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.39399999380111694,
+            "Haze": 2.450000047683716,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.159999966621399,
+            "Offset": 0.515999972820282
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        },
+        "GateHealth": 0,
+        "Ambience": {
+          "SoundId": "rbxassetid://14882867363"
+        },
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 50
+            },
+            "Data": [
+              {
+                "Weight": 1.5,
+                "Type": "Small Coins (Default)"
+              },
+              {
+                "Weight": 4,
+                "Type": "Medium Coins (Default)"
+              },
+              {
+                "Weight": 8,
+                "Type": "Large Coins (Default)"
+              },
+              {
+                "Weight": 25,
+                "Type": "Present (Coral)"
+              },
+              {
+                "Weight": 10,
+                "Type": "Safe (Coral)"
+              }
+            ]
+          }
+        },
+        "Currency": "Coins",
+        "MaximumAvailableEgg": 29,
+        "ZoneNumber": 21,
+        "WorldNumber": 1,
+        "ExtraDropTable": null,
+        "ZoneFolder": null,
+        "ZoneName": "Coral Reef"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "22 | Shipwreck",
+      "category": "World 1",
+      "configData": {
+        "Lighting": {
+          "ClockTime": 9,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.699999988079071,
+            "Contrast": 0.07999999821186066,
+            "TintColor": null,
+            "Brightness": 0.11999999731779099
+          },
+          "Brightness": 1.15,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.74399995803833,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://116368153118009",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://137443665258748",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://106907389052906",
+            "SkyboxLf": "rbxassetid://113607300469386",
+            "SunTextureId": "rbxasset://sky/sun.jpg",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://86198878822372",
+            "SkyboxRt": "rbxassetid://87644663726388",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 322,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.39399999380111694,
+            "Haze": 2.450000047683716,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.159999966621399,
+            "Offset": 0.515999972820282
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        },
+        "GateHealth": 0,
+        "Ambience": {
+          "SoundId": "rbxassetid://14882867363"
+        },
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 0.75,
+                "Type": "Small Coins (Default)"
+              },
+              {
+                "Weight": 2,
+                "Type": "Medium Coins (Default)"
+              },
+              {
+                "Weight": 6,
+                "Type": "Large Coins (Default)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Crate (Coral)"
+              },
+              {
+                "Weight": 4,
+                "Type": "Safe (Default)"
+              },
+              {
+                "Weight": 2,
+                "Type": "Vault (Default)"
+              }
+            ]
+          }
+        },
+        "Currency": "Coins",
+        "MaximumAvailableEgg": 30,
+        "ZoneNumber": 22,
+        "WorldNumber": 1,
+        "ExtraDropTable": null,
+        "ZoneFolder": null,
+        "ZoneName": "Shipwreck"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "23 | Atlantis",
+      "category": "World 1",
+      "configData": {
+        "Lighting": {
+          "ClockTime": 9,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.699999988079071,
+            "Contrast": 0.07999999821186066,
+            "TintColor": null,
+            "Brightness": 0.11999999731779099
+          },
+          "Brightness": 1.15,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.74399995803833,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://116368153118009",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://137443665258748",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://106907389052906",
+            "SkyboxLf": "rbxassetid://113607300469386",
+            "SunTextureId": "rbxasset://sky/sun.jpg",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://86198878822372",
+            "SkyboxRt": "rbxassetid://87644663726388",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 322,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.39399999380111694,
+            "Haze": 2.450000047683716,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.159999966621399,
+            "Offset": 0.515999972820282
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        },
+        "GateHealth": 0,
+        "Ambience": {
+          "SoundId": "rbxassetid://14882867363"
+        },
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 15,
+                "Type": "Small Coins (Default)"
+              },
+              {
+                "Weight": 30,
+                "Type": "Medium Coins (Default)"
+              },
+              {
+                "Weight": 40,
+                "Type": "Large Coins (Default)"
+              },
+              {
+                "Weight": 40,
+                "Type": "Crate (Coral)"
+              },
+              {
+                "Weight": 35,
+                "Type": "Present (Coral)"
+              },
+              {
+                "Weight": 25,
+                "Type": "Safe (Coral)"
+              },
+              {
+                "Weight": 18,
+                "Type": "Vault (Coral)"
+              }
+            ]
+          }
+        },
+        "Currency": "Coins",
+        "MaximumAvailableEgg": 31,
+        "ZoneNumber": 23,
+        "WorldNumber": 1,
+        "ExtraDropTable": null,
+        "ZoneFolder": null,
+        "ZoneName": "Atlantis"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "29 | Desert Village",
+      "category": "World 1",
+      "configData": {
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 15,
+                "Type": "Small Coins (Default)"
+              },
+              {
+                "Weight": 50,
+                "Type": "Medium Coins (Default)"
+              },
+              {
+                "Weight": 30,
+                "Type": "Large Coins (Default)"
+              },
+              {
+                "Weight": 30,
+                "Type": "Crate (Default)"
+              },
+              {
+                "Weight": 40,
+                "Type": "Present (Default)"
+              },
+              {
+                "Weight": 40,
+                "Type": "Vault (Default)"
+              }
+            ]
+          }
+        },
+        "ZoneName": "Desert Village",
+        "ZoneNumber": 29,
+        "Currency": "Coins",
+        "MaximumAvailableEgg": 42,
+        "GateHealth": 0,
+        "WorldNumber": 1,
+        "ExtraDropTable": null,
+        "ZoneFolder": null,
+        "Lighting": {
+          "ClockTime": 10,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.149999976158142,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://116368153118009",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://137443665258748",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://106907389052906",
+            "SkyboxLf": "rbxassetid://113607300469386",
+            "SunTextureId": "rbxasset://sky/sun.jpg",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://86198878822372",
+            "SkyboxRt": "rbxassetid://87644663726388",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.2800000011920929,
+            "Haze": 2.0799999237060547,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        }
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "30 | Fossil Digsite",
+      "category": "World 1",
+      "configData": {
+        "Chests": [],
+        "Lighting": {
+          "ClockTime": 10,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.149999976158142,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://116368153118009",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://137443665258748",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://106907389052906",
+            "SkyboxLf": "rbxassetid://113607300469386",
+            "SunTextureId": "rbxasset://sky/sun.jpg",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://86198878822372",
+            "SkyboxRt": "rbxassetid://87644663726388",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.2800000011920929,
+            "Haze": 2.200000047683716,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        },
+        "GateHealth": 0,
+        "Ambience": {
+          "SoundId": "rbxassetid://15304126486"
+        },
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 50
+            },
+            "Data": [
+              {
+                "Weight": 41.25,
+                "Type": "Small Coins (Default)"
+              },
+              {
+                "Weight": 80,
+                "Type": "Medium Coins (Default)"
+              },
+              {
+                "Weight": 100,
+                "Type": "Large Coins (Default)"
+              },
+              {
+                "Weight": 30,
+                "Type": "Crate (Default)"
+              },
+              {
+                "Weight": 40,
+                "Type": "Wheel Barrow (Default)"
+              },
+              {
+                "Weight": 20,
+                "Type": "Safe (Default)"
+              }
+            ]
+          }
+        },
+        "WorldNumber": 1,
+        "Currency": "Coins",
+        "MaximumAvailableEgg": 43,
+        "ZoneNumber": 30,
+        "ExtraDropTable": null,
+        "ZoneFolder": null,
+        "ZoneName": "Fossil Digsite"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "28 | Shanty Town",
+      "category": "World 1",
+      "configData": {
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 45,
+                "Type": "Small Coins (Default)"
+              },
+              {
+                "Weight": 80,
+                "Type": "Medium Coins (Default)"
+              },
+              {
+                "Weight": 120,
+                "Type": "Large Coins (Default)"
+              },
+              {
+                "Weight": 65,
+                "Type": "Present (Desert)"
+              },
+              {
+                "Weight": 75,
+                "Type": "Small Barrel (Default)"
+              },
+              {
+                "Weight": 85,
+                "Type": "Large Barrel (Default)"
+              }
+            ]
+          }
+        },
+        "ZoneName": "Shanty Town",
+        "ZoneNumber": 28,
+        "Currency": "Coins",
+        "MaximumAvailableEgg": 40,
+        "GateHealth": 0,
+        "WorldNumber": 1,
+        "ExtraDropTable": null,
+        "ZoneFolder": null,
+        "Lighting": {
+          "ClockTime": 10,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.149999976158142,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://116368153118009",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://137443665258748",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://106907389052906",
+            "SkyboxLf": "rbxassetid://113607300469386",
+            "SunTextureId": "rbxasset://sky/sun.jpg",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://86198878822372",
+            "SkyboxRt": "rbxassetid://87644663726388",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.2800000011920929,
+            "Haze": 2,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        }
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "31 | Desert Pyramids",
+      "category": "World 1",
+      "configData": {
+        "Lighting": {
+          "ClockTime": 10,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.149999976158142,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://116368153118009",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://137443665258748",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://106907389052906",
+            "SkyboxLf": "rbxassetid://113607300469386",
+            "SunTextureId": "rbxasset://sky/sun.jpg",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://86198878822372",
+            "SkyboxRt": "rbxassetid://87644663726388",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.2800000011920929,
+            "Haze": 2.200000047683716,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        },
+        "GateHealth": 0,
+        "Ambience": {
+          "SoundId": "rbxassetid://15304126486"
+        },
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 50
+            },
+            "Data": [
+              {
+                "Weight": 37.5,
+                "Type": "Small Coins (Default)"
+              },
+              {
+                "Weight": 70,
+                "Type": "Medium Coins (Default)"
+              },
+              {
+                "Weight": 90,
+                "Type": "Large Coins (Default)"
+              },
+              {
+                "Weight": 40,
+                "Type": "Crate (Desert)"
+              },
+              {
+                "Weight": 18,
+                "Type": "Present (Desert)"
+              }
+            ]
+          }
+        },
+        "Currency": "Coins",
+        "MaximumAvailableEgg": 44,
+        "ZoneNumber": 31,
+        "WorldNumber": 1,
+        "ExtraDropTable": null,
+        "ZoneFolder": null,
+        "ZoneName": "Desert Pyramids"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "32 | Red Desert",
+      "category": "World 1",
+      "configData": {
+        "Lighting": {
+          "ClockTime": 10,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.149999976158142,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://116368153118009",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://137443665258748",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://106907389052906",
+            "SkyboxLf": "rbxassetid://113607300469386",
+            "SunTextureId": "rbxasset://sky/sun.jpg",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://86198878822372",
+            "SkyboxRt": "rbxassetid://87644663726388",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.2800000011920929,
+            "Haze": 2.1500000953674316,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        },
+        "GateHealth": 0,
+        "Ambience": {
+          "SoundId": "rbxassetid://15304126486"
+        },
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 22.5,
+                "Type": "Small Coins (Default)"
+              },
+              {
+                "Weight": 60,
+                "Type": "Medium Coins (Default)"
+              },
+              {
+                "Weight": 40,
+                "Type": "Large Coins (Default)"
+              },
+              {
+                "Weight": 35,
+                "Type": "Present (Desert)"
+              },
+              {
+                "Weight": 25,
+                "Type": "Safe (Desert)"
+              },
+              {
+                "Weight": 10,
+                "Type": "Vault (Desert)"
+              }
+            ]
+          }
+        },
+        "Currency": "Coins",
+        "MaximumAvailableEgg": 45,
+        "ZoneNumber": 32,
+        "WorldNumber": 1,
+        "ExtraDropTable": null,
+        "ZoneFolder": null,
+        "ZoneName": "Red Desert"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "33 | Wild West",
+      "category": "World 1",
+      "configData": {
+        "Lighting": {
+          "ClockTime": 10,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.149999976158142,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://116368153118009",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://137443665258748",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://106907389052906",
+            "SkyboxLf": "rbxassetid://113607300469386",
+            "SunTextureId": "rbxasset://sky/sun.jpg",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://86198878822372",
+            "SkyboxRt": "rbxassetid://87644663726388",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.25999999046325684,
+            "Haze": 2.0999999046325684,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        },
+        "GateHealth": 0,
+        "Ambience": {
+          "SoundId": "rbxassetid://15304126486"
+        },
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 18.75,
+                "Type": "Small Coins (Default)"
+              },
+              {
+                "Weight": 40,
+                "Type": "Medium Coins (Default)"
+              },
+              {
+                "Weight": 30,
+                "Type": "Large Coins (Default)"
+              },
+              {
+                "Weight": 45,
+                "Type": "Crate (Desert)"
+              },
+              {
+                "Weight": 23,
+                "Type": "Small Barrel (Default)"
+              },
+              {
+                "Weight": 18,
+                "Type": "Large Barrel (Default)"
+              }
+            ]
+          }
+        },
+        "Currency": "Coins",
+        "MaximumAvailableEgg": 46,
+        "ZoneNumber": 33,
+        "WorldNumber": 1,
+        "ExtraDropTable": null,
+        "ZoneFolder": null,
+        "ZoneName": "Wild West"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "34 | Grand Canyons",
+      "category": "World 1",
+      "configData": {
+        "Lighting": {
+          "ClockTime": 10,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.149999976158142,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://116368153118009",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://137443665258748",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://106907389052906",
+            "SkyboxLf": "rbxassetid://113607300469386",
+            "SunTextureId": "rbxasset://sky/sun.jpg",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://86198878822372",
+            "SkyboxRt": "rbxassetid://87644663726388",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.25,
+            "Haze": 2.049999952316284,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        },
+        "GateHealth": 0,
+        "Ambience": {
+          "SoundId": "rbxassetid://15304126486"
+        },
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 15,
+                "Type": "Small Coins (Default)"
+              },
+              {
+                "Weight": 50,
+                "Type": "Medium Coins (Default)"
+              },
+              {
+                "Weight": 30,
+                "Type": "Large Coins (Default)"
+              },
+              {
+                "Weight": 30,
+                "Type": "Crate (Desert)"
+              },
+              {
+                "Weight": 28,
+                "Type": "Safe (Desert)"
+              },
+              {
+                "Weight": 35,
+                "Type": "Vault (Desert)"
+              }
+            ]
+          }
+        },
+        "Currency": "Coins",
+        "MaximumAvailableEgg": 47,
+        "ZoneNumber": 34,
+        "WorldNumber": 1,
+        "ExtraDropTable": null,
+        "ZoneFolder": null,
+        "ZoneName": "Grand Canyons"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "45 | Lava Forest",
+      "category": "World 1",
+      "configData": {
+        "Lighting": {
+          "ClockTime": 10,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.149999976158142,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://116368153118009",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://137443665258748",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://106907389052906",
+            "SkyboxLf": "rbxassetid://113607300469386",
+            "SunTextureId": "rbxasset://sky/sun.jpg",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://86198878822372",
+            "SkyboxRt": "rbxassetid://87644663726388",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.367000013589859,
+            "Haze": 2.7899999618530273,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        },
+        "GateHealth": 0,
+        "Ambience": {
+          "SoundId": "rbxassetid://15115177373"
+        },
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 52.5,
+                "Type": "Small Coins (Default)"
+              },
+              {
+                "Weight": 80,
+                "Type": "Medium Coins (Default)"
+              },
+              {
+                "Weight": 100,
+                "Type": "Large Coins (Default)"
+              },
+              {
+                "Weight": 40,
+                "Type": "Crate (Magma)"
+              },
+              {
+                "Weight": 50,
+                "Type": "Present (Magma)"
+              },
+              {
+                "Weight": 30,
+                "Type": "Safe (Magma)"
+              }
+            ]
+          }
+        },
+        "Currency": "Coins",
+        "MaximumAvailableEgg": 58,
+        "ZoneNumber": 45,
+        "WorldNumber": 1,
+        "ExtraDropTable": null,
+        "ZoneFolder": null,
+        "ZoneName": "Lava Forest"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "46 | Underworld",
+      "category": "World 1",
+      "configData": {
+        "Chests": {
+          "Boss": {
+            "RespawnTime": 600,
+            "Data": [
+              {
+                "Rotation": 90,
+                "Type": "HellChest",
+                "Weight": 100
+              }
+            ]
+          }
+        },
+        "Lighting": {
+          "ClockTime": 10,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.149999976158142,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://116368153118009",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://137443665258748",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://106907389052906",
+            "SkyboxLf": "rbxassetid://113607300469386",
+            "SunTextureId": "rbxasset://sky/sun.jpg",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://86198878822372",
+            "SkyboxRt": "rbxassetid://87644663726388",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.367000013589859,
+            "Haze": 2.7899999618530273,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        },
+        "GateHealth": 0,
+        "Ambience": {
+          "SoundId": "rbxassetid://15115177373"
+        },
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 50
+            },
+            "Data": [
+              {
+                "Weight": 7.5,
+                "Type": "Small Coins (Default)"
+              },
+              {
+                "Weight": 40,
+                "Type": "Medium Coins (Default)"
+              },
+              {
+                "Weight": 50,
+                "Type": "Large Coins (Default)"
+              },
+              {
+                "Weight": 50,
+                "Type": "Crate (Magma)"
+              },
+              {
+                "Weight": 30,
+                "Type": "Safe (Magma)"
+              },
+              {
+                "Weight": 20,
+                "Type": "Vault (Magma)"
+              }
+            ]
+          }
+        },
+        "WorldNumber": 1,
+        "Currency": "Coins",
+        "MaximumAvailableEgg": 59,
+        "ZoneNumber": 46,
+        "ExtraDropTable": null,
+        "ZoneFolder": null,
+        "ZoneName": "Underworld"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "47 | Underworld Bridge",
+      "category": "World 1",
+      "configData": {
+        "Lighting": {
+          "ClockTime": 10,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.149999976158142,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://116368153118009",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://137443665258748",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://106907389052906",
+            "SkyboxLf": "rbxassetid://113607300469386",
+            "SunTextureId": "rbxasset://sky/sun.jpg",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://86198878822372",
+            "SkyboxRt": "rbxassetid://87644663726388",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.367000013589859,
+            "Haze": 2.7899999618530273,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        },
+        "GateHealth": 0,
+        "Ambience": {
+          "SoundId": "rbxassetid://15115177373"
+        },
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 22.5,
+                "Type": "Small Coins (Default)"
+              },
+              {
+                "Weight": 30,
+                "Type": "Medium Coins (Default)"
+              },
+              {
+                "Weight": 40,
+                "Type": "Large Coins (Default)"
+              },
+              {
+                "Weight": 60,
+                "Type": "Present (Magma)"
+              },
+              {
+                "Weight": 10,
+                "Type": "Safe (Magma)"
+              },
+              {
+                "Weight": 20,
+                "Type": "Vault (Magma)"
+              }
+            ]
+          }
+        },
+        "Currency": "Coins",
+        "MaximumAvailableEgg": 60,
+        "ZoneNumber": 47,
+        "WorldNumber": 1,
+        "ExtraDropTable": null,
+        "ZoneFolder": null,
+        "ZoneName": "Underworld Bridge"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "48 | Underworld Castle",
+      "category": "World 1",
+      "configData": {
+        "Lighting": {
+          "ClockTime": 10,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.149999976158142,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://116368153118009",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://137443665258748",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://106907389052906",
+            "SkyboxLf": "rbxassetid://113607300469386",
+            "SunTextureId": "rbxasset://sky/sun.jpg",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://86198878822372",
+            "SkyboxRt": "rbxassetid://87644663726388",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.367000013589859,
+            "Haze": 2.7899999618530273,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        },
+        "GateHealth": 0,
+        "Ambience": {
+          "SoundId": "rbxassetid://15115177373"
+        },
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 50
+            },
+            "Data": [
+              {
+                "Weight": 11.25,
+                "Type": "Small Coins (Default)"
+              },
+              {
+                "Weight": 15,
+                "Type": "Medium Coins (Default)"
+              },
+              {
+                "Weight": 30,
+                "Type": "Large Coins (Default)"
+              },
+              {
+                "Weight": 40,
+                "Type": "Present (Magma)"
+              },
+              {
+                "Weight": 40,
+                "Type": "Crate (Magma)"
+              },
+              {
+                "Weight": 20,
+                "Type": "Safe (Magma)"
+              },
+              {
+                "Weight": 20,
+                "Type": "Vault (Magma)"
+              }
+            ]
+          }
+        },
+        "Currency": "Coins",
+        "MaximumAvailableEgg": 61,
+        "ZoneNumber": 48,
+        "WorldNumber": 1,
+        "ExtraDropTable": null,
+        "ZoneFolder": null,
+        "ZoneName": "Underworld Castle"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "49 | Metal Dojo",
+      "category": "World 1",
+      "configData": {
+        "Lighting": {
+          "ClockTime": 10,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.149999976158142,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://116368153118009",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://137443665258748",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://106907389052906",
+            "SkyboxLf": "rbxassetid://113607300469386",
+            "SunTextureId": "rbxasset://sky/sun.jpg",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://86198878822372",
+            "SkyboxRt": "rbxassetid://87644663726388",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.367000013589859,
+            "Haze": 2.7899999618530273,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        },
+        "GateHealth": 0,
+        "Ambience": {
+          "SoundId": "rbxassetid://15115177373"
+        },
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 50
+            },
+            "Data": [
+              {
+                "Weight": 11.25,
+                "Type": "Small Coins (Default)"
+              },
+              {
+                "Weight": 45,
+                "Type": "Medium Coins (Default)"
+              },
+              {
+                "Weight": 55,
+                "Type": "Large Coins (Default)"
+              },
+              {
+                "Weight": 10,
+                "Type": "Safe (Magma)"
+              },
+              {
+                "Weight": 15,
+                "Type": "Vault (Magma)"
+              }
+            ]
+          }
+        },
+        "Currency": "Coins",
+        "MaximumAvailableEgg": 62,
+        "ZoneNumber": 49,
+        "WorldNumber": 1,
+        "ExtraDropTable": null,
+        "ZoneFolder": null,
+        "ZoneName": "Metal Dojo"
       },
       "dateCreated": null,
       "dateModified": null,

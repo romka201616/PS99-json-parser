@@ -1,12 +1,12 @@
 {
   "data": [
     {
-      "configName": "PackMerchant",
+      "configName": "MiningMerchant",
       "category": "Merchants",
       "configData": {
         "PriceMult": 1,
         "GetOffers": null,
-        "DisplayName": "Pack Merchant",
+        "DisplayName": "Mining Merchant",
         "StockRangeByRespectLevel": [
           [
             1,
@@ -29,7 +29,7 @@
             3
           ]
         ],
-        "MachineName": "PackMerchant",
+        "MachineName": "MiningMerchant",
         "SlotRespectLevels": [
           1,
           1,
