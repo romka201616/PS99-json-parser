@@ -1,52 +1,59 @@
 {
   "data": [
     {
-      "configName": "TieDyeBattle",
+      "configName": "AthenaBattle",
       "category": "GuildBattles",
       "configData": {
         "PlacementRewards": [
           {
             "Item": {
               "_data": {
-                "id": "Clan Gift"
+                "id": "Clan Gift 2"
               }
             },
             "Best": 1,
             "Worst": 500
           },
           {
+            "BestContributor": 1,
             "Item": {
               "_data": {
-                "id": "Tie Dye"
-              }
-            },
-            "Best": 1,
-            "Worst": 50
-          },
-          {
-            "Item": {
-              "_data": {
-                "id": "Tie Dye"
-              }
-            },
-            "Best": 1,
-            "Worst": 10
-          },
-          {
-            "Item": {
-              "_data": {
-                "id": "Huge Tiedye Dog",
+                "id": "Titanic Mosaic Cat",
                 "pt": 2
               }
             },
+            "Worst": 1,
             "Best": 1,
-            "Worst": 1
+            "WorstContributor": 3
+          },
+          {
+            "BestContributor": 4,
+            "Item": {
+              "_data": {
+                "id": "Titanic Mosaic Cat",
+                "pt": 1
+              }
+            },
+            "Worst": 1,
+            "Best": 1,
+            "WorstContributor": 10
+          },
+          {
+            "BestContributor": 11,
+            "Item": {
+              "_data": {
+                "id": "Titanic Mosaic Cat"
+              }
+            },
+            "Worst": 1,
+            "Best": 1,
+            "WorstContributor": 100
           },
           {
             "Item": {
               "_data": {
-                "id": "Huge Tiedye Dog",
-                "pt": 1
+                "id": "Huge Athena Owl",
+                "pt": 2
               }
             },
             "Best": 2,
@@ -55,16 +62,26 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Tiedye Dog"
+                "id": "Huge Athena Owl",
+                "pt": 1
               }
             },
             "Best": 4,
-            "Worst": 10
+            "Worst": 8
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Huge Athena Owl"
+              }
+            },
+            "Best": 9,
+            "Worst": 20
           }
         ],
-        "FinishTime": 1742572800,
-        "Title": "Tie Dye Battle",
-        "StartTime": 1742054400,
+        "FinishTime": 1743782400,
+        "Title": "Athena Battle",
+        "StartTime": 1743264000,
         "Rewards": {
           "Good": [],
           "Bronze": [],

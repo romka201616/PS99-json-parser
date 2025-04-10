@@ -12871,6 +12871,3260 @@
       "hash": null,
       "dateCreated": null,
       "collection": "Upgrades"
+    },
+    {
+      "configName": "Upgrade | Walkspeed",
+      "category": "Upgrades",
+      "configData": {
+        "RewardText": null,
+        "TierPowers": [
+          12.5,
+          12.5
+        ],
+        "Icon": "rbxassetid://7056089609",
+        "TierCurrencies": [
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          }
+        ],
+        "TierCosts": [
+          30,
+          150
+        ]
+      },
+      "dateModified": null,
+      "hash": null,
+      "dateCreated": null,
+      "collection": "Upgrades"
+    },
+    {
+      "configName": "Upgrade | Magnet",
+      "category": "Upgrades",
+      "configData": {
+        "RewardText": null,
+        "TierPowers": [
+          3,
+          4,
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "Icon": "",
+        "TierCurrencies": [
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          }
+        ],
+        "TierCosts": [
+          100,
+          300,
+          800,
+          2000,
+          4000,
+          6000,
+          35000
+        ]
+      },
+      "dateModified": null,
+      "hash": null,
+      "dateCreated": null,
+      "collection": "Upgrades"
+    },
+    {
+      "configName": "Upgrade | Pet Damage",
+      "category": "Upgrades",
+      "configData": {
+        "RewardText": null,
+        "TierPowers": [
+          10,
+          10,
+          10,
+          10,
+          5,
+          5
+        ],
+        "Icon": "",
+        "TierCurrencies": [
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          }
+        ],
+        "TierCosts": [
+          700,
+          2500,
+          7500,
+          75000,
+          750000,
+          5000000
+        ]
+      },
+      "dateModified": null,
+      "hash": null,
+      "dateCreated": null,
+      "collection": "Upgrades"
+    },
+    {
+      "configName": "Upgrade | Coins",
+      "category": "Upgrades",
+      "configData": {
+        "RewardText": null,
+        "TierPowers": [
+          10,
+          10,
+          10,
+          10,
+          5,
+          5
+        ],
+        "Icon": "",
+        "TierCurrencies": [
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          }
+        ],
+        "TierCosts": [
+          1250,
+          2750,
+          7500,
+          45000,
+          600000,
+          3500000
+        ]
+      },
+      "dateModified": null,
+      "hash": null,
+      "dateCreated": null,
+      "collection": "Upgrades"
+    },
+    {
+      "configName": "Upgrade | Diamonds",
+      "category": "Upgrades",
+      "configData": {
+        "RewardText": null,
+        "TierPowers": [
+          10,
+          10,
+          5,
+          5,
+          5,
+          5,
+          2,
+          2,
+          2
+        ],
+        "Icon": "",
+        "TierCurrencies": [
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          }
+        ],
+        "TierCosts": [
+          200,
+          400,
+          900,
+          2000,
+          12000,
+          100000,
+          300000,
+          3000000,
+          10000000
+        ]
+      },
+      "dateModified": null,
+      "hash": null,
+      "dateCreated": null,
+      "collection": "Upgrades"
+    },
+    {
+      "configName": "Upgrade | Pet Speed",
+      "category": "Upgrades",
+      "configData": {
+        "RewardText": null,
+        "TierPowers": [
+          5,
+          10,
+          10,
+          10,
+          10,
+          5
+        ],
+        "Icon": "",
+        "TierCurrencies": [
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          }
+        ],
+        "TierCosts": [
+          500,
+          1250,
+          5500,
+          12000,
+          60000,
+          250000
+        ]
+      },
+      "dateModified": null,
+      "hash": null,
+      "dateCreated": null,
+      "collection": "Upgrades"
+    },
+    {
+      "configName": "Upgrade | Tap Damage",
+      "category": "Upgrades",
+      "configData": {
+        "RewardText": null,
+        "TierPowers": [
+          10,
+          10,
+          10,
+          10,
+          5,
+          3,
+          3
+        ],
+        "Icon": "",
+        "TierCurrencies": [
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          }
+        ],
+        "TierCosts": [
+          300,
+          1500,
+          8000,
+          17500,
+          80000,
+          1150000,
+          3000000
+        ]
+      },
+      "dateModified": null,
+      "hash": null,
+      "dateCreated": null,
+      "collection": "Upgrades"
+    },
+    {
+      "configName": "Upgrade | Luck",
+      "category": "Upgrades",
+      "configData": {
+        "RewardText": null,
+        "TierPowers": [
+          10,
+          10,
+          10,
+          10,
+          5,
+          3,
+          2
+        ],
+        "Icon": "",
+        "TierCurrencies": [
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          }
+        ],
+        "TierCosts": [
+          1000,
+          4500,
+          7500,
+          25000,
+          150000,
+          1000000,
+          15000000
+        ]
+      },
+      "dateModified": null,
+      "hash": null,
+      "dateCreated": null,
+      "collection": "Upgrades"
+    },
+    {
+      "configName": "Upgrade | Drops",
+      "category": "Upgrades",
+      "configData": {
+        "RewardText": null,
+        "TierPowers": [
+          5,
+          5,
+          5,
+          3,
+          3,
+          2
+        ],
+        "Icon": "",
+        "TierCurrencies": [
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          }
+        ],
+        "TierCosts": [
+          650,
+          3000,
+          15000,
+          200000,
+          1500000,
+          6000000
+        ]
+      },
+      "dateModified": null,
+      "hash": null,
+      "dateCreated": null,
+      "collection": "Upgrades"
+    },
+    {
+      "configName": "Upgrade | Ultimates",
+      "category": "Upgrades",
+      "configData": {
+        "RewardText": null,
+        "TierPowers": [
+          10,
+          5
+        ],
+        "Icon": "",
+        "TierCurrencies": [
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          },
+          {
+            "Rarity": {
+              "RarityNumber": 2,
+              "Lootbag": null,
+              "_id": "Rare",
+              "Color": null,
+              "DisplayName": "Rare",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": false,
+              "_script": null
+            },
+            "Tradable": true,
+            "StaticValue": 1,
+            "Tiers": [
+              {
+                "orbImage": "rbxassetid://15466421090",
+                "imageOutline": "rbxassetid://14867116353",
+                "isBottom": true,
+                "Order": 1,
+                "rainData": {
+                  "LightEmission": 0.2
+                },
+                "value": 1,
+                "tinyImage": "rbxassetid://15258327857",
+                "tierName": "Diamonds",
+                "textColor": null
+              }
+            ],
+            "DisplayName": "Diamonds",
+            "_script": null,
+            "_index": 8,
+            "_id": "Diamonds",
+            "MaxAmount": 1000000000000,
+            "BagTiers": [
+              {
+                "value": 0,
+                "image": "rbxassetid://15058306297"
+              },
+              {
+                "value": 1000,
+                "image": "rbxassetid://15058306546"
+              },
+              {
+                "value": 10000,
+                "image": "rbxassetid://15058306840"
+              }
+            ],
+            "Desc": "Diamonds!"
+          }
+        ],
+        "TierCosts": [
+          500000,
+          2000000
+        ]
+      },
+      "dateModified": null,
+      "hash": null,
+      "dateCreated": null,
+      "collection": "Upgrades"
     }
   ]
 }

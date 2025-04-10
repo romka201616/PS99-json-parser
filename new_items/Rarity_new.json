@@ -1,97 +1,7 @@
 {
   "data": [
     {
-      "configName": "1 | Basic",
-      "category": "Rarity",
-      "configData": {
-        "RarityNumber": 1,
-        "Lootbag": null,
-        "Color": "#9491A7",
-        "DisplayName": "Basic",
-        "Message": null,
-        "ItemSlot": null,
-        "Gradient": null,
-        "Announce": false
-      },
-      "hash": null,
-      "dateModified": null,
-      "dateCreated": null,
-      "collection": "Rarity"
-    },
-    {
-      "configName": "2 | Rare",
-      "category": "Rarity",
-      "configData": {
-        "RarityNumber": 2,
-        "Lootbag": null,
-        "Color": "#71FF3E",
-        "DisplayName": "Rare",
-        "Message": null,
-        "ItemSlot": null,
-        "Gradient": null,
-        "Announce": false
-      },
-      "hash": null,
-      "dateModified": null,
-      "dateCreated": null,
-      "collection": "Rarity"
-    },
-    {
-      "configName": "3 | Epic",
-      "category": "Rarity",
-      "configData": {
-        "RarityNumber": 3,
-        "Lootbag": null,
-        "Color": "#29E2FF",
-        "DisplayName": "Epic",
-        "Message": null,
-        "ItemSlot": null,
-        "Gradient": null,
-        "Announce": false
-      },
-      "hash": null,
-      "dateModified": null,
-      "dateCreated": null,
-      "collection": "Rarity"
-    },
-    {
-      "configName": "4 | Legendary",
-      "category": "Rarity",
-      "configData": {
-        "RarityNumber": 4,
-        "Lootbag": null,
-        "Color": "#FF8522",
-        "DisplayName": "Legendary",
-        "Message": null,
-        "ItemSlot": null,
-        "Gradient": null,
-        "Announce": false
-      },
-      "hash": null,
-      "dateModified": null,
-      "dateCreated": null,
-      "collection": "Rarity"
-    },
-    {
-      "configName": "5 | Mythical",
-      "category": "Rarity",
-      "configData": {
-        "RarityNumber": 5,
-        "Lootbag": null,
-        "Color": "#FF2B64",
-        "DisplayName": "Mythical",
-        "Message": null,
-        "ItemSlot": null,
-        "Gradient": null,
-        "Announce": false
-      },
-      "hash": null,
-      "dateModified": null,
-      "dateCreated": null,
-      "collection": "Rarity"
-    },
-    {
-      "configName": "Exclusive",
+      "configName": "999 | Exclusive",
       "category": "Rarity",
       "configData": {
         "RarityNumber": 999,
@@ -103,85 +13,10 @@
         "Gradient": null,
         "Announce": true
       },
-      "hash": null,
-      "dateModified": null,
-      "dateCreated": null,
       "collection": "Rarity"
     },
     {
-      "configName": "6 | Exotic",
-      "category": "Rarity",
-      "configData": {
-        "RarityNumber": 6,
-        "Lootbag": null,
-        "Color": "#FF1DFB",
-        "DisplayName": "Exotic",
-        "Message": null,
-        "ItemSlot": null,
-        "Gradient": null,
-        "Announce": true
-      },
-      "hash": null,
-      "dateModified": null,
-      "dateCreated": null,
-      "collection": "Rarity"
-    },
-    {
-      "configName": "7 | Divine",
-      "category": "Rarity",
-      "configData": {
-        "RarityNumber": 7,
-        "Lootbag": null,
-        "Color": "#FFEC58",
-        "DisplayName": "Divine",
-        "Message": null,
-        "ItemSlot": null,
-        "Gradient": null,
-        "Announce": true
-      },
-      "hash": null,
-      "dateModified": null,
-      "dateCreated": null,
-      "collection": "Rarity"
-    },
-    {
-      "configName": "8 | Superior",
-      "category": "Rarity",
-      "configData": {
-        "RarityNumber": 8,
-        "Lootbag": null,
-        "Color": "#C3FFFF",
-        "DisplayName": "Superior",
-        "Message": null,
-        "ItemSlot": null,
-        "Gradient": null,
-        "Announce": true
-      },
-      "hash": null,
-      "dateModified": null,
-      "dateCreated": null,
-      "collection": "Rarity"
-    },
-    {
-      "configName": "9 | Celestial",
-      "category": "Rarity",
-      "configData": {
-        "RarityNumber": 9,
-        "Lootbag": null,
-        "Color": "#BBC4FF",
-        "DisplayName": "Celestial",
-        "Message": null,
-        "ItemSlot": null,
-        "Gradient": null,
-        "Announce": true
-      },
-      "hash": null,
-      "dateModified": null,
-      "dateCreated": null,
-      "collection": "Rarity"
-    },
-    {
-      "configName": "Secret",
+      "configName": "998 | Secret",
       "category": "Rarity",
       "configData": {
         "RarityNumber": 998,
@@ -193,9 +28,6 @@
         "Gradient": null,
         "Announce": true
       },
-      "hash": null,
-      "dateModified": null,
-      "dateCreated": null,
       "collection": "Rarity"
     }
   ]

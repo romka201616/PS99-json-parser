@@ -3511,6 +3511,40 @@
         "Desc": "⚔️ Rewarded to the top 10 clans in the 2025 Tie Dye Clan Battle!"
       },
       "collection": "Hoverboards"
+    },
+    {
+      "configName": "Hoverboard | Jelly",
+      "category": "Hoverboards",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Jelly Hoverboard",
+        "Desc": "jelly jelly jelly!",
+        "Sounds": {
+          "equip": [
+            "rbxassetid://102234210822621"
+          ],
+          "idle": [
+            "rbxassetid://95693237363544"
+          ],
+          "jump": [
+            "rbxassetid://135199956009241"
+          ]
+        },
+        "Icon": "rbxassetid://72590702374703",
+        "Tradable": true
+      },
+      "collection": "Hoverboards"
     }
   ]
 }

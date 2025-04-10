@@ -197,6 +197,36 @@
       "dateModified": null,
       "dateCreated": null,
       "collection": "Rarity"
+    },
+    {
+      "configName": "999 | Exclusive",
+      "category": "Rarity",
+      "configData": {
+        "RarityNumber": 999,
+        "Lootbag": null,
+        "Color": "#AD4FFF",
+        "DisplayName": "Exclusive",
+        "Message": null,
+        "ItemSlot": null,
+        "Gradient": null,
+        "Announce": true
+      },
+      "collection": "Rarity"
+    },
+    {
+      "configName": "998 | Secret",
+      "category": "Rarity",
+      "configData": {
+        "RarityNumber": 998,
+        "Lootbag": null,
+        "Color": "#AD4FFF",
+        "DisplayName": "Secret",
+        "Message": null,
+        "ItemSlot": null,
+        "Gradient": null,
+        "Announce": true
+      },
+      "collection": "Rarity"
     }
   ]
 }

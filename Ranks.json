@@ -26421,6 +26421,145 @@
         "UnlockableEggSlots": 1
       },
       "collection": "Ranks"
+    },
+    {
+      "configName": "1 | Noob",
+      "category": "Ranks",
+      "configData": {
+        "UnlockablePetSlots": 3,
+        "MaxEnchantsEquipped": 1,
+        "Title": "Noob",
+        "UnlockableEggSlots": 2,
+        "RankNumber": 1,
+        "Goals": [
+          [
+            {
+              "Amount": 25,
+              "Type": 1,
+              "Weight": 2
+            },
+            {
+              "Type": 9,
+              "Amount": 5,
+              "Weight": 1
+            },
+            {
+              "Amount": 50,
+              "Type": 7,
+              "CurrencyID": "Diamonds",
+              "Weight": 1
+            }
+          ],
+          [
+            {
+              "Amount": 50,
+              "Type": 1,
+              "Weight": 1
+            },
+            {
+              "Amount": 100,
+              "Type": 7,
+              "CurrencyID": "Diamonds",
+              "Weight": 1
+            },
+            {
+              "Type": 3,
+              "Amount": 15,
+              "Weight": 1
+            }
+          ]
+        ],
+        "MaximumActiveGoals": 2,
+        "Rewards": [
+          {
+            "Item": {
+              "_data": {
+                "id": "TNT",
+                "_am": 3
+              }
+            },
+            "StarsRequired": 1
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Diamonds",
+                "_am": 50
+              }
+            },
+            "StarsRequired": 1
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Diamonds",
+                "_am": 150
+              }
+            },
+            "StarsRequired": 1
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Walkspeed",
+                "tn": 1
+              }
+            },
+            "StarsRequired": 1
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Damage",
+                "tn": 1
+              }
+            },
+            "StarsRequired": 1
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Strong Pets",
+                "tn": 1
+              }
+            },
+            "StarsRequired": 1
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Diamonds",
+                "_am": 300
+              }
+            },
+            "StarsRequired": 1
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Coins",
+                "_am": 2,
+                "tn": 1
+              }
+            },
+            "StarsRequired": 2
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Damage",
+                "_am": 3,
+                "tn": 2
+              }
+            },
+            "StarsRequired": 4
+          }
+        ]
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Ranks"
     }
   ]
 }

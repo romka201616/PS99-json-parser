@@ -10114,6 +10114,2585 @@
         "Desc": "Gem with a shimmering spectrum of colors overflowing"
       },
       "collection": "MiscItems"
+    },
+    {
+      "configName": "Rotten Potato",
+      "category": "Miscellaneous",
+      "configData": {
+        "DisplayName": "Rotten Potato",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Miscellaneous"
+        ],
+        "Icon": "rbxassetid://13959016084",
+        "Desc": "FOR ADMIN USE - Lets you do a bunch of cool stuff."
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Blue Christmas Ornament",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Blue Christmas Ornament",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://15628075380",
+        "Desc": "Place on a tree in Holiday World and leave a special message!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Gold Christmas Ornament",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Gold Christmas Ornament",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://15621569759",
+        "Desc": "Place on a tree in Holiday World and leave a special message!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Green Christmas Ornament",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Green Christmas Ornament",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://15621569679",
+        "Desc": "Place on a tree in Holiday World and leave a special message!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pink Christmas Ornament",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Pink Christmas Ornament",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://15628075235",
+        "Desc": "Place on a tree in Holiday World and leave a special message!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Red Christmas Ornament",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Red Christmas Ornament",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://15621569543",
+        "Desc": "Place on a tree in Holiday World and leave a special message!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Silver Christmas Ornament",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Silver Christmas Ornament",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://15628075059",
+        "Desc": "Place on a tree in Holiday World and leave a special message!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Basic Glitch Core",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Basic Glitch Core",
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://17296978822",
+        "Desc": "Can be combined using the Glitch Computer to turn into Glitched Gifts!\n\nWorth 1 point!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Rare Glitch Core",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Rare Glitch Core",
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://17296979040",
+        "Desc": "Can be combined using the Glitch Computer to turn into Glitched Gifts!\n\nWorth 5 points!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Epic Glitch Core",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Epic Glitch Core",
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://17296979284",
+        "Desc": "Can be combined using the Glitch Computer to turn into Glitched Gifts!\n\nWorth 20 points!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Legendary Glitch Core",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Legendary Glitch Core",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://17296978675",
+        "Desc": "Can be combined using the Glitch Computer to turn into Glitched Gifts!\n\nWorth 100 points!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Mythical Glitch Core",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Mythical Glitch Core",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://17296978562",
+        "Desc": "Can be combined using the Glitch Computer to turn into Glitched Gifts!\n\nWorth 500 points!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Backrooms Key",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Backrooms Key",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://17372987603",
+        "Desc": "Access locked backrooms for loot! Found in the backrooms!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Deep Backrooms Key",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Deep Backrooms Key",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://17440887836",
+        "Desc": "Access locked deep backrooms for loot! Found in the DEEP backrooms!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Prison Key",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Prison Key",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://17486584661",
+        "Desc": "Unlocks cells in Prison World for a HUGE pet chance! Drops randomly!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Golden Prison Key",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Golden Prison Key",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://17486584765",
+        "Desc": "Unlocks cells in Prison World for 10x HUGE pet chance! Drops randomly!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Seashell",
+      "category": "Miscellaneous",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Seashell",
+        "InventoryTags": [
+          "Miscellaneous"
+        ],
+        "Icon": "rbxassetid://17671375505",
+        "Desc": "Can be combined into Summer Gifts using the Seashell Machine!"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Angel Feather",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Angel Feather",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://18123783587",
+        "Desc": "Can be combined into Good Gifts using the Good vs. Evil Machine!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Demon Horn",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Demon Horn",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://18123783467",
+        "Desc": "Can be combined into Evil Gifts using the Good vs. Evil Machine!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Lucky Tile",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Lucky Tile Boost",
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://18351848112",
+        "Desc": "Increase the luck of the tile you're standing on by 100%! Event item only!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Ultra Lucky Tile",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Ultra Lucky Tile Boost",
+        "Rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://18351847920",
+        "Desc": "Increase the luck of the tile you're standing on by 500%! Event item only!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Rave Upgrade Ticket",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Rave Upgrade Ticket",
+        "Rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://18449105243",
+        "Desc": "Used in the Lucky Tiles World for special upgrades!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Fossil Token",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Fossil Token",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://18638998463",
+        "Desc": "Used to fuel the Dino Tycoon Huge Chance Machine!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Dino Lab Keycard",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Dino Lab Keycard",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://18742183821",
+        "Desc": "Used to unlock Dino Labs in the Dino Tycoon!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Lucky Dice",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Lucky Dice",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://18883667411",
+        "Desc": "Increase your roll luck by 100% for 1 minute! RNG Event item only!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Lucky Dice II",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Lucky Dice II",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://18883667147",
+        "Desc": "Increase your roll luck by 150% for 5 minutes! RNG Event item only!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Mega Lucky Dice",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Mega Lucky Dice",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://18883666982",
+        "Desc": "Increase the luck of your next roll by 1,000,000%! RNG Event item only!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Mega Lucky Dice II",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Mega Lucky Dice II",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://18883666783",
+        "Desc": "Increase the luck of your next roll by 10,000,000%! RNG Event item only!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Lucky Dice III",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Lucky Dice III",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://18972217122",
+        "Desc": "Increase your roll luck by 1000% for 5 minutes! RNG Event item only!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Fire Dice",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Fire Dice",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://18972217224",
+        "Desc": "Increase your roll speed by 10x for 1 minute! RNG Event item only!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Rng Chest Luck",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "RNG Chest Luck",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://18978159995",
+        "Desc": "Increase your roll luck by 100% for 2 minutes!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Super Rng Chest Luck",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Super RNG Chest Luck",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://18978160109",
+        "Desc": "Increase your roll luck by 150% for 2 minutes!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Ultra Rng Chest Luck",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Ultra RNG Chest Luck",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://18978160238",
+        "Desc": "Increase your roll luck by 250% for 2 minutes!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Bucket O' Paint",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Bucket O' Paint",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://98102744263092",
+        "Desc": "A bucket filled with paint!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Graffiti Can",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Graffiti Can",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://94579102957684",
+        "Desc": "Used to craft Graffiti Gifts!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Haunted Backrooms Key",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Haunted Backrooms Key",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://105807127077254",
+        "Desc": "Access locked backrooms for loot! Found in the haunted backrooms!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pumpkin",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Pumpkin",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://81573313864367",
+        "Desc": "Can be combined into Pumpkin Gifts using the Pumpkin Machine!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Candy Corn",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Candy Corn",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://135856815241766",
+        "Desc": "Can be combined into Candy Corn Gifts using the Candy Corn Machine!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Halloween Mask",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Halloween Mask",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://113232694279062",
+        "Desc": "Used to enter the Trick or Treat Neighborhoods!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Golden Paw Ticket",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Golden Paw Ticket",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://116187500612624",
+        "Desc": "Run straight into the adoption egg room!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Adoption Token",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Adoption Token",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://107092190022246",
+        "Desc": "Used to purchase line upgrades!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Locker Key",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Locker Key",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://107232990524074",
+        "Desc": "Unlock the lockers in the Line for Titanic Event!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Maple Leaf",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Maple Leaf",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://128253516406089",
+        "Desc": "Used to purchase Autumn Upgrades!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Turkey Feather",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Turkey Feather",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://74134752681253",
+        "Desc": "Used to purchase Autumn Upgrades!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Snowflake",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Snowflake",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://139595350898385",
+        "Desc": "Can be combined into Snowflake Gifts using the Snow Machine!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Festive Dragon Ornament",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Festive Dragon Ornament",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://111005961420330",
+        "Desc": "Decorate your Christmas Tree for rewards! Earned from random drops in the Christmas World!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Gingerbread Cat Ornament",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Gingerbread Cat Ornament",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://129823962780815",
+        "Desc": "Decorate your Christmas Tree for rewards! Earned from Snowflake Gifts!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Rudolph Ornament",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Rudolph Ornament",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://137438942175142",
+        "Desc": "Decorate your Christmas Tree for rewards! Earned from random drops in the Christmas World!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Frosted Axolotl Ornament",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Frosted Axolotl Ornament",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://78912490096414",
+        "Desc": "Decorate your Christmas Tree for rewards! Earned from Snowflake Gifts!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Snow Globe Ornament",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Snow Globe Ornament",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://131125982375199",
+        "Desc": "Decorate your Christmas Tree for rewards! Earned from gifting pets in Secret Santa!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Present Bow",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Present Bow",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://127952814319100",
+        "Desc": "Used to purchase Mega Present Upgrades in the Holiday Event!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Lucky Gingerbread",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Lucky Gingerbread",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://79656981154011",
+        "Desc": "Adds 10 points to your Mega Present!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Super Lucky Gingerbread",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Super Lucky Gingerbread",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://113679482005178",
+        "Desc": "Adds 200 points to your Mega Present!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Mega Lucky Gingerbread",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Mega Lucky Gingerbread",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://133337783587142",
+        "Desc": "Adds 10,000 points to your Mega Present!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Ultra Lucky Gingerbread",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Ultra Lucky Gingerbread",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://76493272243692",
+        "Desc": "Adds 3,000 points to your Mega Present!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Santa Key",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Santa Key",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://83040683228474",
+        "Desc": "Access Santa's Cottage! Earned by hitting targets in the Holiday Event 2024!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Lockpick A",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Cove Lockpick",
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://120320082965427",
+        "Desc": "Save a pet from Grinch Cove! Chance for a HUGE!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Lockpick B",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Golden Cove Lockpick",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://95200052788292",
+        "Desc": "Save a pet from Grinch Cove! Better lock-picking odds! Chance for a HUGE!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Lockpick C",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Diamond Cove Lockpick",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Tools"
+        ],
+        "Icon": "rbxassetid://114469675967534",
+        "Desc": "Save a pet from Grinch Cove! BEST lock-picking odds! Chance for a HUGE!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Grinch-B-Gone",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Grinch-B-Gone",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://74401703781647",
+        "Desc": "Increase your chances of saving a pet from the Grinch Cat by 3x! Christmas Event item only!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Ultra Grinch-B-Gone",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Ultra Grinch-B-Gone",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://111012321182528",
+        "Desc": "Increase your chances of saving a pet from the Grinch Cat by 40x! Christmas Event item only!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Doodle Pad",
+      "category": "Miscellaneous",
+      "configData": {
+        "DisplayName": "Doodle Pad",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Miscellaneous"
+        ],
+        "Icon": "rbxassetid://122289419887478",
+        "Desc": "Used upgrade Doodle Jar!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Doodle Token",
+      "category": "Miscellaneous",
+      "configData": {
+        "DisplayName": "Doodle Token",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Miscellaneous"
+        ],
+        "Icon": "rbxassetid://96668323174200",
+        "Desc": "Used to compete in drawing competitions in Doodle World!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Golden Pencil",
+      "category": "Miscellaneous",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Golden Pencil",
+        "InventoryTags": [
+          "Miscellaneous"
+        ],
+        "Icon": "rbxassetid://92361349785870",
+        "Desc": "Boost your odds in a Doodle Battle by 15%!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Diamond Pencil",
+      "category": "Miscellaneous",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Diamond Pencil",
+        "InventoryTags": [
+          "Miscellaneous"
+        ],
+        "Icon": "rbxassetid://115047389110438",
+        "Desc": "Boost your odds in a Doodle Battle by 50%!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Rainbow Pencil",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Rainbow Pencil",
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://71886168987931",
+        "Desc": "Boost your odds in a Doodle Battle by 200%!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Line Token",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Line Token",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://72000916444654",
+        "Desc": "Used in the Line Event!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pet Games Token",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Pet Games Token",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://81952190742325",
+        "Desc": "Earned by playing in the Pet Games or farming in the event world!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pet Game Card",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Pet Game Card",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://98658891834395",
+        "Desc": "Used to purchase Pet Games Upgrades!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Hellfire Crystal",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Hellfire Crystal",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://82320386530923",
+        "Desc": "Used to craft Hellfire Cores in the Cannon Tycoon!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Hellfire Core",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Hellfire Core",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://129202746553338",
+        "Desc": "Spawns Mega Hellfire Gift in the Cannon Tycoon!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Lightning Cannon",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Lightning Cannon Token",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://88877115487128",
+        "Desc": "Used to unlock the Lightning Cannon in the Cannon Tycoon!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Nuclear Cannon",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Nuclear Cannon Token",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://92952222395298",
+        "Desc": "Used to unlock the Nuclear Cannon in the Cannon Tycoon!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Confetti Cannon",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Confetti Cannon Token",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://127806152682787",
+        "Desc": "Used to unlock the Confetti Cannon in the Cannon Tycoon!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Black Hole Cannon",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Black Hole Cannon Token",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://132067941069511",
+        "Desc": "Used to unlock the Black Hole Cannon in the Cannon Tycoon!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Valentines Heart",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Valentine's Heart",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://80016575197859",
+        "Desc": "Can be combined into Love Gifts using the Valentine's Machine!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Tower Rebirth Token",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Tower Rebirth Token",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://82298514528405",
+        "Desc": "Earned from rebirthing your tower!\n\nEach token allows you to hatch the HUGE Shattered Heart Agony for 1 hour!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Tower Raffle Ticket",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Tower Raffle Ticket",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://103699563240148",
+        "Desc": "Used to enter the Valentine's Tower Tycoon raffle!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Upgrade Card",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Upgrade Card",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://103039910052534",
+        "Desc": "Used to purchase Card Event Upgrades!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Card Shop Key",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Card Shop Key",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://120760084851780",
+        "Desc": "Unlocks the Card Merchant Area! Earned from the Card Index Rewards!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Clover",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Clover",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://121838700496664",
+        "Desc": "Can be combined into Lucky Gifts using the Leprechaun Machine!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Leprechaun Key",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Leprechaun Key",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://97209544403492",
+        "Desc": "Unlocks the Leprechaun Chest at the end of Lucky Raids!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Lucky Raid Orb",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Lucky Raid Orb",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://107058871267889",
+        "Desc": "Used to purchase Lucky Raid Upgrades! Earned from gaining Lucky Raid levels!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Lucky Raid Boss Key Lower Half",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Lucky Raid Boss Key: Lower Half",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "InventoryTags": [
+          "Event"
+        ],
+        "Discontinued": true,
+        "Icon": "rbxassetid://85599753132358",
+        "Desc": "The lower half to the Lucky Raid Boss Key. Combine this with the upper half!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Lucky Raid Boss Key Upper Half",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Lucky Raid Boss Key: Upper Half",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "InventoryTags": [
+          "Event"
+        ],
+        "Discontinued": true,
+        "Icon": "rbxassetid://125658414860429",
+        "Desc": "The lower half to the Lucky Raid Boss Key. Combine this with the lower half!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Lucky Raid Boss Key",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Lucky Raid Boss Key",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "InventoryTags": [
+          "Event"
+        ],
+        "Discontinued": true,
+        "Icon": "rbxassetid://110981208047993",
+        "Desc": "Used to unlock the final Lucky Raid Boss room!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Mystery Lucky Raid Key",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Mystery Lucky Raid Key",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://97209544403492",
+        "Desc": "Who's there? Nobody knows!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Sapphire Gem",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Sapphire Gem",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://84504397312679",
+        "Desc": "Deep blue gem of clarity"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Ruby Gem",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Ruby Gem",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://138741487405849",
+        "Desc": "Firey red stone of passion"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Emerald Gem",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Emerald Gem",
+        "Desc": "Brilliant green jewel",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://85917747502089",
+        "AltIcon": "rbxassetid://85917747502089"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Amethyst Gem",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Amethyst Gem",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://135888300759373",
+        "Desc": "Mystic purple crystal"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Rainbow Gem",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Rainbow Gem",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://139521341995918",
+        "Desc": "Gem with a shimmering spectrum of colors overflowing"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Topaz Gem",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Topaz Gem",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://120275246838261",
+        "Desc": "Radiant gold crystal of fortune"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Quartz Gem",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Quartz Gem",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://126549199187047",
+        "Desc": "Shimmering silver gem of wisdom"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Onyx Gem",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Onyx Gem",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://81003948377915",
+        "Desc": "Gem infused with immense power"
+      },
+      "collection": "MiscItems"
     }
   ]
 }
