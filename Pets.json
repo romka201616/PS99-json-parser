@@ -34919,6 +34919,311 @@
         "thumbnail": "rbxassetid://84658799668641"
       },
       "collection": "Pets"
+    },
+    {
+      "configName": "Huge Ooze Axolotl",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://90451883201045",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Ooze Axolotl",
+        "indexDesc": "Found in the Slime Factory's breakable drops!",
+        "thumbnail": "rbxassetid://131381022373439"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Jelly Kitsune",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://93577423067950",
+        "tradable": false,
+        "animations": {
+          "jelly": true
+        },
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          273975178714735
+        ],
+        "name": "Jelly Kitsune",
+        "thumbnail": "rbxassetid://95456916673175"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Nightmare Sludge",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://137298465143386",
+        "tradable": false,
+        "animations": {
+          "flyHeightChange": 0,
+          "swerve": true,
+          "swerveMaxAngle": 60,
+          "flyHeight": 0.025,
+          "swerveAggression": 0.2
+        },
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          274283015994190
+        ],
+        "name": "Nightmare Sludge",
+        "fly": true,
+        "thumbnail": "rbxassetid://110329282024800"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Bubble Hydra",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://108093352634848",
+        "tradable": false,
+        "balloon": true,
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          273359504155826
+        ],
+        "name": "Bubble Hydra",
+        "fly": true,
+        "thumbnail": "rbxassetid://92688926133206"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Sticky Lamb",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://116522145853565",
+        "tradable": false,
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          273667341435280
+        ],
+        "name": "Sticky Lamb",
+        "thumbnail": "rbxassetid://99020386453912"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Slimezilla",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://106627063281390",
+        "tradable": false,
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          275206527832554
+        ],
+        "name": "Slimezilla",
+        "thumbnail": "rbxassetid://86551676231352"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Rave Slime",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://124191676341752",
+        "tradable": false,
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          273051666876371
+        ],
+        "name": "Rave Slime",
+        "thumbnail": "rbxassetid://112924855201550"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Ooze Cat",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://119512109897214",
+        "tradable": false,
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          272743829596917
+        ],
+        "name": "Ooze Cat",
+        "thumbnail": "rbxassetid://137538826815611"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Jelly Kitsune",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://88632451233362",
+        "animations": {
+          "jelly": true
+        },
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Jelly Kitsune",
+        "indexDesc": "Found in the Slime Factory's HUGE Chest!",
+        "thumbnail": "rbxassetid://98444936936302"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Slimezilla",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://99135670116151",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Slimezilla",
+        "indexDesc": "Found in the Slime Factory's FRIEND Chest!",
+        "thumbnail": "rbxassetid://133814850196289"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Sticky Lamb",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://71208606325883",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Sticky Lamb",
+        "indexDesc": "Found in the Slime Factory's breakable drops!",
+        "thumbnail": "rbxassetid://135749996470461"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Rave Slime",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://81127935620682",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Rave Slime",
+        "indexDesc": "Found in the Slime Factory's final egg!",
+        "thumbnail": "rbxassetid://118307691118910"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Ooze Cat",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://128255522206108",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Ooze Cat",
+        "indexDesc": "Found in the Slime Factory's Slime Machine!",
+        "thumbnail": "rbxassetid://94416745584783"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Spotted Elephant",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://114337541185433",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Spotted Elephant",
+        "indexDesc": "Found in the Slime Factory's Slime Gift!",
+        "thumbnail": "rbxassetid://109762155802208"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Bubble Hydra",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://76778149322242",
+        "balloon": true,
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Bubble Hydra",
+        "fly": true,
+        "indexDesc": "Found in the Slime Forever Pack!",
+        "thumbnail": "rbxassetid://88580020696117"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Nightmare Sludge",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://75241948308837",
+        "animations": {
+          "flyHeightChange": 0,
+          "swerve": true,
+          "swerveMaxAngle": 60,
+          "flyHeight": 0.025,
+          "swerveAggression": 0.2
+        },
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Nightmare Sludge",
+        "fly": true,
+        "indexDesc": "Found in the Slime Factory's HUGE Race!",
+        "thumbnail": "rbxassetid://100374100910394"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Nightmare Sludge",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://101911165516512",
+        "animations": {
+          "flyHeightChange": 0,
+          "swerve": true,
+          "swerveMaxAngle": 60,
+          "flyHeight": 0.025,
+          "swerveAggression": 0.2
+        },
+        "indexObtainable": true,
+        "name": "Titanic Nightmare Sludge",
+        "fly": true,
+        "indexDesc": "Found in the Slime Factory's TITANIC Race!",
+        "thumbnail": "rbxassetid://92769377018385"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Jelly Kitsune",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://110507934929501",
+        "animations": {
+          "jelly": true
+        },
+        "indexObtainable": true,
+        "name": "Titanic Jelly Kitsune",
+        "indexDesc": "Found in the Slime Factory's TITANIC Chest!",
+        "thumbnail": "rbxassetid://80481264507529"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Ooze Cat",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://107720130870416",
+        "indexObtainable": true,
+        "name": "Titanic Ooze Cat",
+        "indexDesc": "Found in the Slime Factory's Slime Machine!",
+        "thumbnail": "rbxassetid://114761957372566"
+      },
+      "collection": "Pets"
     }
   ]
 }

@@ -1,97 +1,9 @@
 {
   "data": [
     {
-      "configName": "Fantasy Pack",
-      "category": "CardPacks",
+      "configName": "Locked Hype Egg",
+      "category": "Lootboxes",
       "configData": {
-        "Rolls": 5,
-        "Rarity": {
-          "RarityNumber": 7,
-          "Lootbag": null,
-          "_id": "Divine",
-          "Color": null,
-          "DisplayName": "Divine",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "DisplayName": "Fantasy Pack",
-        "RequireSave": true,
-        "RollsBoostable": true,
-        "Desc": "Contains 5 Fantasy Pack cards!\n\nCombine cards into pets & chance for a TITANIC card!",
-        "InventoryTags": [
-          "Packs"
-        ],
-        "Icon": "rbxassetid://92535965955987",
-        "IsCardPack": true
-      },
-      "collection": "Lootboxes"
-    },
-    {
-      "configName": "Retro Pack",
-      "category": "CardPacks",
-      "configData": {
-        "Rolls": 5,
-        "Rarity": {
-          "RarityNumber": 5,
-          "Lootbag": null,
-          "_id": "Mythical",
-          "Color": null,
-          "DisplayName": "Mythical",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "DisplayName": "Retro Pack",
-        "RequireSave": true,
-        "RollsBoostable": true,
-        "Desc": "Contains 5 Retro Pack cards!\n\nCombine cards into pets & chance for a HUGE card!",
-        "InventoryTags": [
-          "Packs"
-        ],
-        "Icon": "rbxassetid://88966826354072",
-        "IsCardPack": true
-      },
-      "collection": "Lootboxes"
-    },
-    {
-      "configName": "Nightmare Pack",
-      "category": "CardPacks",
-      "configData": {
-        "Rolls": 5,
-        "Rarity": {
-          "RarityNumber": 6,
-          "Lootbag": null,
-          "_id": "Exotic",
-          "Color": null,
-          "DisplayName": "Exotic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "DisplayName": "Nightmare Pack",
-        "RequireSave": true,
-        "RollsBoostable": true,
-        "Desc": "Contains 5 Nightmare Pack cards!\n\nCombine cards into pets & chance for a HUGE card!",
-        "InventoryTags": [
-          "Packs"
-        ],
-        "Icon": "rbxassetid://94005127802940",
-        "IsCardPack": true
-      },
-      "collection": "Lootboxes"
-    },
-    {
-      "configName": "Super Hero Pack",
-      "category": "CardPacks",
-      "configData": {
-        "Rolls": 5,
         "Rarity": {
           "RarityNumber": 999,
           "Lootbag": null,
@@ -104,163 +16,19 @@
           "Announce": true,
           "_script": null
         },
-        "DisplayName": "Superhero Pack",
-        "IsCardPack": true,
-        "Desc": "Contains 5 Superhero Pack cards!\n\nCombine cards into EXCLUSIVE pets & chance for a TITANIC card!",
-        "InventoryTags": [
-          "Packs"
-        ],
-        "Icon": "rbxassetid://122557459853685",
-        "RequireSave": true
+        "Instant": true,
+        "DisplayName": "Locked Hype Egg!",
+        "RequireSave": false,
+        "Desc": "Open after the update to receive a Hype Egg!",
+        "MaxAmount": 1,
+        "InstantSound": "rbxassetid://77914312637440",
+        "Icon": "rbxassetid://94077876373608",
+        "Tradable": false
       },
       "collection": "Lootboxes"
     },
     {
-      "configName": "BIG Pack",
-      "category": "CardPacks",
-      "configData": {
-        "Rolls": 5,
-        "Rarity": {
-          "RarityNumber": 8,
-          "Lootbag": null,
-          "_id": "Superior",
-          "Color": null,
-          "DisplayName": "Superior",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "DisplayName": "BIG Pack",
-        "RequireSave": true,
-        "RollsBoostable": true,
-        "Desc": "Contains 5 BIG Pack cards!\n\nCombine cards into pets & chance for a TITANIC card!",
-        "InventoryTags": [
-          "Packs"
-        ],
-        "Icon": "rbxassetid://138485510461327",
-        "IsCardPack": true
-      },
-      "collection": "Lootboxes"
-    },
-    {
-      "configName": "Pog Pack",
-      "category": "CardPacks",
-      "configData": {
-        "Rolls": 5,
-        "Rarity": {
-          "RarityNumber": 5,
-          "Lootbag": null,
-          "_id": "Mythical",
-          "Color": null,
-          "DisplayName": "Mythical",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "DisplayName": "Pog Pack",
-        "RequireSave": true,
-        "RollsBoostable": true,
-        "Desc": "Contains 5 Pog Pack cards!\n\nCombine cards into pets & chance for a HUGE card!",
-        "InventoryTags": [
-          "Packs"
-        ],
-        "Icon": "rbxassetid://99750379530554",
-        "IsCardPack": true
-      },
-      "collection": "Lootboxes"
-    },
-    {
-      "configName": "Meme Pack",
-      "category": "CardPacks",
-      "configData": {
-        "Rolls": 5,
-        "Rarity": {
-          "RarityNumber": 999,
-          "Lootbag": null,
-          "_id": "Exclusive",
-          "Color": null,
-          "DisplayName": "Exclusive",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "DisplayName": "Meme Pack",
-        "IsCardPack": true,
-        "Desc": "Contains 5 Meme Pack cards!\n\nCombine cards into EXCLUSIVE pets & chance for a TITANIC card!",
-        "InventoryTags": [
-          "Packs"
-        ],
-        "Icon": "rbxassetid://137628683001800",
-        "RequireSave": true
-      },
-      "collection": "Lootboxes"
-    },
-    {
-      "configName": "Axolotl Pack",
-      "category": "CardPacks",
-      "configData": {
-        "Rolls": 5,
-        "Rarity": {
-          "RarityNumber": 6,
-          "Lootbag": null,
-          "_id": "Exotic",
-          "Color": null,
-          "DisplayName": "Exotic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "DisplayName": "Axolotl Pack",
-        "RequireSave": true,
-        "RollsBoostable": true,
-        "Desc": "Contains 5 Axolotl Pack cards!\n\nCombine cards into pets & chance for a HUGE card!",
-        "InventoryTags": [
-          "Packs"
-        ],
-        "Icon": "rbxassetid://88730452047808",
-        "IsCardPack": true
-      },
-      "collection": "Lootboxes"
-    },
-    {
-      "configName": "Ninja Pack",
-      "category": "CardPacks",
-      "configData": {
-        "Rolls": 5,
-        "Rarity": {
-          "RarityNumber": 7,
-          "Lootbag": null,
-          "_id": "Divine",
-          "Color": null,
-          "DisplayName": "Divine",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "DisplayName": "Ninja Pack",
-        "RequireSave": true,
-        "RollsBoostable": true,
-        "Desc": "Contains 5 Ninja Pack cards!\n\nCombine cards into pets & chance for a HUGE card!",
-        "InventoryTags": [
-          "Packs"
-        ],
-        "Icon": "rbxassetid://136542992100223",
-        "IsCardPack": true
-      },
-      "collection": "Lootboxes"
-    },
-    {
-      "configName": "Clan Gift 2",
+      "configName": "Slime Gift",
       "category": "Lootboxes",
       "configData": {
         "RequireSave": true,
@@ -276,9 +44,9 @@
           "Announce": true,
           "_script": null
         },
-        "DisplayName": "Clan Gift #2",
-        "Icon": "rbxassetid://126839917322650",
-        "Desc": "Rewarded to the top 500 clans in clan battles! Chance for Huge Lightning Bat!"
+        "DisplayName": "Slime Gift",
+        "Icon": "rbxassetid://123257637459556",
+        "Desc": "Obtained during the Slime Factory Event!"
       },
       "collection": "Lootboxes"
     }

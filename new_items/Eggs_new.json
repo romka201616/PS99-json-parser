@@ -24,11 +24,7 @@
         "name": "Active Huge Egg",
         "pets": [
           [
-            "Huge Giraffe",
-            1
-          ],
-          [
-            "Huge Helicopter Cat",
+            "Huge Punksky",
             1
           ],
           [
@@ -36,7 +32,11 @@
             1
           ],
           [
-            "Huge Punksky",
+            "Huge Honey Badger",
+            1
+          ],
+          [
+            "Huge Robber Pug",
             1
           ]
         ],
@@ -46,730 +46,6 @@
       "dateCreated": null,
       "dateModified": null,
       "hash": null,
-      "collection": "Eggs"
-    },
-    {
-      "configName": "Fantasy Pack",
-      "category": "CardPacks",
-      "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "isCustomEgg": true,
-        "pets": [],
-        "currency": "CardCoins",
-        "name": "Fantasy Pack",
-        "overrideCost": 250000,
-        "instant_purchase": [
-          [
-            "Lootbox",
-            "Fantasy Pack"
-          ]
-        ],
-        "isCardPack": true,
-        "icon": "rbxassetid://15172355963"
-      },
-      "collection": "Eggs"
-    },
-    {
-      "configName": "Retro Pack",
-      "category": "CardPacks",
-      "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "isCustomEgg": true,
-        "pets": [],
-        "currency": "CardCoins",
-        "name": "Retro Pack",
-        "overrideCost": 10000,
-        "instant_purchase": [
-          [
-            "Lootbox",
-            "Retro Pack"
-          ]
-        ],
-        "isCardPack": true,
-        "icon": "rbxassetid://15172355963"
-      },
-      "collection": "Eggs"
-    },
-    {
-      "configName": "Nightmare Pack",
-      "category": "CardPacks",
-      "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "isCustomEgg": true,
-        "pets": [],
-        "currency": "CardCoins",
-        "name": "Nightmare Pack",
-        "overrideCost": 50000,
-        "instant_purchase": [
-          [
-            "Lootbox",
-            "Nightmare Pack"
-          ]
-        ],
-        "isCardPack": true,
-        "icon": "rbxassetid://15172355963"
-      },
-      "collection": "Eggs"
-    },
-    {
-      "configName": "Pog Pack",
-      "category": "CardPacks",
-      "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "isCustomEgg": true,
-        "pets": [],
-        "currency": "CardCoins",
-        "name": "Pog Pack",
-        "overrideCost": 50000,
-        "instant_purchase": [
-          [
-            "Lootbox",
-            "Pog Pack"
-          ]
-        ],
-        "isCardPack": true,
-        "icon": "rbxassetid://15172355963"
-      },
-      "collection": "Eggs"
-    },
-    {
-      "configName": "Axolotl Pack",
-      "category": "CardPacks",
-      "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "isCustomEgg": true,
-        "pets": [],
-        "currency": "CardCoins",
-        "name": "Axolotl Pack",
-        "overrideCost": 75000,
-        "instant_purchase": [
-          [
-            "Lootbox",
-            "Axolotl Pack"
-          ]
-        ],
-        "isCardPack": true,
-        "icon": "rbxassetid://15172355963"
-      },
-      "collection": "Eggs"
-    },
-    {
-      "configName": "10 | Lucky Raid Egg 10",
-      "category": "Raid",
-      "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "currency": "LuckyCoins",
-        "name": "Lucky Bow Egg",
-        "overrideCost": 100,
-        "isCustomEgg": true,
-        "oddsFFlags": {
-          "Huge Clover Griffin": "LuckyRaidEggHuge"
-        },
-        "icon": "rbxassetid://15172355963",
-        "pets": [
-          [
-            "Clover Butterfly",
-            99.05
-          ],
-          [
-            "Lucki Dominus",
-            1
-          ],
-          [
-            "Pot of Gold Cat",
-            0.005,
-            "Nice"
-          ],
-          [
-            "Clover Bee",
-            5e-05,
-            "Nice"
-          ],
-          [
-            "Huge Clover Griffin",
-            1.2e-06,
-            "Insane"
-          ]
-        ]
-      },
-      "collection": "Eggs"
-    },
-    {
-      "configName": "11 | Lucky Raid Egg 11",
-      "category": "Raid",
-      "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "currency": "LuckyCoins",
-        "name": "Lucky Bow Egg",
-        "overrideCost": 100,
-        "isCustomEgg": true,
-        "oddsFFlags": {
-          "Huge Clover Griffin": "LuckyRaidEggHuge"
-        },
-        "icon": "rbxassetid://15172355963",
-        "pets": [
-          [
-            "Lucki Dominus",
-            99.05
-          ],
-          [
-            "Pot of Gold Cat",
-            1
-          ],
-          [
-            "Clover Bee",
-            0.005,
-            "Nice"
-          ],
-          [
-            "Lucki Bunny",
-            5e-05,
-            "Nice"
-          ],
-          [
-            "Huge Clover Griffin",
-            1.2e-06,
-            "Insane"
-          ]
-        ]
-      },
-      "collection": "Eggs"
-    },
-    {
-      "configName": "Exclusive Egg 47",
-      "category": "Exclusive Eggs",
-      "configData": {
-        "disableGold": true,
-        "rarity": {
-          "RarityNumber": 999,
-          "Lootbag": null,
-          "_id": "Exclusive",
-          "Color": null,
-          "DisplayName": "Exclusive",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "disableRainbow": false,
-        "shinyChance": 2,
-        "disableModifiers": true,
-        "rainbowChance": 2,
-        "name": "Exclusive Kaiju Egg",
-        "pets": [
-          [
-            "Kaiju Sea Dragon",
-            50
-          ],
-          [
-            "Kaiju Volcano",
-            35
-          ],
-          [
-            "Kaiju Hydra",
-            13
-          ],
-          [
-            "Huge Kaiju Sea Dragon",
-            1.5
-          ],
-          [
-            "Huge Kaiju Hydra",
-            0.39
-          ],
-          [
-            "Titanic Kaiju Moth",
-            0.1
-          ],
-          [
-            "Gargantuan Kaiju King",
-            0.01
-          ]
-        ],
-        "goldChance": 0,
-        "icon": "rbxassetid://129455545171389"
-      },
-      "collection": "Eggs"
-    },
-    {
-      "configName": "1 | Sapphire Egg",
-      "category": "Mining",
-      "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "currency": "MiningCoins",
-        "name": "Sapphire Egg",
-        "overrideCost": 100,
-        "isCustomEgg": true,
-        "icon": "rbxassetid://15172355963",
-        "pets": [
-          [
-            "Mining Raccoon",
-            90
-          ],
-          [
-            "Mining Penguin",
-            10
-          ],
-          [
-            "Minecart Hamster",
-            0.1,
-            "Nice"
-          ]
-        ]
-      },
-      "collection": "Eggs"
-    },
-    {
-      "configName": "2 | Ruby Egg",
-      "category": "Mining",
-      "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "currency": "MiningCoins",
-        "name": "Ruby Egg",
-        "overrideCost": 300,
-        "isCustomEgg": true,
-        "icon": "rbxassetid://15172355963",
-        "pets": [
-          [
-            "Mining Penguin",
-            90
-          ],
-          [
-            "Minecart Hamster",
-            10
-          ],
-          [
-            "Crystal Spider",
-            0.1,
-            "Nice"
-          ]
-        ]
-      },
-      "collection": "Eggs"
-    },
-    {
-      "configName": "3 | Emerald Egg",
-      "category": "Mining",
-      "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "currency": "MiningCoins",
-        "name": "Emerald Egg",
-        "overrideCost": 1000,
-        "isCustomEgg": true,
-        "icon": "rbxassetid://15172355963",
-        "pets": [
-          [
-            "Minecart Hamster",
-            90
-          ],
-          [
-            "Crystal Spider",
-            10
-          ],
-          [
-            "Crystal Bat",
-            0.1,
-            "Nice"
-          ]
-        ]
-      },
-      "collection": "Eggs"
-    },
-    {
-      "configName": "4 | Amethyst Egg",
-      "category": "Mining",
-      "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "currency": "MiningCoins",
-        "name": "Amethyst Egg",
-        "overrideCost": 2000,
-        "isCustomEgg": true,
-        "icon": "rbxassetid://15172355963",
-        "pets": [
-          [
-            "Crystal Spider",
-            90
-          ],
-          [
-            "Crystal Bat",
-            10
-          ],
-          [
-            "Jungle Golem",
-            0.1,
-            "Nice"
-          ]
-        ]
-      },
-      "collection": "Eggs"
-    },
-    {
-      "configName": "5 | Rainbow Ore Egg",
-      "category": "Mining",
-      "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "currency": "MiningCoins",
-        "name": "Rainbow Ore Egg",
-        "overrideCost": 4000,
-        "isCustomEgg": true,
-        "icon": "rbxassetid://15172355963",
-        "pets": [
-          [
-            "Crystal Bat",
-            99.849995
-          ],
-          [
-            "Jungle Golem",
-            0.2
-          ],
-          [
-            "Fragmented Golem",
-            0.005
-          ],
-          [
-            "Abstract Dominus",
-            0.0003,
-            "Great"
-          ],
-          [
-            "Abyss Carbuncle",
-            2.5e-05,
-            "Insane"
-          ]
-        ]
-      },
-      "collection": "Eggs"
-    },
-    {
-      "configName": "6 | Quartz Ore Egg",
-      "category": "Mining",
-      "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "currency": "MiningCoins",
-        "name": "Quartz Ore Egg",
-        "overrideCost": 30000,
-        "isCustomEgg": true,
-        "icon": "rbxassetid://15172355963",
-        "pets": [
-          [
-            "Abyss Carbuncle",
-            90
-          ],
-          [
-            "Minecart Piggy",
-            10
-          ],
-          [
-            "Mining Monkey",
-            0.1,
-            "Nice"
-          ]
-        ]
-      },
-      "collection": "Eggs"
-    },
-    {
-      "configName": "7 | Topaz Ore Egg",
-      "category": "Mining",
-      "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "currency": "MiningCoins",
-        "name": "Topaz Ore Egg",
-        "overrideCost": 250000,
-        "isCustomEgg": true,
-        "icon": "rbxassetid://15172355963",
-        "pets": [
-          [
-            "Minecart Piggy",
-            90
-          ],
-          [
-            "Mining Monkey",
-            10
-          ],
-          [
-            "Gem Mole",
-            0.1,
-            "Nice"
-          ]
-        ]
-      },
-      "collection": "Eggs"
-    },
-    {
-      "configName": "8 | Onyx Ore Egg",
-      "category": "Mining",
-      "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "currency": "MiningCoins",
-        "name": "Onyx Ore Egg",
-        "overrideCost": 1000000,
-        "isCustomEgg": true,
-        "oddsFFlags": {
-          "Mining Robot": "MiningEggPet1",
-          "Obsidian Dragon": "MiningEggPet2",
-          "Huge Minecart Hamster": "MiningEggHuge"
-        },
-        "icon": "rbxassetid://15172355963",
-        "pets": [
-          [
-            "Minecart Piggy",
-            70
-          ],
-          [
-            "Mining Monkey",
-            30
-          ],
-          [
-            "Gem Mole",
-            0.1
-          ],
-          [
-            "Mining Robot",
-            0.0003,
-            "Great"
-          ],
-          [
-            "Obsidian Dragon",
-            2.5e-05,
-            "Insane"
-          ],
-          [
-            "Huge Minecart Hamster",
-            5.9999999999999995e-05,
-            "Insane"
-          ]
-        ]
-      },
-      "collection": "Eggs"
-    },
-    {
-      "configName": "Exclusive Egg 48",
-      "category": "Exclusive Eggs",
-      "configData": {
-        "disableGold": true,
-        "rarity": {
-          "RarityNumber": 999,
-          "Lootbag": null,
-          "_id": "Exclusive",
-          "Color": null,
-          "DisplayName": "Exclusive",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "rainbowChance": 2,
-        "shinyChance": 2,
-        "disableRainbow": false,
-        "name": "Exclusive Beast Egg",
-        "productIds": {
-          "Exclusive Egg": 3257884572,
-          "3 Exclusive Eggs": 3257884705,
-          "100 Exclusive Eggs": 3257884930,
-          "10 Exclusive Eggs": 3257884846
-        },
-        "pets": [
-          [
-            "Snuggle Beast",
-            50
-          ],
-          [
-            "Feral Beast",
-            35
-          ],
-          [
-            "Claw Beast",
-            13
-          ],
-          [
-            "Huge Snuggle Beast",
-            1.5
-          ],
-          [
-            "Huge Claw Beast",
-            0.39
-          ],
-          [
-            "Titanic Warrior Beast",
-            0.1
-          ],
-          [
-            "Gargantuan Royal Beast",
-            0.01
-          ]
-        ],
-        "goldChance": 0,
-        "icon": "rbxassetid://95913164974324",
-        "disableModifiers": true
-      },
       "collection": "Eggs"
     },
     {
@@ -790,10 +66,10 @@
         },
         "currency": "FactoryCoins",
         "name": "Lemon Jelly Egg",
-        "overrideCost": 50,
+        "overrideCost": 500,
         "isCustomEgg": true,
         "oddsFFlags": {
-          "Huge Ooze Corgi": "ConveyorEggHuge"
+          "Huge Rave Slime": "ConveyorEggHuge"
         },
         "icon": "rbxassetid://15172355963",
         "pets": [
@@ -806,7 +82,7 @@
             1
           ],
           [
-            "Huge Ooze Corgi",
+            "Huge Rave Slime",
             1.2e-06,
             "Insane"
           ]
@@ -832,10 +108,10 @@
         },
         "currency": "FactoryCoins",
         "name": "Orange Jelly Egg",
-        "overrideCost": 110,
+        "overrideCost": 870,
         "isCustomEgg": true,
         "oddsFFlags": {
-          "Huge Ooze Corgi": "ConveyorEggHuge"
+          "Huge Rave Slime": "ConveyorEggHuge"
         },
         "icon": "rbxassetid://15172355963",
         "pets": [
@@ -853,7 +129,7 @@
             "Nice"
           ],
           [
-            "Huge Ooze Corgi",
+            "Huge Rave Slime",
             1.2e-06,
             "Insane"
           ]
@@ -879,10 +155,10 @@
         },
         "currency": "FactoryCoins",
         "name": "Cherry Jelly Egg",
-        "overrideCost": 400,
+        "overrideCost": 1700,
         "isCustomEgg": true,
         "oddsFFlags": {
-          "Huge Ooze Corgi": "ConveyorEggHuge"
+          "Huge Rave Slime": "ConveyorEggHuge"
         },
         "icon": "rbxassetid://15172355963",
         "pets": [
@@ -900,7 +176,7 @@
             "Nice"
           ],
           [
-            "Huge Ooze Corgi",
+            "Huge Rave Slime",
             1.2e-06,
             "Insane"
           ]
@@ -926,10 +202,10 @@
         },
         "currency": "FactoryCoins",
         "name": "Strawberry Jelly Egg",
-        "overrideCost": 1800,
+        "overrideCost": 3500,
         "isCustomEgg": true,
         "oddsFFlags": {
-          "Huge Ooze Corgi": "ConveyorEggHuge"
+          "Huge Rave Slime": "ConveyorEggHuge"
         },
         "icon": "rbxassetid://15172355963",
         "pets": [
@@ -952,7 +228,7 @@
             "Nice"
           ],
           [
-            "Huge Ooze Corgi",
+            "Huge Rave Slime",
             1.2e-06,
             "Insane"
           ]
@@ -977,11 +253,11 @@
           "_script": null
         },
         "currency": "FactoryCoins",
-        "name": "Clover Egg",
-        "overrideCost": 8700,
+        "name": "Lime Jelly Egg",
+        "overrideCost": 7500,
         "isCustomEgg": true,
         "oddsFFlags": {
-          "Huge Ooze Corgi": "ConveyorEggHuge"
+          "Huge Rave Slime": "ConveyorEggHuge"
         },
         "icon": "rbxassetid://15172355963",
         "pets": [
@@ -1004,7 +280,7 @@
             "Nice"
           ],
           [
-            "Huge Ooze Corgi",
+            "Huge Rave Slime",
             1.2e-06,
             "Insane"
           ]
@@ -1030,10 +306,10 @@
         },
         "currency": "FactoryCoins",
         "name": "Lime Jelly Egg",
-        "overrideCost": 42000,
+        "overrideCost": 16000,
         "isCustomEgg": true,
         "oddsFFlags": {
-          "Huge Ooze Corgi": "ConveyorEggHuge"
+          "Huge Rave Slime": "ConveyorEggHuge"
         },
         "icon": "rbxassetid://15172355963",
         "pets": [
@@ -1056,7 +332,7 @@
             "Nice"
           ],
           [
-            "Huge Ooze Corgi",
+            "Huge Rave Slime",
             1.2e-06,
             "Insane"
           ]
@@ -1082,10 +358,10 @@
         },
         "currency": "FactoryCoins",
         "name": "Blueberry Jelly Egg",
-        "overrideCost": 210000,
+        "overrideCost": 36000,
         "isCustomEgg": true,
         "oddsFFlags": {
-          "Huge Ooze Corgi": "ConveyorEggHuge"
+          "Huge Rave Slime": "ConveyorEggHuge"
         },
         "icon": "rbxassetid://15172355963",
         "pets": [
@@ -1108,7 +384,7 @@
             "Nice"
           ],
           [
-            "Huge Ooze Corgi",
+            "Huge Rave Slime",
             1.2e-06,
             "Insane"
           ]
@@ -1133,13 +409,11 @@
           "_script": null
         },
         "currency": "FactoryCoins",
-        "name": "Blueberry Jelly Egg",
-        "overrideCost": 1000000,
+        "name": "Cherry Slime Egg",
+        "overrideCost": 78000,
         "isCustomEgg": true,
         "oddsFFlags": {
-          "Huge Ooze Corgi": "ConveyorEggHuge",
-          "Jelly Wizard": "ConveyorEggP2",
-          "Firegel Dragon": "ConveyorEggP1"
+          "Huge Rave Slime": "ConveyorEggHuge"
         },
         "icon": "rbxassetid://15172355963",
         "pets": [
@@ -1167,7 +441,378 @@
             "Insane"
           ],
           [
-            "Huge Ooze Corgi",
+            "Huge Rave Slime",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "9 | Conveyor Egg 9",
+      "category": "Conveyor",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "FactoryCoins",
+        "name": "Cherry Slime Egg",
+        "overrideCost": 17000,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Rave Slime": "ConveyorEggHuge"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Jelly Hydra",
+            99.954545
+          ],
+          [
+            "Firegel Dragon",
+            0.1
+          ],
+          [
+            "Jelly Wizard",
+            0.0005,
+            "Nice"
+          ],
+          [
+            "Ooze Cat",
+            5e-06,
+            "Nice"
+          ],
+          [
+            "Huge Rave Slime",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "10 | Conveyor Egg 10",
+      "category": "Conveyor",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "FactoryCoins",
+        "name": "Orange Slime Egg",
+        "overrideCost": 380000,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Rave Slime": "ConveyorEggHuge"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Firegel Dragon",
+            99.954545
+          ],
+          [
+            "Jelly Wizard",
+            0.1
+          ],
+          [
+            "Ooze Cat",
+            0.0005,
+            "Nice"
+          ],
+          [
+            "Rave Slime",
+            5e-06,
+            "Nice"
+          ],
+          [
+            "Huge Rave Slime",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "11 | Conveyor Egg 11",
+      "category": "Conveyor",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "FactoryCoins",
+        "name": "Lemon Slime Egg",
+        "overrideCost": 840000,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Rave Slime": "ConveyorEggHuge"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Jelly Wizard",
+            99.954545
+          ],
+          [
+            "Ooze Cat",
+            0.1
+          ],
+          [
+            "Rave Slime",
+            0.0005,
+            "Nice"
+          ],
+          [
+            "Bubble Hydra",
+            5e-06,
+            "Nice"
+          ],
+          [
+            "Huge Rave Slime",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "12 | Conveyor Egg 12",
+      "category": "Conveyor",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "FactoryCoins",
+        "name": "Lime Slime Egg",
+        "overrideCost": 1900000,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Rave Slime": "ConveyorEggHuge"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Ooze Cat",
+            99.954545
+          ],
+          [
+            "Rave Slime",
+            0.1
+          ],
+          [
+            "Bubble Hydra",
+            0.0005,
+            "Nice"
+          ],
+          [
+            "Sticky Lamb",
+            5e-06,
+            "Nice"
+          ],
+          [
+            "Huge Rave Slime",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "13 | Conveyor Egg 13",
+      "category": "Conveyor",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "FactoryCoins",
+        "name": "Blueberry Slime Egg",
+        "overrideCost": 4100000,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Rave Slime": "ConveyorEggHuge"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Rave Slime",
+            99.954545
+          ],
+          [
+            "Bubble Hydra",
+            0.1
+          ],
+          [
+            "Sticky Lamb",
+            0.0005,
+            "Nice"
+          ],
+          [
+            "Jelly Kitsune",
+            5e-06,
+            "Nice"
+          ],
+          [
+            "Huge Rave Slime",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "14 | Conveyor Egg 14",
+      "category": "Conveyor",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "FactoryCoins",
+        "name": "Strawberry Slime Egg",
+        "overrideCost": 9100000,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Rave Slime": "ConveyorEggHuge"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Bubble Hydra",
+            99.954545
+          ],
+          [
+            "Sticky Lamb",
+            0.1
+          ],
+          [
+            "Jelly Kitsune",
+            0.0005,
+            "Nice"
+          ],
+          [
+            "Nightmare Sludge",
+            5e-06,
+            "Nice"
+          ],
+          [
+            "Huge Rave Slime",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "15 | Conveyor Egg 15",
+      "category": "Conveyor",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "FactoryCoins",
+        "name": "Grapefruit Slime Egg",
+        "overrideCost": 20000000,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Rave Slime": "ConveyorEggHuge",
+          "Slimezilla": "ConveyorEggP2",
+          "Nightmare Sludge": "ConveyorEggP1"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Bubble Hydra",
+            99.949995
+          ],
+          [
+            "Sticky Lamb",
+            0.1
+          ],
+          [
+            "Jelly Kitsune",
+            0.05,
+            "Great"
+          ],
+          [
+            "Nightmare Sludge",
+            0.0005,
+            "Insane"
+          ],
+          [
+            "Slimezilla",
+            5e-05,
+            "Insane"
+          ],
+          [
+            "Huge Rave Slime",
             1.2e-06,
             "Insane"
           ]

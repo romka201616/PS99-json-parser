@@ -5261,6 +5261,50 @@
         ]
       },
       "collection": "Currency"
+    },
+    {
+      "configName": "Currency | FactoryCoins",
+      "category": "Currency",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "Tiers": [
+          {
+            "orbImage": "rbxassetid://90235613189635",
+            "imageOutline": "rbxassetid://104178693531817",
+            "Order": 1,
+            "isBottom": true,
+            "value": 1,
+            "tierName": "Factory Coins",
+            "tinyImage": "rbxassetid://15058306423",
+            "textColor": null
+          }
+        ],
+        "DisplayName": "Factory Coins",
+        "_index": 11,
+        "Desc": "Slime, jelly, and gears!",
+        "IsWorldCurrency": false,
+        "PermitAutoLootScaling": true,
+        "MaxAmount": 2000000000000,
+        "BagTiers": [
+          {
+            "value": 0,
+            "image": "rbxassetid://15058306423"
+          }
+        ]
+      },
+      "collection": "Currency"
     }
   ]
 }

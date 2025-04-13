@@ -1872,6 +1872,56 @@
         "Desc": "Rewarded to the top 500 clans in clan battles! Chance for Huge Lightning Bat!"
       },
       "collection": "Lootboxes"
+    },
+    {
+      "configName": "Locked Hype Egg",
+      "category": "Lootboxes",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Instant": true,
+        "DisplayName": "Locked Hype Egg!",
+        "RequireSave": false,
+        "Desc": "Open after the update to receive a Hype Egg!",
+        "MaxAmount": 1,
+        "InstantSound": "rbxassetid://77914312637440",
+        "Icon": "rbxassetid://94077876373608",
+        "Tradable": false
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Slime Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Slime Gift",
+        "Icon": "rbxassetid://123257637459556",
+        "Desc": "Obtained during the Slime Factory Event!"
+      },
+      "collection": "Lootboxes"
     }
   ]
 }

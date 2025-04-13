@@ -12693,6 +12693,33 @@
         "Desc": "Gem infused with immense power"
       },
       "collection": "MiscItems"
+    },
+    {
+      "configName": "Slime Token",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Slime Token",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://77542469799258",
+        "Desc": "Used to fuel the Slime Factory Huge Chance Machine!"
+      },
+      "collection": "MiscItems"
     }
   ]
 }
