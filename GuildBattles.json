@@ -2103,6 +2103,97 @@
         }
       },
       "collection": "GuildBattles"
+    },
+    {
+      "configName": "PixelChickBattle",
+      "category": "GuildBattles",
+      "configData": {
+        "PlacementRewards": [
+          {
+            "Item": {
+              "_data": {
+                "id": "Clan Gift 2"
+              }
+            },
+            "Best": 1,
+            "Worst": 500
+          },
+          {
+            "BestContributor": 1,
+            "Item": {
+              "_data": {
+                "id": "Titanic Mosaic Cat",
+                "pt": 2
+              }
+            },
+            "Worst": 1,
+            "Best": 1,
+            "WorstContributor": 3
+          },
+          {
+            "BestContributor": 4,
+            "Item": {
+              "_data": {
+                "id": "Titanic Mosaic Cat",
+                "pt": 1
+              }
+            },
+            "Worst": 1,
+            "Best": 1,
+            "WorstContributor": 10
+          },
+          {
+            "BestContributor": 11,
+            "Item": {
+              "_data": {
+                "id": "Titanic Mosaic Cat"
+              }
+            },
+            "Worst": 1,
+            "Best": 1,
+            "WorstContributor": 100
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Huge Pixel Chick",
+                "pt": 2
+              }
+            },
+            "Best": 2,
+            "Worst": 3
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Huge Pixel Chick",
+                "pt": 1
+              }
+            },
+            "Best": 4,
+            "Worst": 8
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Huge Pixel Chick"
+              }
+            },
+            "Best": 9,
+            "Worst": 20
+          }
+        ],
+        "FinishTime": 1745596800,
+        "Title": "Pixel Chick Battle",
+        "StartTime": 1745078400,
+        "Rewards": {
+          "Good": [],
+          "Bronze": [],
+          "Silver": [],
+          "Gold": []
+        }
+      },
+      "collection": "GuildBattles"
     }
   ]
 }

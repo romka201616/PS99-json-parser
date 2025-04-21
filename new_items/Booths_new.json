@@ -1,16 +1,16 @@
 {
   "data": [
     {
-      "configName": "Booth | Tie Dye",
+      "configName": "Booth | Easter",
       "category": "Booths",
       "configData": {
-        "DisplayName": "Tie Dye Booth",
+        "DisplayName": "Easter Booth",
         "Rarity": {
-          "RarityNumber": 8,
+          "RarityNumber": 6,
           "Lootbag": null,
-          "_id": "Superior",
+          "_id": "Exotic",
           "Color": null,
-          "DisplayName": "Superior",
+          "DisplayName": "Exotic",
           "Message": null,
           "ItemSlot": null,
           "Gradient": null,
@@ -18,8 +18,8 @@
           "_script": null
         },
         "Model": null,
-        "Icon": "rbxassetid://112210909215256",
-        "Desc": "⚔️ Rewarded to the top 50 clans in the 2025 Tie Dye Clan Battle!"
+        "Icon": "rbxassetid://14988724401",
+        "Desc": "Wanna buy an Easter egg?"
       },
       "collection": "Booths"
     }

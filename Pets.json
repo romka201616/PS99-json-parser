@@ -35224,6 +35224,949 @@
         "thumbnail": "rbxassetid://114761957372566"
       },
       "collection": "Pets"
+    },
+    {
+      "configName": "Huge Sun Angelus",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14976564417",
+        "animations": {
+          "flyHeight": 1.5,
+          "spinZ": true
+        },
+        "indexObtainable": false,
+        "huge": true,
+        "name": "Huge Sun Angelus",
+        "fly": true,
+        "indexDesc": "Earned from the 2022 Summer Event in PSX!",
+        "thumbnail": "rbxassetid://14976564553"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Angelus",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14976350736",
+        "animations": {
+          "flyHeight": 1.5,
+          "spinZ": true
+        },
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Angelus",
+        "fly": true,
+        "indexDesc": "Found in the Huge Machine Angelus Egg!",
+        "thumbnail": "rbxassetid://14976350830"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Peppermint Angelus",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://15716049351",
+        "animations": {
+          "spinZ": true
+        },
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Peppermint Angelus",
+        "fly": true,
+        "indexDesc": "Found in the Exclusive Xmas Egg!",
+        "thumbnail": "rbxassetid://15716049163"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Pets"
+    },
+    {
+      "configName": "Angelus",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968171792",
+        "animations": {
+          "spinZ": true
+        },
+        "fromWorldNumber": 1,
+        "fromZoneNumber": 96,
+        "cachedPower": [
+          7191707
+        ],
+        "name": "Angelus",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968171896",
+        "fromEgg": "Heaven Egg"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Pets"
+    },
+    {
+      "configName": "Wicked Angelus",
+      "category": "Uncategorized",
+      "configData": {
+        "exclusiveLevel": 3,
+        "goldenThumbnail": "rbxassetid://14968359701",
+        "animations": {
+          "spinZ": true
+        },
+        "name": "Wicked Angelus",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968359818"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Pets"
+    },
+    {
+      "configName": "Sun Angelus",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968348019",
+        "animations": {
+          "spinZ": true
+        },
+        "fromWorldNumber": 1,
+        "fromZoneNumber": 99,
+        "cachedPower": [
+          12118516
+        ],
+        "name": "Sun Angelus",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968348199",
+        "fromEgg": "Rainbow Egg"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Pets"
+    },
+    {
+      "configName": "Peppermint Angelus",
+      "category": "Uncategorized",
+      "configData": {
+        "exclusiveLevel": 3,
+        "goldenThumbnail": "rbxassetid://15715878611",
+        "animations": {
+          "spinZ": true
+        },
+        "name": "Peppermint Angelus",
+        "fly": true,
+        "thumbnail": "rbxassetid://15715878441"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Valentines Angelus",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://88177467277036",
+        "animations": {
+          "spinZ": true
+        },
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Valentine's Angelus",
+        "fly": true,
+        "indexDesc": "Found in the Exclusive Valentine's Present!",
+        "thumbnail": "rbxassetid://74709418271997"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Valentines Angelus",
+      "category": "Uncategorized",
+      "configData": {
+        "exclusiveLevel": 3,
+        "goldenThumbnail": "rbxassetid://131927181078806",
+        "animations": {
+          "spinZ": true
+        },
+        "name": "Valentine's Angelus",
+        "fly": true,
+        "thumbnail": "rbxassetid://76082507412985"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Jelly Hydra",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://138042222582542",
+        "animations": {
+          "jelly": true
+        },
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          267818433125640
+        ],
+        "name": "Jelly Hydra",
+        "thumbnail": "rbxassetid://122936672467216"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Jelly Wizard",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://95296008744223",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          272435992317461
+        ],
+        "name": "Jelly Wizard",
+        "thumbnail": "rbxassetid://111174482679172"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Jelly Butterfly",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://82448931775848",
+        "animations": {
+          "jelly": true
+        },
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          266279246728366
+        ],
+        "name": "Jelly Butterfly",
+        "fly": true,
+        "thumbnail": "rbxassetid://116971016735415"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Firegel Dragon",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://130792031251610",
+        "animations": {
+          "jelly": true
+        },
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          269357619522914
+        ],
+        "name": "Firegel Dragon",
+        "fly": true,
+        "thumbnail": "rbxassetid://82548535412143"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Ooze Axolotl",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://127227271800504",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          257044128344723
+        ],
+        "name": "Ooze Axolotl",
+        "thumbnail": "rbxassetid://73427382084349"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Spotted Elephant",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://84504081438266",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          253965755550176
+        ],
+        "name": "Spotted Elephant",
+        "thumbnail": "rbxassetid://119711541738088"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Ooze Corgi",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://107332679098384",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          260122501139271
+        ],
+        "name": "Ooze Corgi",
+        "thumbnail": "rbxassetid://127981604630764"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Knight Slime",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://72243117947688",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          263200873933819
+        ],
+        "name": "Knight Slime",
+        "thumbnail": "rbxassetid://130223999745973"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Bubble Cat",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://128232868135952",
+        "balloon": true,
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          264740060331092
+        ],
+        "name": "Bubble Cat",
+        "fly": true,
+        "thumbnail": "rbxassetid://105853810671525"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Jelly Kitsune",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://93577423067950",
+        "animations": {
+          "jelly": true
+        },
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          273975178714735
+        ],
+        "name": "Jelly Kitsune",
+        "thumbnail": "rbxassetid://95456916673175"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Nightmare Sludge",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://137298465143386",
+        "animations": {
+          "flyHeightChange": 0,
+          "swerve": true,
+          "swerveMaxAngle": 60,
+          "flyHeight": 0.025,
+          "swerveAggression": 0.2
+        },
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          274283015994190
+        ],
+        "name": "Nightmare Sludge",
+        "fly": true,
+        "thumbnail": "rbxassetid://110329282024800"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Bubble Hydra",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://108093352634848",
+        "balloon": true,
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          273359504155826
+        ],
+        "name": "Bubble Hydra",
+        "fly": true,
+        "thumbnail": "rbxassetid://92688926133206"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Sticky Lamb",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://116522145853565",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          273667341435280
+        ],
+        "name": "Sticky Lamb",
+        "thumbnail": "rbxassetid://99020386453912"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Slimezilla",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://106627063281390",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          275206527832554
+        ],
+        "name": "Slimezilla",
+        "thumbnail": "rbxassetid://86551676231352"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Rave Slime",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://124191676341752",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          273051666876371
+        ],
+        "name": "Rave Slime",
+        "thumbnail": "rbxassetid://112924855201550"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Ooze Cat",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://119512109897214",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          272743829596917
+        ],
+        "name": "Ooze Cat",
+        "thumbnail": "rbxassetid://137538826815611"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Easter Cat",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968225483",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          258583314741997
+        ],
+        "name": "Easter Cat",
+        "thumbnail": "rbxassetid://14968225646"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "The Easter Bunny",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968350892",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          273975178714735
+        ],
+        "name": "The Easter Bunny",
+        "thumbnail": "rbxassetid://14968350999"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Easter Lamb",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968226274",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          261661687536545
+        ],
+        "name": "Easter Lamb",
+        "thumbnail": "rbxassetid://14968226361"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Easter Fox",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968226022",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          260122501139271
+        ],
+        "name": "Easter Fox",
+        "thumbnail": "rbxassetid://14968226173"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Easter Agony",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968224586",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          270896805920188
+        ],
+        "name": "Easter Agony",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968224861"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Easter Dominus",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968225772",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          277053551509283
+        ],
+        "name": "Easter Dominus",
+        "thumbnail": "rbxassetid://14968225893"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Basket Bunny",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968179563",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          264740060331092
+        ],
+        "name": "Basket Bunny",
+        "thumbnail": "rbxassetid://14968179716"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Easter Angelus",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968224942",
+        "animations": {
+          "spinZ": true
+        },
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          280516720903149
+        ],
+        "name": "Easter Angelus",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968225010"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Patchwork Teddy Bear",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "",
+        "name": "Patchwork Teddy Bear",
+        "exclusiveLevel": 3,
+        "thumbnail": "rbxassetid://91381328451312"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Patchwork Bunny",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "",
+        "name": "Patchwork Bunny",
+        "exclusiveLevel": 1,
+        "thumbnail": "rbxassetid://105394205558336"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Patchwork Yeti",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "",
+        "name": "Patchwork Yeti",
+        "exclusiveLevel": 2,
+        "thumbnail": "rbxassetid://83243218585764"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Diamond Bunny",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://102445070854989",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          267818433125640
+        ],
+        "name": "Diamond Bunny",
+        "thumbnail": "rbxassetid://135890567619584"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Marshmallow Kitsune",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://85379066039300",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          267818433125640
+        ],
+        "name": "Marshmallow Kitsune",
+        "thumbnail": "rbxassetid://112006495503643"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Gargantuan Starfall Dragon",
+      "category": "Gargantuan",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://95582989925706",
+        "animations": {
+          "idleActionAnimations": [
+            [
+              "CorgiJumping",
+              0.5
+            ]
+          ],
+          "customAnimations": true,
+          "ridingJumpPower": 125
+        },
+        "indexObtainable": true,
+        "flyingTitanic": true,
+        "gargantuan": true,
+        "thumbnail": "rbxassetid://106256354379795",
+        "name": "Gargantuan Starfall Dragon",
+        "flyingTitanicAlwaysFly": true,
+        "fly": true,
+        "indexDesc": "Earned from the Exclusive Raffle!\n\nGround Slam - Pet will damage breakables in a large area!"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Gargantuan Patchwork Agony",
+      "category": "Gargantuan",
+      "configData": {
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "flyingTitanic": true,
+        "gargantuan": true,
+        "thumbnail": "rbxassetid://90326669323204",
+        "name": "Gargantuan Patchwork Agony",
+        "flyingTitanicAlwaysFly": true,
+        "fly": true,
+        "indexDesc": "Found in the Exclusive Patchwork Egg!\n\nGround Slam - Pet will damage breakables in a large area!"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Exquisite Elephant",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://129117189793278",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Exquisite Elephant",
+        "indexDesc": "Found in the MVP Chest!",
+        "thumbnail": "rbxassetid://72880983476482"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Easter Lamb",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://127977221119246",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Easter Lamb",
+        "indexDesc": "Earned from logging in during our 2025 Easter Event!",
+        "thumbnail": "rbxassetid://122710351430317"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Diamond Bunny",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://98964255956115",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Diamond Bunny",
+        "indexDesc": "Earned from 2025 Easter Diamond Egg!",
+        "thumbnail": "rbxassetid://100376851450682"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Patchwork Teddy Bear",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Patchwork Teddy Bear",
+        "indexDesc": "Found in the Exclusive Patchwork Egg!",
+        "thumbnail": "rbxassetid://101792961428557"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Patchwork Bunny",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Patchwork Bunny",
+        "indexDesc": "Found in the Exclusive Patchwork Egg!",
+        "thumbnail": "rbxassetid://120785546705705"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Easter Angelus",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://76331145902175",
+        "animations": {
+          "spinZ": true
+        },
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Easter Angelus",
+        "fly": true,
+        "indexDesc": "Earned by subscribing during the FREE Huge Event!",
+        "thumbnail": "rbxassetid://102295861032789"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Basket Bunny",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://120687274126844",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Basket Bunny",
+        "indexDesc": "Found in the 2025 Easter Event Egg Hunt!",
+        "thumbnail": "rbxassetid://75145545226238"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Chocolate Bunny",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://105545350458143",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Chocolate Bunny",
+        "indexDesc": "Dropped by the Easter Bunny in the 2025 Easter Event!",
+        "thumbnail": "rbxassetid://79481017800505"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Spring Griffin",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://71511929489942",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Spring Griffin",
+        "fly": true,
+        "indexDesc": "Found in the 2025 Easter Event Secret Room!",
+        "thumbnail": "rbxassetid://138950017862417"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Marshmallow Kitsune",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://71254647124343",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Marshmallow Kitsune",
+        "indexDesc": "Found in the 2025 Easter Event final egg!",
+        "thumbnail": "rbxassetid://95357265380757"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Pixel Chick",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://96462371681467",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Pixel Chick",
+        "indexDesc": "Reward in the 2025 Pixel Chick Clan Battle!",
+        "thumbnail": "rbxassetid://109348174675332"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Easter Agony",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://88753970992583",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Easter Agony",
+        "fly": true,
+        "indexDesc": "Found in the Easter Forever Pack!",
+        "thumbnail": "rbxassetid://117110951312046"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Sea Dragon",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://139189131118389",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Sea Dragon",
+        "fly": true,
+        "indexDesc": "Found in the Forever Pack!",
+        "thumbnail": "rbxassetid://109192796689135"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Diamond Bunny",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://114443706250410",
+        "indexObtainable": true,
+        "name": "Titanic Diamond Bunny",
+        "indexDesc": "Earned from 2025 Easter Diamond Egg!",
+        "thumbnail": "rbxassetid://118509963937429"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Starfall Dragon",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://78230641053757",
+        "indexObtainable": true,
+        "flyingTitanic": true,
+        "name": "Titanic Starfall Dragon",
+        "flyingTitanicAlwaysFly": true,
+        "fly": true,
+        "indexDesc": "Earned from the Exclusive Raffle!",
+        "thumbnail": "rbxassetid://70374143407469"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Patchwork Capybara",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "name": "Titanic Patchwork Capybara",
+        "indexDesc": "Found in the Exclusive Patchwork Egg!",
+        "thumbnail": "rbxassetid://94494477823308"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Sea Dragon",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://95768190801144",
+        "indexObtainable": true,
+        "name": "Titanic Sea Dragon",
+        "fly": true,
+        "indexDesc": "Found in the Forever Pack!",
+        "thumbnail": "rbxassetid://97419954429083"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Exquisite Elephant",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://90594118894458",
+        "indexObtainable": true,
+        "name": "Titanic Exquisite Elephant",
+        "indexDesc": "Found in the MVP Chest!",
+        "thumbnail": "rbxassetid://97422903795997"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Easter Cat",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://107802361645994",
+        "indexObtainable": true,
+        "name": "Titanic Easter Cat",
+        "indexDesc": "Found in the 2025 Easter Event final egg!",
+        "thumbnail": "rbxassetid://122516564229104"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Luxe Axolotl",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://113674085310632",
+        "indexObtainable": true,
+        "name": "Titanic Luxe Axolotl",
+        "indexDesc": "Earned from 2025 Easter Diamond Egg!",
+        "thumbnail": "rbxassetid://75796665600934"
+      },
+      "collection": "Pets"
     }
   ]
 }

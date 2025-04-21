@@ -12720,6 +12720,290 @@
         "Desc": "Used to fuel the Slime Factory Huge Chance Machine!"
       },
       "collection": "MiscItems"
+    },
+    {
+      "configName": "Ultra Adoption Token Boost",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Ultra Adoption Token Boost",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://83102991911162",
+        "Desc": "Earn 10x Adoption Tokens for 15 minutes!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pet Token Boost",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Pet Games Token Boost",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://111961401269954",
+        "Desc": "Earn 2x Pet Tokens for 15 minutes!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Ultra Pet Token Boost",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Ultra Pet Games Token Boost",
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://117650953398875",
+        "Desc": "Earn 5x Pet Tokens for 15 minutes!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "MVP Key",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "MVP Key",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://77445028327693",
+        "Desc": "Used to unlock the MVP Chest in the Spawn Castle! Requires MVP Subscription to use!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "MVP Key Lower Half",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "MVP Key: Lower Half",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://138258335244851",
+        "Desc": "The lower half to the MVP Key. Combine this with the upper half! Requires MVP Subscription to combine."
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "MVP Key Upper Half",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "MVP Key: Upper Half",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://123443588350607",
+        "Desc": "The upper half to the MVP Key. Combine this with the lower half! Requires MVP Subscription to combine."
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Exclusive Raffle Ticket",
+      "category": "Vouchers",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Exclusive Raffle Ticket",
+        "InventoryTags": [
+          "Vouchers"
+        ],
+        "Icon": "rbxassetid://133664564742718",
+        "Desc": "Redeem to enter the Exclusive Raffle!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Easter Secret Key",
+      "category": "Event",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Easter Secret Key",
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://110695119653954",
+        "Desc": "Used to unlock the secret room in the 2025 Easter Event!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Lucky Easter Egg",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Lucky Easter Egg",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://125215562870875",
+        "Desc": "Used at the Giant Easter Basket to boost your final egg TITANIC & HUGE odds!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Hunt Easter Egg",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Hunt Easter Egg",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://99408821135785",
+        "Desc": "Used at the Giant Easter Basket to boost your Easter egg hunt HUGE odds!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Secret Easter Egg",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Secret Easter Egg",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://105083879250284",
+        "Desc": "Used at the Giant Easter Basket to boost your secret Easter room HUGE odds!"
+      },
+      "collection": "MiscItems"
     }
   ]
 }

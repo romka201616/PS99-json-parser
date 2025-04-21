@@ -3545,6 +3545,29 @@
         "Tradable": true
       },
       "collection": "Hoverboards"
+    },
+    {
+      "configName": "Hoverboard | Easter Bunny",
+      "category": "Hoverboards",
+      "configData": {
+        "Sounds": [],
+        "DisplayName": "Easter Bunny Hoverboard",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Icon": "rbxassetid://14910757187",
+        "Desc": "Hop through the areas like a bunny!"
+      },
+      "collection": "Hoverboards"
     }
   ]
 }

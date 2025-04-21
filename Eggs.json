@@ -28683,6 +28683,547 @@
         ]
       },
       "collection": "Eggs"
+    },
+    {
+      "configName": "Active Huge Egg",
+      "category": "Machine Eggs",
+      "configData": {
+        "disableGold": false,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableRainbow": false,
+        "shinyChance": 2,
+        "disableModifiers": true,
+        "rainbowChance": 2,
+        "name": "Active Huge Egg",
+        "pets": [
+          [
+            "Huge Zebra",
+            1
+          ],
+          [
+            "Huge Llama",
+            1
+          ],
+          [
+            "Huge Crocodile",
+            1
+          ],
+          [
+            "Huge Punksky",
+            1
+          ]
+        ],
+        "goldChance": 5,
+        "icon": "rbxassetid://16756521111"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Exclusive Egg 48",
+      "category": "Exclusive Eggs",
+      "configData": {
+        "disableGold": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableRainbow": false,
+        "shinyChance": 2,
+        "disableModifiers": true,
+        "rainbowChance": 2,
+        "name": "Exclusive Beast Egg",
+        "pets": [
+          [
+            "Snuggle Beast",
+            50
+          ],
+          [
+            "Feral Beast",
+            35
+          ],
+          [
+            "Claw Beast",
+            13
+          ],
+          [
+            "Huge Snuggle Beast",
+            1.5
+          ],
+          [
+            "Huge Claw Beast",
+            0.39
+          ],
+          [
+            "Titanic Warrior Beast",
+            0.1
+          ],
+          [
+            "Gargantuan Royal Beast",
+            0.01
+          ]
+        ],
+        "goldChance": 0,
+        "icon": "rbxassetid://95913164974324"
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Exclusive Egg 49",
+      "category": "Exclusive Eggs",
+      "configData": {
+        "disableGold": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "rainbowChance": 2,
+        "shinyChance": 2,
+        "disableRainbow": false,
+        "name": "Exclusive Patchwork Egg",
+        "productIds": {
+          "Exclusive Egg": 3269318607,
+          "3 Exclusive Eggs": 3269318753,
+          "100 Exclusive Eggs": 3269320229,
+          "10 Exclusive Eggs": 3269320058
+        },
+        "pets": [
+          [
+            "Patchwork Bunny",
+            50
+          ],
+          [
+            "Patchwork Yeti",
+            35
+          ],
+          [
+            "Patchwork Teddy Bear",
+            13
+          ],
+          [
+            "Huge Patchwork Bunny",
+            1.5
+          ],
+          [
+            "Huge Patchwork Teddy Bear",
+            0.39
+          ],
+          [
+            "Titanic Patchwork Capybara",
+            0.1
+          ],
+          [
+            "Gargantuan Patchwork Agony",
+            0.01
+          ]
+        ],
+        "goldChance": 0,
+        "icon": "rbxassetid://76237149926893",
+        "disableModifiers": true
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Easter Diamond Egg 1x",
+      "category": "Easter",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "isCustomEgg": true,
+        "disableModifiers": true,
+        "currency": "Diamonds",
+        "name": "Easter Diamond Egg",
+        "overrideCost": 200,
+        "oddsFFlags": {
+          "Huge Diamond Bunny": "EDE_H",
+          "Titanic Luxe Axolotl": "EDE_T2",
+          "Titanic Diamond Bunny": "EDE_T"
+        },
+        "pets": [
+          [
+            "Diamond Bunny",
+            99.999878776
+          ],
+          [
+            "Huge Diamond Bunny",
+            0.00012,
+            "Insane"
+          ],
+          [
+            "Titanic Diamond Bunny",
+            1.2e-06,
+            "Insane"
+          ],
+          [
+            "Titanic Luxe Axolotl",
+            2.4e-08,
+            "Insane"
+          ]
+        ],
+        "icon": "rbxassetid://15172355963"
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Easter Diamond Egg 10x",
+      "category": "Easter",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "isCustomEgg": true,
+        "disableModifiers": true,
+        "currency": "Diamonds",
+        "name": "Easter Diamond Egg",
+        "overrideCost": 2000,
+        "oddsFFlags": {
+          "Huge Diamond Bunny": "EDE_H",
+          "Titanic Luxe Axolotl": "EDE_T2",
+          "Titanic Diamond Bunny": "EDE_T"
+        },
+        "pets": [
+          [
+            "Diamond Bunny",
+            99.99878776
+          ],
+          [
+            "Huge Diamond Bunny",
+            0.0012,
+            "Insane"
+          ],
+          [
+            "Titanic Diamond Bunny",
+            1.2e-05,
+            "Insane"
+          ],
+          [
+            "Titanic Luxe Axolotl",
+            2.4e-07,
+            "Insane"
+          ]
+        ],
+        "icon": "rbxassetid://15172355963"
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Easter Diamond Egg 100x",
+      "category": "Easter",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "isCustomEgg": true,
+        "disableModifiers": true,
+        "currency": "Diamonds",
+        "name": "Easter Diamond Egg",
+        "overrideCost": 20000,
+        "oddsFFlags": {
+          "Huge Diamond Bunny": "EDE_H",
+          "Titanic Luxe Axolotl": "EDE_T2",
+          "Titanic Diamond Bunny": "EDE_T"
+        },
+        "pets": [
+          [
+            "Diamond Bunny",
+            99.9878776
+          ],
+          [
+            "Huge Diamond Bunny",
+            0.012,
+            "Insane"
+          ],
+          [
+            "Titanic Diamond Bunny",
+            0.00012,
+            "Insane"
+          ],
+          [
+            "Titanic Luxe Axolotl",
+            2.4e-06,
+            "Insane"
+          ]
+        ],
+        "icon": "rbxassetid://15172355963"
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "1 | Bow Egg",
+      "category": "Easter",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "EasterCoins",
+        "name": "Bow Egg",
+        "overrideCost": 250,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Easter Cat",
+            90
+          ],
+          [
+            "Easter Fox",
+            10
+          ],
+          [
+            "Easter Lamb",
+            0.1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "2 | Flower Pot Egg",
+      "category": "Easter",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "EasterCoins",
+        "name": "Flower Pot Egg",
+        "overrideCost": 500,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Easter Fox",
+            90
+          ],
+          [
+            "Easter Lamb",
+            10
+          ],
+          [
+            "Basket Bunny",
+            0.1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "3 | Flower Egg",
+      "category": "Easter",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "EasterCoins",
+        "name": "Flower Egg",
+        "overrideCost": 1000,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Easter Lamb",
+            90
+          ],
+          [
+            "Basket Bunny",
+            10
+          ],
+          [
+            "Marshmallow Kitsune",
+            0.1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "4 | Rainbow Wave Egg",
+      "category": "Easter",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "EasterCoins",
+        "name": "Rainbow Wave Egg",
+        "overrideCost": 2000,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Basket Bunny",
+            90
+          ],
+          [
+            "Marshmallow Kitsune",
+            10
+          ],
+          [
+            "Easter Agony",
+            0.1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "5 | Easter Bunny Egg",
+      "category": "Easter",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "EasterCoins",
+        "name": "Easter Bunny Egg",
+        "overrideCost": 4000,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Easter Dominus": "EggMultiplier_J1",
+          "Huge Marshmallow Kitsune": "EggMultiplier_J3",
+          "Titanic Easter Cat": "EggMultiplier_J4",
+          "Easter Angelus": "EggMultiplier_J2"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Marshmallow Kitsune",
+            99.949995
+          ],
+          [
+            "Easter Agony",
+            0.2
+          ],
+          [
+            "The Easter Bunny",
+            0.05
+          ],
+          [
+            "Easter Dominus",
+            0.0005,
+            "Great"
+          ],
+          [
+            "Easter Angelus",
+            5e-05,
+            "Insane"
+          ],
+          [
+            "Huge Marshmallow Kitsune",
+            1.2e-06,
+            "Insane"
+          ],
+          [
+            "Titanic Easter Cat",
+            1.2e-09,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
     }
   ]
 }

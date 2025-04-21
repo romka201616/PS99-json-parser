@@ -2493,6 +2493,29 @@
         "Desc": "⚔️ Rewarded to the top 50 clans in the 2025 Tie Dye Clan Battle!"
       },
       "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Easter",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Easter Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://14988724401",
+        "Desc": "Wanna buy an Easter egg?"
+      },
+      "collection": "Booths"
     }
   ]
 }

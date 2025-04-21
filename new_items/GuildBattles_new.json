@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "configName": "AthenaBattle",
+      "configName": "PixelChickBattle",
       "category": "GuildBattles",
       "configData": {
         "PlacementRewards": [
@@ -52,7 +52,7 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Athena Owl",
+                "id": "Huge Pixel Chick",
                 "pt": 2
               }
             },
@@ -62,7 +62,7 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Athena Owl",
+                "id": "Huge Pixel Chick",
                 "pt": 1
               }
             },
@@ -72,16 +72,16 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Athena Owl"
+                "id": "Huge Pixel Chick"
               }
             },
             "Best": 9,
             "Worst": 20
           }
         ],
-        "FinishTime": 1743782400,
-        "Title": "Athena Battle",
-        "StartTime": 1743264000,
+        "FinishTime": 1745596800,
+        "Title": "Pixel Chick Battle",
+        "StartTime": 1745078400,
         "Rewards": {
           "Good": [],
           "Bronze": [],

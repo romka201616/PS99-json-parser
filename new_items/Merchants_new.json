@@ -1,46 +1,50 @@
 {
   "data": [
     {
-      "configName": "MiningMerchant",
+      "configName": "IndexMerchant",
       "category": "Merchants",
       "configData": {
         "PriceMult": 1,
-        "GetOffers": null,
-        "DisplayName": "Mining Merchant",
+        "DisableApproachOpen": true,
+        "DisplayName": "Index Merchant",
         "StockRangeByRespectLevel": [
           [
             1,
             1
           ],
           [
-            1,
-            1
-          ],
-          [
-            1,
-            1
-          ],
-          [
-            1,
+            2,
             2
           ],
           [
-            1,
+            3,
             3
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            5,
+            5
           ]
         ],
-        "MachineName": "MiningMerchant",
+        "MachineName": "PetIndexMachine",
         "SlotRespectLevels": [
           1,
           1,
-          2,
-          2,
-          3,
-          5
+          1,
+          1,
+          1,
+          1
         ],
-        "HasAccess": null,
-        "RefreshRate": 600
+        "GetOffers": null,
+        "HideRespect": true,
+        "RefreshRate": 3600
       },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
       "collection": "Merchants"
     }
   ]

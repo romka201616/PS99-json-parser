@@ -1,36 +1,25 @@
 {
   "data": [
     {
-      "configName": "Hoverboard | Jelly",
+      "configName": "Hoverboard | Easter Bunny",
       "category": "Hoverboards",
       "configData": {
+        "Sounds": [],
+        "DisplayName": "Easter Bunny Hoverboard",
         "Rarity": {
-          "RarityNumber": 6,
+          "RarityNumber": 5,
           "Lootbag": null,
-          "_id": "Exotic",
+          "_id": "Mythical",
           "Color": null,
-          "DisplayName": "Exotic",
+          "DisplayName": "Mythical",
           "Message": null,
           "ItemSlot": null,
           "Gradient": null,
-          "Announce": true,
+          "Announce": false,
           "_script": null
         },
-        "DisplayName": "Jelly Hoverboard",
-        "Desc": "jelly jelly jelly!",
-        "Sounds": {
-          "equip": [
-            "rbxassetid://102234210822621"
-          ],
-          "idle": [
-            "rbxassetid://95693237363544"
-          ],
-          "jump": [
-            "rbxassetid://135199956009241"
-          ]
-        },
-        "Icon": "rbxassetid://72590702374703",
-        "Tradable": true
+        "Icon": "rbxassetid://14910757187",
+        "Desc": "Hop through the areas like a bunny!"
       },
       "collection": "Hoverboards"
     }

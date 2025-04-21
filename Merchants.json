@@ -444,6 +444,53 @@
         "RefreshRate": 600
       },
       "collection": "Merchants"
+    },
+    {
+      "configName": "IndexMerchant",
+      "category": "Merchants",
+      "configData": {
+        "PriceMult": 1,
+        "DisableApproachOpen": true,
+        "DisplayName": "Index Merchant",
+        "StockRangeByRespectLevel": [
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            5,
+            5
+          ]
+        ],
+        "MachineName": "PetIndexMachine",
+        "SlotRespectLevels": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "GetOffers": null,
+        "HideRespect": true,
+        "RefreshRate": 3600
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Merchants"
     }
   ]
 }
