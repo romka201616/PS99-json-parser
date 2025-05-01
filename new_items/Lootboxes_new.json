@@ -1,9 +1,10 @@
 {
   "data": [
     {
-      "configName": "Locked Hype Egg",
-      "category": "Lootboxes",
+      "configName": "Anime Pack",
+      "category": "CardPacks",
       "configData": {
+        "Rolls": 5,
         "Rarity": {
           "RarityNumber": 999,
           "Lootbag": null,
@@ -16,19 +17,42 @@
           "Announce": true,
           "_script": null
         },
-        "Instant": true,
-        "DisplayName": "Locked Hype Egg!",
-        "RequireSave": false,
-        "Desc": "Open after the update to receive a Hype Egg!",
-        "MaxAmount": 1,
-        "InstantSound": "rbxassetid://77914312637440",
-        "Icon": "rbxassetid://94077876373608",
-        "Tradable": false
+        "DisplayName": "Anime Pack",
+        "IsCardPack": true,
+        "Desc": "Contains 5 Anime Pack cards!\n\nCombine cards into EXCLUSIVE pets & chance for a TITANIC card!",
+        "InventoryTags": [
+          "Packs"
+        ],
+        "Icon": "rbxassetid://115390480422233",
+        "RequireSave": true
       },
       "collection": "Lootboxes"
     },
     {
-      "configName": "Slime Gift",
+      "configName": "Titanic Easter Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Titanic Easter Gift",
+        "Icon": "rbxassetid://101374206073893",
+        "Desc": "Obtained by winning the Easter Contest!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Huge Easter Gift",
       "category": "Lootboxes",
       "configData": {
         "RequireSave": true,
@@ -44,9 +68,9 @@
           "Announce": true,
           "_script": null
         },
-        "DisplayName": "Slime Gift",
-        "Icon": "rbxassetid://123257637459556",
-        "Desc": "Obtained during the Slime Factory Event!"
+        "DisplayName": "Huge Easter Gift",
+        "Icon": "rbxassetid://83528196707461",
+        "Desc": "Obtained by participating in the Easter Contest!"
       },
       "collection": "Lootboxes"
     }

@@ -1,11 +1,140 @@
 {
   "data": [
     {
-      "configName": "Hoverboard | Easter Bunny",
+      "configName": "Hoverboard | Pencil",
       "category": "Hoverboards",
       "configData": {
-        "Sounds": [],
-        "DisplayName": "Easter Bunny Hoverboard",
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": true,
+        "DisplayName": "Pencil Hoverboard",
+        "Sounds": {
+          "equip": [
+            "rbxassetid://101976494467819"
+          ],
+          "idle": [
+            "rbxassetid://76572833155615"
+          ],
+          "jump": [
+            "rbxassetid://123743368170016"
+          ]
+        },
+        "ShinyParticleScale": 1,
+        "Desc": "Pencil with #2 lead",
+        "CanBeShiny": true,
+        "Icon": "rbxassetid://113564669329061"
+      },
+      "collection": "Hoverboards"
+    },
+    {
+      "configName": "Hoverboard | Electric Guitar",
+      "category": "Hoverboards",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": true,
+        "DisplayName": "Electric Guitar Hoverboard",
+        "Sounds": {
+          "equip": [
+            "rbxassetid://131035418972504"
+          ],
+          "idle": [
+            "rbxassetid://85855123674398"
+          ],
+          "jump": [
+            "rbxassetid://138013621005610"
+          ]
+        },
+        "ShinyParticleScale": 1,
+        "Desc": "Scrrrrrrrr! Scrrrrrrrr!",
+        "CanBeShiny": true,
+        "Icon": "rbxassetid://105994679046982"
+      },
+      "collection": "Hoverboards"
+    },
+    {
+      "configName": "Hoverboard | Tank",
+      "category": "Hoverboards",
+      "configData": {
+        "IdleVolumeSpeedScale": 0,
+        "IdlePitchScale": 0,
+        "HoverHeight": 0.23,
+        "Sounds": {
+          "equip": [
+            "rbxassetid://82426788617363"
+          ],
+          "idle": [
+            "rbxassetid://72506916075753"
+          ],
+          "jump": [
+            "rbxassetid://126321633237733"
+          ]
+        },
+        "CanBeShiny": true,
+        "BobRate": 0,
+        "Icon": "rbxassetid://137082519504492",
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Desc": "MOVE OUT THE WAY!",
+        "PitchScale": 0,
+        "Animation": 2506281703,
+        "DisplayName": "Tank",
+        "ShinyParticleScale": 1,
+        "BlockcastScale": 0,
+        "MaxRoll": 0,
+        "SkateMode": true,
+        "RotationLimit": null,
+        "IdleVolume": 2,
+        "Tradable": true
+      },
+      "collection": "Hoverboards"
+    },
+    {
+      "configName": "Hoverboard | Unicorn",
+      "category": "Hoverboards",
+      "configData": {
+        "Sounds": {
+          "equip": [
+            "rbxassetid://107374325583389"
+          ],
+          "idle": [
+            "rbxassetid://77295298543906"
+          ],
+          "jump": [
+            "rbxassetid://135284128870437"
+          ]
+        },
+        "DisplayName": "Unicorn Hoverboard",
         "Rarity": {
           "RarityNumber": 5,
           "Lootbag": null,
@@ -18,8 +147,109 @@
           "Announce": false,
           "_script": null
         },
-        "Icon": "rbxassetid://14910757187",
-        "Desc": "Hop through the areas like a bunny!"
+        "Icon": "rbxassetid://15280245261",
+        "Desc": "Earned from finding all eggs in the 2025 Easter Egg Hunt!"
+      },
+      "collection": "Hoverboards"
+    },
+    {
+      "configName": "Hoverboard | Kitsune",
+      "category": "Hoverboards",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": true,
+        "DisplayName": "Kitsune Hoverboard",
+        "Sounds": {
+          "equip": [
+            "rbxassetid://100556532656806"
+          ],
+          "idle": [
+            "rbxassetid://109563056705789"
+          ],
+          "jump": [
+            "rbxassetid://111026419646328"
+          ]
+        },
+        "ShinyParticleScale": 1,
+        "Desc": "Foxy tails! Leaves hearts everywhere!",
+        "ProductId": 3274118414,
+        "CanBeShiny": true,
+        "Icon": "rbxassetid://112130842952181"
+      },
+      "collection": "Hoverboards"
+    },
+    {
+      "configName": "Hoverboard | Corrupt",
+      "category": "Hoverboards",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": true,
+        "DisplayName": "Corrupt Hoverboard",
+        "Sounds": {
+          "equip": [
+            "rbxassetid://104197801158374"
+          ],
+          "idle": [
+            "rbxassetid://122206258152425"
+          ],
+          "jump": [
+            "rbxassetid://120305213255403"
+          ]
+        },
+        "ShinyParticleScale": 1,
+        "Desc": "Wrapped in shadows!",
+        "ProductId": 3274118281,
+        "CanBeShiny": true,
+        "Icon": "rbxassetid://97624181709908"
+      },
+      "collection": "Hoverboards"
+    },
+    {
+      "configName": "Hoverboard | Astra",
+      "category": "Hoverboards",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": true,
+        "DisplayName": "Astra Hoverboard",
+        "Sounds": [],
+        "ShinyParticleScale": 1,
+        "Desc": "Glowy eyes and stary sparkles!",
+        "ProductId": 3274118157,
+        "CanBeShiny": true,
+        "Icon": "rbxassetid://130263953093664"
       },
       "collection": "Hoverboards"
     }

@@ -1,9 +1,10 @@
 {
   "data": [
     {
-      "configName": "12 | Dead Forest",
-      "category": "World 1",
+      "configName": "201 | Prison Block",
+      "category": "Update 12",
       "configData": {
+        "CannonGroupId": 1,
         "Breakables": {
           "Main": {
             "Settings": {
@@ -11,1026 +12,31 @@
               "Maximum": 35
             },
             "Data": [
-              {
-                "Weight": 6.75,
-                "Type": "Medium Coins (Default)"
-              },
-              {
-                "Weight": 10,
-                "Type": "Large Coins (Default)"
-              },
-              {
-                "Weight": 8,
-                "Type": "Crate (Mossy)"
-              },
-              {
-                "Weight": 8,
-                "Type": "Present (Mossy)"
-              }
-            ]
-          }
-        },
-        "ZoneName": "Dead Forest",
-        "ZoneNumber": 12,
-        "Currency": "Coins",
-        "MaximumAvailableEgg": 17,
-        "GateHealth": 0,
-        "WorldNumber": 1,
-        "ExtraDropTable": null,
-        "ZoneFolder": null,
-        "Lighting": {
-          "ClockTime": 8,
-          "ColorShift_Bottom": null,
-          "FogColor": null,
-          "FogEnd": 9999,
-          "EnvironmentDiffuseScale": 0,
-          "ColorCorrection": {
-            "Enabled": true,
-            "Saturation": 0.6499999761581421,
-            "Contrast": 0.06499999761581421,
-            "TintColor": null,
-            "Brightness": 0.06499999761581421
-          },
-          "Brightness": 1.15,
-          "ColorShift_Top": null,
-          "Bloom": {
-            "Enabled": true,
-            "Threshold": 1.7999999523162842,
-            "Intensity": 2,
-            "Size": 21
-          },
-          "EnvironmentSpecularScale": 0.25,
-          "Sky": {
-            "StarCount": 0,
-            "SkyboxUp": "rbxassetid://116368153118009",
-            "MoonTextureId": "",
-            "SkyboxBk": "rbxassetid://137443665258748",
-            "CelestialBodiesShown": false,
-            "SkyboxDn": "rbxassetid://106907389052906",
-            "SkyboxLf": "rbxassetid://113607300469386",
-            "SunTextureId": "rbxasset://sky/sun.jpg",
-            "SunAngularSize": 10,
-            "SkyboxFt": "rbxassetid://86198878822372",
-            "SkyboxRt": "rbxassetid://87644663726388",
-            "MoonAngularSize": 11
-          },
-          "GeographicLatitude": 44,
-          "Ambient": null,
-          "OutdoorAmbient": null,
-          "Atmosphere": {
-            "Density": 0.4449999928474426,
-            "Haze": 0.5,
-            "Color": null,
-            "Decay": null,
-            "Glare": 0,
-            "Offset": 0
-          },
-          "FogStart": 9999,
-          "ShadowSoftness": 0.5,
-          "ExposureCompensation": 0
-        }
-      },
-      "dateCreated": null,
-      "dateModified": null,
-      "hash": null,
-      "collection": "Zones"
-    },
-    {
-      "configName": "13 | Dark Forest",
-      "category": "World 1",
-      "configData": {
-        "Breakables": {
-          "Main": {
-            "Settings": {
-              "RespawnTime": 0.05,
-              "Maximum": 35
-            },
-            "Data": [
-              {
-                "Weight": 60,
-                "Type": "Small Coins (Default)"
-              },
-              {
-                "Weight": 80,
-                "Type": "Medium Coins (Default)"
-              },
-              {
-                "Weight": 60,
-                "Type": "Large Coins (Default)"
-              },
               {
                 "Weight": 25,
-                "Type": "Crate (Mossy)"
-              },
-              {
-                "Weight": 30,
-                "Type": "Safe (Mossy)"
-              },
-              {
-                "Weight": 20,
-                "Type": "Vault (Mossy)"
-              }
-            ]
-          }
-        },
-        "ZoneName": "Dark Forest",
-        "ZoneNumber": 13,
-        "Currency": "Coins",
-        "MaximumAvailableEgg": 18,
-        "GateHealth": 0,
-        "WorldNumber": 1,
-        "ExtraDropTable": null,
-        "ZoneFolder": null,
-        "Lighting": {
-          "ClockTime": 8,
-          "ColorShift_Bottom": null,
-          "FogColor": null,
-          "FogEnd": 9999,
-          "EnvironmentDiffuseScale": 0,
-          "ColorCorrection": {
-            "Enabled": true,
-            "Saturation": 0.6499999761581421,
-            "Contrast": 0.06499999761581421,
-            "TintColor": null,
-            "Brightness": 0.06499999761581421
-          },
-          "Brightness": 1.15,
-          "ColorShift_Top": null,
-          "Bloom": {
-            "Enabled": true,
-            "Threshold": 1.7999999523162842,
-            "Intensity": 2,
-            "Size": 21
-          },
-          "EnvironmentSpecularScale": 0.25,
-          "Sky": {
-            "StarCount": 0,
-            "SkyboxUp": "rbxassetid://116368153118009",
-            "MoonTextureId": "",
-            "SkyboxBk": "rbxassetid://137443665258748",
-            "CelestialBodiesShown": false,
-            "SkyboxDn": "rbxassetid://106907389052906",
-            "SkyboxLf": "rbxassetid://113607300469386",
-            "SunTextureId": "rbxasset://sky/sun.jpg",
-            "SunAngularSize": 10,
-            "SkyboxFt": "rbxassetid://86198878822372",
-            "SkyboxRt": "rbxassetid://87644663726388",
-            "MoonAngularSize": 11
-          },
-          "GeographicLatitude": 44,
-          "Ambient": null,
-          "OutdoorAmbient": null,
-          "Atmosphere": {
-            "Density": 0.4449999928474426,
-            "Haze": 0.5,
-            "Color": null,
-            "Decay": null,
-            "Glare": 0,
-            "Offset": 0
-          },
-          "FogStart": 9999,
-          "ShadowSoftness": 0.5,
-          "ExposureCompensation": 0
-        }
-      },
-      "dateCreated": null,
-      "dateModified": null,
-      "hash": null,
-      "collection": "Zones"
-    },
-    {
-      "configName": "21 | Coral Reef",
-      "category": "World 1",
-      "configData": {
-        "Lighting": {
-          "ClockTime": 9,
-          "ColorShift_Bottom": null,
-          "FogColor": null,
-          "FogEnd": 9999,
-          "EnvironmentDiffuseScale": 0,
-          "ColorCorrection": {
-            "Enabled": true,
-            "Saturation": 0.699999988079071,
-            "Contrast": 0.07999999821186066,
-            "TintColor": null,
-            "Brightness": 0.11999999731779099
-          },
-          "Brightness": 1.15,
-          "ColorShift_Top": null,
-          "Bloom": {
-            "Enabled": true,
-            "Threshold": 1.74399995803833,
-            "Intensity": 2,
-            "Size": 21
-          },
-          "EnvironmentSpecularScale": 0.25,
-          "Sky": {
-            "StarCount": 0,
-            "SkyboxUp": "rbxassetid://116368153118009",
-            "MoonTextureId": "",
-            "SkyboxBk": "rbxassetid://137443665258748",
-            "CelestialBodiesShown": false,
-            "SkyboxDn": "rbxassetid://106907389052906",
-            "SkyboxLf": "rbxassetid://113607300469386",
-            "SunTextureId": "rbxasset://sky/sun.jpg",
-            "SunAngularSize": 10,
-            "SkyboxFt": "rbxassetid://86198878822372",
-            "SkyboxRt": "rbxassetid://87644663726388",
-            "MoonAngularSize": 11
-          },
-          "GeographicLatitude": 322,
-          "Ambient": null,
-          "OutdoorAmbient": null,
-          "Atmosphere": {
-            "Density": 0.39399999380111694,
-            "Haze": 2.450000047683716,
-            "Color": null,
-            "Decay": null,
-            "Glare": 1.159999966621399,
-            "Offset": 0.515999972820282
-          },
-          "FogStart": 9999,
-          "ShadowSoftness": 0.5,
-          "ExposureCompensation": 0
-        },
-        "GateHealth": 0,
-        "Ambience": {
-          "SoundId": "rbxassetid://14882867363"
-        },
-        "Breakables": {
-          "Main": {
-            "Settings": {
-              "RespawnTime": 0.05,
-              "Maximum": 50
-            },
-            "Data": [
-              {
-                "Weight": 1.5,
-                "Type": "Small Coins (Default)"
-              },
-              {
-                "Weight": 4,
-                "Type": "Medium Coins (Default)"
-              },
-              {
-                "Weight": 8,
-                "Type": "Large Coins (Default)"
-              },
-              {
-                "Weight": 25,
-                "Type": "Present (Coral)"
-              },
-              {
-                "Weight": 10,
-                "Type": "Safe (Coral)"
-              }
-            ]
-          }
-        },
-        "Currency": "Coins",
-        "MaximumAvailableEgg": 29,
-        "ZoneNumber": 21,
-        "WorldNumber": 1,
-        "ExtraDropTable": null,
-        "ZoneFolder": null,
-        "ZoneName": "Coral Reef"
-      },
-      "dateCreated": null,
-      "dateModified": null,
-      "hash": null,
-      "collection": "Zones"
-    },
-    {
-      "configName": "22 | Shipwreck",
-      "category": "World 1",
-      "configData": {
-        "Lighting": {
-          "ClockTime": 9,
-          "ColorShift_Bottom": null,
-          "FogColor": null,
-          "FogEnd": 9999,
-          "EnvironmentDiffuseScale": 0,
-          "ColorCorrection": {
-            "Enabled": true,
-            "Saturation": 0.699999988079071,
-            "Contrast": 0.07999999821186066,
-            "TintColor": null,
-            "Brightness": 0.11999999731779099
-          },
-          "Brightness": 1.15,
-          "ColorShift_Top": null,
-          "Bloom": {
-            "Enabled": true,
-            "Threshold": 1.74399995803833,
-            "Intensity": 2,
-            "Size": 21
-          },
-          "EnvironmentSpecularScale": 0.25,
-          "Sky": {
-            "StarCount": 0,
-            "SkyboxUp": "rbxassetid://116368153118009",
-            "MoonTextureId": "",
-            "SkyboxBk": "rbxassetid://137443665258748",
-            "CelestialBodiesShown": false,
-            "SkyboxDn": "rbxassetid://106907389052906",
-            "SkyboxLf": "rbxassetid://113607300469386",
-            "SunTextureId": "rbxasset://sky/sun.jpg",
-            "SunAngularSize": 10,
-            "SkyboxFt": "rbxassetid://86198878822372",
-            "SkyboxRt": "rbxassetid://87644663726388",
-            "MoonAngularSize": 11
-          },
-          "GeographicLatitude": 322,
-          "Ambient": null,
-          "OutdoorAmbient": null,
-          "Atmosphere": {
-            "Density": 0.39399999380111694,
-            "Haze": 2.450000047683716,
-            "Color": null,
-            "Decay": null,
-            "Glare": 1.159999966621399,
-            "Offset": 0.515999972820282
-          },
-          "FogStart": 9999,
-          "ShadowSoftness": 0.5,
-          "ExposureCompensation": 0
-        },
-        "GateHealth": 0,
-        "Ambience": {
-          "SoundId": "rbxassetid://14882867363"
-        },
-        "Breakables": {
-          "Main": {
-            "Settings": {
-              "RespawnTime": 0.05,
-              "Maximum": 35
-            },
-            "Data": [
-              {
-                "Weight": 0.75,
-                "Type": "Small Coins (Default)"
-              },
-              {
-                "Weight": 2,
-                "Type": "Medium Coins (Default)"
-              },
-              {
-                "Weight": 6,
-                "Type": "Large Coins (Default)"
-              },
-              {
-                "Weight": 3,
-                "Type": "Crate (Coral)"
-              },
-              {
-                "Weight": 4,
-                "Type": "Safe (Default)"
-              },
-              {
-                "Weight": 2,
-                "Type": "Vault (Default)"
-              }
-            ]
-          }
-        },
-        "Currency": "Coins",
-        "MaximumAvailableEgg": 30,
-        "ZoneNumber": 22,
-        "WorldNumber": 1,
-        "ExtraDropTable": null,
-        "ZoneFolder": null,
-        "ZoneName": "Shipwreck"
-      },
-      "dateCreated": null,
-      "dateModified": null,
-      "hash": null,
-      "collection": "Zones"
-    },
-    {
-      "configName": "23 | Atlantis",
-      "category": "World 1",
-      "configData": {
-        "Lighting": {
-          "ClockTime": 9,
-          "ColorShift_Bottom": null,
-          "FogColor": null,
-          "FogEnd": 9999,
-          "EnvironmentDiffuseScale": 0,
-          "ColorCorrection": {
-            "Enabled": true,
-            "Saturation": 0.699999988079071,
-            "Contrast": 0.07999999821186066,
-            "TintColor": null,
-            "Brightness": 0.11999999731779099
-          },
-          "Brightness": 1.15,
-          "ColorShift_Top": null,
-          "Bloom": {
-            "Enabled": true,
-            "Threshold": 1.74399995803833,
-            "Intensity": 2,
-            "Size": 21
-          },
-          "EnvironmentSpecularScale": 0.25,
-          "Sky": {
-            "StarCount": 0,
-            "SkyboxUp": "rbxassetid://116368153118009",
-            "MoonTextureId": "",
-            "SkyboxBk": "rbxassetid://137443665258748",
-            "CelestialBodiesShown": false,
-            "SkyboxDn": "rbxassetid://106907389052906",
-            "SkyboxLf": "rbxassetid://113607300469386",
-            "SunTextureId": "rbxasset://sky/sun.jpg",
-            "SunAngularSize": 10,
-            "SkyboxFt": "rbxassetid://86198878822372",
-            "SkyboxRt": "rbxassetid://87644663726388",
-            "MoonAngularSize": 11
-          },
-          "GeographicLatitude": 322,
-          "Ambient": null,
-          "OutdoorAmbient": null,
-          "Atmosphere": {
-            "Density": 0.39399999380111694,
-            "Haze": 2.450000047683716,
-            "Color": null,
-            "Decay": null,
-            "Glare": 1.159999966621399,
-            "Offset": 0.515999972820282
-          },
-          "FogStart": 9999,
-          "ShadowSoftness": 0.5,
-          "ExposureCompensation": 0
-        },
-        "GateHealth": 0,
-        "Ambience": {
-          "SoundId": "rbxassetid://14882867363"
-        },
-        "Breakables": {
-          "Main": {
-            "Settings": {
-              "RespawnTime": 0.05,
-              "Maximum": 35
-            },
-            "Data": [
-              {
-                "Weight": 15,
-                "Type": "Small Coins (Default)"
-              },
-              {
-                "Weight": 30,
-                "Type": "Medium Coins (Default)"
-              },
-              {
-                "Weight": 40,
-                "Type": "Large Coins (Default)"
-              },
-              {
-                "Weight": 40,
-                "Type": "Crate (Coral)"
-              },
-              {
-                "Weight": 35,
-                "Type": "Present (Coral)"
-              },
-              {
-                "Weight": 25,
-                "Type": "Safe (Coral)"
-              },
-              {
-                "Weight": 18,
-                "Type": "Vault (Coral)"
-              }
-            ]
-          }
-        },
-        "Currency": "Coins",
-        "MaximumAvailableEgg": 31,
-        "ZoneNumber": 23,
-        "WorldNumber": 1,
-        "ExtraDropTable": null,
-        "ZoneFolder": null,
-        "ZoneName": "Atlantis"
-      },
-      "dateCreated": null,
-      "dateModified": null,
-      "hash": null,
-      "collection": "Zones"
-    },
-    {
-      "configName": "29 | Desert Village",
-      "category": "World 1",
-      "configData": {
-        "Breakables": {
-          "Main": {
-            "Settings": {
-              "RespawnTime": 0.05,
-              "Maximum": 35
-            },
-            "Data": [
-              {
-                "Weight": 15,
-                "Type": "Small Coins (Default)"
+                "Type": "Medium Coins (Void)"
               },
               {
                 "Weight": 50,
-                "Type": "Medium Coins (Default)"
+                "Type": "Large Coins (Void)"
               },
               {
-                "Weight": 30,
-                "Type": "Large Coins (Default)"
-              },
-              {
-                "Weight": 30,
-                "Type": "Crate (Default)"
-              },
-              {
-                "Weight": 40,
-                "Type": "Present (Default)"
-              },
-              {
-                "Weight": 40,
-                "Type": "Vault (Default)"
-              }
-            ]
-          }
-        },
-        "ZoneName": "Desert Village",
-        "ZoneNumber": 29,
-        "Currency": "Coins",
-        "MaximumAvailableEgg": 42,
-        "GateHealth": 0,
-        "WorldNumber": 1,
-        "ExtraDropTable": null,
-        "ZoneFolder": null,
-        "Lighting": {
-          "ClockTime": 10,
-          "ColorShift_Bottom": null,
-          "FogColor": null,
-          "FogEnd": 9999,
-          "EnvironmentDiffuseScale": 0,
-          "ColorCorrection": {
-            "Enabled": true,
-            "Saturation": 0.6499999761581421,
-            "Contrast": 0.06499999761581421,
-            "TintColor": null,
-            "Brightness": 0.06499999761581421
-          },
-          "Brightness": 1.149999976158142,
-          "ColorShift_Top": null,
-          "Bloom": {
-            "Enabled": true,
-            "Threshold": 1.7999999523162842,
-            "Intensity": 2,
-            "Size": 21
-          },
-          "EnvironmentSpecularScale": 0.25,
-          "Sky": {
-            "StarCount": 0,
-            "SkyboxUp": "rbxassetid://116368153118009",
-            "MoonTextureId": "",
-            "SkyboxBk": "rbxassetid://137443665258748",
-            "CelestialBodiesShown": false,
-            "SkyboxDn": "rbxassetid://106907389052906",
-            "SkyboxLf": "rbxassetid://113607300469386",
-            "SunTextureId": "rbxasset://sky/sun.jpg",
-            "SunAngularSize": 10,
-            "SkyboxFt": "rbxassetid://86198878822372",
-            "SkyboxRt": "rbxassetid://87644663726388",
-            "MoonAngularSize": 11
-          },
-          "GeographicLatitude": 44,
-          "Ambient": null,
-          "OutdoorAmbient": null,
-          "Atmosphere": {
-            "Density": 0.2800000011920929,
-            "Haze": 2.0799999237060547,
-            "Color": null,
-            "Decay": null,
-            "Glare": 1.2200000286102295,
-            "Offset": 0
-          },
-          "FogStart": 9999,
-          "ShadowSoftness": 0.5,
-          "ExposureCompensation": 0
-        }
-      },
-      "dateCreated": null,
-      "dateModified": null,
-      "hash": null,
-      "collection": "Zones"
-    },
-    {
-      "configName": "30 | Fossil Digsite",
-      "category": "World 1",
-      "configData": {
-        "Chests": [],
-        "Lighting": {
-          "ClockTime": 10,
-          "ColorShift_Bottom": null,
-          "FogColor": null,
-          "FogEnd": 9999,
-          "EnvironmentDiffuseScale": 0,
-          "ColorCorrection": {
-            "Enabled": true,
-            "Saturation": 0.6499999761581421,
-            "Contrast": 0.06499999761581421,
-            "TintColor": null,
-            "Brightness": 0.06499999761581421
-          },
-          "Brightness": 1.149999976158142,
-          "ColorShift_Top": null,
-          "Bloom": {
-            "Enabled": true,
-            "Threshold": 1.7999999523162842,
-            "Intensity": 2,
-            "Size": 21
-          },
-          "EnvironmentSpecularScale": 0.25,
-          "Sky": {
-            "StarCount": 0,
-            "SkyboxUp": "rbxassetid://116368153118009",
-            "MoonTextureId": "",
-            "SkyboxBk": "rbxassetid://137443665258748",
-            "CelestialBodiesShown": false,
-            "SkyboxDn": "rbxassetid://106907389052906",
-            "SkyboxLf": "rbxassetid://113607300469386",
-            "SunTextureId": "rbxasset://sky/sun.jpg",
-            "SunAngularSize": 10,
-            "SkyboxFt": "rbxassetid://86198878822372",
-            "SkyboxRt": "rbxassetid://87644663726388",
-            "MoonAngularSize": 11
-          },
-          "GeographicLatitude": 44,
-          "Ambient": null,
-          "OutdoorAmbient": null,
-          "Atmosphere": {
-            "Density": 0.2800000011920929,
-            "Haze": 2.200000047683716,
-            "Color": null,
-            "Decay": null,
-            "Glare": 1.2200000286102295,
-            "Offset": 0
-          },
-          "FogStart": 9999,
-          "ShadowSoftness": 0.5,
-          "ExposureCompensation": 0
-        },
-        "GateHealth": 0,
-        "Ambience": {
-          "SoundId": "rbxassetid://15304126486"
-        },
-        "Breakables": {
-          "Main": {
-            "Settings": {
-              "RespawnTime": 0.05,
-              "Maximum": 50
-            },
-            "Data": [
-              {
-                "Weight": 41.25,
-                "Type": "Small Coins (Default)"
-              },
-              {
-                "Weight": 80,
-                "Type": "Medium Coins (Default)"
-              },
-              {
-                "Weight": 100,
-                "Type": "Large Coins (Default)"
-              },
-              {
-                "Weight": 30,
-                "Type": "Crate (Default)"
-              },
-              {
-                "Weight": 40,
-                "Type": "Wheel Barrow (Default)"
-              },
-              {
-                "Weight": 20,
-                "Type": "Safe (Default)"
-              }
-            ]
-          }
-        },
-        "WorldNumber": 1,
-        "Currency": "Coins",
-        "MaximumAvailableEgg": 43,
-        "ZoneNumber": 30,
-        "ExtraDropTable": null,
-        "ZoneFolder": null,
-        "ZoneName": "Fossil Digsite"
-      },
-      "dateCreated": null,
-      "dateModified": null,
-      "hash": null,
-      "collection": "Zones"
-    },
-    {
-      "configName": "28 | Shanty Town",
-      "category": "World 1",
-      "configData": {
-        "Breakables": {
-          "Main": {
-            "Settings": {
-              "RespawnTime": 0.05,
-              "Maximum": 35
-            },
-            "Data": [
-              {
-                "Weight": 45,
-                "Type": "Small Coins (Default)"
-              },
-              {
-                "Weight": 80,
-                "Type": "Medium Coins (Default)"
-              },
-              {
-                "Weight": 120,
-                "Type": "Large Coins (Default)"
-              },
-              {
-                "Weight": 65,
-                "Type": "Present (Desert)"
-              },
-              {
-                "Weight": 75,
-                "Type": "Small Barrel (Default)"
-              },
-              {
-                "Weight": 85,
-                "Type": "Large Barrel (Default)"
-              }
-            ]
-          }
-        },
-        "ZoneName": "Shanty Town",
-        "ZoneNumber": 28,
-        "Currency": "Coins",
-        "MaximumAvailableEgg": 40,
-        "GateHealth": 0,
-        "WorldNumber": 1,
-        "ExtraDropTable": null,
-        "ZoneFolder": null,
-        "Lighting": {
-          "ClockTime": 10,
-          "ColorShift_Bottom": null,
-          "FogColor": null,
-          "FogEnd": 9999,
-          "EnvironmentDiffuseScale": 0,
-          "ColorCorrection": {
-            "Enabled": true,
-            "Saturation": 0.6499999761581421,
-            "Contrast": 0.06499999761581421,
-            "TintColor": null,
-            "Brightness": 0.06499999761581421
-          },
-          "Brightness": 1.149999976158142,
-          "ColorShift_Top": null,
-          "Bloom": {
-            "Enabled": true,
-            "Threshold": 1.7999999523162842,
-            "Intensity": 2,
-            "Size": 21
-          },
-          "EnvironmentSpecularScale": 0.25,
-          "Sky": {
-            "StarCount": 0,
-            "SkyboxUp": "rbxassetid://116368153118009",
-            "MoonTextureId": "",
-            "SkyboxBk": "rbxassetid://137443665258748",
-            "CelestialBodiesShown": false,
-            "SkyboxDn": "rbxassetid://106907389052906",
-            "SkyboxLf": "rbxassetid://113607300469386",
-            "SunTextureId": "rbxasset://sky/sun.jpg",
-            "SunAngularSize": 10,
-            "SkyboxFt": "rbxassetid://86198878822372",
-            "SkyboxRt": "rbxassetid://87644663726388",
-            "MoonAngularSize": 11
-          },
-          "GeographicLatitude": 44,
-          "Ambient": null,
-          "OutdoorAmbient": null,
-          "Atmosphere": {
-            "Density": 0.2800000011920929,
-            "Haze": 2,
-            "Color": null,
-            "Decay": null,
-            "Glare": 1.2200000286102295,
-            "Offset": 0
-          },
-          "FogStart": 9999,
-          "ShadowSoftness": 0.5,
-          "ExposureCompensation": 0
-        }
-      },
-      "dateCreated": null,
-      "dateModified": null,
-      "hash": null,
-      "collection": "Zones"
-    },
-    {
-      "configName": "31 | Desert Pyramids",
-      "category": "World 1",
-      "configData": {
-        "Lighting": {
-          "ClockTime": 10,
-          "ColorShift_Bottom": null,
-          "FogColor": null,
-          "FogEnd": 9999,
-          "EnvironmentDiffuseScale": 0,
-          "ColorCorrection": {
-            "Enabled": true,
-            "Saturation": 0.6499999761581421,
-            "Contrast": 0.06499999761581421,
-            "TintColor": null,
-            "Brightness": 0.06499999761581421
-          },
-          "Brightness": 1.149999976158142,
-          "ColorShift_Top": null,
-          "Bloom": {
-            "Enabled": true,
-            "Threshold": 1.7999999523162842,
-            "Intensity": 2,
-            "Size": 21
-          },
-          "EnvironmentSpecularScale": 0.25,
-          "Sky": {
-            "StarCount": 0,
-            "SkyboxUp": "rbxassetid://116368153118009",
-            "MoonTextureId": "",
-            "SkyboxBk": "rbxassetid://137443665258748",
-            "CelestialBodiesShown": false,
-            "SkyboxDn": "rbxassetid://106907389052906",
-            "SkyboxLf": "rbxassetid://113607300469386",
-            "SunTextureId": "rbxasset://sky/sun.jpg",
-            "SunAngularSize": 10,
-            "SkyboxFt": "rbxassetid://86198878822372",
-            "SkyboxRt": "rbxassetid://87644663726388",
-            "MoonAngularSize": 11
-          },
-          "GeographicLatitude": 44,
-          "Ambient": null,
-          "OutdoorAmbient": null,
-          "Atmosphere": {
-            "Density": 0.2800000011920929,
-            "Haze": 2.200000047683716,
-            "Color": null,
-            "Decay": null,
-            "Glare": 1.2200000286102295,
-            "Offset": 0
-          },
-          "FogStart": 9999,
-          "ShadowSoftness": 0.5,
-          "ExposureCompensation": 0
-        },
-        "GateHealth": 0,
-        "Ambience": {
-          "SoundId": "rbxassetid://15304126486"
-        },
-        "Breakables": {
-          "Main": {
-            "Settings": {
-              "RespawnTime": 0.05,
-              "Maximum": 50
-            },
-            "Data": [
-              {
-                "Weight": 37.5,
-                "Type": "Small Coins (Default)"
-              },
-              {
-                "Weight": 70,
-                "Type": "Medium Coins (Default)"
-              },
-              {
-                "Weight": 90,
-                "Type": "Large Coins (Default)"
-              },
-              {
-                "Weight": 40,
-                "Type": "Crate (Desert)"
-              },
-              {
-                "Weight": 18,
-                "Type": "Present (Desert)"
-              }
-            ]
-          }
-        },
-        "Currency": "Coins",
-        "MaximumAvailableEgg": 44,
-        "ZoneNumber": 31,
-        "WorldNumber": 1,
-        "ExtraDropTable": null,
-        "ZoneFolder": null,
-        "ZoneName": "Desert Pyramids"
-      },
-      "dateCreated": null,
-      "dateModified": null,
-      "hash": null,
-      "collection": "Zones"
-    },
-    {
-      "configName": "32 | Red Desert",
-      "category": "World 1",
-      "configData": {
-        "Lighting": {
-          "ClockTime": 10,
-          "ColorShift_Bottom": null,
-          "FogColor": null,
-          "FogEnd": 9999,
-          "EnvironmentDiffuseScale": 0,
-          "ColorCorrection": {
-            "Enabled": true,
-            "Saturation": 0.6499999761581421,
-            "Contrast": 0.06499999761581421,
-            "TintColor": null,
-            "Brightness": 0.06499999761581421
-          },
-          "Brightness": 1.149999976158142,
-          "ColorShift_Top": null,
-          "Bloom": {
-            "Enabled": true,
-            "Threshold": 1.7999999523162842,
-            "Intensity": 2,
-            "Size": 21
-          },
-          "EnvironmentSpecularScale": 0.25,
-          "Sky": {
-            "StarCount": 0,
-            "SkyboxUp": "rbxassetid://116368153118009",
-            "MoonTextureId": "",
-            "SkyboxBk": "rbxassetid://137443665258748",
-            "CelestialBodiesShown": false,
-            "SkyboxDn": "rbxassetid://106907389052906",
-            "SkyboxLf": "rbxassetid://113607300469386",
-            "SunTextureId": "rbxasset://sky/sun.jpg",
-            "SunAngularSize": 10,
-            "SkyboxFt": "rbxassetid://86198878822372",
-            "SkyboxRt": "rbxassetid://87644663726388",
-            "MoonAngularSize": 11
-          },
-          "GeographicLatitude": 44,
-          "Ambient": null,
-          "OutdoorAmbient": null,
-          "Atmosphere": {
-            "Density": 0.2800000011920929,
-            "Haze": 2.1500000953674316,
-            "Color": null,
-            "Decay": null,
-            "Glare": 1.2200000286102295,
-            "Offset": 0
-          },
-          "FogStart": 9999,
-          "ShadowSoftness": 0.5,
-          "ExposureCompensation": 0
-        },
-        "GateHealth": 0,
-        "Ambience": {
-          "SoundId": "rbxassetid://15304126486"
-        },
-        "Breakables": {
-          "Main": {
-            "Settings": {
-              "RespawnTime": 0.05,
-              "Maximum": 35
-            },
-            "Data": [
-              {
-                "Weight": 22.5,
-                "Type": "Small Coins (Default)"
-              },
-              {
-                "Weight": 60,
-                "Type": "Medium Coins (Default)"
-              },
-              {
-                "Weight": 40,
-                "Type": "Large Coins (Default)"
-              },
-              {
-                "Weight": 35,
-                "Type": "Present (Desert)"
+                "Weight": 15,
+                "Type": "Crate (Void Prison)"
               },
               {
                 "Weight": 25,
-                "Type": "Safe (Desert)"
-              },
-              {
-                "Weight": 10,
-                "Type": "Vault (Desert)"
+                "Type": "Present (Void Prison)"
               }
             ]
           }
         },
-        "Currency": "Coins",
-        "MaximumAvailableEgg": 45,
-        "ZoneNumber": 32,
-        "WorldNumber": 1,
+        "Currency": "VoidCoins",
+        "ZoneName": "Prison Block",
+        "ZoneNumber": 201,
         "ExtraDropTable": null,
-        "ZoneFolder": null,
-        "ZoneName": "Red Desert"
+        "MaximumAvailableEgg": 214,
+        "WorldNumber": 3
       },
       "dateCreated": null,
       "dateModified": null,
@@ -1038,63 +44,476 @@
       "collection": "Zones"
     },
     {
-      "configName": "33 | Wild West",
-      "category": "World 1",
+      "configName": "202 | Prison Cafeteria",
+      "category": "Update 12",
       "configData": {
-        "Lighting": {
-          "ClockTime": 10,
-          "ColorShift_Bottom": null,
-          "FogColor": null,
-          "FogEnd": 9999,
-          "EnvironmentDiffuseScale": 0,
-          "ColorCorrection": {
-            "Enabled": true,
-            "Saturation": 0.6499999761581421,
-            "Contrast": 0.06499999761581421,
-            "TintColor": null,
-            "Brightness": 0.06499999761581421
-          },
-          "Brightness": 1.149999976158142,
-          "ColorShift_Top": null,
-          "Bloom": {
-            "Enabled": true,
-            "Threshold": 1.7999999523162842,
-            "Intensity": 2,
-            "Size": 21
-          },
-          "EnvironmentSpecularScale": 0.25,
-          "Sky": {
-            "StarCount": 0,
-            "SkyboxUp": "rbxassetid://116368153118009",
-            "MoonTextureId": "",
-            "SkyboxBk": "rbxassetid://137443665258748",
-            "CelestialBodiesShown": false,
-            "SkyboxDn": "rbxassetid://106907389052906",
-            "SkyboxLf": "rbxassetid://113607300469386",
-            "SunTextureId": "rbxasset://sky/sun.jpg",
-            "SunAngularSize": 10,
-            "SkyboxFt": "rbxassetid://86198878822372",
-            "SkyboxRt": "rbxassetid://87644663726388",
-            "MoonAngularSize": 11
-          },
-          "GeographicLatitude": 44,
-          "Ambient": null,
-          "OutdoorAmbient": null,
-          "Atmosphere": {
-            "Density": 0.25999999046325684,
-            "Haze": 2.0999999046325684,
-            "Color": null,
-            "Decay": null,
-            "Glare": 1.2200000286102295,
-            "Offset": 0
-          },
-          "FogStart": 9999,
-          "ShadowSoftness": 0.5,
-          "ExposureCompensation": 0
+        "CannonGroupId": 1,
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 4,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 6,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 18,
+                "Type": "Crate (Void Prison)"
+              },
+              {
+                "Weight": 15,
+                "Type": "Present (Void Prison)"
+              },
+              {
+                "Weight": 5,
+                "Type": "Safe (Void Prison)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Void Prison)"
+              }
+            ]
+          }
         },
-        "GateHealth": 0,
+        "Currency": "VoidCoins",
+        "ZoneName": "Prison Cafeteria",
+        "ZoneNumber": 202,
+        "ExtraDropTable": null,
+        "MaximumAvailableEgg": 215,
+        "WorldNumber": 3
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "203 | Prison Yard",
+      "category": "Update 12",
+      "configData": {
+        "CannonGroupId": 1,
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 2,
+                "Type": "Small Coins (Void)"
+              },
+              {
+                "Weight": 5,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 6,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 20,
+                "Type": "Crate (Void Prison)"
+              },
+              {
+                "Weight": 15,
+                "Type": "Present (Void Prison)"
+              },
+              {
+                "Weight": 5,
+                "Type": "Safe (Void Prison)"
+              }
+            ]
+          }
+        },
+        "Currency": "VoidCoins",
+        "ZoneName": "Prison Yard",
+        "ZoneNumber": 203,
+        "ExtraDropTable": null,
+        "MaximumAvailableEgg": 215,
+        "WorldNumber": 3
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "204 | Prison HQ",
+      "category": "Update 12",
+      "configData": {
+        "Chests": {
+          "Boss": {
+            "RespawnTime": 300,
+            "Requirement": null,
+            "Data": [
+              {
+                "Rotation": 90,
+                "Type": "PoliceChest",
+                "Weight": 100
+              }
+            ],
+            "DifficultyScale": 66
+          }
+        },
+        "ZoneName": "Prison HQ",
+        "LinkedOwnership": "Beach Island",
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 2,
+                "Type": "Small Coins (Void)"
+              },
+              {
+                "Weight": 6,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 11,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 18,
+                "Type": "Crate (Void Prison)"
+              },
+              {
+                "Weight": 18,
+                "Type": "Present (Void Prison)"
+              },
+              {
+                "Weight": 4,
+                "Type": "Safe (Void Prison)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Void Prison)"
+              }
+            ]
+          },
+          "HQ": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Requirement": null,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 4,
+                "Type": "Small Coins (Void)"
+              },
+              {
+                "Weight": 4,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 4,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 20,
+                "Type": "Crate (Void Prison)"
+              },
+              {
+                "Weight": 15,
+                "Type": "Present (Void Prison)"
+              },
+              {
+                "Weight": 5,
+                "Type": "Safe (Void Prison)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Void Prison)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 204,
+        "MaximumAvailableEgg": 216,
+        "ExtraDropTable": null,
+        "CannonGroupId": 1
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "205 | Beach Island",
+      "category": "Update 14",
+      "configData": {
+        "ZoneName": "Beach Island",
+        "MaximumAvailableEgg": 217,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 15,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 40,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 15,
+                "Type": "Crate (Summer)"
+              },
+              {
+                "Weight": 25,
+                "Type": "Present (Summer)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 205,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 2
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "206 | Ocean Island",
+      "category": "Update 14",
+      "configData": {
+        "ZoneName": "Ocean Island",
+        "MaximumAvailableEgg": 218,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 4,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 6,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 18,
+                "Type": "Crate (Summer)"
+              },
+              {
+                "Weight": 15,
+                "Type": "Present (Summer)"
+              },
+              {
+                "Weight": 5,
+                "Type": "Safe (Summer)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Summer)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 206,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 2
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "207 | Tiki Island",
+      "category": "Update 14",
+      "configData": {
+        "ZoneName": "Tiki Island",
+        "MaximumAvailableEgg": 219,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 2,
+                "Type": "Small Coins (Void)"
+              },
+              {
+                "Weight": 5,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 6,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 20,
+                "Type": "Crate (Summer)"
+              },
+              {
+                "Weight": 15,
+                "Type": "Present (Summer)"
+              },
+              {
+                "Weight": 5,
+                "Type": "Safe (Summer)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 207,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 2
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "208 | Jungle Island",
+      "category": "Update 14",
+      "configData": {
+        "ZoneName": "Jungle Island",
+        "MaximumAvailableEgg": 220,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 6,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 11,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 10,
+                "Type": "Crate (Summer)"
+              },
+              {
+                "Weight": 18,
+                "Type": "Present (Summer)"
+              },
+              {
+                "Weight": 4,
+                "Type": "Safe (Summer)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Summer)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 208,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 2
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "209 | Volcano Island",
+      "category": "Update 14",
+      "configData": {
+        "ZoneName": "Volcano Island",
+        "LinkedOwnership": "Hacker Matrix",
+        "MaximumAvailableEgg": 221,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "TeleportToZoneOnFall": true,
+        "ZoneNumber": 209,
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 6,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 11,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 12,
+                "Type": "Crate (Summer)"
+              },
+              {
+                "Weight": 10,
+                "Type": "Present (Summer)"
+              },
+              {
+                "Weight": 5,
+                "Type": "Safe (Summer)"
+              },
+              {
+                "Weight": 5,
+                "Type": "Vault (Summer)"
+              }
+            ]
+          }
+        },
+        "ExtraDropTable": null,
+        "CannonGroupId": 2
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "210 | Hacker Matrix",
+      "category": "Update 15",
+      "configData": {
+        "CannonGroupId": 3,
+        "ZoneName": "Hacker Matrix",
+        "MaximumAvailableEgg": 222,
         "Ambience": {
-          "SoundId": "rbxassetid://15304126486"
+          "SoundId": "rbxassetid://17757287705"
         },
         "Breakables": {
           "Main": {
@@ -1104,54 +523,34 @@
             },
             "Data": [
               {
-                "Weight": 18.75,
-                "Type": "Small Coins (Default)"
+                "Weight": 10,
+                "Type": "Medium Coins (Void)"
               },
               {
-                "Weight": 40,
-                "Type": "Medium Coins (Default)"
+                "Weight": 20,
+                "Type": "Large Coins (Void)"
               },
               {
-                "Weight": 30,
-                "Type": "Large Coins (Default)"
+                "Weight": 15,
+                "Type": "Crate (Hacker)"
               },
               {
-                "Weight": 45,
-                "Type": "Crate (Desert)"
-              },
-              {
-                "Weight": 23,
-                "Type": "Small Barrel (Default)"
-              },
-              {
-                "Weight": 18,
-                "Type": "Large Barrel (Default)"
+                "Weight": 25,
+                "Type": "Present (Hacker)"
               }
             ]
           }
         },
-        "Currency": "Coins",
-        "MaximumAvailableEgg": 46,
-        "ZoneNumber": 33,
-        "WorldNumber": 1,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "TeleportToZoneOnFall": true,
+        "ZoneNumber": 210,
         "ExtraDropTable": null,
-        "ZoneFolder": null,
-        "ZoneName": "Wild West"
-      },
-      "dateCreated": null,
-      "dateModified": null,
-      "hash": null,
-      "collection": "Zones"
-    },
-    {
-      "configName": "34 | Grand Canyons",
-      "category": "World 1",
-      "configData": {
         "Lighting": {
           "ClockTime": 10,
           "ColorShift_Bottom": null,
           "FogColor": null,
-          "FogEnd": 9999,
+          "FogEnd": 1250,
           "EnvironmentDiffuseScale": 0,
           "ColorCorrection": {
             "Enabled": true,
@@ -1170,17 +569,759 @@
           },
           "EnvironmentSpecularScale": 0.25,
           "Sky": {
-            "StarCount": 0,
-            "SkyboxUp": "rbxassetid://116368153118009",
+            "StarCount": 5000,
+            "SkyboxUp": "rbxassetid://17772558296",
             "MoonTextureId": "",
-            "SkyboxBk": "rbxassetid://137443665258748",
+            "SkyboxBk": "rbxassetid://17772580552",
+            "CelestialBodiesShown": true,
+            "SkyboxDn": "rbxassetid://17772564686",
+            "SkyboxLf": "rbxassetid://17772560612",
+            "SunTextureId": "",
+            "SunAngularSize": 0,
+            "SkyboxFt": "rbxassetid://17772563529",
+            "SkyboxRt": "rbxassetid://17772559199",
+            "MoonAngularSize": 0
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.25,
+            "Haze": 0,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 150,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        }
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "213 | Hacker Lab",
+      "category": "Update 15",
+      "configData": {
+        "CannonGroupId": 3,
+        "ZoneName": "Hacker Lab",
+        "MaximumAvailableEgg": 225,
+        "Ambience": {
+          "SoundId": "rbxassetid://17757287705"
+        },
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 5,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 11,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 18,
+                "Type": "Crate (Hacker)"
+              },
+              {
+                "Weight": 20,
+                "Type": "Present (Hacker)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Hacker)"
+              }
+            ]
+          }
+        },
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "TeleportToZoneOnFall": true,
+        "ZoneNumber": 213,
+        "ExtraDropTable": null,
+        "Lighting": {
+          "ClockTime": 10,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 1250,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.149999976158142,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 5000,
+            "SkyboxUp": "rbxassetid://17772558296",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://17772580552",
+            "CelestialBodiesShown": true,
+            "SkyboxDn": "rbxassetid://17772564686",
+            "SkyboxLf": "rbxassetid://17772560612",
+            "SunTextureId": "",
+            "SunAngularSize": 0,
+            "SkyboxFt": "rbxassetid://17772563529",
+            "SkyboxRt": "rbxassetid://17772559199",
+            "MoonAngularSize": 0
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.25,
+            "Haze": 0,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 150,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        }
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "214 | Hacker Mainframe",
+      "category": "Update 15",
+      "configData": {
+        "LinkedOwnership": "Dirt Village",
+        "Lighting": {
+          "ClockTime": 10,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 1250,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.149999976158142,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 5000,
+            "SkyboxUp": "rbxassetid://17772558296",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://17772580552",
+            "CelestialBodiesShown": true,
+            "SkyboxDn": "rbxassetid://17772564686",
+            "SkyboxLf": "rbxassetid://17772560612",
+            "SunTextureId": "",
+            "SunAngularSize": 0,
+            "SkyboxFt": "rbxassetid://17772563529",
+            "SkyboxRt": "rbxassetid://17772559199",
+            "MoonAngularSize": 0
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.25,
+            "Haze": 0,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 150,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        },
+        "MaximumAvailableEgg": 226,
+        "Ambience": {
+          "SoundId": "rbxassetid://17757287705"
+        },
+        "TeleportToZoneOnFall": true,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 15,
+                "Type": "Crate (Hacker)"
+              },
+              {
+                "Weight": 25,
+                "Type": "Present (Hacker)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 214,
+        "ExtraDropTable": null,
+        "CannonGroupId": 3,
+        "ZoneName": "Hacker Mainframe"
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "211 | Hacker Fortress",
+      "category": "Update 15",
+      "configData": {
+        "CannonGroupId": 3,
+        "ZoneName": "Hacker Fortress",
+        "MaximumAvailableEgg": 223,
+        "Ambience": {
+          "SoundId": "rbxassetid://17757287705"
+        },
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 4,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 7,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 10,
+                "Type": "Crate (Hacker)"
+              },
+              {
+                "Weight": 18,
+                "Type": "Present (Hacker)"
+              },
+              {
+                "Weight": 4,
+                "Type": "Safe (Hacker)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Hacker)"
+              }
+            ]
+          }
+        },
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "TeleportToZoneOnFall": true,
+        "ZoneNumber": 211,
+        "ExtraDropTable": null,
+        "Lighting": {
+          "ClockTime": 10,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 1250,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.149999976158142,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 5000,
+            "SkyboxUp": "rbxassetid://17772558296",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://17772580552",
+            "CelestialBodiesShown": true,
+            "SkyboxDn": "rbxassetid://17772564686",
+            "SkyboxLf": "rbxassetid://17772560612",
+            "SunTextureId": "",
+            "SunAngularSize": 0,
+            "SkyboxFt": "rbxassetid://17772563529",
+            "SkyboxRt": "rbxassetid://17772559199",
+            "MoonAngularSize": 0
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.25,
+            "Haze": 0,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 150,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        }
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "212 | Hacker Cave",
+      "category": "Update 15",
+      "configData": {
+        "CannonGroupId": 3,
+        "ZoneName": "Hacker Cave",
+        "MaximumAvailableEgg": 224,
+        "Ambience": {
+          "SoundId": "rbxassetid://17757287705"
+        },
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 6,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 11,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 12,
+                "Type": "Crate (Hacker)"
+              },
+              {
+                "Weight": 10,
+                "Type": "Present (Hacker)"
+              },
+              {
+                "Weight": 5,
+                "Type": "Safe (Hacker)"
+              },
+              {
+                "Weight": 5,
+                "Type": "Vault (Hacker)"
+              }
+            ]
+          }
+        },
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "TeleportToZoneOnFall": true,
+        "ZoneNumber": 212,
+        "ExtraDropTable": null,
+        "Lighting": {
+          "ClockTime": 10,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 1250,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.149999976158142,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 5000,
+            "SkyboxUp": "rbxassetid://17772558296",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://17772580552",
+            "CelestialBodiesShown": true,
+            "SkyboxDn": "rbxassetid://17772564686",
+            "SkyboxLf": "rbxassetid://17772560612",
+            "SunTextureId": "",
+            "SunAngularSize": 0,
+            "SkyboxFt": "rbxassetid://17772563529",
+            "SkyboxRt": "rbxassetid://17772559199",
+            "MoonAngularSize": 0
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.25,
+            "Haze": 0,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 150,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        }
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "215 | Dirt Village",
+      "category": "Update 21",
+      "configData": {
+        "ZoneName": "Dirt Village",
+        "Ambience": {
+          "SoundId": "rbxassetid://18571690993"
+        },
+        "MaximumAvailableEgg": 227,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 10,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 20,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 15,
+                "Type": "Crate (Millionaire)"
+              },
+              {
+                "Weight": 25,
+                "Type": "Present (Millionaire)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 215,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 4
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "216 | Stone Forts",
+      "category": "Update 21",
+      "configData": {
+        "ZoneName": "Stone Forts",
+        "Ambience": {
+          "SoundId": "rbxassetid://18571690993"
+        },
+        "MaximumAvailableEgg": 228,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 6,
+                "Type": "Small Coins (Void)"
+              },
+              {
+                "Weight": 10,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 10,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 10,
+                "Type": "Crate (Millionaire)"
+              },
+              {
+                "Weight": 18,
+                "Type": "Present (Millionaire)"
+              },
+              {
+                "Weight": 4,
+                "Type": "Safe (Millionaire)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Millionaire)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 216,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 4
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "217 | Silver City",
+      "category": "Update 21",
+      "configData": {
+        "ZoneName": "Silver City",
+        "Ambience": {
+          "SoundId": "rbxassetid://18571690993"
+        },
+        "MaximumAvailableEgg": 229,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 6,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 11,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 12,
+                "Type": "Crate (Millionaire)"
+              },
+              {
+                "Weight": 10,
+                "Type": "Present (Millionaire)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Safe (Millionaire)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Millionaire)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 217,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 4
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "218 | Golden Metropolis",
+      "category": "Update 21",
+      "configData": {
+        "ZoneName": "Golden Metropolis",
+        "Ambience": {
+          "SoundId": "rbxassetid://18571690993"
+        },
+        "MaximumAvailableEgg": 230,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 5,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 11,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 15,
+                "Type": "Crate (Millionaire)"
+              },
+              {
+                "Weight": 17,
+                "Type": "Present (Millionaire)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Millionaire)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 218,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 4
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "219 | Diamond Mega City",
+      "category": "Update 21",
+      "configData": {
+        "ZoneName": "Diamond Mega City",
+        "LinkedOwnership": "Kawaii Tokyo",
+        "Ambience": {
+          "SoundId": "rbxassetid://18571690993"
+        },
+        "MaximumAvailableEgg": 231,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "TeleportToZoneOnFall": true,
+        "ZoneNumber": 219,
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 2,
+                "Type": "Small Coins (Void)"
+              },
+              {
+                "Weight": 6,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 11,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 18,
+                "Type": "Crate (Millionaire)"
+              },
+              {
+                "Weight": 18,
+                "Type": "Present (Millionaire)"
+              },
+              {
+                "Weight": 4,
+                "Type": "Safe (Millionaire)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Millionaire)"
+              }
+            ]
+          }
+        },
+        "ExtraDropTable": null,
+        "CannonGroupId": 4
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "220 | Kawaii Tokyo",
+      "category": "Update 26",
+      "configData": {
+        "ZoneName": "Kawaii Tokyo",
+        "MaximumAvailableEgg": 232,
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 10,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 20,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 18,
+                "Type": "Crate (Kawaii)"
+              },
+              {
+                "Weight": 25,
+                "Type": "Present (Kawaii)"
+              }
+            ]
+          }
+        },
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "TeleportToZoneOnFall": true,
+        "ZoneNumber": 220,
+        "ExtraDropTable": null,
+        "CannonGroupId": 5,
+        "Lighting": {
+          "ClockTime": 8,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.15,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://12818718962",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://12818719882",
             "CelestialBodiesShown": false,
-            "SkyboxDn": "rbxassetid://106907389052906",
-            "SkyboxLf": "rbxassetid://113607300469386",
-            "SunTextureId": "rbxasset://sky/sun.jpg",
+            "SkyboxDn": "rbxassetid://12818719690",
+            "SkyboxLf": "rbxassetid://12818719325",
+            "SunTextureId": "",
             "SunAngularSize": 10,
-            "SkyboxFt": "rbxassetid://86198878822372",
-            "SkyboxRt": "rbxassetid://87644663726388",
+            "SkyboxFt": "rbxassetid://12818719503",
+            "SkyboxRt": "rbxassetid://12818719180",
             "MoonAngularSize": 11
           },
           "GeographicLatitude": 44,
@@ -1188,7 +1329,7 @@
           "OutdoorAmbient": null,
           "Atmosphere": {
             "Density": 0.25,
-            "Haze": 2.049999952316284,
+            "Haze": 0,
             "Color": null,
             "Decay": null,
             "Glare": 1.2200000286102295,
@@ -1197,11 +1338,16 @@
           "FogStart": 9999,
           "ShadowSoftness": 0.5,
           "ExposureCompensation": 0
-        },
-        "GateHealth": 0,
-        "Ambience": {
-          "SoundId": "rbxassetid://15304126486"
-        },
+        }
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "221 | Kawaii Village",
+      "category": "Update 26",
+      "configData": {
+        "ZoneName": "Kawaii Village",
+        "MaximumAvailableEgg": 233,
         "Breakables": {
           "Main": {
             "Settings": {
@@ -1210,51 +1356,44 @@
             },
             "Data": [
               {
-                "Weight": 15,
-                "Type": "Small Coins (Default)"
+                "Weight": 6,
+                "Type": "Small Coins (Void)"
               },
               {
-                "Weight": 50,
-                "Type": "Medium Coins (Default)"
+                "Weight": 12,
+                "Type": "Medium Coins (Void)"
               },
               {
-                "Weight": 30,
-                "Type": "Large Coins (Default)"
+                "Weight": 14,
+                "Type": "Large Coins (Void)"
               },
               {
-                "Weight": 30,
-                "Type": "Crate (Desert)"
+                "Weight": 10,
+                "Type": "Crate (Kawaii)"
               },
               {
-                "Weight": 28,
-                "Type": "Safe (Desert)"
+                "Weight": 18,
+                "Type": "Present (Kawaii)"
               },
               {
-                "Weight": 35,
-                "Type": "Vault (Desert)"
+                "Weight": 4,
+                "Type": "Safe (Kawaii)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Kawaii)"
               }
             ]
           }
         },
-        "Currency": "Coins",
-        "MaximumAvailableEgg": 47,
-        "ZoneNumber": 34,
-        "WorldNumber": 1,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "TeleportToZoneOnFall": true,
+        "ZoneNumber": 221,
         "ExtraDropTable": null,
-        "ZoneFolder": null,
-        "ZoneName": "Grand Canyons"
-      },
-      "dateCreated": null,
-      "dateModified": null,
-      "hash": null,
-      "collection": "Zones"
-    },
-    {
-      "configName": "45 | Lava Forest",
-      "category": "World 1",
-      "configData": {
+        "CannonGroupId": 5,
         "Lighting": {
-          "ClockTime": 10,
+          "ClockTime": 8,
           "ColorShift_Bottom": null,
           "FogColor": null,
           "FogEnd": 9999,
@@ -1266,7 +1405,7 @@
             "TintColor": null,
             "Brightness": 0.06499999761581421
           },
-          "Brightness": 1.149999976158142,
+          "Brightness": 1.15,
           "ColorShift_Top": null,
           "Bloom": {
             "Enabled": true,
@@ -1277,24 +1416,24 @@
           "EnvironmentSpecularScale": 0.25,
           "Sky": {
             "StarCount": 0,
-            "SkyboxUp": "rbxassetid://116368153118009",
+            "SkyboxUp": "rbxassetid://12818718962",
             "MoonTextureId": "",
-            "SkyboxBk": "rbxassetid://137443665258748",
+            "SkyboxBk": "rbxassetid://12818719882",
             "CelestialBodiesShown": false,
-            "SkyboxDn": "rbxassetid://106907389052906",
-            "SkyboxLf": "rbxassetid://113607300469386",
-            "SunTextureId": "rbxasset://sky/sun.jpg",
+            "SkyboxDn": "rbxassetid://12818719690",
+            "SkyboxLf": "rbxassetid://12818719325",
+            "SunTextureId": "",
             "SunAngularSize": 10,
-            "SkyboxFt": "rbxassetid://86198878822372",
-            "SkyboxRt": "rbxassetid://87644663726388",
+            "SkyboxFt": "rbxassetid://12818719503",
+            "SkyboxRt": "rbxassetid://12818719180",
             "MoonAngularSize": 11
           },
           "GeographicLatitude": 44,
           "Ambient": null,
           "OutdoorAmbient": null,
           "Atmosphere": {
-            "Density": 0.367000013589859,
-            "Haze": 2.7899999618530273,
+            "Density": 0.25,
+            "Haze": 0,
             "Color": null,
             "Decay": null,
             "Glare": 1.2200000286102295,
@@ -1303,11 +1442,16 @@
           "FogStart": 9999,
           "ShadowSoftness": 0.5,
           "ExposureCompensation": 0
-        },
-        "GateHealth": 0,
-        "Ambience": {
-          "SoundId": "rbxassetid://15115177373"
-        },
+        }
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "222 | Kawaii Grove",
+      "category": "Update 26",
+      "configData": {
+        "ZoneName": "Kawaii Grove",
+        "MaximumAvailableEgg": 234,
         "Breakables": {
           "Main": {
             "Settings": {
@@ -1316,48 +1460,191 @@
             },
             "Data": [
               {
-                "Weight": 52.5,
-                "Type": "Small Coins (Default)"
+                "Weight": 6,
+                "Type": "Medium Coins (Void)"
               },
               {
-                "Weight": 80,
-                "Type": "Medium Coins (Default)"
+                "Weight": 11,
+                "Type": "Large Coins (Void)"
               },
               {
-                "Weight": 100,
-                "Type": "Large Coins (Default)"
+                "Weight": 12,
+                "Type": "Crate (Kawaii)"
               },
               {
-                "Weight": 40,
-                "Type": "Crate (Magma)"
+                "Weight": 13,
+                "Type": "Present (Kawaii)"
               },
               {
-                "Weight": 50,
-                "Type": "Present (Magma)"
+                "Weight": 3,
+                "Type": "Safe (Kawaii)"
               },
               {
-                "Weight": 30,
-                "Type": "Safe (Magma)"
+                "Weight": 3,
+                "Type": "Vault (Kawaii)"
               }
             ]
           }
         },
-        "Currency": "Coins",
-        "MaximumAvailableEgg": 58,
-        "ZoneNumber": 45,
-        "WorldNumber": 1,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "TeleportToZoneOnFall": true,
+        "ZoneNumber": 222,
         "ExtraDropTable": null,
-        "ZoneFolder": null,
-        "ZoneName": "Lava Forest"
+        "CannonGroupId": 5,
+        "Lighting": {
+          "ClockTime": 8,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.15,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://12818718962",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://12818719882",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://12818719690",
+            "SkyboxLf": "rbxassetid://12818719325",
+            "SunTextureId": "",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://12818719503",
+            "SkyboxRt": "rbxassetid://12818719180",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.25,
+            "Haze": 0,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        }
       },
-      "dateCreated": null,
-      "dateModified": null,
-      "hash": null,
       "collection": "Zones"
     },
     {
-      "configName": "46 | Underworld",
-      "category": "World 1",
+      "configName": "223 | Kawaii Dreamland",
+      "category": "Update 26",
+      "configData": {
+        "ZoneName": "Kawaii Dreamland",
+        "MaximumAvailableEgg": 235,
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 4,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 12,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 15,
+                "Type": "Crate (Kawaii)"
+              },
+              {
+                "Weight": 17,
+                "Type": "Present (Kawaii)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Kawaii)"
+              }
+            ]
+          }
+        },
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "TeleportToZoneOnFall": true,
+        "ZoneNumber": 223,
+        "ExtraDropTable": null,
+        "CannonGroupId": 5,
+        "Lighting": {
+          "ClockTime": 8,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.15,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://12818718962",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://12818719882",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://12818719690",
+            "SkyboxLf": "rbxassetid://12818719325",
+            "SunTextureId": "",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://12818719503",
+            "SkyboxRt": "rbxassetid://12818719180",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0.25,
+            "Haze": 0,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        }
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "224 | Kawaii Temple",
+      "category": "Update 26",
       "configData": {
         "Chests": {
           "Boss": {
@@ -1365,173 +1652,18 @@
             "Data": [
               {
                 "Rotation": 90,
-                "Type": "HellChest",
+                "Type": "KawaiiChest",
                 "Weight": 100
               }
             ]
           }
         },
-        "Lighting": {
-          "ClockTime": 10,
-          "ColorShift_Bottom": null,
-          "FogColor": null,
-          "FogEnd": 9999,
-          "EnvironmentDiffuseScale": 0,
-          "ColorCorrection": {
-            "Enabled": true,
-            "Saturation": 0.6499999761581421,
-            "Contrast": 0.06499999761581421,
-            "TintColor": null,
-            "Brightness": 0.06499999761581421
-          },
-          "Brightness": 1.149999976158142,
-          "ColorShift_Top": null,
-          "Bloom": {
-            "Enabled": true,
-            "Threshold": 1.7999999523162842,
-            "Intensity": 2,
-            "Size": 21
-          },
-          "EnvironmentSpecularScale": 0.25,
-          "Sky": {
-            "StarCount": 0,
-            "SkyboxUp": "rbxassetid://116368153118009",
-            "MoonTextureId": "",
-            "SkyboxBk": "rbxassetid://137443665258748",
-            "CelestialBodiesShown": false,
-            "SkyboxDn": "rbxassetid://106907389052906",
-            "SkyboxLf": "rbxassetid://113607300469386",
-            "SunTextureId": "rbxasset://sky/sun.jpg",
-            "SunAngularSize": 10,
-            "SkyboxFt": "rbxassetid://86198878822372",
-            "SkyboxRt": "rbxassetid://87644663726388",
-            "MoonAngularSize": 11
-          },
-          "GeographicLatitude": 44,
-          "Ambient": null,
-          "OutdoorAmbient": null,
-          "Atmosphere": {
-            "Density": 0.367000013589859,
-            "Haze": 2.7899999618530273,
-            "Color": null,
-            "Decay": null,
-            "Glare": 1.2200000286102295,
-            "Offset": 0
-          },
-          "FogStart": 9999,
-          "ShadowSoftness": 0.5,
-          "ExposureCompensation": 0
-        },
-        "GateHealth": 0,
-        "Ambience": {
-          "SoundId": "rbxassetid://15115177373"
-        },
-        "Breakables": {
-          "Main": {
-            "Settings": {
-              "RespawnTime": 0.05,
-              "Maximum": 50
-            },
-            "Data": [
-              {
-                "Weight": 7.5,
-                "Type": "Small Coins (Default)"
-              },
-              {
-                "Weight": 40,
-                "Type": "Medium Coins (Default)"
-              },
-              {
-                "Weight": 50,
-                "Type": "Large Coins (Default)"
-              },
-              {
-                "Weight": 50,
-                "Type": "Crate (Magma)"
-              },
-              {
-                "Weight": 30,
-                "Type": "Safe (Magma)"
-              },
-              {
-                "Weight": 20,
-                "Type": "Vault (Magma)"
-              }
-            ]
-          }
-        },
-        "WorldNumber": 1,
-        "Currency": "Coins",
-        "MaximumAvailableEgg": 59,
-        "ZoneNumber": 46,
-        "ExtraDropTable": null,
-        "ZoneFolder": null,
-        "ZoneName": "Underworld"
-      },
-      "dateCreated": null,
-      "dateModified": null,
-      "hash": null,
-      "collection": "Zones"
-    },
-    {
-      "configName": "47 | Underworld Bridge",
-      "category": "World 1",
-      "configData": {
-        "Lighting": {
-          "ClockTime": 10,
-          "ColorShift_Bottom": null,
-          "FogColor": null,
-          "FogEnd": 9999,
-          "EnvironmentDiffuseScale": 0,
-          "ColorCorrection": {
-            "Enabled": true,
-            "Saturation": 0.6499999761581421,
-            "Contrast": 0.06499999761581421,
-            "TintColor": null,
-            "Brightness": 0.06499999761581421
-          },
-          "Brightness": 1.149999976158142,
-          "ColorShift_Top": null,
-          "Bloom": {
-            "Enabled": true,
-            "Threshold": 1.7999999523162842,
-            "Intensity": 2,
-            "Size": 21
-          },
-          "EnvironmentSpecularScale": 0.25,
-          "Sky": {
-            "StarCount": 0,
-            "SkyboxUp": "rbxassetid://116368153118009",
-            "MoonTextureId": "",
-            "SkyboxBk": "rbxassetid://137443665258748",
-            "CelestialBodiesShown": false,
-            "SkyboxDn": "rbxassetid://106907389052906",
-            "SkyboxLf": "rbxassetid://113607300469386",
-            "SunTextureId": "rbxasset://sky/sun.jpg",
-            "SunAngularSize": 10,
-            "SkyboxFt": "rbxassetid://86198878822372",
-            "SkyboxRt": "rbxassetid://87644663726388",
-            "MoonAngularSize": 11
-          },
-          "GeographicLatitude": 44,
-          "Ambient": null,
-          "OutdoorAmbient": null,
-          "Atmosphere": {
-            "Density": 0.367000013589859,
-            "Haze": 2.7899999618530273,
-            "Color": null,
-            "Decay": null,
-            "Glare": 1.2200000286102295,
-            "Offset": 0
-          },
-          "FogStart": 9999,
-          "ShadowSoftness": 0.5,
-          "ExposureCompensation": 0
-        },
-        "GateHealth": 0,
-        "Ambience": {
-          "SoundId": "rbxassetid://15115177373"
-        },
+        "ZoneName": "Kawaii Temple",
+        "LinkedOwnership": "Grassy Plains",
+        "MaximumAvailableEgg": 236,
+        "TeleportToZoneOnFall": true,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
         "Breakables": {
           "Main": {
             "Settings": {
@@ -1540,49 +1672,39 @@
             },
             "Data": [
               {
-                "Weight": 22.5,
-                "Type": "Small Coins (Default)"
+                "Weight": 2,
+                "Type": "Small Coins (Void)"
               },
               {
-                "Weight": 30,
-                "Type": "Medium Coins (Default)"
+                "Weight": 6,
+                "Type": "Medium Coins (Void)"
               },
               {
-                "Weight": 40,
-                "Type": "Large Coins (Default)"
+                "Weight": 11,
+                "Type": "Large Coins (Void)"
               },
               {
-                "Weight": 60,
-                "Type": "Present (Magma)"
+                "Weight": 18,
+                "Type": "Crate (Kawaii)"
               },
               {
-                "Weight": 10,
-                "Type": "Safe (Magma)"
+                "Weight": 18,
+                "Type": "Present (Kawaii)"
               },
               {
-                "Weight": 20,
-                "Type": "Vault (Magma)"
+                "Weight": 4,
+                "Type": "Safe (Kawaii)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Kawaii)"
               }
             ]
           }
         },
-        "Currency": "Coins",
-        "MaximumAvailableEgg": 60,
-        "ZoneNumber": 47,
-        "WorldNumber": 1,
+        "ZoneNumber": 224,
         "ExtraDropTable": null,
-        "ZoneFolder": null,
-        "ZoneName": "Underworld Bridge"
-      },
-      "dateCreated": null,
-      "dateModified": null,
-      "hash": null,
-      "collection": "Zones"
-    },
-    {
-      "configName": "48 | Underworld Castle",
-      "category": "World 1",
-      "configData": {
+        "CannonGroupId": 5,
         "Lighting": {
           "ClockTime": 10,
           "ColorShift_Bottom": null,
@@ -1596,7 +1718,7 @@
             "TintColor": null,
             "Brightness": 0.06499999761581421
           },
-          "Brightness": 1.149999976158142,
+          "Brightness": 1.15,
           "ColorShift_Top": null,
           "Bloom": {
             "Enabled": true,
@@ -1607,24 +1729,24 @@
           "EnvironmentSpecularScale": 0.25,
           "Sky": {
             "StarCount": 0,
-            "SkyboxUp": "rbxassetid://116368153118009",
+            "SkyboxUp": "rbxassetid://12818718962",
             "MoonTextureId": "",
-            "SkyboxBk": "rbxassetid://137443665258748",
+            "SkyboxBk": "rbxassetid://12818719882",
             "CelestialBodiesShown": false,
-            "SkyboxDn": "rbxassetid://106907389052906",
-            "SkyboxLf": "rbxassetid://113607300469386",
-            "SunTextureId": "rbxasset://sky/sun.jpg",
+            "SkyboxDn": "rbxassetid://12818719690",
+            "SkyboxLf": "rbxassetid://12818719325",
+            "SunTextureId": "",
             "SunAngularSize": 10,
-            "SkyboxFt": "rbxassetid://86198878822372",
-            "SkyboxRt": "rbxassetid://87644663726388",
+            "SkyboxFt": "rbxassetid://12818719503",
+            "SkyboxRt": "rbxassetid://12818719180",
             "MoonAngularSize": 11
           },
           "GeographicLatitude": 44,
           "Ambient": null,
           "OutdoorAmbient": null,
           "Atmosphere": {
-            "Density": 0.367000013589859,
-            "Haze": 2.7899999618530273,
+            "Density": 0.25,
+            "Haze": 0,
             "Color": null,
             "Decay": null,
             "Glare": 1.2200000286102295,
@@ -1633,66 +1755,559 @@
           "FogStart": 9999,
           "ShadowSoftness": 0.5,
           "ExposureCompensation": 0
-        },
-        "GateHealth": 0,
-        "Ambience": {
-          "SoundId": "rbxassetid://15115177373"
-        },
+        }
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "225 | Grassy Plains",
+      "category": "Update 29",
+      "configData": {
+        "ZoneName": "Grassy Plains",
+        "MaximumAvailableEgg": 237,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
         "Breakables": {
           "Main": {
             "Settings": {
               "RespawnTime": 0.05,
-              "Maximum": 50
+              "Maximum": 35
             },
             "Data": [
               {
-                "Weight": 11.25,
-                "Type": "Small Coins (Default)"
-              },
-              {
                 "Weight": 15,
-                "Type": "Medium Coins (Default)"
+                "Type": "Medium Coins (Void)"
               },
               {
                 "Weight": 30,
-                "Type": "Large Coins (Default)"
+                "Type": "Large Coins (Void)"
               },
               {
-                "Weight": 40,
-                "Type": "Present (Magma)"
+                "Weight": 18,
+                "Type": "Crate (Elemental)"
               },
               {
-                "Weight": 40,
-                "Type": "Crate (Magma)"
-              },
-              {
-                "Weight": 20,
-                "Type": "Safe (Magma)"
-              },
-              {
-                "Weight": 20,
-                "Type": "Vault (Magma)"
+                "Weight": 25,
+                "Type": "Present (Elemental)"
               }
             ]
           }
         },
-        "Currency": "Coins",
-        "MaximumAvailableEgg": 61,
-        "ZoneNumber": 48,
-        "WorldNumber": 1,
+        "ZoneNumber": 225,
+        "TeleportToZoneOnFall": true,
         "ExtraDropTable": null,
-        "ZoneFolder": null,
-        "ZoneName": "Underworld Castle"
+        "CannonGroupId": 6
       },
-      "dateCreated": null,
-      "dateModified": null,
-      "hash": null,
       "collection": "Zones"
     },
     {
-      "configName": "49 | Metal Dojo",
-      "category": "World 1",
+      "configName": "226 | Rocky Ridge",
+      "category": "Update 29",
       "configData": {
+        "ZoneName": "Rocky Ridge",
+        "MaximumAvailableEgg": 238,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 6,
+                "Type": "Small Coins (Void)"
+              },
+              {
+                "Weight": 12,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 14,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 10,
+                "Type": "Crate (Elemental)"
+              },
+              {
+                "Weight": 18,
+                "Type": "Present (Elemental)"
+              },
+              {
+                "Weight": 4,
+                "Type": "Safe (Elemental)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Elemental)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 226,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 6
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "227 | Crystal Lake",
+      "category": "Update 29",
+      "configData": {
+        "ZoneName": "Crystal Lake",
+        "MaximumAvailableEgg": 239,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 6,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 11,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 12,
+                "Type": "Crate (Elemental)"
+              },
+              {
+                "Weight": 13,
+                "Type": "Present (Elemental)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Safe (Elemental)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Elemental)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 227,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 6
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "228 | Electro Forge",
+      "category": "Update 29",
+      "configData": {
+        "ZoneName": "Electro Forge",
+        "MaximumAvailableEgg": 240,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 4,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 12,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 15,
+                "Type": "Crate (Elemental)"
+              },
+              {
+                "Weight": 17,
+                "Type": "Present (Elemental)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Elemental)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 228,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 6
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "229 | Elemental Realm",
+      "category": "Update 29",
+      "configData": {
+        "Chests": {
+          "Boss": {
+            "RespawnTime": 300,
+            "DifficultyMultKey": "Elemental_Chest_Health",
+            "Data": [
+              {
+                "Rotation": 0,
+                "Type": "ElementalChest",
+                "Weight": 100
+              }
+            ],
+            "DifficultyScale": 165
+          }
+        },
+        "ZoneName": "Elemental Realm",
+        "LinkedOwnership": "Elysium Fields",
+        "MaximumAvailableEgg": 241,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "TeleportToZoneOnFall": true,
+        "ZoneNumber": 229,
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 2,
+                "Type": "Small Coins (Void)"
+              },
+              {
+                "Weight": 6,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 11,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 18,
+                "Type": "Crate (Elemental)"
+              },
+              {
+                "Weight": 18,
+                "Type": "Present (Elemental)"
+              },
+              {
+                "Weight": 4,
+                "Type": "Safe (Elemental)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Elemental)"
+              }
+            ]
+          }
+        },
+        "ExtraDropTable": null,
+        "CannonGroupId": 6
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "230 | Elysium Fields",
+      "category": "Update 32",
+      "configData": {
+        "ZoneName": "Elysium Fields",
+        "MaximumAvailableEgg": 242,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 16,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 32,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 23,
+                "Type": "Crate (Olympus)"
+              },
+              {
+                "Weight": 25,
+                "Type": "Present (Olympus)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 230,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 7
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "231 | Ocean Paradise",
+      "category": "Update 32",
+      "configData": {
+        "ZoneName": "Ocean Paradise",
+        "MaximumAvailableEgg": 243,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 6,
+                "Type": "Small Coins (Void)"
+              },
+              {
+                "Weight": 12,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 14,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 10,
+                "Type": "Crate (Olympus)"
+              },
+              {
+                "Weight": 18,
+                "Type": "Present (Olympus)"
+              },
+              {
+                "Weight": 4,
+                "Type": "Safe (Olympus)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Olympus)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 231,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 7
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "232 | Lost Library",
+      "category": "Update 32",
+      "configData": {
+        "ZoneName": "Lost Library",
+        "MaximumAvailableEgg": 244,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 6,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 11,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 12,
+                "Type": "Crate (Olympus)"
+              },
+              {
+                "Weight": 13,
+                "Type": "Present (Olympus)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Safe (Olympus)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Olympus)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 232,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 7
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "233 | Nebula Forest",
+      "category": "Update 32",
+      "configData": {
+        "ZoneName": "Nebula Forest",
+        "MaximumAvailableEgg": 245,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 4,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 12,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 15,
+                "Type": "Crate (Olympus)"
+              },
+              {
+                "Weight": 17,
+                "Type": "Present (Olympus)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Olympus)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 233,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 7
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "234 | Aether Colosseum",
+      "category": "Update 32",
+      "configData": {
+        "Chests": {
+          "Boss": {
+            "RespawnTime": 300,
+            "DifficultyMultKey": "Olympic_Chest_Health",
+            "Data": [
+              {
+                "Rotation": 90,
+                "Type": "OlympicChest",
+                "Weight": 100
+              }
+            ]
+          }
+        },
+        "ZoneName": "Aether Colosseum",
+        "LinkedOwnership": "Doodle Meadow",
+        "MaximumAvailableEgg": 246,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "TeleportToZoneOnFall": true,
+        "ZoneNumber": 234,
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 2,
+                "Type": "Small Coins (Void)"
+              },
+              {
+                "Weight": 6,
+                "Type": "Medium Coins (Void)"
+              },
+              {
+                "Weight": 11,
+                "Type": "Large Coins (Void)"
+              },
+              {
+                "Weight": 18,
+                "Type": "Crate (Olympus)"
+              },
+              {
+                "Weight": 18,
+                "Type": "Present (Olympus)"
+              },
+              {
+                "Weight": 4,
+                "Type": "Safe (Olympus)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Olympus)"
+              }
+            ]
+          }
+        },
+        "ExtraDropTable": null,
+        "CannonGroupId": 7
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "235 | Doodle Meadow",
+      "category": "Update 41",
+      "configData": {
+        "ZoneName": "Doodle Meadow",
+        "MaximumAvailableEgg": 247,
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 16,
+                "Type": "Medium Coins (Doodle)"
+              },
+              {
+                "Weight": 32,
+                "Type": "Large Coins (Doodle)"
+              },
+              {
+                "Weight": 23,
+                "Type": "Crate (Doodle)"
+              },
+              {
+                "Weight": 25,
+                "Type": "Present (Doodle)"
+              }
+            ]
+          }
+        },
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "TeleportToZoneOnFall": true,
+        "ZoneNumber": 235,
+        "ExtraDropTable": null,
+        "CannonGroupId": 8,
         "Lighting": {
           "ClockTime": 10,
           "ColorShift_Bottom": null,
@@ -1706,7 +2321,7 @@
             "TintColor": null,
             "Brightness": 0.06499999761581421
           },
-          "Brightness": 1.149999976158142,
+          "Brightness": 1.15,
           "ColorShift_Top": null,
           "Bloom": {
             "Enabled": true,
@@ -1717,24 +2332,24 @@
           "EnvironmentSpecularScale": 0.25,
           "Sky": {
             "StarCount": 0,
-            "SkyboxUp": "rbxassetid://116368153118009",
+            "SkyboxUp": "rbxassetid://12136280180",
             "MoonTextureId": "",
-            "SkyboxBk": "rbxassetid://137443665258748",
+            "SkyboxBk": "rbxassetid://12108803651",
             "CelestialBodiesShown": false,
-            "SkyboxDn": "rbxassetid://106907389052906",
-            "SkyboxLf": "rbxassetid://113607300469386",
-            "SunTextureId": "rbxasset://sky/sun.jpg",
+            "SkyboxDn": "rbxassetid://12108803802",
+            "SkyboxLf": "rbxassetid://12108803133",
+            "SunTextureId": "",
             "SunAngularSize": 10,
-            "SkyboxFt": "rbxassetid://86198878822372",
-            "SkyboxRt": "rbxassetid://87644663726388",
+            "SkyboxFt": "rbxassetid://12108804065",
+            "SkyboxRt": "rbxassetid://12108803358",
             "MoonAngularSize": 11
           },
           "GeographicLatitude": 44,
           "Ambient": null,
           "OutdoorAmbient": null,
           "Atmosphere": {
-            "Density": 0.367000013589859,
-            "Haze": 2.7899999618530273,
+            "Density": 0,
+            "Haze": 0,
             "Color": null,
             "Decay": null,
             "Glare": 1.2200000286102295,
@@ -1743,52 +2358,425 @@
           "FogStart": 9999,
           "ShadowSoftness": 0.5,
           "ExposureCompensation": 0
-        },
-        "GateHealth": 0,
-        "Ambience": {
-          "SoundId": "rbxassetid://15115177373"
-        },
+        }
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "236 | Doodle Safari",
+      "category": "Update 41",
+      "configData": {
+        "ZoneName": "Doodle Safari",
+        "MaximumAvailableEgg": 248,
         "Breakables": {
           "Main": {
             "Settings": {
               "RespawnTime": 0.05,
-              "Maximum": 50
+              "Maximum": 35
             },
             "Data": [
               {
-                "Weight": 11.25,
-                "Type": "Small Coins (Default)"
+                "Weight": 6,
+                "Type": "Small Coins (Doodle)"
               },
               {
-                "Weight": 45,
-                "Type": "Medium Coins (Default)"
+                "Weight": 12,
+                "Type": "Medium Coins (Doodle)"
               },
               {
-                "Weight": 55,
-                "Type": "Large Coins (Default)"
+                "Weight": 14,
+                "Type": "Large Coins (Doodle)"
               },
               {
                 "Weight": 10,
-                "Type": "Safe (Magma)"
+                "Type": "Crate (Doodle)"
               },
               {
-                "Weight": 15,
-                "Type": "Vault (Magma)"
+                "Weight": 18,
+                "Type": "Present (Doodle)"
+              },
+              {
+                "Weight": 4,
+                "Type": "Safe (Doodle)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Doodle)"
               }
             ]
           }
         },
-        "Currency": "Coins",
-        "MaximumAvailableEgg": 62,
-        "ZoneNumber": 49,
-        "WorldNumber": 1,
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "TeleportToZoneOnFall": true,
+        "ZoneNumber": 236,
         "ExtraDropTable": null,
-        "ZoneFolder": null,
-        "ZoneName": "Metal Dojo"
+        "CannonGroupId": 8,
+        "Lighting": {
+          "ClockTime": 10,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.15,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://12136280180",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://12108803651",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://12108803802",
+            "SkyboxLf": "rbxassetid://12108803133",
+            "SunTextureId": "",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://12108804065",
+            "SkyboxRt": "rbxassetid://12108803358",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0,
+            "Haze": 0,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        }
       },
-      "dateCreated": null,
-      "dateModified": null,
-      "hash": null,
+      "collection": "Zones"
+    },
+    {
+      "configName": "237 | Doodle Fairyland",
+      "category": "Update 41",
+      "configData": {
+        "ZoneName": "Doodle Fairyland",
+        "MaximumAvailableEgg": 249,
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 6,
+                "Type": "Medium Coins (Doodle)"
+              },
+              {
+                "Weight": 11,
+                "Type": "Large Coins (Doodle)"
+              },
+              {
+                "Weight": 12,
+                "Type": "Crate (Doodle)"
+              },
+              {
+                "Weight": 13,
+                "Type": "Present (Doodle)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Safe (Doodle)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Doodle)"
+              }
+            ]
+          }
+        },
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "TeleportToZoneOnFall": true,
+        "ZoneNumber": 237,
+        "ExtraDropTable": null,
+        "CannonGroupId": 8,
+        "Lighting": {
+          "ClockTime": 10,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.15,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://12136280180",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://12108803651",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://12108803802",
+            "SkyboxLf": "rbxassetid://12108803133",
+            "SunTextureId": "",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://12108804065",
+            "SkyboxRt": "rbxassetid://12108803358",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0,
+            "Haze": 0,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        }
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "238 | Doodle Cave",
+      "category": "Update 41",
+      "configData": {
+        "ZoneName": "Doodle Cave",
+        "MaximumAvailableEgg": 250,
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 4,
+                "Type": "Medium Coins (Doodle)"
+              },
+              {
+                "Weight": 12,
+                "Type": "Large Coins (Doodle)"
+              },
+              {
+                "Weight": 15,
+                "Type": "Crate (Doodle)"
+              },
+              {
+                "Weight": 17,
+                "Type": "Present (Doodle)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Doodle)"
+              }
+            ]
+          }
+        },
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "TeleportToZoneOnFall": true,
+        "ZoneNumber": 238,
+        "ExtraDropTable": null,
+        "CannonGroupId": 8,
+        "Lighting": {
+          "ClockTime": 10,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.15,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://12136280180",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://12108803651",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://12108803802",
+            "SkyboxLf": "rbxassetid://12108803133",
+            "SunTextureId": "",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://12108804065",
+            "SkyboxRt": "rbxassetid://12108803358",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0,
+            "Haze": 0,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        }
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "239 | Doodle Oasis",
+      "category": "Update 41",
+      "configData": {
+        "Chests": {
+          "Boss": {
+            "RespawnTime": 300,
+            "DifficultyMultKey": "Doodle_Chest_Health",
+            "Data": [
+              {
+                "Rotation": 90,
+                "Type": "DoodleChest",
+                "Weight": 100
+              }
+            ]
+          }
+        },
+        "ZoneName": "Doodle Oasis",
+        "MaximumAvailableEgg": 251,
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 2,
+                "Type": "Small Coins (Doodle)"
+              },
+              {
+                "Weight": 6,
+                "Type": "Medium Coins (Doodle)"
+              },
+              {
+                "Weight": 11,
+                "Type": "Large Coins (Doodle)"
+              },
+              {
+                "Weight": 18,
+                "Type": "Crate (Doodle)"
+              },
+              {
+                "Weight": 18,
+                "Type": "Present (Doodle)"
+              },
+              {
+                "Weight": 4,
+                "Type": "Safe (Doodle)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Doodle)"
+              }
+            ]
+          }
+        },
+        "WorldNumber": 3,
+        "Currency": "VoidCoins",
+        "TeleportToZoneOnFall": true,
+        "ZoneNumber": 239,
+        "ExtraDropTable": null,
+        "CannonGroupId": 8,
+        "Lighting": {
+          "ClockTime": 10,
+          "ColorShift_Bottom": null,
+          "FogColor": null,
+          "FogEnd": 9999,
+          "EnvironmentDiffuseScale": 0,
+          "ColorCorrection": {
+            "Enabled": true,
+            "Saturation": 0.6499999761581421,
+            "Contrast": 0.06499999761581421,
+            "TintColor": null,
+            "Brightness": 0.06499999761581421
+          },
+          "Brightness": 1.15,
+          "ColorShift_Top": null,
+          "Bloom": {
+            "Enabled": true,
+            "Threshold": 1.7999999523162842,
+            "Intensity": 2,
+            "Size": 21
+          },
+          "EnvironmentSpecularScale": 0.25,
+          "Sky": {
+            "StarCount": 0,
+            "SkyboxUp": "rbxassetid://12136280180",
+            "MoonTextureId": "",
+            "SkyboxBk": "rbxassetid://12108803651",
+            "CelestialBodiesShown": false,
+            "SkyboxDn": "rbxassetid://12108803802",
+            "SkyboxLf": "rbxassetid://12108803133",
+            "SunTextureId": "",
+            "SunAngularSize": 10,
+            "SkyboxFt": "rbxassetid://12108804065",
+            "SkyboxRt": "rbxassetid://12108803358",
+            "MoonAngularSize": 11
+          },
+          "GeographicLatitude": 44,
+          "Ambient": null,
+          "OutdoorAmbient": null,
+          "Atmosphere": {
+            "Density": 0,
+            "Haze": 0,
+            "Color": null,
+            "Decay": null,
+            "Glare": 1.2200000286102295,
+            "Offset": 0
+          },
+          "FogStart": 9999,
+          "ShadowSoftness": 0.5,
+          "ExposureCompensation": 0
+        }
+      },
       "collection": "Zones"
     }
   ]

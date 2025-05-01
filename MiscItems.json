@@ -13004,6 +13004,32 @@
         "Desc": "Used at the Giant Easter Basket to boost your secret Easter room HUGE odds!"
       },
       "collection": "MiscItems"
+    },
+    {
+      "configName": "Easter Token",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Easter Token",
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://103859738720586",
+        "Desc": "Used to purchase Easter Chest Upgrades!"
+      },
+      "collection": "MiscItems"
     }
   ]
 }

@@ -29224,6 +29224,605 @@
         ]
       },
       "collection": "Eggs"
+    },
+    {
+      "configName": "Active Huge Egg",
+      "category": "Machine Eggs",
+      "configData": {
+        "disableGold": false,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableRainbow": false,
+        "shinyChance": 2,
+        "disableModifiers": true,
+        "rainbowChance": 2,
+        "name": "Active Huge Egg",
+        "pets": [
+          [
+            "Huge Fancy Axolotl",
+            1
+          ],
+          [
+            "Huge Beaver",
+            1
+          ],
+          [
+            "Huge Honey Badger",
+            1
+          ],
+          [
+            "Huge Crocodile",
+            1
+          ]
+        ],
+        "goldChance": 5,
+        "icon": "rbxassetid://16756521111"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Eggs"
+    },
+    {
+      "configName": "5 | Easter Bunny Egg",
+      "category": "Easter",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "EasterCoins",
+        "name": "Easter Bunny Egg",
+        "overrideCost": 4000,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Easter Dominus": "EggMultiplier_J1",
+          "Easter Angelus": "EggMultiplier_J2"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Marshmallow Kitsune",
+            99.949995
+          ],
+          [
+            "Easter Agony",
+            0.2
+          ],
+          [
+            "The Easter Bunny",
+            0.05
+          ],
+          [
+            "Easter Dominus",
+            0.0005,
+            "Great"
+          ],
+          [
+            "Easter Angelus",
+            5e-05,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "6 | Easter Chest Egg 1",
+      "category": "Easter",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "EasterCoins",
+        "name": "Easter Chest Egg 1",
+        "overrideCost": 6000,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Spring Bee": "EggMultiplier_J3"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Easter Dominus",
+            99.100545
+          ],
+          [
+            "Easter Angelus",
+            1
+          ],
+          [
+            "Egg Chick",
+            0.1
+          ],
+          [
+            "Huge Spring Bee",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "7 | Easter Chest Egg 2",
+      "category": "Easter",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "EasterCoins",
+        "name": "Easter Chest Egg 2",
+        "overrideCost": 6100,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Spring Bee": "EggMultiplier_J3"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Easter Angelus",
+            95.150545
+          ],
+          [
+            "Egg Chick",
+            5
+          ],
+          [
+            "Spring Griffin",
+            0.05,
+            "Nice"
+          ],
+          [
+            "Huge Spring Bee",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "8 | Easter Chest Egg 3",
+      "category": "Easter",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "EasterCoins",
+        "name": "Easter Chest Egg 3",
+        "overrideCost": 6300,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Spring Bee": "EggMultiplier_J3"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Easter Angelus",
+            95.000545
+          ],
+          [
+            "Egg Chick",
+            5
+          ],
+          [
+            "Spring Griffin",
+            0.2,
+            "Nice"
+          ],
+          [
+            "Huge Spring Bee",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "9 | Easter Chest Egg 4",
+      "category": "Easter",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "EasterCoins",
+        "name": "Easter Chest Egg 4",
+        "overrideCost": 7200,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Spring Bee": "EggMultiplier_J3"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Egg Chick",
+            99.195545
+          ],
+          [
+            "Spring Griffin",
+            1
+          ],
+          [
+            "Easter Axolotl",
+            0.005,
+            "Nice"
+          ],
+          [
+            "Huge Spring Bee",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "10 | Easter Chest Egg 5",
+      "category": "Easter",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "EasterCoins",
+        "name": "Easter Chest Egg 5",
+        "overrideCost": 10000,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Spring Bee": "EggMultiplier_J3"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Egg Chick",
+            99.195495
+          ],
+          [
+            "Spring Griffin",
+            1
+          ],
+          [
+            "Easter Axolotl",
+            0.005,
+            "Nice"
+          ],
+          [
+            "Spring Bee",
+            5e-05,
+            "Nice"
+          ],
+          [
+            "Huge Spring Bee",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "11 | Easter Chest Egg 6",
+      "category": "Easter",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "EasterCoins",
+        "name": "Easter Chest Egg 6",
+        "overrideCost": 20000,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Spring Bee": "EggMultiplier_J3"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Egg Chick",
+            99.145545
+          ],
+          [
+            "Spring Griffin",
+            1
+          ],
+          [
+            "Easter Axolotl",
+            0.05,
+            "Nice"
+          ],
+          [
+            "Spring Bee",
+            0.005,
+            "Nice"
+          ],
+          [
+            "Huge Spring Bee",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "12 | Easter Chest Egg 7",
+      "category": "Easter",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "EasterCoins",
+        "name": "Easter Chest Egg 7",
+        "overrideCost": 55000,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Spring Bee": "EggMultiplier_J3"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Spring Griffin",
+            99.195495
+          ],
+          [
+            "Easter Axolotl",
+            1
+          ],
+          [
+            "Spring Bee",
+            0.005,
+            "Nice"
+          ],
+          [
+            "Painted Cat",
+            5e-05,
+            "Nice"
+          ],
+          [
+            "Huge Spring Bee",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "13 | Easter Chest Egg 8",
+      "category": "Easter",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "EasterCoins",
+        "name": "Easter Chest Egg 8",
+        "overrideCost": 180000,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Spring Bee": "EggMultiplier_J3"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Easter Axolotl",
+            99.195495
+          ],
+          [
+            "Spring Bee",
+            1
+          ],
+          [
+            "Painted Cat",
+            0.005,
+            "Nice"
+          ],
+          [
+            "Easter Yeti",
+            5e-05,
+            "Nice"
+          ],
+          [
+            "Huge Spring Bee",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "14 | Easter Chest Egg 9",
+      "category": "Easter",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "EasterCoins",
+        "name": "Easter Chest Egg 9",
+        "overrideCost": 590000,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Spring Bee": "EggMultiplier_J3"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Spring Bee",
+            99.195495
+          ],
+          [
+            "Painted Cat",
+            1
+          ],
+          [
+            "Easter Yeti",
+            0.005,
+            "Nice"
+          ],
+          [
+            "Marshmallow Agony",
+            5e-05,
+            "Nice"
+          ],
+          [
+            "Huge Spring Bee",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "15 | Easter Chest Egg 10",
+      "category": "Easter",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "EasterCoins",
+        "name": "Easter Chest Egg 10",
+        "overrideCost": 2000000,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Huge Spring Bee": "EggMultiplier_J3"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Painted Cat",
+            99.195495
+          ],
+          [
+            "Easter Yeti",
+            1
+          ],
+          [
+            "Marshmallow Agony",
+            0.005,
+            "Nice"
+          ],
+          [
+            "Easter Golem",
+            5e-05,
+            "Nice"
+          ],
+          [
+            "Huge Spring Bee",
+            1.2e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
     }
   ]
 }

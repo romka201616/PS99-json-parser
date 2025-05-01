@@ -36167,6 +36167,391 @@
         "thumbnail": "rbxassetid://75796665600934"
       },
       "collection": "Pets"
+    },
+    {
+      "configName": "Spring Griffin",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968337193",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          283114097948549
+        ],
+        "name": "Spring Griffin",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968337328"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Marshmallow Agony",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968278302",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          287443059690881
+        ],
+        "name": "Marshmallow Agony",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968278365"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Painted Cat",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968294237",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          285711474993948
+        ],
+        "name": "Painted Cat",
+        "thumbnail": "rbxassetid://14968294340"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Easter Axolotl",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968225200",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          283979890297014
+        ],
+        "name": "Easter Axolotl",
+        "thumbnail": "rbxassetid://14968225352"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Egg Chick",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968226812",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          282248305600082
+        ],
+        "name": "Egg Chick",
+        "thumbnail": "rbxassetid://14968227020"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Easter Yeti",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968226541",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          286577267342415
+        ],
+        "name": "Easter Yeti",
+        "thumbnail": "rbxassetid://14968226666"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Spring Bee",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://14968336998",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          284845682645481
+        ],
+        "name": "Spring Bee",
+        "fly": true,
+        "thumbnail": "rbxassetid://14968337103"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Anime Lemur",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "",
+        "name": "Anime Lemur",
+        "exclusiveLevel": 1,
+        "thumbnail": "rbxassetid://104895576504873"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Easter Golem",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://104087551758948",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          289174644387814
+        ],
+        "name": "Easter Golem",
+        "thumbnail": "rbxassetid://99977466156916"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Anime Tanuki",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "",
+        "name": "Anime Tanuki",
+        "exclusiveLevel": 3,
+        "thumbnail": "rbxassetid://103490549389633"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Anime Wolf",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "",
+        "name": "Anime Wolf",
+        "exclusiveLevel": 2,
+        "thumbnail": "rbxassetid://77232609895314"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Evolved Mining Monkey",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://94559677908793",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Evolved Mining Monkey",
+        "indexDesc": "Earned from evolving Mining Monkey!",
+        "evolved": true,
+        "thumbnail": "rbxassetid://108431740887325"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Evolved Mining Penguin",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://124070441464054",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Evolved Mining Penguin",
+        "indexDesc": "Earned from evolving Mining Penguin!",
+        "evolved": true,
+        "thumbnail": "rbxassetid://124239395763286"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Evolved Easter Lamb",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://130018269910271",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Evolved Easter Lamb",
+        "indexDesc": "Earned from evolving Easter Lamb!",
+        "evolved": true,
+        "thumbnail": "rbxassetid://114656946868089"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Evolved Player Fox",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://103400435707229",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Evolved Player Fox",
+        "indexDesc": "Earned from evolving Player Fox!",
+        "evolved": true,
+        "thumbnail": "rbxassetid://88581357457195"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Evolved Icy Phoenix",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://105189524995526",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Evolved Icy Phoenix",
+        "evolved": true,
+        "fly": true,
+        "indexDesc": "Earned from evolving Icy Phoenix!",
+        "thumbnail": "rbxassetid://137094796065163"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Evolved Basket Bunny",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://95761799997049",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Evolved Basket Bunny",
+        "indexDesc": "Earned from evolving Basket Bunny!",
+        "evolved": true,
+        "thumbnail": "rbxassetid://117009470735471"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Spring Bee",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://110510562355783",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Spring Bee",
+        "fly": true,
+        "indexDesc": "Found in the 2025 Easter Event final egg!",
+        "thumbnail": "rbxassetid://137687744712532"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Egg Chick",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://94613199340621",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Egg Chick",
+        "indexDesc": "Found in the Easter Forever Pack!",
+        "thumbnail": "rbxassetid://135817707784435"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Easter Fox",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://100095216974500",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Easter Fox",
+        "indexDesc": "Found in the 2025 Easter Event Egg Hunt!",
+        "thumbnail": "rbxassetid://127847534239530"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Easter Golem",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://137865799558462",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Easter Golem",
+        "indexDesc": "Found in the Easter Event's HUGE Race!",
+        "thumbnail": "rbxassetid://98455133654568"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Easter Axolotl",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://108670906018530",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Easter Axolotl",
+        "indexDesc": "Found in the Titanic Easter Gift!",
+        "thumbnail": "rbxassetid://140227031996665"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Pastel Sock Bunny",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://75526648357324",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Pastel Sock Bunny",
+        "indexDesc": "Found in the Huge Easter Gift!",
+        "thumbnail": "rbxassetid://85028487593165"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Pastel Sock Bear",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://121129926084163",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Pastel Sock Bear",
+        "indexDesc": "Earned from the Easter Event points Leaderboard!",
+        "thumbnail": "rbxassetid://84261728017151"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Anime Scorpion",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Anime Scorpion",
+        "indexDesc": "Found in the Anime Card Pack!",
+        "thumbnail": "rbxassetid://81320739190462"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Easter Axolotl",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://101309326536270",
+        "indexObtainable": true,
+        "name": "Titanic Easter Axolotl",
+        "indexDesc": "Found in the Titanic Easter Gift!",
+        "thumbnail": "rbxassetid://76996694412887"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Easter Golem",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "rbxassetid://91884233489948",
+        "indexObtainable": true,
+        "indexDesc": "Found in the Easter Event's TITANIC Race!",
+        "name": "Titanic Easter Golem",
+        "thumbnail": "rbxassetid://109664286681118"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Anime Cat",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "indexDesc": "Found in the Anime Card Pack!",
+        "name": "Titanic Anime Cat",
+        "thumbnail": "rbxassetid://139657034071879"
+      },
+      "collection": "Pets"
     }
   ]
 }
