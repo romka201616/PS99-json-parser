@@ -1,0 +1,397 @@
+<noinclude>{{ProjNav}}</noinclude>
+
+<tabber>
+|-|The Overworld=
+===[[The Overworld]] Pets===
+The following {{obj|Pets}} can be obtained from {{obj|The Overworld}}.
+{{#tag:tabber|
+Common Egg=
+=== <div style = "text-align: center">{{ItemText|Common Egg|size=40}} - Permanent ===
+{{Pet-List
+|1=name:Doggy;rarity:Common
+|2=name:Kitty;rarity:Common
+|3=name:Bunny;rarity:Unique
+|4=name:Bear;rarity:Rare
+|5=name:King Doggy;rarity:Secret
+}}
+
+{{!}}-{{!}}
+Spotted Egg=
+=== <div style = "text-align: center">{{ItemText|Spotted Egg|size=40}} - Permanent ===
+{{Pet-List
+|1=name:Mouse;rarity:Common
+|2=name:Wolf;rarity:Common
+|3=name:Fox;rarity:Unique
+|4=name:Polar Bear;rarity:Rare
+|5=name:Panda;rarity:Epic
+}}
+
+{{!}}-{{!}}
+Iceshard Egg=
+=== <div style = "text-align: center">{{ItemText|Iceshard Egg|size=40}} - Permanent ===
+{{Pet-List
+|1=name:Ice Kitty;rarity:Common
+|2=name:Deer;rarity:Common
+|3=name:Ice Wolf;rarity:Unique
+|4=name:Piggy;rarity:Rare
+|5=name:Ice Deer;rarity:Rare
+|6=name:Ice Dragon;rarity:Epic
+}}
+
+{{!}}-{{!}}
+Spikey Egg=
+=== <div style = "text-align: center">{{ItemText|Spikey Egg|size=40}} - Permanent ===
+{{Pet-List
+|1=name:Golem;rarity:Common
+|2=name:Dinosaur;rarity:Common
+|3=name:Ruby Golem;rarity:Unique
+|4=name:Dragon;rarity:Rare
+|5=name:Dark Dragon;rarity:Epic
+|6=name:Emerald Golem;rarity:Legendary
+}}
+
+{{!}}-{{!}}
+Magma Egg=
+=== <div style = "text-align: center">{{ItemText|Magma Egg|size=40}} - Permanent ===
+{{Pet-List
+|1=name:Magma Doggy;rarity:Common
+|2=name:Magma Deer;rarity:Unique
+|3=name:Magma Fox;rarity:Unique
+|4=name:Magma Bear;rarity:Rare
+|5=name:Demon;rarity:Epic
+|6=name:Inferno Dragon;rarity:Legendary
+}}
+
+{{!}}-{{!}}
+Crystal Egg=
+=== <div style = "text-align: center">{{ItemText|Crystal Egg|size=40}} - Permanent ===
+{{Pet-List
+|1=name:Cave Bat;rarity:Common
+|2=name:Dark Bat;rarity:Unique
+|3=name:Angel;rarity:Rare
+|4=name:Emerald Bat;rarity:Epic
+|5=name:Unicorn;rarity:Legendary
+|6=name:Flying Pig;rarity:Legendary
+}}
+
+{{!}}-{{!}}
+Lunar Egg=
+=== <div style = "text-align: center">{{ItemText|Lunar Egg|size=40}} - Permanent ===
+{{Pet-List
+|1=name:Space Mouse;rarity:Common
+|2=name:Space Bull;rarity:Unique
+|3=name:Lunar Fox;rarity:Rare
+|4=name:Lunarcorn;rarity:Epic
+|5=name:Lunar Serpent;rarity:Legendary
+|6=name:Electra;rarity:Legendary
+}}
+
+{{!}}-{{!}}
+Void Egg=
+=== <div style = "text-align: center">{{ItemText|Void Egg|size=40}} - Permanent ===
+{{Pet-List
+|1=name:Void Kitty;rarity:Common
+|2=name:Void Bat;rarity:Unique
+|3=name:Void Demon;rarity:Epic
+|4=name:Dark Phoenix;rarity:Legendary
+|5=name:Neon Elemental;rarity:Legendary
+|6=name:NULLVoid;rarity:Legendary
+}}
+
+{{!}}-{{!}}
+Hell Egg=
+=== <div style = "text-align: center">{{ItemText|Hell Egg|size=40}} - Permanent ===
+{{Pet-List
+|1=name:Hell Piggy;rarity:Common
+|2=name:Hell Dragon;rarity:Unique
+|3=name:Hell Crawler;rarity:Rare
+|4=name:Inferno Demon;rarity:Epic
+|5=name:Inferno Cube;rarity:Legendary
+|6=name:Virus;rarity:Legendary
+}}
+
+{{!}}-{{!}}
+Nightmare Egg=
+=== <div style = "text-align: center">{{ItemText|Nightmare Egg|size=40}} - Permanent ===
+{{Pet-List
+|1=name:Demon Doggy;rarity:Common
+|2=name:Skeletal Deer;rarity:Unique
+|3=name:Night Crawler;rarity:Rare
+|4=name:Hell Bat;rarity:Epic
+|5=name:Green Hydra;rarity:Legendary
+|6=name:Demonic Hydra;rarity:Legendary
+|7=name:The Overlord;rarity:Secret
+}}
+
+{{!}}-{{!}}
+Rainbow Egg=
+=== <div style = "text-align: center">{{ItemText|Rainbow Egg|size=40}} - Permanent ===
+{{Pet-List
+|1=name:Red Golem;rarity:Common
+|2=name:Orange Deer;rarity:Unique
+|3=name:Yellow Fox;rarity:Rare
+|4=name:Green Angel;rarity:Epic
+|5=name:Hexarium;rarity:Legendary
+|6=name:Rainbow Shock;rarity:Legendary
+}}
+}}
+
+|-|Minigame Paradise=
+===[[Minigame Paradise]] Pets===
+The following {{ItemText|pets|image=Pet Equips Icon}} can be obtained from {{ItemText|Minigame Paradise}}.
+{{#tag:tabber|
+Showman Egg=
+=== <div style = "text-align: center">{{ItemText|Showman Egg|size=40}} - Permanent ===
+{{Pet-List
+|1=name:Game Doggy;rarity:Common
+|2=name:Gamer Boi;rarity:Common
+|3=name:Queen of Hearts;rarity:Epic
+}}
+
+{{!}}-{{!}}
+Mining Egg=
+=== <div style = "text-align: center">{{ItemText|Mining Egg|size=40}} - Permanent ===
+{{Pet-List
+|1=name:Mining Doggy;rarity:Common
+|2=name:Mining Bat;rarity:Unique
+|3=name:Cave Mole;rarity:Rare
+|4=name:Ore Golem;rarity:Epic
+|5=name:Crystal Unicorn;rarity:Legendary
+|6=name:Stone Gargoyle;rarity:Legendary
+}}
+
+{{!}}-{{!}}
+Cyber Egg=
+=== <div style = "text-align: center">{{ItemText|Cyber Egg|size=40}} - Permanent ===
+{{Pet-List
+|1=name:Robo Kitty;rarity:Common
+|2=name:Martian Kitty;rarity:Unique
+|3=name:Cyber Wolf;rarity:Epic
+|4=name:Cyborg Phoenix;rarity:Legendary
+|5=name:Space Invader;rarity:Legendary
+|6=name:Bionic Shard;rarity:Legendary
+|7=name:Mech Robot;rarity:Secret
+}}
+}}
+
+|-|Rewards=
+===Reward Pets ===
+{{#tag:tabber|
+Lootables=
+{{Pet-List
+|1=name:Moonburst;source:Mystery Box;rarity:Legendary;obtainable:Yes
+|2=name:Sunburst;source:Mystery Box;rarity:Legendary;obtainable:Yes
+|3=name:Umbra;source:Wheel Spin&Spin Ticket;rarity:Legendary;obtainable:Yes
+|4=name:Abyssal Dragon;source:Golden Chest&Golden Key;rarity:Legendary;obtainable:Yes
+|5=name:Hacker Prism;source:Royal Chest&Royal Key;rarity:Legendary;obtainable:Yes
+|6=name:Kitsune;source:Playtime&Playtime Icon;rarity:Legendary;obtainable:Yes
+|7=name:Midas;source:Golden Box;rarity:Legendary;obtainable:No
+|8=name:Patronus;source:Golden Box&Golden Box;rarity:Legendary;obtainable:No
+|9=name:Magmas;source:Cart Escape&Cart Escape Minigame Icon;rarity:Legendary;obtainable:Yes
+|10=name:Dragon Plushie;source:Robot Claw&Robot Claw Minigame Icon;rarity:Legendary;obtainable:Yes
+|11=name:Dice Split;source:Dice Chest&Dice Key;rarity:Legendary;obtainable:Yes
+}}
+
+{{!}}-{{!}}
+Milestones/Quests=
+{{Pet-List
+|1=name:Holy Shock;source:Quests&Quests Icon;rarity:Legendary;obtainable:Yes
+|2=name:Evil Shock;source:Quests&Quests Icon;rarity:Legendary;obtainable:Yes
+|3=name:Rainbow Blitz;source:Quests&Quests Icon;rarity:Legendary;obtainable:Yes
+|4=name:King Soul;source:Quests&Quests Icon;rarity:Legendary;obtainable:Yes
+|5=name:Discord Imp;source:Quests&Quests Icon;rarity:Legendary;obtainable:Yes
+|6=name:Demonic Dogcat;source:Quests&Quests Icon;rarity:Legendary;obtainable:Yes
+|7=name:Trio Cube;source:Index&Index Icon;rarity:Legendary;obtainable:Yes
+|8=name:Easter Fluffle;source:Easter Event 2025&Easter Egg;rarity:Legendary;Obtainable:No
+|9=name:Chocolate Bunny;source:Index&Index Icon;rarity:Legendary;Obtainable:No
+}}
+}}
+
+|-|Seasonal=
+===[[Bubble Pass|Seasonal]] Pets===
+{{#tag:tabber|
+Season 2 Egg=
+=== <div style = "text-align: center">{{ItemText|Season 2 Egg|size=40}} - {{Color|Yes|4 May 2025 – Present}} ===
+{{Pet-List
+|1=name:Sleepy Bunny;rarity:Rare
+|2=name:Starry Lamb;rarity:Epic
+|3=name:Moon Deer;rarity:Legendary
+|4=name:Nebula;rarity:Legendary
+}}
+
+{{!}}-{{!}}
+Season 2 Pass=
+=== <div style = "text-align: center">{{ItemText|Bubble Pass|image=Bubble Pass Icon|display=Season 2 Bubble Pass|size=40}} - {{Color|Yes|4 May 2025 - Present}} ===
+{{Pet-List
+|1=name:Dusk;source:Bubble Pass&Bubble Pass Icon&Season 2 Normal Pass;rarity:Legendary
+|2=name:Dawn;source:Bubble Pass&Bubble Pass Icon&Season 2 Premium Pass;rarity:Legendary
+|3=name:Moonlight;source:Bubble Pass&Bubble Pass Icon&Season 2 Infinity Pass;rarity:Legendary
+|4=name:Luminosity;source:Bubble Pass&Bubble Pass Icon&Season 2 Infinity Pass;rarity:Secret
+}}
+
+{{!}}-{{!}}
+Season 1 Egg=
+=== <div style = "text-align: center">{{ItemText|Season 1 Egg|size=40}} - {{Color|No|11 April 2025 – 2 May 2025}} ===
+{{Pet-List
+|1=name:Enlightened Kitty;rarity:Rare
+|2=name:Judgement;rarity:Epic
+|3=name:Ophanim;rarity:Legendary
+|4=name:Seraph;rarity:Legendary
+}}
+
+{{!}}-{{!}}
+Season 1 Pass=
+=== <div style = "text-align: center">{{ItemText|Bubble Pass|image=Bubble Pass Icon|display=Season 1 Bubble Pass|size=40}} - {{Color|No|11 April 2025 – 2 May 2025}} ===
+{{Pet-List
+|1=name:Lunar Deity;source:Bubble Pass&Bubble Pass Icon&Season 1 Normal Pass;rarity:Legendary
+|2=name:Solar Deity;source:Bubble Pass&Bubble Pass Icon&Season 1 Premium Pass;rarity:Legendary
+|3=name:Crescent Empress;source:Bubble Pass&Bubble Pass Icon&Season 1 Infinity Pass;rarity:Legendary
+|4=name:Avernus;source:Bubble Pass&Bubble Pass Icon&Season 1 Infinity Pass;rarity:Secret
+}}
+}}
+
+|-|Competitive=
+===Competitive Pets===
+{{#tag:tabber|
+Series 1 Egg=
+=== <div style = "text-align: center">{{ItemText|Series 1 Egg|size=40}} - {{Color|No|26 April 2025 – 30 April 2025}} ===
+{{Pet-List
+|1=name:Competitor Doggy;rarity:Rare
+|2=name:Golden Golem;rarity:Epic
+|3=name:Parasite;rarity:Legendary
+|4=name:Starlight;rarity:Legendary
+|5=name:Overseer;rarity:Legendary
+}}
+{{!}}-{{!}}
+Series 1 Competitive Leaderboards=
+=== <div style = "text-align: center">{{ItemText|Competitive#Top 500|display=Series 1 Competitive Leaderboards|image=Competitive Icon|size=40}} - {{Color|No|26 April 2025 - 30 April 2025}} ===
+{{Pet-List
+|1=name:Elite Challenger;source:Competitive#Top 500&Competitive Icon&Series 1 Competitive Leaderboards;rarity:Legendary
+|2=name:Elite Soul;source:Competitive#Top 500&Competitive Icon&Series 1 Competitive Leaderboards;rarity:Legendary
+}}
+}}
+
+|-|Limited=
+===[[:Category:Limited Pets|Limited Pets]]===
+The following {{ItemText|pets|image=Pet Equips Icon}} can be obtained from limited-time [[:Category:Events|events]].
+{{#tag:tabber|
+Game Egg=
+===<div style = "text-align: center">{{ItemText|Game Egg|size=40}} - {{Color|Yes|4 May 2025 - Present}}===
+{{Pet-List
+|1=name:Fancy Demon;rarity:Rare
+|2=name:Happy Dice;rarity:Epic
+|3=name:Game Master;rarity:Legendary
+|4=name:Jackpot;rarity:Legendary
+}}
+
+{{!}}-{{!}}
+100M Egg=
+=== <div style = "text-align: center">{{ItemText|100M Egg|size=40}} - {{Color|No|26 April 2025 – 4 May 2025}} ===
+{{Pet-List
+|1=name:Bronze Bunny;rarity:Common
+|2=name:Silver Fox;rarity:Unique
+|3=name:Golden Dragon;rarity:Epic
+|4=name:Diamond Serpent;rarity:Legendary
+|5=name:Diamond Hexarium;rarity:Legendary
+|6=name:King Pufferfish;rarity:Legendary
+|7=name:Royal Trophy;rarity:Secret
+}}
+
+{{!}}-{{!}}
+Silly Egg=
+=== <div style = "text-align: center">{{ItemText|Silly Egg|size=40}} - {{Color|Yes|April 26th – Present}} ===
+{{Pet-List
+|1=name:Bunnnny;rarity:Common
+|2=name:Long Kitty;rarity:Common
+|3=name:DOOF;rarity:Legendary
+|4=name:ROUND;rarity:Legendary
+|5=name:Silly Doggy;rarity:Secret
+}}
+
+{{!}}-{{!}}
+Throwback Egg=
+=== <div style = "text-align: center">{{ItemText|Throwback Egg|size=40}} - {{Color|No|24 April 2025 – 30 April 2025}} ===
+{{Pet-List
+|1=name:Bow Bunny;rarity:Common
+|2=name:Easter Egg;rarity:Unique
+|3=name:Flying Bunny;rarity:Epic
+|4=name:Easter Serpent;rarity:Legendary
+|5=name:Dualcorn;rarity:Legendary
+|6=name:Holy Egg;rarity:Legendary
+|7=name:Godly Gem;rarity:Secret
+|8=name:Dementor;rarity:Secret
+}}
+
+{{!}}-{{!}}
+Bunny Egg=
+=== <div style = "text-align: center">{{ItemText|Bunny Egg|size=40}} - {{Color|No|18 April 2025 – 26 April  2025}} ===
+{{Pet-List
+|1=name:Bunny Doggy;rarity:Common
+|2=name:Egg Bunny;rarity:Unique
+|3=name:Angel Bunny;rarity:Epic
+|4=name:Seraphic Bunny;rarity:Legendary
+|5=name:Ethereal Bunny;rarity:Legendary
+|6=name:Cardinal Bunny;rarity:Legendary
+|7=name:Easter Basket;rarity:Secret
+}}
+
+{{!}}-{{!}}
+Pastel Egg=
+=== <div style = "text-align: center">{{ItemText|Pastel Egg|size=40}} - {{Color|No|18 April 2025 – 26 April 2025}} ===
+{{Pet-List
+|1=name:Paper Doggy;rarity:Common
+|2=name:Paper Bunny;rarity:Unique
+|3=name:Chubby Bunny;rarity:Rare
+|4=name:Hatchling;rarity:Epic
+|5=name:Sweet Treat;rarity:Legendary
+|6=name:Rainbow Marshmellow;rarity:Legendary
+|7=name:Giant Chocolate Chicken;rarity:Secret
+}}
+
+{{!}}-{{!}}
+Aura Egg=
+=== <div style = "text-align: center">{{ItemText|Aura Egg|size=40}} - {{Color|No|11 April 2025 – 26 April 2025}} ===
+{{Pet-List
+|1=name:Manny;rarity:Rare
+|2=name:Manicorn;rarity:Epic
+|3=name:Sigma Serpent;rarity:Legendary
+|4=name:Manarium;rarity:Legendary
+|5=name:MAN FACE GOD;rarity:Secret
+}}
+}}
+
+|-|Robux Shop=
+===[[Shop#Robux Shop|Robux Shop]] Pets ===
+The following {{ItemText|pets|image=Pet Equips Icon}} can be/could've been obtained from the {{ItemText|Shop#Robux Shop|image=Shop Icon|display=Robux Shop}}. 
+*'''Note:''' All dates shown below are in '''UTC''' time.
+{{#tag:tabber|
+Gem Bundles=
+{{Pet-List
+|1=name:Flying Gem;source:Shop#Robux Shop&Shop Icon&Robux Shop;rarity:Legendary;obtainable:Yes
+}}
+
+{{!}}-{{!}}
+Wave 3=
+=== <div style = "text-align: center">{{ItemText|Shop#Robux Shops|image=Shop Icon|display=Robux Shop}} - {{Color|No|26 April 2025 – 29 April 2025}} ===
+{{Pet-List
+|1=name:Enraged Phoenix;rarity:Legendary
+|2=name:Electra Hydra;rarity:Legendary
+}}
+
+{{!}}-{{!}}
+Wave 2=
+=== <div style = "text-align: center">{{ItemText|Shop#Robux Shops|image=Shop Icon|display=Robux Shop}} - {{Color|No|19 April 2025 – 21 April 2025}} ===
+{{Pet-List
+|1=name:Dark Serpent;rarity:Legendary
+|2=name:Infernus;rarity:Legendary
+}}
+
+{{!}}-{{!}}
+Wave 1=
+=== <div style = "text-align: center">{{ItemText|Shop#Robux Shops|image=Shop Icon|display=Robux Shop}} - {{Color|No|11 April 2025 – 14 April 2025}} ===
+{{Pet-List
+|1=name:Beta TV;rarity:Legendary
+|2=name:Dowodle;rarity:Legendary
+}}
+}}
+</tabber>
