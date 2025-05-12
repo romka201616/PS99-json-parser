@@ -1,76 +1,49 @@
 {
   "data": [
     {
-      "configName": "Anime Pack",
-      "category": "CardPacks",
+      "configName": "Deep Sea Treasure Chest",
+      "category": "Lootboxes",
       "configData": {
-        "Rolls": 5,
+        "Rolls": 4,
         "Rarity": {
-          "RarityNumber": 999,
+          "RarityNumber": 9,
           "Lootbag": null,
-          "_id": "Exclusive",
+          "_id": "Celestial",
           "Color": null,
-          "DisplayName": "Exclusive",
+          "DisplayName": "Celestial",
           "Message": null,
           "ItemSlot": null,
           "Gradient": null,
           "Announce": true,
           "_script": null
         },
-        "DisplayName": "Anime Pack",
-        "IsCardPack": true,
-        "Desc": "Contains 5 Anime Pack cards!\n\nCombine cards into EXCLUSIVE pets & chance for a TITANIC card!",
-        "InventoryTags": [
-          "Packs"
-        ],
-        "Icon": "rbxassetid://115390480422233",
-        "RequireSave": true
+        "DisplayName": "Deep Sea Treasure Chest",
+        "Instant": true,
+        "Icon": "rbxassetid://134556771269079",
+        "Desc": "Open for the best high tier fishing loot!"
       },
       "collection": "Lootboxes"
     },
     {
-      "configName": "Titanic Easter Gift",
+      "configName": "Time Trial Gift",
       "category": "Lootboxes",
       "configData": {
         "RequireSave": true,
         "Rarity": {
-          "RarityNumber": 8,
+          "RarityNumber": 7,
           "Lootbag": null,
-          "_id": "Superior",
+          "_id": "Divine",
           "Color": null,
-          "DisplayName": "Superior",
+          "DisplayName": "Divine",
           "Message": null,
           "ItemSlot": null,
           "Gradient": null,
           "Announce": true,
           "_script": null
         },
-        "DisplayName": "Titanic Easter Gift",
-        "Icon": "rbxassetid://101374206073893",
-        "Desc": "Obtained by winning the Easter Contest!"
-      },
-      "collection": "Lootboxes"
-    },
-    {
-      "configName": "Huge Easter Gift",
-      "category": "Lootboxes",
-      "configData": {
-        "RequireSave": true,
-        "Rarity": {
-          "RarityNumber": 6,
-          "Lootbag": null,
-          "_id": "Exotic",
-          "Color": null,
-          "DisplayName": "Exotic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "DisplayName": "Huge Easter Gift",
-        "Icon": "rbxassetid://83528196707461",
-        "Desc": "Obtained by participating in the Easter Contest!"
+        "DisplayName": "Time Trial Gift",
+        "Icon": "rbxassetid://123771590826264",
+        "Desc": "Reward for participating in the Fantasy World Time Trials!"
       },
       "collection": "Lootboxes"
     }

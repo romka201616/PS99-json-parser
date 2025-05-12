@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "configName": "PixelChickBattle",
+      "configName": "PoisonTurtleBattle",
       "category": "GuildBattles",
       "configData": {
         "PlacementRewards": [
@@ -52,7 +52,7 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Pixel Chick",
+                "id": "Huge Poison Turtle",
                 "pt": 2
               }
             },
@@ -62,7 +62,7 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Pixel Chick",
+                "id": "Huge Poison Turtle",
                 "pt": 1
               }
             },
@@ -72,16 +72,16 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Pixel Chick"
+                "id": "Huge Poison Turtle"
               }
             },
             "Best": 9,
             "Worst": 20
           }
         ],
-        "FinishTime": 1745596800,
-        "Title": "Pixel Chick Battle",
-        "StartTime": 1745078400,
+        "FinishTime": 1746806400,
+        "Title": "Poison Turtle Battle",
+        "StartTime": 1746288000,
         "Rewards": {
           "Good": [],
           "Bronze": [],

@@ -1,142 +1,3539 @@
 {
   "data": [
     {
-      "configName": "1 | Noob",
+      "configName": "32 | Radiant Titan",
       "category": "Ranks",
       "configData": {
-        "UnlockablePetSlots": 3,
-        "MaxEnchantsEquipped": 1,
-        "Title": "Noob",
-        "UnlockableEggSlots": 2,
-        "RankNumber": 1,
+        "MaxEnchantsEquipped": 6,
+        "MaximumActiveGoals": 4,
+        "UnlockablePetSlots": 0,
+        "Title": "Radiant Titan",
+        "RankUpRewards": [
+          {
+            "_data": {
+              "id": "Diamonds",
+              "_am": 5000000
+            }
+          },
+          {
+            "_data": {
+              "id": "Large Enchant Bundle",
+              "_am": 50
+            }
+          },
+          {
+            "_data": {
+              "id": "Large Potion Bundle",
+              "_am": 50
+            }
+          },
+          {
+            "_data": {
+              "id": "Rainbow Mini Chest",
+              "_am": 15
+            }
+          }
+        ],
         "Goals": [
           [
             {
-              "Amount": 25,
-              "Type": 1,
-              "Weight": 2
-            },
-            {
-              "Type": 9,
-              "Amount": 5,
+              "Type": 21,
+              "Amount": 3000,
               "Weight": 1
             },
             {
+              "Type": 21,
+              "Amount": 3000,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 3000,
+              "Weight": 1
+            },
+            {
+              "Type": 14,
+              "Amount": 80,
+              "Weight": 1
+            },
+            {
+              "Type": 15,
+              "Amount": 80,
+              "Weight": 1
+            },
+            {
+              "Type": 9,
               "Amount": 50,
-              "Type": 7,
-              "CurrencyID": "Diamonds",
               "Weight": 1
             }
           ],
           [
             {
-              "Amount": 50,
-              "Type": 1,
+              "Type": 21,
+              "Amount": 3750,
               "Weight": 1
             },
             {
+              "Type": 21,
+              "Amount": 3750,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 3750,
+              "Weight": 1
+            },
+            {
+              "Type": 14,
               "Amount": 100,
+              "Weight": 1
+            },
+            {
+              "Type": 15,
+              "Amount": 100,
+              "Weight": 1
+            },
+            {
+              "Amount": 60,
+              "Type": 34,
+              "PotionTier": 4,
+              "Weight": 1
+            },
+            {
+              "Type": 44,
+              "Amount": 5,
+              "Weight": 1
+            },
+            {
+              "Type": 43,
+              "Amount": 5,
+              "Weight": 1
+            },
+            {
+              "Type": 38,
+              "Amount": 5,
+              "Weight": 1
+            },
+            {
+              "Type": 37,
+              "Amount": 5,
+              "Weight": 1
+            },
+            {
+              "Type": 39,
+              "Amount": 5,
+              "Weight": 1
+            },
+            {
+              "Type": 76,
+              "Amount": 1,
+              "Weight": 1
+            },
+            {
+              "Type": 20,
+              "Amount": 2750,
+              "Weight": 1
+            },
+            {
+              "Type": 20,
+              "Amount": 2750,
+              "Weight": 1
+            },
+            {
+              "Type": 40,
+              "Amount": 1500,
+              "Weight": 1
+            },
+            {
+              "Type": 41,
+              "Amount": 150,
+              "Weight": 1
+            },
+            {
+              "Type": 26,
+              "Amount": 60,
+              "Weight": 1
+            },
+            {
+              "Type": 25,
+              "Amount": 60,
+              "Weight": 1
+            },
+            {
+              "Type": 46,
+              "Amount": 80,
+              "Weight": 1
+            },
+            {
+              "Type": 45,
+              "Amount": 80,
+              "Weight": 1
+            }
+          ],
+          [
+            {
+              "Type": 21,
+              "Amount": 3900,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 3900,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 3900,
+              "Weight": 1
+            },
+            {
+              "Type": 9,
+              "Amount": 1000,
+              "Weight": 1
+            },
+            {
+              "Amount": 15000,
               "Type": 7,
               "CurrencyID": "Diamonds",
               "Weight": 1
             },
             {
-              "Type": 3,
-              "Amount": 15,
+              "Amount": 70,
+              "Type": 12,
+              "PotionTier": 3,
+              "Weight": 1
+            },
+            {
+              "Amount": 70,
+              "Type": 13,
+              "EnchantTier": 3,
+              "Weight": 1
+            },
+            {
+              "Amount": 70,
+              "Type": 34,
+              "PotionTier": 4,
+              "Weight": 1
+            },
+            {
+              "Type": 44,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 43,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 38,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 37,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 39,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 76,
+              "Amount": 2,
+              "Weight": 1
+            },
+            {
+              "Type": 20,
+              "Amount": 3250,
+              "Weight": 1
+            },
+            {
+              "Type": 20,
+              "Amount": 3250,
+              "Weight": 1
+            },
+            {
+              "Type": 40,
+              "Amount": 1600,
+              "Weight": 1
+            },
+            {
+              "Type": 41,
+              "Amount": 150,
+              "Weight": 1
+            },
+            {
+              "Type": 6,
+              "Amount": 1,
+              "Weight": 1
+            },
+            {
+              "Type": 6,
+              "Amount": 1,
+              "Weight": 1
+            },
+            {
+              "Type": 6,
+              "Amount": 1,
+              "Weight": 1
+            }
+          ],
+          [
+            {
+              "Type": 21,
+              "Amount": 4750,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 4750,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 4750,
+              "Weight": 1
+            },
+            {
+              "Type": 9,
+              "Amount": 1400,
+              "Weight": 1
+            },
+            {
+              "Amount": 15000,
+              "Type": 7,
+              "CurrencyID": "Diamonds",
+              "Weight": 1
+            },
+            {
+              "Type": 42,
+              "Amount": 60,
+              "Weight": 1
+            },
+            {
+              "Type": 38,
+              "Amount": 8,
+              "Weight": 1
+            },
+            {
+              "Type": 37,
+              "Amount": 8,
+              "Weight": 1
+            },
+            {
+              "Type": 39,
+              "Amount": 8,
+              "Weight": 1
+            },
+            {
+              "Type": 76,
+              "Amount": 2,
               "Weight": 1
             }
           ]
         ],
-        "MaximumActiveGoals": 2,
         "Rewards": [
           {
             "Item": {
               "_data": {
-                "id": "TNT",
-                "_am": 3
+                "id": "Large Enchant Bundle",
+                "_am": 20
               }
             },
-            "StarsRequired": 1
+            "StarsRequired": 7
           },
           {
             "Item": {
               "_data": {
-                "id": "Diamonds",
-                "_am": 50
+                "id": "Rainbow",
+                "_am": 240
               }
             },
-            "StarsRequired": 1
+            "StarsRequired": 7
           },
           {
             "Item": {
               "_data": {
-                "id": "Diamonds",
-                "_am": 150
+                "id": "Rainbow Flag",
+                "_am": 85
               }
             },
-            "StarsRequired": 1
+            "StarsRequired": 7
           },
           {
             "Item": {
               "_data": {
-                "id": "Walkspeed",
-                "tn": 1
+                "id": "Large Enchant Bundle",
+                "_am": 15
               }
             },
-            "StarsRequired": 1
+            "StarsRequired": 7
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Shiny Flag",
+                "_am": 100
+              }
+            },
+            "StarsRequired": 8
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Toy Bone",
+                "_am": 155
+              }
+            },
+            "StarsRequired": 8
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Squeaky Toy",
+                "_am": 125
+              }
+            },
+            "StarsRequired": 8
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Rainbow",
+                "_am": 300
+              }
+            },
+            "StarsRequired": 8
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Toy Bundle",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 9
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Banana",
+                "_am": 270
+              }
+            },
+            "StarsRequired": 9
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Banana",
+                "_am": 140
+              }
+            },
+            "StarsRequired": 9
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Magnet Flag",
+                "_am": 235
+              }
+            },
+            "StarsRequired": 9
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Diamonds Flag",
+                "_am": 235
+              }
+            },
+            "StarsRequired": 10
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Toy Bundle",
+                "_am": 30
+              }
+            },
+            "StarsRequired": 10
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Toy Ball",
+                "_am": 230
+              }
+            },
+            "StarsRequired": 10
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Coins",
+                "_am": 20,
+                "tn": 5
+              }
+            },
+            "StarsRequired": 10
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Basic Coin Jar",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 11
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Enchant Essence",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 11
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Treasure Hideout Key Lower Half",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 11
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Millionaire Ticket",
+                "_am": 25
+              }
+            },
+            "StarsRequired": 11
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Void Key Lower Half",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 12
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Gift Bag",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 12
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Prison Key",
+                "_am": 8
+              }
+            },
+            "StarsRequired": 12
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Charm Chisel",
+                "_am": 2
+              }
+            },
+            "StarsRequired": 12
           },
           {
             "Item": {
               "_data": {
                 "id": "Damage",
-                "tn": 1
+                "_am": 30,
+                "tn": 10
               }
             },
-            "StarsRequired": 1
+            "StarsRequired": 13
           },
           {
             "Item": {
               "_data": {
-                "id": "Strong Pets",
-                "tn": 1
+                "id": "Magic Shard",
+                "_am": 3
               }
             },
-            "StarsRequired": 1
+            "StarsRequired": 13
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Seed Bag",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 13
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Coins",
+                "_am": 15,
+                "tn": 6
+              }
+            },
+            "StarsRequired": 14
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Void Spinny Wheel Ticket",
+                "_am": 4
+              }
+            },
+            "StarsRequired": 14
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Charm Chisel"
+              }
+            },
+            "StarsRequired": 14
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Tech Spinny Wheel Ticket",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 15
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Charm Stone",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 15
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Void Key Lower Half",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 15
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Rainbow Mini Chest",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 16
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Treasure Hideout Key Upper Half",
+                "_am": 25
+              }
+            },
+            "StarsRequired": 16
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Gift Bag",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 16
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Mini Chest",
+                "_am": 4
+              }
+            },
+            "StarsRequired": 17
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Millionaire Bucks",
+                "_am": 9
+              }
+            },
+            "StarsRequired": 17
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Mini Chest",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 17
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Spinny Wheel Ticket",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 18
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Secret Key",
+                "_am": 3
+              }
+            },
+            "StarsRequired": 18
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Charm Chisel"
+              }
+            },
+            "StarsRequired": 18
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Damage",
+                "_am": 25,
+                "tn": 6
+              }
+            },
+            "StarsRequired": 19
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Treasure Hideout Key",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 19
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Spinny Wheel Ticket",
+                "_am": 5
+              }
+            },
+            "StarsRequired": 19
           },
           {
             "Item": {
               "_data": {
                 "id": "Diamonds",
-                "_am": 300
+                "_am": 15,
+                "tn": 7
               }
             },
-            "StarsRequired": 1
+            "StarsRequired": 20
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Mini Pinata"
+              }
+            },
+            "StarsRequired": 20
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Booth Slot Voucher"
+              }
+            },
+            "StarsRequired": 20
           },
           {
             "Item": {
               "_data": {
                 "id": "Coins",
                 "_am": 2,
-                "tn": 1
+                "tn": 11
               }
             },
-            "StarsRequired": 2
+            "StarsRequired": 21
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Bucket O' Magic",
+                "_am": 6
+              }
+            },
+            "StarsRequired": 21
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Lucky",
+                "_am": 2,
+                "tn": 9
+              }
+            },
+            "StarsRequired": 21
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Charm Chisel",
+                "_am": 2
+              }
+            },
+            "StarsRequired": 22
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "TNT Crate",
+                "_am": 40
+              }
+            },
+            "StarsRequired": 22
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Mini Chest",
+                "_am": 8
+              }
+            },
+            "StarsRequired": 22
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Lucky",
+                "_am": 3,
+                "tn": 9
+              }
+            },
+            "StarsRequired": 24
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Secret Key"
+              }
+            },
+            "StarsRequired": 24
           },
           {
             "Item": {
               "_data": {
                 "id": "Damage",
-                "_am": 3,
-                "tn": 2
+                "_am": 4,
+                "tn": 10
               }
             },
-            "StarsRequired": 4
+            "StarsRequired": 24
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Void Key",
+                "_am": 2
+              }
+            },
+            "StarsRequired": 25
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Treasure Hunter",
+                "_am": 25,
+                "tn": 8
+              }
+            },
+            "StarsRequired": 25
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Large Gift Bag",
+                "_am": 6
+              }
+            },
+            "StarsRequired": 25
           }
-        ]
+        ],
+        "RankNumber": 32,
+        "UnlockableEggSlots": 0
       },
-      "dateCreated": null,
-      "dateModified": null,
-      "hash": null,
+      "collection": "Ranks"
+    },
+    {
+      "configName": "33 | Ascendant Oracle",
+      "category": "Ranks",
+      "configData": {
+        "MaxEnchantsEquipped": 6,
+        "MaximumActiveGoals": 4,
+        "UnlockablePetSlots": 0,
+        "Title": "Ascendant Oracle",
+        "RankUpRewards": [
+          {
+            "_data": {
+              "id": "Diamonds",
+              "_am": 5000000
+            }
+          },
+          {
+            "_data": {
+              "id": "Large Enchant Bundle",
+              "_am": 50
+            }
+          },
+          {
+            "_data": {
+              "id": "Large Potion Bundle",
+              "_am": 50
+            }
+          },
+          {
+            "_data": {
+              "id": "Rainbow Mini Chest",
+              "_am": 20
+            }
+          }
+        ],
+        "Goals": [
+          [
+            {
+              "Type": 21,
+              "Amount": 3250,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 3250,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 3250,
+              "Weight": 1
+            },
+            {
+              "Type": 14,
+              "Amount": 90,
+              "Weight": 1
+            },
+            {
+              "Type": 15,
+              "Amount": 90,
+              "Weight": 1
+            },
+            {
+              "Type": 9,
+              "Amount": 60,
+              "Weight": 1
+            }
+          ],
+          [
+            {
+              "Type": 21,
+              "Amount": 4000,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 4000,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 4000,
+              "Weight": 1
+            },
+            {
+              "Type": 14,
+              "Amount": 120,
+              "Weight": 1
+            },
+            {
+              "Type": 15,
+              "Amount": 120,
+              "Weight": 1
+            },
+            {
+              "Amount": 70,
+              "Type": 34,
+              "PotionTier": 4,
+              "Weight": 1
+            },
+            {
+              "Type": 44,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 43,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 38,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 37,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 39,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 76,
+              "Amount": 1,
+              "Weight": 1
+            },
+            {
+              "Type": 20,
+              "Amount": 3000,
+              "Weight": 1
+            },
+            {
+              "Type": 20,
+              "Amount": 3000,
+              "Weight": 1
+            },
+            {
+              "Type": 40,
+              "Amount": 1750,
+              "Weight": 1
+            },
+            {
+              "Type": 41,
+              "Amount": 160,
+              "Weight": 1
+            },
+            {
+              "Type": 26,
+              "Amount": 70,
+              "Weight": 1
+            },
+            {
+              "Type": 25,
+              "Amount": 70,
+              "Weight": 1
+            },
+            {
+              "Type": 46,
+              "Amount": 90,
+              "Weight": 1
+            },
+            {
+              "Type": 45,
+              "Amount": 90,
+              "Weight": 1
+            }
+          ],
+          [
+            {
+              "Type": 21,
+              "Amount": 4000,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 4000,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 4000,
+              "Weight": 1
+            },
+            {
+              "Type": 9,
+              "Amount": 1200,
+              "Weight": 1
+            },
+            {
+              "Amount": 16000,
+              "Type": 7,
+              "CurrencyID": "Diamonds",
+              "Weight": 1
+            },
+            {
+              "Amount": 75,
+              "Type": 12,
+              "PotionTier": 3,
+              "Weight": 1
+            },
+            {
+              "Amount": 75,
+              "Type": 13,
+              "EnchantTier": 3,
+              "Weight": 1
+            },
+            {
+              "Amount": 75,
+              "Type": 34,
+              "PotionTier": 4,
+              "Weight": 1
+            },
+            {
+              "Type": 44,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 43,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 38,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 37,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 39,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 76,
+              "Amount": 2,
+              "Weight": 1
+            },
+            {
+              "Type": 20,
+              "Amount": 3500,
+              "Weight": 1
+            },
+            {
+              "Type": 20,
+              "Amount": 3500,
+              "Weight": 1
+            },
+            {
+              "Type": 40,
+              "Amount": 1800,
+              "Weight": 1
+            },
+            {
+              "Type": 41,
+              "Amount": 170,
+              "Weight": 1
+            },
+            {
+              "Type": 6,
+              "Amount": 1,
+              "Weight": 1
+            },
+            {
+              "Type": 6,
+              "Amount": 1,
+              "Weight": 1
+            },
+            {
+              "Type": 6,
+              "Amount": 1,
+              "Weight": 1
+            }
+          ],
+          [
+            {
+              "Type": 21,
+              "Amount": 5000,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 5000,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 5000,
+              "Weight": 1
+            },
+            {
+              "Type": 9,
+              "Amount": 1750,
+              "Weight": 1
+            },
+            {
+              "Amount": 17000,
+              "Type": 7,
+              "CurrencyID": "Diamonds",
+              "Weight": 1
+            },
+            {
+              "Type": 42,
+              "Amount": 70,
+              "Weight": 1
+            },
+            {
+              "Type": 38,
+              "Amount": 8,
+              "Weight": 1
+            },
+            {
+              "Type": 37,
+              "Amount": 8,
+              "Weight": 1
+            },
+            {
+              "Type": 39,
+              "Amount": 8,
+              "Weight": 1
+            },
+            {
+              "Type": 76,
+              "Amount": 2,
+              "Weight": 1
+            }
+          ]
+        ],
+        "Rewards": [
+          {
+            "Item": {
+              "_data": {
+                "id": "Treasure Hideout Key Lower Half",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 8
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Damage",
+                "_am": 20,
+                "tn": 5
+              }
+            },
+            "StarsRequired": 8
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Magnet Flag",
+                "_am": 215
+              }
+            },
+            "StarsRequired": 8
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Fruit Bundle",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 8
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Diamonds Flag",
+                "_am": 240
+              }
+            },
+            "StarsRequired": 9
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "TNT Crate",
+                "_am": 70
+              }
+            },
+            "StarsRequired": 9
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Treasure Hunter",
+                "_am": 25,
+                "tn": 7
+              }
+            },
+            "StarsRequired": 9
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Toy Bone",
+                "_am": 250
+              }
+            },
+            "StarsRequired": 9
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Enchant Essence",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 10
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Comet",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 10
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Enchant Bundle"
+              }
+            },
+            "StarsRequired": 10
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Coins Flag",
+                "_am": 125
+              }
+            },
+            "StarsRequired": 10
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Coins",
+                "_am": 15,
+                "tn": 7
+              }
+            },
+            "StarsRequired": 11
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Strength Flag",
+                "_am": 175
+              }
+            },
+            "StarsRequired": 11
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Basic Coin Jar",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 11
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Treasure Hideout Key Upper Half",
+                "_am": 25
+              }
+            },
+            "StarsRequired": 11
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Toy Bundle",
+                "_am": 8
+              }
+            },
+            "StarsRequired": 12
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Large Enchant Bundle",
+                "_am": 6
+              }
+            },
+            "StarsRequired": 12
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Toy Ball",
+                "_am": 245
+              }
+            },
+            "StarsRequired": 12
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Fantasy Key",
+                "_am": 7
+              }
+            },
+            "StarsRequired": 12
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Breakable Sprinkler",
+                "_am": 7
+              }
+            },
+            "StarsRequired": 13
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Secret Key"
+              }
+            },
+            "StarsRequired": 13
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Pet Cube",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 13
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Charm Hammer"
+              }
+            },
+            "StarsRequired": 13
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Damage",
+                "tn": 9
+              }
+            },
+            "StarsRequired": 15
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Ultra Pet Cube",
+                "_am": 2
+              }
+            },
+            "StarsRequired": 15
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Lucky",
+                "tn": 9
+              }
+            },
+            "StarsRequired": 15
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Diamonds",
+                "tn": 9
+              }
+            },
+            "StarsRequired": 16
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Diamonds",
+                "_am": 25,
+                "tn": 6
+              }
+            },
+            "StarsRequired": 16
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Mini Lucky Block",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 16
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Hacker Key",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 17
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Void Spinny Wheel Ticket",
+                "_am": 6
+              }
+            },
+            "StarsRequired": 17
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Fantasy Spinny Wheel Ticket",
+                "_am": 3
+              }
+            },
+            "StarsRequired": 17
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Gift Bag",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 18
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Mini Chest"
+              }
+            },
+            "StarsRequired": 18
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Mini Lucky Block",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 18
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Fantasy Key Upper Half",
+                "_am": 9
+              }
+            },
+            "StarsRequired": 19
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Diamond Gift Bag",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 19
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Coins",
+                "_am": 6,
+                "tn": 9
+              }
+            },
+            "StarsRequired": 19
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Coins",
+                "tn": 11
+              }
+            },
+            "StarsRequired": 20
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Fantasy Key Upper Half",
+                "_am": 25
+              }
+            },
+            "StarsRequired": 20
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Lucky",
+                "_am": 20,
+                "tn": 6
+              }
+            },
+            "StarsRequired": 20
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Mini Chest",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 21
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Golden Prison Key"
+              }
+            },
+            "StarsRequired": 21
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Lucky",
+                "_am": 2,
+                "tn": 7
+              }
+            },
+            "StarsRequired": 21
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Basic Item Jar",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 22
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Bucket O' Magic",
+                "_am": 2
+              }
+            },
+            "StarsRequired": 22
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Tech Key",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 22
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Gift Bag",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 23
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Fantasy Key",
+                "_am": 8
+              }
+            },
+            "StarsRequired": 23
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Large Gift Bag",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 23
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Charm Chisel",
+                "_am": 2
+              }
+            },
+            "StarsRequired": 24
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Large Potion Bundle",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 24
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Damage",
+                "_am": 4,
+                "tn": 9
+              }
+            },
+            "StarsRequired": 24
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Ultra Pet Cube",
+                "_am": 25
+              }
+            },
+            "StarsRequired": 25
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Crystal Key",
+                "_am": 3
+              }
+            },
+            "StarsRequired": 25
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Diamonds",
+                "_am": 500000
+              }
+            },
+            "StarsRequired": 25
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "TNT Crate",
+                "_am": 75
+              }
+            },
+            "StarsRequired": 26
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Mini Pinata",
+                "_am": 8
+              }
+            },
+            "StarsRequired": 26
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Large Gift Bag",
+                "_am": 25
+              }
+            },
+            "StarsRequired": 26
+          }
+        ],
+        "RankNumber": 33,
+        "UnlockableEggSlots": 0
+      },
+      "collection": "Ranks"
+    },
+    {
+      "configName": "34 | Eternal Seer",
+      "category": "Ranks",
+      "configData": {
+        "MaxEnchantsEquipped": 6,
+        "MaximumActiveGoals": 4,
+        "UnlockablePetSlots": 0,
+        "Title": "Eternal Seer",
+        "RankUpRewards": [
+          {
+            "_data": {
+              "id": "Diamonds",
+              "_am": 5000000
+            }
+          },
+          {
+            "_data": {
+              "id": "Mega Potion Chest"
+            }
+          },
+          {
+            "_data": {
+              "id": "Mega Enchant Chest"
+            }
+          },
+          {
+            "_data": {
+              "id": "Rainbow Mini Chest",
+              "_am": 25
+            }
+          }
+        ],
+        "Goals": [
+          [
+            {
+              "Type": 21,
+              "Amount": 3250,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 3250,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 3250,
+              "Weight": 1
+            },
+            {
+              "Type": 14,
+              "Amount": 90,
+              "Weight": 1
+            },
+            {
+              "Type": 15,
+              "Amount": 90,
+              "Weight": 1
+            },
+            {
+              "Type": 9,
+              "Amount": 60,
+              "Weight": 1
+            }
+          ],
+          [
+            {
+              "Type": 21,
+              "Amount": 4000,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 4000,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 4000,
+              "Weight": 1
+            },
+            {
+              "Type": 14,
+              "Amount": 120,
+              "Weight": 1
+            },
+            {
+              "Type": 15,
+              "Amount": 120,
+              "Weight": 1
+            },
+            {
+              "Amount": 70,
+              "Type": 34,
+              "PotionTier": 4,
+              "Weight": 1
+            },
+            {
+              "Type": 44,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 43,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 38,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 37,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 39,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 76,
+              "Amount": 1,
+              "Weight": 1
+            },
+            {
+              "Type": 20,
+              "Amount": 3000,
+              "Weight": 1
+            },
+            {
+              "Type": 20,
+              "Amount": 3000,
+              "Weight": 1
+            },
+            {
+              "Type": 40,
+              "Amount": 1750,
+              "Weight": 1
+            },
+            {
+              "Type": 41,
+              "Amount": 160,
+              "Weight": 1
+            },
+            {
+              "Type": 26,
+              "Amount": 70,
+              "Weight": 1
+            },
+            {
+              "Type": 25,
+              "Amount": 70,
+              "Weight": 1
+            },
+            {
+              "Type": 46,
+              "Amount": 90,
+              "Weight": 1
+            },
+            {
+              "Type": 45,
+              "Amount": 90,
+              "Weight": 1
+            }
+          ],
+          [
+            {
+              "Type": 21,
+              "Amount": 4000,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 4000,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 4000,
+              "Weight": 1
+            },
+            {
+              "Type": 9,
+              "Amount": 1200,
+              "Weight": 1
+            },
+            {
+              "Amount": 16000,
+              "Type": 7,
+              "CurrencyID": "Diamonds",
+              "Weight": 1
+            },
+            {
+              "Amount": 75,
+              "Type": 12,
+              "PotionTier": 3,
+              "Weight": 1
+            },
+            {
+              "Amount": 75,
+              "Type": 13,
+              "EnchantTier": 3,
+              "Weight": 1
+            },
+            {
+              "Amount": 75,
+              "Type": 34,
+              "PotionTier": 4,
+              "Weight": 1
+            },
+            {
+              "Type": 44,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 43,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 38,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 37,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 39,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 76,
+              "Amount": 2,
+              "Weight": 1
+            },
+            {
+              "Type": 20,
+              "Amount": 3500,
+              "Weight": 1
+            },
+            {
+              "Type": 20,
+              "Amount": 3500,
+              "Weight": 1
+            },
+            {
+              "Type": 40,
+              "Amount": 1800,
+              "Weight": 1
+            },
+            {
+              "Type": 41,
+              "Amount": 170,
+              "Weight": 1
+            },
+            {
+              "Type": 6,
+              "Amount": 1,
+              "Weight": 1
+            },
+            {
+              "Type": 6,
+              "Amount": 1,
+              "Weight": 1
+            },
+            {
+              "Type": 6,
+              "Amount": 1,
+              "Weight": 1
+            }
+          ],
+          [
+            {
+              "Type": 21,
+              "Amount": 5000,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 5000,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 5000,
+              "Weight": 1
+            },
+            {
+              "Type": 9,
+              "Amount": 1750,
+              "Weight": 1
+            },
+            {
+              "Amount": 17000,
+              "Type": 7,
+              "CurrencyID": "Diamonds",
+              "Weight": 1
+            },
+            {
+              "Type": 42,
+              "Amount": 70,
+              "Weight": 1
+            },
+            {
+              "Type": 38,
+              "Amount": 8,
+              "Weight": 1
+            },
+            {
+              "Type": 37,
+              "Amount": 8,
+              "Weight": 1
+            },
+            {
+              "Type": 39,
+              "Amount": 8,
+              "Weight": 1
+            },
+            {
+              "Type": 76,
+              "Amount": 2,
+              "Weight": 1
+            }
+          ]
+        ],
+        "Rewards": [
+          {
+            "Item": {
+              "_data": {
+                "id": "Enchant Bundle",
+                "_am": 25
+              }
+            },
+            "StarsRequired": 8
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Squeaky Toy",
+                "_am": 220
+              }
+            },
+            "StarsRequired": 8
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Basic Coin Jar",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 8
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Enchant Bundle"
+              }
+            },
+            "StarsRequired": 8
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Watermelon",
+                "_am": 150
+              }
+            },
+            "StarsRequired": 9
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Apple",
+                "_am": 250
+              }
+            },
+            "StarsRequired": 9
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Toy Ball",
+                "_am": 235
+              }
+            },
+            "StarsRequired": 9
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Rainbow",
+                "_am": 245
+              }
+            },
+            "StarsRequired": 9
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Strength Flag",
+                "_am": 210
+              }
+            },
+            "StarsRequired": 10
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Treasure Hunter",
+                "_am": 15,
+                "tn": 7
+              }
+            },
+            "StarsRequired": 10
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Hasty Flag",
+                "_am": 140
+              }
+            },
+            "StarsRequired": 10
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Fantasy Key Lower Half",
+                "_am": 4
+              }
+            },
+            "StarsRequired": 10
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Banana",
+                "_am": 130
+              }
+            },
+            "StarsRequired": 11
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Enchant Essence",
+                "_am": 25
+              }
+            },
+            "StarsRequired": 11
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Coins Flag",
+                "_am": 210
+              }
+            },
+            "StarsRequired": 11
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Squeaky Toy",
+                "_am": 190
+              }
+            },
+            "StarsRequired": 11
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Fantasy Key Lower Half",
+                "_am": 30
+              }
+            },
+            "StarsRequired": 12
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Diamonds",
+                "_am": 20,
+                "tn": 6
+              }
+            },
+            "StarsRequired": 12
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Watermelon",
+                "_am": 185
+              }
+            },
+            "StarsRequired": 12
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Large Potion Bundle",
+                "_am": 2
+              }
+            },
+            "StarsRequired": 12
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Coins",
+                "_am": 9,
+                "tn": 10
+              }
+            },
+            "StarsRequired": 13
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Shiny Flag",
+                "_am": 120
+              }
+            },
+            "StarsRequired": 13
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Breakable Sprinkler"
+              }
+            },
+            "StarsRequired": 13
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Fortune Flag",
+                "_am": 200
+              }
+            },
+            "StarsRequired": 13
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Basic Item Jar",
+                "_am": 25
+              }
+            },
+            "StarsRequired": 15
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "TNT Crate",
+                "_am": 60
+              }
+            },
+            "StarsRequired": 15
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Golden Pencil",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 15
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Seashell",
+                "_am": 9
+              }
+            },
+            "StarsRequired": 16
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Mini Lucky Block",
+                "_am": 4
+              }
+            },
+            "StarsRequired": 16
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Basic Item Jar",
+                "_am": 7
+              }
+            },
+            "StarsRequired": 16
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "MVP Key Lower Half"
+              }
+            },
+            "StarsRequired": 17
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Toy Bone",
+                "_am": 170
+              }
+            },
+            "StarsRequired": 17
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Fantasy Key",
+                "_am": 4
+              }
+            },
+            "StarsRequired": 17
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Hacker Key",
+                "_am": 7
+              }
+            },
+            "StarsRequired": 18
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Daycare Slot Voucher"
+              }
+            },
+            "StarsRequired": 18
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Fantasy Spinny Wheel Ticket",
+                "_am": 30
+              }
+            },
+            "StarsRequired": 18
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Crystal Key",
+                "_am": 3
+              }
+            },
+            "StarsRequired": 19
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Damage",
+                "_am": 20,
+                "tn": 10
+              }
+            },
+            "StarsRequired": 19
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Fruit Bundle",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 19
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Party Box",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 20
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Gift Bag",
+                "_am": 8
+              }
+            },
+            "StarsRequired": 20
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Gift Bag",
+                "_am": 8
+              }
+            },
+            "StarsRequired": 20
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Treasure Hideout Key Upper Half",
+                "_am": 25
+              }
+            },
+            "StarsRequired": 21
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Diamonds",
+                "_am": 4,
+                "tn": 9
+              }
+            },
+            "StarsRequired": 21
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Lucky",
+                "_am": 15,
+                "tn": 8
+              }
+            },
+            "StarsRequired": 21
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Coins",
+                "_am": 25,
+                "tn": 9
+              }
+            },
+            "StarsRequired": 22
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Charm Chisel",
+                "_am": 2
+              }
+            },
+            "StarsRequired": 22
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Rainbow Flag",
+                "_am": 140
+              }
+            },
+            "StarsRequired": 22
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Damage",
+                "_am": 20,
+                "tn": 8
+              }
+            },
+            "StarsRequired": 23
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Charm Hammer",
+                "_am": 5
+              }
+            },
+            "StarsRequired": 23
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Fantasy Key Upper Half",
+                "_am": 2
+              }
+            },
+            "StarsRequired": 23
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Mini Chest",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 24
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Mini Chest",
+                "_am": 3
+              }
+            },
+            "StarsRequired": 24
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Damage",
+                "tn": 11
+              }
+            },
+            "StarsRequired": 24
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Bucket O' Magic",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 25
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Golden Pencil",
+                "_am": 8
+              }
+            },
+            "StarsRequired": 25
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Diamonds",
+                "_am": 2,
+                "tn": 9
+              }
+            },
+            "StarsRequired": 25
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Treasure Hunter",
+                "tn": 11
+              }
+            },
+            "StarsRequired": 26
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Charm Chisel",
+                "_am": 2
+              }
+            },
+            "StarsRequired": 26
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Basic Item Jar",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 26
+          }
+        ],
+        "RankNumber": 34,
+        "UnlockableEggSlots": 0
+      },
+      "collection": "Ranks"
+    },
+    {
+      "configName": "35 | Transcendent Mind",
+      "category": "Ranks",
+      "configData": {
+        "MaxEnchantsEquipped": 6,
+        "MaximumActiveGoals": 4,
+        "UnlockablePetSlots": 0,
+        "Title": "Transcendent Mind",
+        "RankUpRewards": [
+          {
+            "_data": {
+              "id": "Diamonds",
+              "_am": 7000000
+            }
+          },
+          {
+            "_data": {
+              "id": "Mega Potion Chest"
+            }
+          },
+          {
+            "_data": {
+              "id": "Mega Enchant Chest"
+            }
+          },
+          {
+            "_data": {
+              "id": "Rainbow Mini Chest",
+              "_am": 25
+            }
+          }
+        ],
+        "Goals": [
+          [
+            {
+              "Type": 21,
+              "Amount": 3250,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 3250,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 3250,
+              "Weight": 1
+            },
+            {
+              "Type": 14,
+              "Amount": 90,
+              "Weight": 1
+            },
+            {
+              "Type": 15,
+              "Amount": 90,
+              "Weight": 1
+            },
+            {
+              "Type": 9,
+              "Amount": 60,
+              "Weight": 1
+            }
+          ],
+          [
+            {
+              "Type": 21,
+              "Amount": 4000,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 4000,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 4000,
+              "Weight": 1
+            },
+            {
+              "Type": 14,
+              "Amount": 120,
+              "Weight": 1
+            },
+            {
+              "Type": 15,
+              "Amount": 120,
+              "Weight": 1
+            },
+            {
+              "Amount": 70,
+              "Type": 34,
+              "PotionTier": 4,
+              "Weight": 1
+            },
+            {
+              "Type": 44,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 43,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 38,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 37,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 39,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 76,
+              "Amount": 1,
+              "Weight": 1
+            },
+            {
+              "Type": 20,
+              "Amount": 3000,
+              "Weight": 1
+            },
+            {
+              "Type": 20,
+              "Amount": 3000,
+              "Weight": 1
+            },
+            {
+              "Type": 40,
+              "Amount": 1750,
+              "Weight": 1
+            },
+            {
+              "Type": 41,
+              "Amount": 160,
+              "Weight": 1
+            },
+            {
+              "Type": 26,
+              "Amount": 70,
+              "Weight": 1
+            },
+            {
+              "Type": 25,
+              "Amount": 70,
+              "Weight": 1
+            },
+            {
+              "Type": 46,
+              "Amount": 90,
+              "Weight": 1
+            },
+            {
+              "Type": 45,
+              "Amount": 90,
+              "Weight": 1
+            }
+          ],
+          [
+            {
+              "Type": 21,
+              "Amount": 4000,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 4000,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 4000,
+              "Weight": 1
+            },
+            {
+              "Type": 9,
+              "Amount": 1200,
+              "Weight": 1
+            },
+            {
+              "Amount": 16000,
+              "Type": 7,
+              "CurrencyID": "Diamonds",
+              "Weight": 1
+            },
+            {
+              "Amount": 75,
+              "Type": 12,
+              "PotionTier": 3,
+              "Weight": 1
+            },
+            {
+              "Amount": 75,
+              "Type": 13,
+              "EnchantTier": 3,
+              "Weight": 1
+            },
+            {
+              "Amount": 75,
+              "Type": 34,
+              "PotionTier": 4,
+              "Weight": 1
+            },
+            {
+              "Type": 44,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 43,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 38,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 37,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 39,
+              "Amount": 6,
+              "Weight": 1
+            },
+            {
+              "Type": 76,
+              "Amount": 2,
+              "Weight": 1
+            },
+            {
+              "Type": 20,
+              "Amount": 3500,
+              "Weight": 1
+            },
+            {
+              "Type": 20,
+              "Amount": 3500,
+              "Weight": 1
+            },
+            {
+              "Type": 40,
+              "Amount": 1800,
+              "Weight": 1
+            },
+            {
+              "Type": 41,
+              "Amount": 170,
+              "Weight": 1
+            },
+            {
+              "Type": 6,
+              "Amount": 1,
+              "Weight": 1
+            },
+            {
+              "Type": 6,
+              "Amount": 1,
+              "Weight": 1
+            },
+            {
+              "Type": 6,
+              "Amount": 1,
+              "Weight": 1
+            }
+          ],
+          [
+            {
+              "Type": 21,
+              "Amount": 5000,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 5000,
+              "Weight": 1
+            },
+            {
+              "Type": 21,
+              "Amount": 5000,
+              "Weight": 1
+            },
+            {
+              "Type": 9,
+              "Amount": 1750,
+              "Weight": 1
+            },
+            {
+              "Amount": 17000,
+              "Type": 7,
+              "CurrencyID": "Diamonds",
+              "Weight": 1
+            },
+            {
+              "Type": 42,
+              "Amount": 70,
+              "Weight": 1
+            },
+            {
+              "Type": 38,
+              "Amount": 8,
+              "Weight": 1
+            },
+            {
+              "Type": 37,
+              "Amount": 8,
+              "Weight": 1
+            },
+            {
+              "Type": 39,
+              "Amount": 8,
+              "Weight": 1
+            },
+            {
+              "Type": 76,
+              "Amount": 2,
+              "Weight": 1
+            }
+          ]
+        ],
+        "Rewards": [
+          {
+            "Item": {
+              "_data": {
+                "id": "Flag Bundle",
+                "_am": 7
+              }
+            },
+            "StarsRequired": 8
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Diamonds",
+                "_am": 15,
+                "tn": 5
+              }
+            },
+            "StarsRequired": 8
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Rainbow",
+                "_am": 275
+              }
+            },
+            "StarsRequired": 8
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Hasty Flag",
+                "_am": 230
+              }
+            },
+            "StarsRequired": 8
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Toy Ball",
+                "_am": 150
+              }
+            },
+            "StarsRequired": 9
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Breakable Sprinkler",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 9
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Orange",
+                "_am": 115
+              }
+            },
+            "StarsRequired": 9
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Strength Flag",
+                "_am": 190
+              }
+            },
+            "StarsRequired": 9
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Rainbow Flag",
+                "_am": 135
+              }
+            },
+            "StarsRequired": 10
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Squeaky Toy",
+                "_am": 205
+              }
+            },
+            "StarsRequired": 10
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Treasure Hunter",
+                "_am": 25,
+                "tn": 8
+              }
+            },
+            "StarsRequired": 10
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Diamonds Flag",
+                "_am": 175
+              }
+            },
+            "StarsRequired": 10
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Enchant Bundle",
+                "_am": 7
+              }
+            },
+            "StarsRequired": 11
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Toy Ball",
+                "_am": 180
+              }
+            },
+            "StarsRequired": 11
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Diamonds Flag",
+                "_am": 220
+              }
+            },
+            "StarsRequired": 11
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Potion Bundle",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 11
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Void Key Lower Half",
+                "_am": 8
+              }
+            },
+            "StarsRequired": 12
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Flag Bundle",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 12
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Banana",
+                "_am": 215
+              }
+            },
+            "StarsRequired": 12
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Treasure Hideout Key",
+                "_am": 25
+              }
+            },
+            "StarsRequired": 12
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Prison Key",
+                "_am": 3
+              }
+            },
+            "StarsRequired": 13
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Damage",
+                "_am": 20,
+                "tn": 10
+              }
+            },
+            "StarsRequired": 13
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Charm Hammer",
+                "_am": 4
+              }
+            },
+            "StarsRequired": 13
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Seed Bag",
+                "_am": 25
+              }
+            },
+            "StarsRequired": 13
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Large Gift Bag",
+                "_am": 7
+              }
+            },
+            "StarsRequired": 15
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Millionaire Bucks",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 15
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "MVP Key Lower Half",
+                "_am": 2
+              }
+            },
+            "StarsRequired": 15
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Treasure Hideout Key Lower Half",
+                "_am": 6
+              }
+            },
+            "StarsRequired": 16
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Bucket O' Magic",
+                "_am": 6
+              }
+            },
+            "StarsRequired": 16
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Void Spinny Wheel Ticket",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 16
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Charm Hammer",
+                "_am": 3
+              }
+            },
+            "StarsRequired": 17
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Tech Spinny Wheel Ticket",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 17
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Tech Key",
+                "_am": 3
+              }
+            },
+            "StarsRequired": 17
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Large Gift Bag",
+                "_am": 20
+              }
+            },
+            "StarsRequired": 18
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Prison Key",
+                "_am": 4
+              }
+            },
+            "StarsRequired": 18
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Diamond Gift Bag",
+                "_am": 7
+              }
+            },
+            "StarsRequired": 18
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Lucky",
+                "_am": 30,
+                "tn": 5
+              }
+            },
+            "StarsRequired": 19
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Booth Slot Voucher"
+              }
+            },
+            "StarsRequired": 19
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Lucky",
+                "tn": 8
+              }
+            },
+            "StarsRequired": 19
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Crystal Key",
+                "_am": 4
+              }
+            },
+            "StarsRequired": 20
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Charm Hammer",
+                "_am": 4
+              }
+            },
+            "StarsRequired": 20
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Mini Lucky Block",
+                "_am": 25
+              }
+            },
+            "StarsRequired": 20
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Charm Stone",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 21
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "MVP Key Lower Half",
+                "_am": 2
+              }
+            },
+            "StarsRequired": 21
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Treasure Hideout Key",
+                "_am": 25
+              }
+            },
+            "StarsRequired": 21
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Diamonds",
+                "_am": 15,
+                "tn": 8
+              }
+            },
+            "StarsRequired": 22
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Coins",
+                "_am": 5,
+                "tn": 11
+              }
+            },
+            "StarsRequired": 22
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Damage",
+                "_am": 20,
+                "tn": 8
+              }
+            },
+            "StarsRequired": 22
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Hacker Key",
+                "_am": 7
+              }
+            },
+            "StarsRequired": 23
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Gift Bag",
+                "_am": 30
+              }
+            },
+            "StarsRequired": 23
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Mini Chest",
+                "_am": 2
+              }
+            },
+            "StarsRequired": 23
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Coins",
+                "_am": 8,
+                "tn": 10
+              }
+            },
+            "StarsRequired": 24
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Treasure Hunter",
+                "_am": 5,
+                "tn": 10
+              }
+            },
+            "StarsRequired": 24
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Booth Slot Voucher"
+              }
+            },
+            "StarsRequired": 24
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Damage",
+                "_am": 25,
+                "tn": 8
+              }
+            },
+            "StarsRequired": 25
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Charm Chisel",
+                "_am": 2
+              }
+            },
+            "StarsRequired": 25
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Insta Plant Capsule",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 25
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Insta Plant Capsule",
+                "_am": 5
+              }
+            },
+            "StarsRequired": 26
+          },
+          {
+            "Item": {
+              "_data": {
+                "id": "Mini Chest",
+                "_am": 15
+              }
+            },
+            "StarsRequired": 26
+          }
+        ],
+        "RankNumber": 35,
+        "UnlockableEggSlots": 0
+      },
       "collection": "Ranks"
     }
   ]

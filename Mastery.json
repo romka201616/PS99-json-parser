@@ -1843,6 +1843,208 @@
         }
       },
       "collection": "Mastery"
+    },
+    {
+      "configName": "Mastery | Keys",
+      "category": "Mastery",
+      "configData": {
+        "Perks": {
+          "BetterCrystal": [
+            {
+              "Level": 30,
+              "Text": "+10% better loot from the Crystal Chest",
+              "Title": "Crystal Loot I",
+              "Power": 10
+            },
+            {
+              "Level": 80,
+              "Text": "+15% better loot from the Crystal Chest",
+              "Title": "Crystal Loot II",
+              "Power": 15
+            },
+            {
+              "Level": 99,
+              "Text": "+25% better loot from the Crystal Chest",
+              "Title": "Crystal Loot III",
+              "Power": 25
+            }
+          ],
+          "FreeTechKey": [
+            {
+              "Level": 60,
+              "Text": "Small chance to get a free Tech Key when combining a Crystal Key",
+              "Title": "Free Tech I",
+              "Power": 0.004
+            },
+            {
+              "Level": 99,
+              "Text": "2x chance to get a free Tech Key when combining a Crystal Key",
+              "Title": "Free Tech II",
+              "Power": 0.008
+            }
+          ],
+          "RetainSecretKey": [
+            {
+              "Level": 50,
+              "Text": "5% chance to keep your Secret Key after opening a Secret Room",
+              "Title": "Secret Protector I",
+              "Power": 5
+            },
+            {
+              "Level": 90,
+              "Text": "10% chance to keep your Secret Key after opening a Secret Room",
+              "Title": "Secret Protector II",
+              "Power": 10
+            }
+          ],
+          "FreeSecretKey": [
+            {
+              "Level": 70,
+              "Text": "Small chance to get a free Secret Key when combining a Tech Key",
+              "Title": "Free Secret I",
+              "Power": 0.0033333333333333335
+            },
+            {
+              "Level": 99,
+              "Text": "2x chance to get a free Secret Key when combining a Tech Key",
+              "Title": "Free Secret II",
+              "Power": 0.006666666666666667
+            }
+          ],
+          "BetterFantasy": [
+            {
+              "Level": 70,
+              "Text": "+10% better loot from the Fantasy Chest",
+              "Title": "Fantasy Loot I",
+              "Power": 10
+            },
+            {
+              "Level": 95,
+              "Text": "+15% better loot from the Fantasy Chest",
+              "Title": "Fantasy Loot II",
+              "Power": 15
+            },
+            {
+              "Level": 99,
+              "Text": "+25% better loot from the Fantasy Chest",
+              "Title": "Fantasy Loot III",
+              "Power": 25
+            }
+          ],
+          "BetterTech": [
+            {
+              "Level": 50,
+              "Text": "+10% better loot from the Tech Chest",
+              "Title": "Tech Loot I",
+              "Power": 10
+            },
+            {
+              "Level": 80,
+              "Text": "+15% better loot from the Tech Chest",
+              "Title": "Tech Loot II",
+              "Power": 15
+            },
+            {
+              "Level": 99,
+              "Text": "+25% better loot from the Tech Chest",
+              "Title": "Tech Loot III",
+              "Power": 25
+            }
+          ],
+          "MasteryCape": [
+            {
+              "Text": "Awarded for reaching level 99 Mastery!",
+              "Title": "Mastery Cape",
+              "Level": 99
+            }
+          ],
+          "CombineAll": [
+            {
+              "Text": "Gain the ability to combine all keys at once",
+              "Title": "Combine All",
+              "Level": 40
+            }
+          ],
+          "RetainTechKey": [
+            {
+              "Level": 20,
+              "Text": "5% chance to keep your Tech Key after opening a Tech Chest",
+              "Title": "Tech Protector I",
+              "Power": 5
+            },
+            {
+              "Level": 90,
+              "Text": "10% chance to keep your Tech Key after opening a Tech Chest",
+              "Title": "Tech Protector II",
+              "Power": 10
+            }
+          ],
+          "BetterVoid": [
+            {
+              "Level": 60,
+              "Text": "+10% better loot from the Void Chest",
+              "Title": "Void Loot I",
+              "Power": 10
+            },
+            {
+              "Level": 90,
+              "Text": "+15% better loot from the Void Chest",
+              "Title": "Void Loot II",
+              "Power": 15
+            },
+            {
+              "Level": 99,
+              "Text": "+25% better loot from the Void Chest",
+              "Title": "Void Loot III",
+              "Power": 25
+            }
+          ],
+          "RetainCrystalKey": [
+            {
+              "Level": 10,
+              "Text": "5% chance to keep your Crystal Key after opening a Crystal Chest",
+              "Title": "Crystal Protector I",
+              "Power": 5
+            },
+            {
+              "Level": 90,
+              "Text": "10% chance to keep your Crystal Key after opening a Crystal Chest",
+              "Title": "Crystal Protector II",
+              "Power": 10
+            }
+          ],
+          "RetainVoidKey": [
+            {
+              "Level": 40,
+              "Text": "5% chance to keep your Void Key after opening a Void Chest",
+              "Title": "Void Protector I",
+              "Power": 5
+            },
+            {
+              "Level": 90,
+              "Text": "10% chance to keep your Void Key after opening a Void Chest",
+              "Title": "Void Protector II",
+              "Power": 10
+            }
+          ],
+          "RetainFantasyKey": [
+            {
+              "Level": 95,
+              "Text": "10% chance to keep your Fantasy Key after opening a Fantasy Chest",
+              "Title": "Fantasy Protector II",
+              "Power": 10
+            }
+          ]
+        },
+        "FFlag": "Mastery_Keys",
+        "Name": "Keys",
+        "Icon": "rbxassetid://16848872762",
+        "Desc": "Gain XP by using & combining keys!"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Mastery"
     }
   ]
 }

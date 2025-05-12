@@ -1,23 +1,6 @@
 {
   "data": [
     {
-      "configName": "World 1",
-      "category": "Worlds",
-      "configData": {
-        "SpawnId": "Spawn",
-        "FallbackSpawnLocation": null,
-        "Lighting": null,
-        "PlaceId": 17473989780,
-        "MapName": "Map",
-        "WorldCurrency": "Coins",
-        "WorldNumber": 1
-      },
-      "hash": null,
-      "dateModified": null,
-      "dateCreated": null,
-      "collection": "Worlds"
-    },
-    {
       "configName": "World 2",
       "category": "Worlds",
       "configData": {
@@ -31,6 +14,15 @@
         "AdditionalMusic": [
           "rbxassetid://16494370682",
           "rbxassetid://16494369253",
+          "rbxassetid://16494371914",
+          "rbxassetid://16494370682",
+          "rbxassetid://16494369253",
+          "rbxassetid://16494371914",
+          "rbxassetid://16494370682",
+          "rbxassetid://16494369253",
+          "rbxassetid://16494371914",
+          "rbxassetid://16494370682",
+          "rbxassetid://16494369253",
           "rbxassetid://16494371914"
         ]
       },
@@ -40,20 +32,44 @@
       "collection": "Worlds"
     },
     {
-      "configName": "World 3",
+      "configName": "World 4",
       "category": "Worlds",
       "configData": {
-        "SpawnId": "Void Spawn",
+        "SpawnId": "Fantasy Spawn",
         "FallbackSpawnLocation": null,
+        "WorldCurrency": "FantasyCoins",
+        "PlaceId": 80944282381556,
+        "MapName": "Map4",
+        "WorldNumber": 4,
         "Lighting": null,
-        "PlaceId": 15502302041,
-        "MapName": "Map3",
-        "WorldCurrency": "VoidCoins",
-        "WorldNumber": 3
+        "AdditionalMusic": [
+          "rbxassetid://112988056025631",
+          "rbxassetid://112988056025631",
+          "rbxassetid://112988056025631",
+          "rbxassetid://112988056025631",
+          "rbxassetid://112988056025631",
+          "rbxassetid://112988056025631",
+          "rbxassetid://112988056025631",
+          "rbxassetid://112988056025631",
+          "rbxassetid://112988056025631",
+          "rbxassetid://86186792657071",
+          "rbxassetid://78559354292307",
+          "rbxassetid://93560735917283",
+          "rbxassetid://78278497543728",
+          "rbxassetid://86186792657071",
+          "rbxassetid://78559354292307",
+          "rbxassetid://93560735917283",
+          "rbxassetid://78278497543728",
+          "rbxassetid://86186792657071",
+          "rbxassetid://78559354292307",
+          "rbxassetid://93560735917283",
+          "rbxassetid://78278497543728",
+          "rbxassetid://86186792657071",
+          "rbxassetid://78559354292307",
+          "rbxassetid://93560735917283",
+          "rbxassetid://78278497543728"
+        ]
       },
-      "hash": null,
-      "dateModified": null,
-      "dateCreated": null,
       "collection": "Worlds"
     }
   ]

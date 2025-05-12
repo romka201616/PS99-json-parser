@@ -279,6 +279,78 @@
       "dateModified": null,
       "dateCreated": null,
       "collection": "Worlds"
+    },
+    {
+      "configName": "World 2",
+      "category": "Worlds",
+      "configData": {
+        "SpawnId": "Tech Spawn",
+        "FallbackSpawnLocation": null,
+        "WorldCurrency": "TechCoins",
+        "PlaceId": 16170461708,
+        "MapName": "Map2",
+        "WorldNumber": 2,
+        "Lighting": null,
+        "AdditionalMusic": [
+          "rbxassetid://16494370682",
+          "rbxassetid://16494369253",
+          "rbxassetid://16494371914",
+          "rbxassetid://16494370682",
+          "rbxassetid://16494369253",
+          "rbxassetid://16494371914",
+          "rbxassetid://16494370682",
+          "rbxassetid://16494369253",
+          "rbxassetid://16494371914",
+          "rbxassetid://16494370682",
+          "rbxassetid://16494369253",
+          "rbxassetid://16494371914"
+        ]
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Worlds"
+    },
+    {
+      "configName": "World 4",
+      "category": "Worlds",
+      "configData": {
+        "SpawnId": "Fantasy Spawn",
+        "FallbackSpawnLocation": null,
+        "WorldCurrency": "FantasyCoins",
+        "PlaceId": 80944282381556,
+        "MapName": "Map4",
+        "WorldNumber": 4,
+        "Lighting": null,
+        "AdditionalMusic": [
+          "rbxassetid://112988056025631",
+          "rbxassetid://112988056025631",
+          "rbxassetid://112988056025631",
+          "rbxassetid://112988056025631",
+          "rbxassetid://112988056025631",
+          "rbxassetid://112988056025631",
+          "rbxassetid://112988056025631",
+          "rbxassetid://112988056025631",
+          "rbxassetid://112988056025631",
+          "rbxassetid://86186792657071",
+          "rbxassetid://78559354292307",
+          "rbxassetid://93560735917283",
+          "rbxassetid://78278497543728",
+          "rbxassetid://86186792657071",
+          "rbxassetid://78559354292307",
+          "rbxassetid://93560735917283",
+          "rbxassetid://78278497543728",
+          "rbxassetid://86186792657071",
+          "rbxassetid://78559354292307",
+          "rbxassetid://93560735917283",
+          "rbxassetid://78278497543728",
+          "rbxassetid://86186792657071",
+          "rbxassetid://78559354292307",
+          "rbxassetid://93560735917283",
+          "rbxassetid://78278497543728"
+        ]
+      },
+      "collection": "Worlds"
     }
   ]
 }

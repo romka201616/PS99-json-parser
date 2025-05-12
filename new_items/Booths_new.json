@@ -1,25 +1,294 @@
 {
   "data": [
     {
-      "configName": "Booth | Easter",
+      "configName": "Booth | Error",
       "category": "Booths",
       "configData": {
-        "DisplayName": "Easter Booth",
         "Rarity": {
-          "RarityNumber": 6,
+          "RarityNumber": 999,
           "Lootbag": null,
-          "_id": "Exotic",
+          "_id": "Exclusive",
           "Color": null,
-          "DisplayName": "Exotic",
+          "DisplayName": "Exclusive",
           "Message": null,
           "ItemSlot": null,
           "Gradient": null,
           "Announce": true,
           "_script": null
         },
+        "DisplayName": "Error Booth",
         "Model": null,
-        "Icon": "rbxassetid://14988724401",
-        "Desc": "Wanna buy an Easter egg?"
+        "Desc": "E͔͋ͤͫR͕̩̠̪̎͐Ŕ͚͈̱̤̌ͧ͛ͫͦ̔ͅO͓̹̗̓R͛́̈́ͣ͌ͣ̚",
+        "Icon": "rbxassetid://18743460785",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Enchant",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Enchant Booth",
+        "Model": null,
+        "Desc": "It'd be a shame to not sell enchants on this booth!",
+        "Icon": "rbxassetid://18743460916",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Kawaii",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Kawaii Booth",
+        "Model": null,
+        "Desc": "UwU ~ so cute! ~ OwO",
+        "Icon": "rbxassetid://18743460539",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Jelly",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Jelly Booth",
+        "Model": null,
+        "Desc": "Squishy squishy, yummy yummy",
+        "Icon": "rbxassetid://108592258229615",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Nuclear",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Nuclear Booth",
+        "Model": null,
+        "Desc": "It's gonna get toxic if ya don't buy somethin'!",
+        "Icon": "rbxassetid://92922375244335",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Pirate",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Pirate Booth",
+        "Model": null,
+        "Desc": "ARR MATEY, DO WE HAVE A DEAL?",
+        "Icon": "rbxassetid://97538960613527",
+        "Tradable": true
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | UFO",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "UFO Booth",
+        "Model": null,
+        "Desc": "Beamed down from outer space!",
+        "Icon": "rbxassetid://128642920963095",
+        "ProductId": 3282871917
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Police",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Police Booth",
+        "ProductId": 3282871810,
+        "Desc": "Stop right there!",
+        "Model": null,
+        "Icon": "rbxassetid://136173672339287",
+        "RenderStepped": null
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Cow",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Cow Booth",
+        "Model": null,
+        "Tradable": true,
+        "Desc": "Milk it while you can!",
+        "Icon": "rbxassetid://83380198570830",
+        "DiamondPrice": 300000
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Arcade",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Arcade Booth",
+        "Model": null,
+        "Tradable": true,
+        "Desc": "Trade tokens for treasures!",
+        "Icon": "rbxassetid://120891342577668",
+        "DiamondPrice": 1000000
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Nightfall",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Nightfall Booth",
+        "ProductId": 3282871747,
+        "Desc": "Dark and mysterious... at night",
+        "Icon": "rbxassetid://101229426212153",
+        "Model": null
+      },
+      "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Pizza",
+      "category": "Booths",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Pizza Booth",
+        "Model": null,
+        "Tradable": true,
+        "Desc": "Hot, cheesy, and open for business!",
+        "Icon": "rbxassetid://97896672679883",
+        "DiamondPrice": 600000
       },
       "collection": "Booths"
     }

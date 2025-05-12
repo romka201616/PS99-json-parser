@@ -24,19 +24,19 @@
         "name": "Active Huge Egg",
         "pets": [
           [
-            "Huge Fancy Axolotl",
+            "Huge Giraffe",
             1
           ],
           [
-            "Huge Beaver",
+            "Huge Llama",
             1
           ],
           [
-            "Huge Honey Badger",
+            "Huge Helicopter Cat",
             1
           ],
           [
-            "Huge Crocodile",
+            "Huge Mermaid Cat",
             1
           ]
         ],
@@ -49,8 +49,113 @@
       "collection": "Eggs"
     },
     {
-      "configName": "5 | Easter Bunny Egg",
-      "category": "Easter",
+      "configName": "251 | Doodle Tropical Egg",
+      "category": "Update 41",
+      "configData": {
+        "eggNumber": 251,
+        "currency": "VoidCoins",
+        "name": "Doodle Tropical Egg",
+        "worldNumber": 3,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Doodle Narwhal",
+            99
+          ],
+          [
+            "Doodle Crocodile",
+            1
+          ],
+          [
+            "Doodle Dolphin",
+            0.001,
+            "Great"
+          ],
+          [
+            "Doodle Shark",
+            0.00025,
+            "Insane"
+          ],
+          [
+            "Doodle Axolotl",
+            1.85e-05,
+            "Insane"
+          ],
+          [
+            "Huge Chroma Doodle Axolotl",
+            1e-06,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Exclusive Egg 50",
+      "category": "Exclusive Eggs",
+      "configData": {
+        "disableGold": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "rainbowChance": 2,
+        "shinyChance": 2,
+        "disableRainbow": false,
+        "name": "Exclusive Aura Egg",
+        "productIds": {
+          "Exclusive Egg": 3282115178,
+          "3 Exclusive Eggs": 3282115242,
+          "100 Exclusive Eggs": 3282115410,
+          "10 Exclusive Eggs": 3282115305
+        },
+        "pets": [
+          [
+            "Aura Fox",
+            50
+          ],
+          [
+            "Aura Bull",
+            35
+          ],
+          [
+            "Aura Dominus",
+            13
+          ],
+          [
+            "Huge Aura Fox",
+            1.5
+          ],
+          [
+            "Huge Aura Dominus",
+            0.39
+          ],
+          [
+            "Titanic Aura Kitsune",
+            0.1
+          ],
+          [
+            "Gargantuan Aura Cat",
+            0.01
+          ]
+        ],
+        "goldChance": 0,
+        "icon": "rbxassetid://121397272180623",
+        "disableModifiers": true
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "1 | Fishing Island Egg 1",
+      "category": "Fishing",
       "configData": {
         "rarity": {
           "RarityNumber": 9,
@@ -64,35 +169,190 @@
           "Announce": true,
           "_script": null
         },
-        "currency": "EasterCoins",
-        "name": "Easter Bunny Egg",
+        "currency": "FishingEvent",
+        "name": "Ahoy Egg",
+        "overrideCost": 250,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Pirate Dog",
+            90
+          ],
+          [
+            "Captain Octopus",
+            10
+          ],
+          [
+            "Skeleton Shark",
+            0.1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "2 | Fishing Island Egg 2",
+      "category": "Fishing",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "FishingEvent",
+        "name": "Forgotten Egg",
+        "overrideCost": 500,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Captain Octopus",
+            90
+          ],
+          [
+            "Skeleton Shark",
+            10
+          ],
+          [
+            "Leafy Seahorse",
+            0.1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "3 | Fishing Island Egg 3",
+      "category": "Fishing",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "FishingEvent",
+        "name": "Twisted Egg",
+        "overrideCost": 1000,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Skeleton Shark",
+            90
+          ],
+          [
+            "Leafy Seahorse",
+            10
+          ],
+          [
+            "Seamine Pufferfish",
+            0.1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "4 | Fishing Island Egg 4",
+      "category": "Fishing",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "FishingEvent",
+        "name": "Mystical Egg",
+        "overrideCost": 2000,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Leafy Seahorse",
+            90
+          ],
+          [
+            "Seamine Pufferfish",
+            10
+          ],
+          [
+            "Mystical Whale",
+            0.1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "5 | Fishing Island Egg 5",
+      "category": "Fishing",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "FishingEvent",
+        "name": "Kraken Egg",
         "overrideCost": 4000,
         "isCustomEgg": true,
         "oddsFFlags": {
-          "Easter Dominus": "EggMultiplier_J1",
-          "Easter Angelus": "EggMultiplier_J2"
+          "Huge Pirate Dog": "EggMultiplier_J4"
         },
         "icon": "rbxassetid://15172355963",
         "pets": [
           [
-            "Marshmallow Kitsune",
+            "Seamine Pufferfish",
             99.949995
           ],
           [
-            "Easter Agony",
+            "Mystical Whale",
             0.2
           ],
           [
-            "The Easter Bunny",
+            "Rogue Squid",
             0.05
           ],
           [
-            "Easter Dominus",
+            "Anglerfish",
             0.0005,
             "Great"
           ],
           [
-            "Easter Angelus",
+            "Krakling Kraken",
             5e-05,
             "Insane"
           ]
@@ -101,54 +361,45 @@
       "collection": "Eggs"
     },
     {
-      "configName": "6 | Easter Chest Egg 1",
-      "category": "Easter",
+      "configName": "Exclusive Huge Egg",
+      "category": "Other",
       "configData": {
+        "disableGold": false,
         "rarity": {
-          "RarityNumber": 9,
+          "RarityNumber": 999,
           "Lootbag": null,
-          "_id": "Celestial",
+          "_id": "Exclusive",
           "Color": null,
-          "DisplayName": "Celestial",
+          "DisplayName": "Exclusive",
           "Message": null,
           "ItemSlot": null,
           "Gradient": null,
           "Announce": true,
           "_script": null
         },
-        "currency": "EasterCoins",
-        "name": "Easter Chest Egg 1",
-        "overrideCost": 6000,
-        "isCustomEgg": true,
-        "oddsFFlags": {
-          "Huge Spring Bee": "EggMultiplier_J3"
-        },
-        "icon": "rbxassetid://15172355963",
+        "disableRainbow": false,
+        "shinyChance": 2,
+        "disableModifiers": true,
+        "rainbowChance": 2,
+        "name": "Diamond Cat Egg",
         "pets": [
           [
-            "Easter Dominus",
-            99.100545
+            "Diamond Cat",
+            99
           ],
           [
-            "Easter Angelus",
+            "Huge Diamond Cat",
             1
-          ],
-          [
-            "Egg Chick",
-            0.1
-          ],
-          [
-            "Huge Spring Bee",
-            1.2e-06,
-            "Insane"
           ]
-        ]
+        ],
+        "goldChance": 5,
+        "icon": "rbxassetid://15249783107"
       },
       "collection": "Eggs"
     },
     {
-      "configName": "7 | Easter Chest Egg 2",
-      "category": "Easter",
+      "configName": "6 | Fishing Island Egg 6",
+      "category": "Fishing",
       "configData": {
         "rarity": {
           "RarityNumber": 9,
@@ -162,176 +413,41 @@
           "Announce": true,
           "_script": null
         },
-        "currency": "EasterCoins",
-        "name": "Easter Chest Egg 2",
-        "overrideCost": 6100,
+        "currency": "FishingEvent",
+        "name": "Frozen Egg",
+        "overrideCost": 6500,
         "isCustomEgg": true,
         "oddsFFlags": {
-          "Huge Spring Bee": "EggMultiplier_J3"
+          "Huge Pirate Dog": "EggMultiplier_J4"
         },
-        "icon": "rbxassetid://15172355963",
+        "icon": "rbxassetid://15172355062",
         "pets": [
           [
-            "Easter Angelus",
-            95.150545
+            "Snow Crab",
+            99.749995
           ],
           [
-            "Egg Chick",
-            5
+            "Mystical Whale",
+            0.4,
+            "Nice"
           ],
           [
-            "Spring Griffin",
+            "Rogue Squid",
             0.05,
             "Nice"
           ],
           [
-            "Huge Spring Bee",
-            1.2e-06,
-            "Insane"
-          ]
-        ]
-      },
-      "collection": "Eggs"
-    },
-    {
-      "configName": "8 | Easter Chest Egg 3",
-      "category": "Easter",
-      "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "currency": "EasterCoins",
-        "name": "Easter Chest Egg 3",
-        "overrideCost": 6300,
-        "isCustomEgg": true,
-        "oddsFFlags": {
-          "Huge Spring Bee": "EggMultiplier_J3"
-        },
-        "icon": "rbxassetid://15172355963",
-        "pets": [
-          [
-            "Easter Angelus",
-            95.000545
+            "Anglerfish",
+            0.0005,
+            "Great"
           ],
           [
-            "Egg Chick",
-            5
-          ],
-          [
-            "Spring Griffin",
-            0.2,
-            "Nice"
-          ],
-          [
-            "Huge Spring Bee",
-            1.2e-06,
-            "Insane"
-          ]
-        ]
-      },
-      "collection": "Eggs"
-    },
-    {
-      "configName": "9 | Easter Chest Egg 4",
-      "category": "Easter",
-      "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "currency": "EasterCoins",
-        "name": "Easter Chest Egg 4",
-        "overrideCost": 7200,
-        "isCustomEgg": true,
-        "oddsFFlags": {
-          "Huge Spring Bee": "EggMultiplier_J3"
-        },
-        "icon": "rbxassetid://15172355963",
-        "pets": [
-          [
-            "Egg Chick",
-            99.195545
-          ],
-          [
-            "Spring Griffin",
-            1
-          ],
-          [
-            "Easter Axolotl",
-            0.005,
-            "Nice"
-          ],
-          [
-            "Huge Spring Bee",
-            1.2e-06,
-            "Insane"
-          ]
-        ]
-      },
-      "collection": "Eggs"
-    },
-    {
-      "configName": "10 | Easter Chest Egg 5",
-      "category": "Easter",
-      "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "currency": "EasterCoins",
-        "name": "Easter Chest Egg 5",
-        "overrideCost": 10000,
-        "isCustomEgg": true,
-        "oddsFFlags": {
-          "Huge Spring Bee": "EggMultiplier_J3"
-        },
-        "icon": "rbxassetid://15172355963",
-        "pets": [
-          [
-            "Egg Chick",
-            99.195495
-          ],
-          [
-            "Spring Griffin",
-            1
-          ],
-          [
-            "Easter Axolotl",
-            0.005,
-            "Nice"
-          ],
-          [
-            "Spring Bee",
+            "Beluga Whale",
             5e-05,
-            "Nice"
+            "Insane"
           ],
           [
-            "Huge Spring Bee",
+            "Huge Pirate Dog",
             1.2e-06,
             "Insane"
           ]
@@ -340,262 +456,309 @@
       "collection": "Eggs"
     },
     {
-      "configName": "11 | Easter Chest Egg 6",
-      "category": "Easter",
+      "configName": "252 | Fantasy Egg",
+      "category": "World 4",
       "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "currency": "EasterCoins",
-        "name": "Easter Chest Egg 6",
-        "overrideCost": 20000,
-        "isCustomEgg": true,
-        "oddsFFlags": {
-          "Huge Spring Bee": "EggMultiplier_J3"
-        },
+        "eggNumber": 252,
+        "currency": "FantasyCoins",
+        "name": "Fantasy Egg",
+        "worldNumber": 4,
         "icon": "rbxassetid://15172355963",
         "pets": [
           [
-            "Egg Chick",
-            99.145545
+            "Enchanted Bunny",
+            90
           ],
           [
-            "Spring Griffin",
-            1
-          ],
-          [
-            "Easter Axolotl",
-            0.05,
-            "Nice"
-          ],
-          [
-            "Spring Bee",
-            0.005,
-            "Nice"
-          ],
-          [
-            "Huge Spring Bee",
-            1.2e-06,
-            "Insane"
+            "Enchanted Dog",
+            10
           ]
         ]
       },
       "collection": "Eggs"
     },
     {
-      "configName": "12 | Easter Chest Egg 7",
-      "category": "Easter",
+      "configName": "253 | Flora Egg",
+      "category": "World 4",
       "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "currency": "EasterCoins",
-        "name": "Easter Chest Egg 7",
-        "overrideCost": 55000,
-        "isCustomEgg": true,
-        "oddsFFlags": {
-          "Huge Spring Bee": "EggMultiplier_J3"
-        },
+        "eggNumber": 253,
+        "currency": "FantasyCoins",
+        "name": "Flora Egg",
+        "worldNumber": 4,
         "icon": "rbxassetid://15172355963",
         "pets": [
           [
-            "Spring Griffin",
-            99.195495
+            "Enchanted Bunny",
+            90
           ],
           [
-            "Easter Axolotl",
-            1
+            "Enchanted Dog",
+            9
           ],
           [
-            "Spring Bee",
-            0.005,
+            "Lilypad Cat",
+            1,
             "Nice"
-          ],
-          [
-            "Painted Cat",
-            5e-05,
-            "Nice"
-          ],
-          [
-            "Huge Spring Bee",
-            1.2e-06,
-            "Insane"
           ]
         ]
       },
       "collection": "Eggs"
     },
     {
-      "configName": "13 | Easter Chest Egg 8",
-      "category": "Easter",
+      "configName": "254 | Firefly Forest Egg",
+      "category": "World 4",
       "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "currency": "EasterCoins",
-        "name": "Easter Chest Egg 8",
-        "overrideCost": 180000,
-        "isCustomEgg": true,
-        "oddsFFlags": {
-          "Huge Spring Bee": "EggMultiplier_J3"
-        },
+        "eggNumber": 254,
+        "currency": "FantasyCoins",
+        "name": "Firefly Forest Egg",
+        "worldNumber": 4,
         "icon": "rbxassetid://15172355963",
         "pets": [
           [
-            "Easter Axolotl",
-            99.195495
+            "Enchanted Dog",
+            90
           ],
           [
-            "Spring Bee",
-            1
-          ],
-          [
-            "Painted Cat",
-            0.005,
+            "Lilypad Cat",
+            9,
             "Nice"
           ],
           [
-            "Easter Yeti",
-            5e-05,
+            "Wisp Deer",
+            1,
             "Nice"
-          ],
-          [
-            "Huge Spring Bee",
-            1.2e-06,
-            "Insane"
           ]
         ]
       },
       "collection": "Eggs"
     },
     {
-      "configName": "14 | Easter Chest Egg 9",
-      "category": "Easter",
+      "configName": "255 | Honeycomb Egg",
+      "category": "World 4",
       "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "currency": "EasterCoins",
-        "name": "Easter Chest Egg 9",
-        "overrideCost": 590000,
-        "isCustomEgg": true,
-        "oddsFFlags": {
-          "Huge Spring Bee": "EggMultiplier_J3"
-        },
+        "eggNumber": 255,
+        "currency": "FantasyCoins",
+        "name": "Honeycomb Egg",
+        "worldNumber": 4,
         "icon": "rbxassetid://15172355963",
         "pets": [
           [
-            "Spring Bee",
-            99.195495
+            "Lilypad Cat",
+            90
           ],
           [
-            "Painted Cat",
-            1
+            "Wisp Deer",
+            9
           ],
           [
-            "Easter Yeti",
-            0.005,
+            "Pixie Bee",
+            1,
             "Nice"
-          ],
-          [
-            "Marshmallow Agony",
-            5e-05,
-            "Nice"
-          ],
-          [
-            "Huge Spring Bee",
-            1.2e-06,
-            "Insane"
           ]
         ]
       },
       "collection": "Eggs"
     },
     {
-      "configName": "15 | Easter Chest Egg 10",
-      "category": "Easter",
+      "configName": "256 | Fairy Mushroom Egg",
+      "category": "World 4",
       "configData": {
-        "rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "currency": "EasterCoins",
-        "name": "Easter Chest Egg 10",
-        "overrideCost": 2000000,
-        "isCustomEgg": true,
-        "oddsFFlags": {
-          "Huge Spring Bee": "EggMultiplier_J3"
-        },
+        "eggNumber": 256,
+        "currency": "FantasyCoins",
+        "name": "Fairy Mushroom Egg",
+        "worldNumber": 4,
         "icon": "rbxassetid://15172355963",
         "pets": [
           [
-            "Painted Cat",
-            99.195495
+            "Wisp Deer",
+            90
           ],
           [
-            "Easter Yeti",
-            1
+            "Pixie Bee",
+            9
           ],
           [
-            "Marshmallow Agony",
-            0.005,
+            "Beegle Dog",
+            1,
             "Nice"
           ],
           [
-            "Easter Golem",
-            5e-05,
+            "Honey Golem",
+            0.1,
+            "Great"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "257 | Fantasy Meadow Egg",
+      "category": "World 4",
+      "configData": {
+        "eggNumber": 257,
+        "currency": "FantasyCoins",
+        "name": "Fantasy Meadow Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Beegle Dog",
+            90
+          ],
+          [
+            "Honey Golem",
+            9
+          ],
+          [
+            "Mushroom Snail",
+            1,
             "Nice"
           ],
           [
-            "Huge Spring Bee",
+            "Mushroom Corgi",
+            0.1,
+            "Great"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "258 | Radiant Runestones Egg",
+      "category": "World 4",
+      "configData": {
+        "eggNumber": 258,
+        "currency": "FantasyCoins",
+        "name": "Radiant Runestones Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Mushroom Snail",
+            90
+          ],
+          [
+            "Mushroom Corgi",
+            9
+          ],
+          [
+            "Mossy Lamb",
+            1,
+            "Nice"
+          ],
+          [
+            "Flying Piggy",
+            0.1,
+            "Great"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "259 | Fogbound Forest Egg",
+      "category": "World 4",
+      "configData": {
+        "eggNumber": 259,
+        "currency": "FantasyCoins",
+        "name": "Fogbound Forest Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Mossy Lamb",
+            90
+          ],
+          [
+            "Flying Piggy",
+            9
+          ],
+          [
+            "Relic Cat",
+            1,
+            "Nice"
+          ],
+          [
+            "Relic Deer",
+            0.1,
+            "Great"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "260 | Rune Graveyard Egg",
+      "category": "World 4",
+      "configData": {
+        "eggNumber": 260,
+        "currency": "FantasyCoins",
+        "name": "Rune Graveyard Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Relic Cat",
+            90
+          ],
+          [
+            "Relic Deer",
+            9
+          ],
+          [
+            "Glade Griffin",
+            1,
+            "Nice"
+          ],
+          [
+            "Angel Dragon",
+            0.1,
+            "Great"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "261 | Halo Spires Egg",
+      "category": "World 4",
+      "configData": {
+        "bestEgg": true,
+        "eggNumber": 261,
+        "pets": [
+          [
+            "Glade Griffin",
+            91
+          ],
+          [
+            "Angel Dragon",
+            9.1
+          ],
+          [
+            "Empyrean Corgi",
+            0.001,
+            "Insane"
+          ],
+          [
+            "Empyrean Owl",
+            7.5e-05,
+            "Insane"
+          ],
+          [
+            "Huge Enchanted Dog",
             1.2e-06,
             "Insane"
           ]
-        ]
+        ],
+        "currency": "FantasyCoins",
+        "name": "Halo Spires Egg",
+        "oddsFFlags": {
+          "Empyrean Owl": "FantasyEggPet2",
+          "Empyrean Corgi": "FantasyEggPet1",
+          "Huge Enchanted Dog": "FantasyEggHuge"
+        },
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963"
       },
       "collection": "Eggs"
     }

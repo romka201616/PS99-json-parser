@@ -13030,6 +13030,531 @@
         "Desc": "Used to purchase Easter Chest Upgrades!"
       },
       "collection": "MiscItems"
+    },
+    {
+      "configName": "Spinny Wheel Ticket",
+      "category": "Vouchers",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Spinny Wheel Ticket",
+        "InventoryTags": [
+          "Vouchers"
+        ],
+        "Icon": "rbxassetid://15038312495",
+        "Desc": "Redeem to spin the Spinny Wheel! [Rebirth 1 Required]"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Tech Spinny Wheel Ticket",
+      "category": "Vouchers",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Tech Spinny Wheel Ticket",
+        "InventoryTags": [
+          "Vouchers"
+        ],
+        "Icon": "rbxassetid://16481320320",
+        "Desc": "Redeem to spin the Tech Spinny Wheel! [World 2 Required]"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Void Spinny Wheel Ticket",
+      "category": "Vouchers",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Void Spinny Wheel Ticket",
+        "InventoryTags": [
+          "Vouchers"
+        ],
+        "Icon": "rbxassetid://17496073736",
+        "Desc": "Redeem to spin the Void Spinny Wheel! [World 3 Required]"
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Easter Secret Key",
+      "category": "Discontinued",
+      "configData": {
+        "DisplayName": "Easter Secret Key",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://110695119653954",
+        "Desc": "Used to unlock the secret room in the 2025 Easter Event!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Lucky Easter Egg",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Lucky Easter Egg",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://125215562870875",
+        "Desc": "Used at the Giant Easter Basket to boost your final egg TITANIC & HUGE odds!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Hunt Easter Egg",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Hunt Easter Egg",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://99408821135785",
+        "Desc": "Used at the Giant Easter Basket to boost your Easter egg hunt HUGE odds!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Secret Easter Egg",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Secret Easter Egg",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://105083879250284",
+        "Desc": "Used at the Giant Easter Basket to boost your secret Easter room HUGE odds!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Easter Token",
+      "category": "Discontinued",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Discontinued": true,
+        "DisplayName": "Easter Token",
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://103859738720586",
+        "Desc": "Used to purchase Easter Chest Upgrades!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Boat 1",
+      "category": "Boats",
+      "configData": {
+        "DisplayName": "Dinghy Thingy",
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Boats"
+        ],
+        "Icon": "rbxassetid://117656406529067",
+        "Desc": "Unsure of its purpose, but very certain of its charm."
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Boat 2",
+      "category": "Boats",
+      "configData": {
+        "DisplayName": "Lil' Splashy",
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Boats"
+        ],
+        "Icon": "rbxassetid://76011406806769",
+        "Desc": "Lighthearted by nature, directionally flexible."
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Boat 3",
+      "category": "Boats",
+      "configData": {
+        "DisplayName": "Tiny Terror",
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Boats"
+        ],
+        "Icon": "rbxassetid://129105245106525",
+        "Desc": "Quietly confident, secretly in charge."
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Boat 4",
+      "category": "Boats",
+      "configData": {
+        "DisplayName": "White Paw",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Boats"
+        ],
+        "Icon": "rbxassetid://101858146467837",
+        "Desc": "Soft presence, firm intent."
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Boat 5",
+      "category": "Boats",
+      "configData": {
+        "DisplayName": "The Sea Unit",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Boats"
+        ],
+        "Icon": "rbxassetid://138561265608995",
+        "Desc": "Methodical. Unfazed. Maybe a little judgmental."
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Kraken",
+      "category": "Boats",
+      "configData": {
+        "DisplayName": "Kraken Raft",
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Boats"
+        ],
+        "Icon": "rbxassetid://14968271149",
+        "Desc": "One of one, even when there’s more."
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Fantasy Fragment",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Fantasy Fragment",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://104812704571333",
+        "Desc": "Pieces of Fantasy itself. Gather them before the portal opens."
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Fantasy Key",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Fantasy Key",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://108512775636522",
+        "Desc": "Used to unlock the Fantasy Chest!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Fantasy Key Upper Half",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Fantasy Key: Upper Half",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://108917316617818",
+        "Desc": "The upper half to the Fantasy Key. Combine this with the lower half!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Fantasy Key Lower Half",
+      "category": "Keys",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Fantasy Key: Lower Half",
+        "InventoryTags": [
+          "Keys"
+        ],
+        "Icon": "rbxassetid://83084787090931",
+        "Desc": "The lower half to the Fantasy Key. Combine this with the upper half!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Fantasy Spinny Wheel Ticket",
+      "category": "Vouchers",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Fantasy Spinny Wheel Ticket",
+        "InventoryTags": [
+          "Vouchers"
+        ],
+        "Icon": "rbxassetid://116554568552023",
+        "Desc": "Redeem to spin the Fantasy Spinny Wheel! [World 4 Required]"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Boat 6",
+      "category": "Boats",
+      "configData": {
+        "DisplayName": "Reel Frosty",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Boats"
+        ],
+        "Icon": "rbxassetid://105592631081706",
+        "Desc": "Always cold. Never Warm."
+      },
+      "collection": "MiscItems"
     }
   ]
 }

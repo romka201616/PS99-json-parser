@@ -19179,6 +19179,437 @@
         }
       },
       "collection": "Zones"
+    },
+    {
+      "configName": "240 | Fantasy Spawn",
+      "category": "World 4",
+      "configData": {
+        "ZoneName": "Fantasy Spawn",
+        "MaximumAvailableEgg": 252,
+        "WorldNumber": 4,
+        "Currency": "FantasyCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 100,
+                "Type": "Medium Coins (Fantasy)"
+              },
+              {
+                "Weight": 25,
+                "Type": "Large Coins (Fantasy)"
+              }
+            ]
+          },
+          "VIP": {
+            "Settings": {
+              "RespawnTime": 0.5,
+              "DaycareIgnore": true,
+              "Maximum": 25
+            },
+            "Data": [
+              {
+                "Weight": 1,
+                "Type": "VIP Diamond Pile"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 240,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 8
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "241 | Flora Falls",
+      "category": "World 4",
+      "configData": {
+        "ZoneName": "Flora Falls",
+        "MaximumAvailableEgg": 253,
+        "WorldNumber": 4,
+        "Currency": "FantasyCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 40,
+                "Type": "Medium Coins (Fantasy)"
+              },
+              {
+                "Weight": 80,
+                "Type": "Large Coins (Fantasy)"
+              },
+              {
+                "Weight": 15,
+                "Type": "Crate (Fantasy)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 241,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 8
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "242 | Lantern Forest",
+      "category": "World 4",
+      "configData": {
+        "ZoneName": "Lantern Forest",
+        "MaximumAvailableEgg": 254,
+        "WorldNumber": 4,
+        "Currency": "FantasyCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 25,
+                "Type": "Medium Coins (Fantasy)"
+              },
+              {
+                "Weight": 50,
+                "Type": "Large Coins (Fantasy)"
+              },
+              {
+                "Weight": 15,
+                "Type": "Crate (Fantasy)"
+              },
+              {
+                "Weight": 25,
+                "Type": "Present (Fantasy)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 242,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 8
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "243 | Honeycomb Hollow",
+      "category": "World 4",
+      "configData": {
+        "ZoneName": "Honeycomb Hollow",
+        "MaximumAvailableEgg": 255,
+        "WorldNumber": 4,
+        "Currency": "FantasyCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 4,
+                "Type": "Small Coins (Fantasy)"
+              },
+              {
+                "Weight": 4,
+                "Type": "Medium Coins (Fantasy)"
+              },
+              {
+                "Weight": 4,
+                "Type": "Large Coins (Fantasy)"
+              },
+              {
+                "Weight": 20,
+                "Type": "Crate (Fantasy)"
+              },
+              {
+                "Weight": 15,
+                "Type": "Present (Fantasy)"
+              },
+              {
+                "Weight": 5,
+                "Type": "Safe (Fantasy)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 243,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 8
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "244 | Fairy Glade",
+      "category": "World 4",
+      "configData": {
+        "ZoneName": "Fairy Glade",
+        "MaximumAvailableEgg": 256,
+        "WorldNumber": 4,
+        "Currency": "FantasyCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 22,
+                "Type": "Medium Coins (Fantasy)"
+              },
+              {
+                "Weight": 16,
+                "Type": "Large Coins (Fantasy)"
+              },
+              {
+                "Weight": 6,
+                "Type": "Safe (Fantasy)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 244,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 8
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "245 | Windmill Point",
+      "category": "World 4",
+      "configData": {
+        "ZoneName": "Windmill Point",
+        "MaximumAvailableEgg": 257,
+        "WorldNumber": 4,
+        "Currency": "FantasyCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 1,
+                "Type": "Small Coins (Fantasy)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Medium Coins (Fantasy)"
+              },
+              {
+                "Weight": 5,
+                "Type": "Large Coins (Fantasy)"
+              },
+              {
+                "Weight": 41,
+                "Type": "Present (Fantasy)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 245,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 8
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "246 | Radiant Runestones",
+      "category": "World 4",
+      "configData": {
+        "ZoneName": "Radiant Runestones",
+        "MaximumAvailableEgg": 258,
+        "WorldNumber": 4,
+        "Currency": "FantasyCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 7,
+                "Type": "Small Coins (Fantasy)"
+              },
+              {
+                "Weight": 7,
+                "Type": "Medium Coins (Fantasy)"
+              },
+              {
+                "Weight": 4,
+                "Type": "Large Coins (Fantasy)"
+              },
+              {
+                "Weight": 5,
+                "Type": "Safe (Fantasy)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Fantasy)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 246,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 8
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "247 | Fogbound Forest",
+      "category": "World 4",
+      "configData": {
+        "ZoneName": "Fogbound Forest",
+        "MaximumAvailableEgg": 259,
+        "WorldNumber": 4,
+        "Currency": "FantasyCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 9,
+                "Type": "Small Coins (Fantasy)"
+              },
+              {
+                "Weight": 7,
+                "Type": "Medium Coins (Fantasy)"
+              },
+              {
+                "Weight": 6,
+                "Type": "Large Coins (Fantasy)"
+              },
+              {
+                "Weight": 5,
+                "Type": "Crate (Fantasy)"
+              },
+              {
+                "Weight": 5,
+                "Type": "Present (Fantasy)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Safe (Fantasy)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 247,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 8
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "248 | Rune Graveyard",
+      "category": "World 4",
+      "configData": {
+        "ZoneName": "Rune Graveyard",
+        "MaximumAvailableEgg": 260,
+        "WorldNumber": 4,
+        "Currency": "FantasyCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 4,
+                "Type": "Small Coins (Fantasy)"
+              },
+              {
+                "Weight": 6,
+                "Type": "Medium Coins (Fantasy)"
+              },
+              {
+                "Weight": 8,
+                "Type": "Large Coins (Fantasy)"
+              },
+              {
+                "Weight": 6,
+                "Type": "Present (Fantasy)"
+              },
+              {
+                "Weight": 5,
+                "Type": "Safe (Fantasy)"
+              },
+              {
+                "Weight": 5,
+                "Type": "Vault (Fantasy)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 248,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 8
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "249 | Halo Spires",
+      "category": "World 4",
+      "configData": {
+        "ZoneName": "Halo Spires",
+        "MaximumAvailableEgg": 261,
+        "WorldNumber": 4,
+        "Currency": "FantasyCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 70,
+                "Type": "Present (Fantasy)"
+              },
+              {
+                "Weight": 20,
+                "Type": "Safe (Fantasy)"
+              },
+              {
+                "Weight": 10,
+                "Type": "Vault (Fantasy)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 249,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 8
+      },
+      "collection": "Zones"
     }
   ]
 }

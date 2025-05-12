@@ -1996,6 +1996,53 @@
         "Desc": "Obtained by participating in the Easter Contest!"
       },
       "collection": "Lootboxes"
+    },
+    {
+      "configName": "Deep Sea Treasure Chest",
+      "category": "Lootboxes",
+      "configData": {
+        "Rolls": 4,
+        "Rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Deep Sea Treasure Chest",
+        "Instant": true,
+        "Icon": "rbxassetid://134556771269079",
+        "Desc": "Open for the best high tier fishing loot!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Time Trial Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Time Trial Gift",
+        "Icon": "rbxassetid://123771590826264",
+        "Desc": "Reward for participating in the Fantasy World Time Trials!"
+      },
+      "collection": "Lootboxes"
     }
   ]
 }
