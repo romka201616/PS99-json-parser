@@ -18,7 +18,7 @@ N_TOP_COLUMNS_FOR_CHART = 10
 AXIS_LABEL_FONTSIZE = 14
 AXIS_TICKS_FONTSIZE = 14
 LEGEND_FONTSIZE = 16
-TITLE_FONTSIZE = 8
+TITLE_FONTSIZE = 12
 BAR_LABEL_FONTSIZE = 14
 
 # Расположение легенды:
@@ -36,7 +36,7 @@ LEGEND_LOCATION = 'upper left'  # ИЗМЕНЕНИЕ: Вы можете поме
 # --------------------
 
 def generate_stacked_bar_chart(df_for_chart: pd.DataFrame, chart_filepath: Path,
-                               y_axis_label: str, original_time_col_name: str,
+                               y_axis_label: str, original_time_col_name: str, # original_time_col_name теперь не используется для xlabel
                                indicator_col_name_for_legend: str):
     if df_for_chart.empty:
         print(f"  Данные для графика '{chart_filepath.name}' пусты. График не будет создан.")
@@ -63,18 +63,21 @@ def generate_stacked_bar_chart(df_for_chart: pd.DataFrame, chart_filepath: Path,
 
     ax = df_plot.plot(kind='bar', stacked=True, figsize=(18, 10), colormap='tab20')
 
-    ax.set_xlabel(original_time_col_name, fontsize=AXIS_LABEL_FONTSIZE)
-    ax.set_ylabel(y_axis_label, fontsize=AXIS_LABEL_FONTSIZE)
-    ax.set_title(f"Динамика \"{y_axis_label}\" по неделям (Топ {N_TOP_COLUMNS_FOR_CHART} и Другое)",
-                 fontsize=TITLE_FONTSIZE, pad=20)
+    # Убираем или устанавливаем пустую метку для оси X
+    ax.set_xlabel("", fontsize=AXIS_LABEL_FONTSIZE) # <--- ИЗМЕНЕНИЕ: Установлена пустая строка
+
+    # Закомментированные строки для заголовка и метки Y, если они тоже не нужны:
+    # ax.set_ylabel(y_axis_label, fontsize=AXIS_LABEL_FONTSIZE)
+    # ax.set_title(f"Динамика \"{y_axis_label}\" по неделям (Топ {N_TOP_COLUMNS_FOR_CHART} и Другое)",
+    #              fontsize=TITLE_FONTSIZE, pad=20)
 
     formatter = mticker.FuncFormatter(lambda x, p: format(int(x), ','))
     ax.yaxis.set_major_formatter(formatter)
     ax.tick_params(axis='y', labelsize=AXIS_TICKS_FONTSIZE)
 
     ax.tick_params(axis='x', labelsize=AXIS_TICKS_FONTSIZE)
-    if len(df_plot.index) > 8:
-        plt.xticks(rotation=0, ha="center")
+    if len(df_plot.index) > 8: # Это условие можно подстроить
+        plt.xticks(rotation=0, ha="center") # Оставил rotation=0, как у вас
     else:
         plt.xticks(rotation=0)
 
@@ -86,7 +89,6 @@ def generate_stacked_bar_chart(df_for_chart: pd.DataFrame, chart_filepath: Path,
 
     legend_title = indicator_col_name_for_legend if indicator_col_name_for_legend else "Категории"
 
-    # ИЗМЕНЕНИЕ: Настройка легенды с использованием LEGEND_LOCATION
     legend_kwargs = {
         'title': legend_title,
         'fontsize': LEGEND_FONTSIZE,
@@ -96,7 +98,7 @@ def generate_stacked_bar_chart(df_for_chart: pd.DataFrame, chart_filepath: Path,
         legend_kwargs['loc'] = LEGEND_LOCATION
     elif isinstance(LEGEND_LOCATION, tuple):
         legend_kwargs['bbox_to_anchor'] = LEGEND_LOCATION
-        legend_kwargs['loc'] = 'upper left'  # Стандартный loc при использовании bbox_to_anchor
+        legend_kwargs['loc'] = 'upper left'
 
     leg = ax.legend(**legend_kwargs)
 
@@ -106,12 +108,8 @@ def generate_stacked_bar_chart(df_for_chart: pd.DataFrame, chart_filepath: Path,
     current_ylim = ax.get_ylim()
     ax.set_ylim(current_ylim[0], current_ylim[1] * 1.07)
 
-    # ИЗМЕНЕНИЕ: Корректировка tight_layout если легенда вынесена
     if isinstance(LEGEND_LOCATION, tuple):
-        # Если легенда вынесена (например, справа), нужно оставить для нее место
-        # rect=[left, bottom, right, top]
-        # Уменьшаем правый край, чтобы легенда поместилась
-        plt.tight_layout(rect=[0, 0, 0.88, 1])  # Пример, можно подстроить 0.88
+        plt.tight_layout(rect=[0, 0, 0.88, 1])
     else:
         plt.tight_layout()
 
