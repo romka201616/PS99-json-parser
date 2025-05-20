@@ -15,11 +15,11 @@ CHARTS_DIR = Path("output_charts")
 N_TOP_COLUMNS_FOR_CHART = 10
 
 # --- Шрифты ---
-AXIS_LABEL_FONTSIZE = 14
-AXIS_TICKS_FONTSIZE = 14
-LEGEND_FONTSIZE = 16
-TITLE_FONTSIZE = 12
-BAR_LABEL_FONTSIZE = 14
+AXIS_LABEL_FONTSIZE = 20
+AXIS_TICKS_FONTSIZE = 20
+LEGEND_FONTSIZE = 20
+TITLE_FONTSIZE = 20
+BAR_LABEL_FONTSIZE = 20
 
 # Расположение легенды:
 # Строковые значения: 'best', 'upper right', 'upper left', 'lower left', 'lower right',
