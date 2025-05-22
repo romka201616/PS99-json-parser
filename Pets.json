@@ -92053,6 +92053,449 @@
         "goldenThumbnail": "rbxassetid://102601522992708"
       },
       "collection": "Pets"
+    },
+    {
+      "configName": "Huge Panda",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://122770340220299",
+        "indexObtainable": false,
+        "huge": true,
+        "name": "Huge Panda",
+        "indexDesc": "Tied to the Huge Panda merch in stores!",
+        "thumbnail": "rbxassetid://86383655760798",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Aura Fox",
+      "category": "Uncategorized",
+      "configData": {
+        "exclusiveLevel": 1,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "name": "Aura Fox",
+        "goldenThumbnail": "rbxassetid://111271764588056",
+        "thumbnail": "rbxassetid://97763976708119"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Aura Fox",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://72422909388772",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Aura Fox",
+        "indexDesc": "Found in the Exclusive Aura Egg!",
+        "thumbnail": "rbxassetid://102863074844102",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Beluga Whale",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://131540788963222",
+        "fromWorldNumber": 3,
+        "fromZoneNumber": 239,
+        "cachedPower": [
+          159087385415162
+        ],
+        "name": "Beluga Whale",
+        "thumbnail": "rbxassetid://120324460450907"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Wave Spirit",
+      "category": "Uncategorized",
+      "configData": {
+        "exclusiveLevel": 3,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "animations": {
+          "flyHeightChange": 0,
+          "swerve": true,
+          "swerveMaxAngle": 60,
+          "flyHeight": 0.025,
+          "swerveAggression": 0.2
+        },
+        "name": "Wave Spirit",
+        "fly": true,
+        "thumbnail": "rbxassetid://109804753791527",
+        "goldenThumbnail": ""
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Light Spirit",
+      "category": "Uncategorized",
+      "configData": {
+        "exclusiveLevel": 2,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "name": "Light Spirit",
+        "fly": true,
+        "thumbnail": "rbxassetid://81179704876613",
+        "goldenThumbnail": ""
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Blossom Spirit",
+      "category": "Uncategorized",
+      "configData": {
+        "exclusiveLevel": 1,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "name": "Blossom Spirit",
+        "fly": true,
+        "thumbnail": "rbxassetid://101941306391852",
+        "goldenThumbnail": ""
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Gargantuan Magma Spirit",
+      "category": "Gargantuan",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "animations": {
+          "flyHeightChange": 0,
+          "swerve": true,
+          "swerveMaxAngle": 60,
+          "flyHeight": 0.025,
+          "swerveAggression": 0.2
+        },
+        "indexObtainable": true,
+        "gargantuan": true,
+        "thumbnail": "rbxassetid://132074129972033",
+        "name": "Gargantuan Magma Spirit",
+        "indexDesc": "Found in the Exclusive Spirit Egg!",
+        "fly": true,
+        "goldenThumbnail": ""
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Wave Spirit",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "",
+        "animations": {
+          "flyHeightChange": 0,
+          "swerve": true,
+          "swerveMaxAngle": 60,
+          "flyHeight": 0.025,
+          "swerveAggression": 0.2
+        },
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Wave Spirit",
+        "indexDesc": "Found in the Exclusive Spirit Egg!",
+        "fly": true,
+        "thumbnail": "rbxassetid://101464830006395",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Blossom Spirit",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Blossom Spirit",
+        "indexDesc": "Found in the Exclusive Spirit Egg!",
+        "fly": true,
+        "thumbnail": "rbxassetid://91486613555331",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Pixel Yeti",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://72634674450547",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Pixel Yeti",
+        "indexDesc": "Earned from the 2025 Farming Event!",
+        "thumbnail": "rbxassetid://131996280038414",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Pixel Agony",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://78525431525423",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Pixel Agony",
+        "indexDesc": "Earned from the 2025 Farming Event!",
+        "fly": true,
+        "thumbnail": "rbxassetid://85105390467566",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Pixel Monkey",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://78972074974432",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Pixel Monkey",
+        "indexDesc": "Found in the Farming Forever Pack!",
+        "thumbnail": "rbxassetid://80158581180196",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Pixel Goblin",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://120501020943866",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Pixel Goblin",
+        "indexDesc": "Earned from the 2025 Farming Event!",
+        "thumbnail": "rbxassetid://122435473843216",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Balloon Corgi",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://106561094516429",
+        "animations": {
+          "balloon": true
+        },
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Balloon Corgi",
+        "indexDesc": "Reward in the 2025 Balloon Corgi Clan Battle!",
+        "fly": true,
+        "thumbnail": "rbxassetid://135934944336063",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Wood Spirit",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "indexObtainable": true,
+        "name": "Titanic Wood Spirit",
+        "indexDesc": "Found in the Exclusive Spirit Egg!",
+        "thumbnail": "rbxassetid://125083583849659",
+        "goldenThumbnail": ""
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Pixel Angelus",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "animations": {
+          "spinZ": true
+        },
+        "indexObtainable": true,
+        "name": "Titanic Pixel Angelus",
+        "indexDesc": "Earned from the 2025 Farming Event!",
+        "fly": true,
+        "thumbnail": "rbxassetid://103752775543007",
+        "goldenThumbnail": "rbxassetid://125960282340087"
+      },
+      "collection": "Pets"
     }
   ]
 }

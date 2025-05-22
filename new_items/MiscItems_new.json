@@ -1,94 +1,9 @@
 {
   "data": [
     {
-      "configName": "Spinny Wheel Ticket",
-      "category": "Vouchers",
-      "configData": {
-        "Rarity": {
-          "RarityNumber": 3,
-          "Lootbag": null,
-          "_id": "Epic",
-          "Color": null,
-          "DisplayName": "Epic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "DisplayName": "Spinny Wheel Ticket",
-        "InventoryTags": [
-          "Vouchers"
-        ],
-        "Icon": "rbxassetid://15038312495",
-        "Desc": "Redeem to spin the Spinny Wheel! [Rebirth 1 Required]"
-      },
-      "hash": null,
-      "dateModified": null,
-      "dateCreated": null,
-      "collection": "MiscItems"
-    },
-    {
-      "configName": "Tech Spinny Wheel Ticket",
-      "category": "Vouchers",
-      "configData": {
-        "Rarity": {
-          "RarityNumber": 4,
-          "Lootbag": null,
-          "_id": "Legendary",
-          "Color": null,
-          "DisplayName": "Legendary",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "DisplayName": "Tech Spinny Wheel Ticket",
-        "InventoryTags": [
-          "Vouchers"
-        ],
-        "Icon": "rbxassetid://16481320320",
-        "Desc": "Redeem to spin the Tech Spinny Wheel! [World 2 Required]"
-      },
-      "hash": null,
-      "dateModified": null,
-      "dateCreated": null,
-      "collection": "MiscItems"
-    },
-    {
-      "configName": "Void Spinny Wheel Ticket",
-      "category": "Vouchers",
-      "configData": {
-        "Rarity": {
-          "RarityNumber": 4,
-          "Lootbag": null,
-          "_id": "Legendary",
-          "Color": null,
-          "DisplayName": "Legendary",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "DisplayName": "Void Spinny Wheel Ticket",
-        "InventoryTags": [
-          "Vouchers"
-        ],
-        "Icon": "rbxassetid://17496073736",
-        "Desc": "Redeem to spin the Void Spinny Wheel! [World 3 Required]"
-      },
-      "hash": null,
-      "dateModified": null,
-      "dateCreated": null,
-      "collection": "MiscItems"
-    },
-    {
-      "configName": "Easter Secret Key",
+      "configName": "Adoption Token Boost",
       "category": "Discontinued",
       "configData": {
-        "DisplayName": "Easter Secret Key",
         "Rarity": {
           "RarityNumber": 6,
           "Lootbag": null,
@@ -102,99 +17,21 @@
           "_script": null
         },
         "Discontinued": true,
+        "DisplayName": "Adoption Token Boost",
+        "Tradable": true,
         "InventoryTags": [
           "Event"
         ],
-        "Icon": "rbxassetid://110695119653954",
-        "Desc": "Used to unlock the secret room in the 2025 Easter Event!"
+        "Icon": "rbxassetid://72705510493016",
+        "Desc": "Earn 3x Adoption Tokens for 15 minutes!"
       },
       "collection": "MiscItems"
     },
     {
-      "configName": "Lucky Easter Egg",
-      "category": "Discontinued",
+      "configName": "Pixel Rainbow Dust",
+      "category": "Event",
       "configData": {
-        "Rarity": {
-          "RarityNumber": 5,
-          "Lootbag": null,
-          "_id": "Mythical",
-          "Color": null,
-          "DisplayName": "Mythical",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Discontinued": true,
-        "DisplayName": "Lucky Easter Egg",
-        "Tradable": false,
-        "InventoryTags": [
-          "Event"
-        ],
-        "Icon": "rbxassetid://125215562870875",
-        "Desc": "Used at the Giant Easter Basket to boost your final egg TITANIC & HUGE odds!"
-      },
-      "collection": "MiscItems"
-    },
-    {
-      "configName": "Hunt Easter Egg",
-      "category": "Discontinued",
-      "configData": {
-        "Rarity": {
-          "RarityNumber": 5,
-          "Lootbag": null,
-          "_id": "Mythical",
-          "Color": null,
-          "DisplayName": "Mythical",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Discontinued": true,
-        "DisplayName": "Hunt Easter Egg",
-        "Tradable": false,
-        "InventoryTags": [
-          "Event"
-        ],
-        "Icon": "rbxassetid://99408821135785",
-        "Desc": "Used at the Giant Easter Basket to boost your Easter egg hunt HUGE odds!"
-      },
-      "collection": "MiscItems"
-    },
-    {
-      "configName": "Secret Easter Egg",
-      "category": "Discontinued",
-      "configData": {
-        "Rarity": {
-          "RarityNumber": 5,
-          "Lootbag": null,
-          "_id": "Mythical",
-          "Color": null,
-          "DisplayName": "Mythical",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Discontinued": true,
-        "DisplayName": "Secret Easter Egg",
-        "Tradable": false,
-        "InventoryTags": [
-          "Event"
-        ],
-        "Icon": "rbxassetid://105083879250284",
-        "Desc": "Used at the Giant Easter Basket to boost your secret Easter room HUGE odds!"
-      },
-      "collection": "MiscItems"
-    },
-    {
-      "configName": "Easter Token",
-      "category": "Discontinued",
-      "configData": {
+        "DisplayName": "Pixel Rainbow Dust",
         "Rarity": {
           "RarityNumber": 7,
           "Lootbag": null,
@@ -207,22 +44,123 @@
           "Announce": true,
           "_script": null
         },
-        "Discontinued": true,
-        "DisplayName": "Easter Token",
-        "Tradable": false,
+        "Tradable": true,
         "InventoryTags": [
           "Event"
         ],
-        "Icon": "rbxassetid://103859738720586",
-        "Desc": "Used to purchase Easter Chest Upgrades!"
+        "Icon": "rbxassetid://82237066339990",
+        "Desc": "Pixelized dust used in the Pixel Combine-O-Matic!"
       },
       "collection": "MiscItems"
     },
     {
-      "configName": "Boat 1",
-      "category": "Boats",
+      "configName": "Pixel Rainbow Shard",
+      "category": "Event",
       "configData": {
-        "DisplayName": "Dinghy Thingy",
+        "DisplayName": "Pixel Rainbow Shard",
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://80894759807292",
+        "Desc": "Pixelized shard used in the Pixel Combine-O-Matic!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pixel Rainbow Gem",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Pixel Rainbow Gem",
+        "Rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": true,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://97872334211100",
+        "Desc": "Pixelized gem used in the Pixel Combine-O-Matic!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pixel Upgrade Token",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Pixel Upgrade Token",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "Event"
+        ],
+        "Icon": "rbxassetid://96732862229830",
+        "Desc": "Used to purchase Farming World Upgrades!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Farming Sprinkler",
+      "category": "Farming",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "DisplayName": "Farming Sprinkler",
+        "InventoryTags": [
+          "Farming"
+        ],
+        "Icon": "rbxassetid://16467241128",
+        "Desc": "Accelerate the growth of your eggs! Bonus: keeps your pets cool 😎"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pixel Carrot",
+      "category": "Farming",
+      "configData": {
+        "DisplayName": "Pixel Carrot",
         "Rarity": {
           "RarityNumber": 1,
           "Lootbag": null,
@@ -237,18 +175,18 @@
         },
         "Tradable": false,
         "InventoryTags": [
-          "Boats"
+          "FarmFood"
         ],
-        "Icon": "rbxassetid://117656406529067",
-        "Desc": "Unsure of its purpose, but very certain of its charm."
+        "Icon": "rbxassetid://120094087159199",
+        "Desc": "Keeps your pet fed for 5 minutes!"
       },
       "collection": "MiscItems"
     },
     {
-      "configName": "Boat 2",
-      "category": "Boats",
+      "configName": "Pixel Potato",
+      "category": "Farming",
       "configData": {
-        "DisplayName": "Lil' Splashy",
+        "DisplayName": "Pixel Potato",
         "Rarity": {
           "RarityNumber": 2,
           "Lootbag": null,
@@ -263,18 +201,18 @@
         },
         "Tradable": false,
         "InventoryTags": [
-          "Boats"
+          "FarmFood"
         ],
-        "Icon": "rbxassetid://76011406806769",
-        "Desc": "Lighthearted by nature, directionally flexible."
+        "Icon": "rbxassetid://76512518216985",
+        "Desc": "Keeps your pet fed for 30 minutes!"
       },
       "collection": "MiscItems"
     },
     {
-      "configName": "Boat 3",
-      "category": "Boats",
+      "configName": "Pixel Corn",
+      "category": "Farming",
       "configData": {
-        "DisplayName": "Tiny Terror",
+        "DisplayName": "Pixel Corn",
         "Rarity": {
           "RarityNumber": 3,
           "Lootbag": null,
@@ -289,239 +227,10 @@
         },
         "Tradable": false,
         "InventoryTags": [
-          "Boats"
+          "FarmFood"
         ],
-        "Icon": "rbxassetid://129105245106525",
-        "Desc": "Quietly confident, secretly in charge."
-      },
-      "collection": "MiscItems"
-    },
-    {
-      "configName": "Boat 4",
-      "category": "Boats",
-      "configData": {
-        "DisplayName": "White Paw",
-        "Rarity": {
-          "RarityNumber": 4,
-          "Lootbag": null,
-          "_id": "Legendary",
-          "Color": null,
-          "DisplayName": "Legendary",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Tradable": false,
-        "InventoryTags": [
-          "Boats"
-        ],
-        "Icon": "rbxassetid://101858146467837",
-        "Desc": "Soft presence, firm intent."
-      },
-      "collection": "MiscItems"
-    },
-    {
-      "configName": "Boat 5",
-      "category": "Boats",
-      "configData": {
-        "DisplayName": "The Sea Unit",
-        "Rarity": {
-          "RarityNumber": 5,
-          "Lootbag": null,
-          "_id": "Mythical",
-          "Color": null,
-          "DisplayName": "Mythical",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "Tradable": false,
-        "InventoryTags": [
-          "Boats"
-        ],
-        "Icon": "rbxassetid://138561265608995",
-        "Desc": "Methodical. Unfazed. Maybe a little judgmental."
-      },
-      "collection": "MiscItems"
-    },
-    {
-      "configName": "Kraken",
-      "category": "Boats",
-      "configData": {
-        "DisplayName": "Kraken Raft",
-        "Rarity": {
-          "RarityNumber": 999,
-          "Lootbag": null,
-          "_id": "Exclusive",
-          "Color": null,
-          "DisplayName": "Exclusive",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "Tradable": false,
-        "InventoryTags": [
-          "Boats"
-        ],
-        "Icon": "rbxassetid://14968271149",
-        "Desc": "One of one, even when there’s more."
-      },
-      "collection": "MiscItems"
-    },
-    {
-      "configName": "Fantasy Fragment",
-      "category": "Keys",
-      "configData": {
-        "Rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "DisplayName": "Fantasy Fragment",
-        "InventoryTags": [
-          "Keys"
-        ],
-        "Icon": "rbxassetid://104812704571333",
-        "Desc": "Pieces of Fantasy itself. Gather them before the portal opens."
-      },
-      "collection": "MiscItems"
-    },
-    {
-      "configName": "Fantasy Key",
-      "category": "Keys",
-      "configData": {
-        "Rarity": {
-          "RarityNumber": 6,
-          "Lootbag": null,
-          "_id": "Exotic",
-          "Color": null,
-          "DisplayName": "Exotic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "DisplayName": "Fantasy Key",
-        "InventoryTags": [
-          "Keys"
-        ],
-        "Icon": "rbxassetid://108512775636522",
-        "Desc": "Used to unlock the Fantasy Chest!"
-      },
-      "collection": "MiscItems"
-    },
-    {
-      "configName": "Fantasy Key Upper Half",
-      "category": "Keys",
-      "configData": {
-        "Rarity": {
-          "RarityNumber": 5,
-          "Lootbag": null,
-          "_id": "Mythical",
-          "Color": null,
-          "DisplayName": "Mythical",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "DisplayName": "Fantasy Key: Upper Half",
-        "InventoryTags": [
-          "Keys"
-        ],
-        "Icon": "rbxassetid://108917316617818",
-        "Desc": "The upper half to the Fantasy Key. Combine this with the lower half!"
-      },
-      "collection": "MiscItems"
-    },
-    {
-      "configName": "Fantasy Key Lower Half",
-      "category": "Keys",
-      "configData": {
-        "Rarity": {
-          "RarityNumber": 5,
-          "Lootbag": null,
-          "_id": "Mythical",
-          "Color": null,
-          "DisplayName": "Mythical",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "DisplayName": "Fantasy Key: Lower Half",
-        "InventoryTags": [
-          "Keys"
-        ],
-        "Icon": "rbxassetid://83084787090931",
-        "Desc": "The lower half to the Fantasy Key. Combine this with the upper half!"
-      },
-      "collection": "MiscItems"
-    },
-    {
-      "configName": "Fantasy Spinny Wheel Ticket",
-      "category": "Vouchers",
-      "configData": {
-        "Rarity": {
-          "RarityNumber": 4,
-          "Lootbag": null,
-          "_id": "Legendary",
-          "Color": null,
-          "DisplayName": "Legendary",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "DisplayName": "Fantasy Spinny Wheel Ticket",
-        "InventoryTags": [
-          "Vouchers"
-        ],
-        "Icon": "rbxassetid://116554568552023",
-        "Desc": "Redeem to spin the Fantasy Spinny Wheel! [World 4 Required]"
-      },
-      "collection": "MiscItems"
-    },
-    {
-      "configName": "Boat 6",
-      "category": "Boats",
-      "configData": {
-        "DisplayName": "Reel Frosty",
-        "Rarity": {
-          "RarityNumber": 6,
-          "Lootbag": null,
-          "_id": "Exotic",
-          "Color": null,
-          "DisplayName": "Exotic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "Tradable": false,
-        "InventoryTags": [
-          "Boats"
-        ],
-        "Icon": "rbxassetid://105592631081706",
-        "Desc": "Always cold. Never Warm."
+        "Icon": "rbxassetid://97208731808454",
+        "Desc": "Keeps your pet fed for 3 hours!"
       },
       "collection": "MiscItems"
     }

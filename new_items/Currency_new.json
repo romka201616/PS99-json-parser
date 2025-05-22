@@ -33,7 +33,7 @@
           }
         ],
         "DisplayName": "Fishing Tokens",
-        "_index": 14,
+        "_index": 15,
         "Desc": "Fishing Tokens!",
         "MaxAmount": 999999999
       },
@@ -136,7 +136,7 @@
           }
         ],
         "DisplayName": "Tech Coins",
-        "_index": 28,
+        "_index": 29,
         "IsWorldCurrency": true,
         "Desc": "Tech!",
         "BagTiers": [
@@ -190,7 +190,7 @@
           }
         ],
         "DisplayName": "Glitch Coins",
-        "_index": 18,
+        "_index": 19,
         "IsWorldCurrency": false,
         "Desc": "Glitch Event!",
         "MaxAmount": 999999999
@@ -293,7 +293,7 @@
           }
         ],
         "DisplayName": "Void Coins",
-        "_index": 30,
+        "_index": 31,
         "IsWorldCurrency": true,
         "Desc": "Void!",
         "BagTiers": [
@@ -347,7 +347,7 @@
           }
         ],
         "DisplayName": "Summer Coins",
-        "_index": 27,
+        "_index": 28,
         "IsWorldCurrency": false,
         "Desc": "Summer!",
         "PermitAutoLootScaling": true,
@@ -388,7 +388,7 @@
           }
         ],
         "DisplayName": "Good vs. Evil Coins",
-        "_index": 19,
+        "_index": 20,
         "Desc": "Fate will decide!",
         "IsWorldCurrency": false,
         "PermitAutoLootScaling": true,
@@ -432,7 +432,7 @@
           }
         ],
         "DisplayName": "Rave Coins",
-        "_index": 24,
+        "_index": 25,
         "Desc": "Fate will decide!",
         "IsWorldCurrency": false,
         "PermitAutoLootScaling": true,
@@ -476,7 +476,7 @@
           }
         ],
         "DisplayName": "RNG Coins",
-        "_index": 25,
+        "_index": 26,
         "Desc": "RNGGGGG!",
         "IsWorldCurrency": false,
         "PermitAutoLootScaling": true,
@@ -520,7 +520,7 @@
           }
         ],
         "DisplayName": "Halloween Candy",
-        "_index": 20,
+        "_index": 21,
         "Desc": "Spooky!",
         "IsWorldCurrency": false,
         "PermitAutoLootScaling": true,
@@ -567,7 +567,7 @@
           }
         ],
         "DisplayName": "Woodcutting Tokens",
-        "_index": 31,
+        "_index": 32,
         "Desc": "Woodcutting Tokens!",
         "MaxAmount": 999999999
       },
@@ -603,7 +603,7 @@
           }
         ],
         "DisplayName": "Line Coins",
-        "_index": 21,
+        "_index": 22,
         "Desc": "Wait in line!",
         "IsWorldCurrency": false,
         "PermitAutoLootScaling": true,
@@ -647,7 +647,7 @@
           }
         ],
         "DisplayName": "Holiday Coins",
-        "_index": 17,
+        "_index": 18,
         "Desc": "Tis the season of joy!",
         "IsWorldCurrency": false,
         "PermitAutoLootScaling": true,
@@ -694,7 +694,7 @@
           }
         ],
         "DisplayName": "Logs",
-        "_index": 26,
+        "_index": 27,
         "Desc": "Logs!",
         "MaxAmount": 999999999
       },
@@ -730,7 +730,7 @@
           }
         ],
         "DisplayName": "Game Coins",
-        "_index": 16,
+        "_index": 17,
         "Desc": "Paw Games!",
         "IsWorldCurrency": false,
         "PermitAutoLootScaling": true,
@@ -774,7 +774,7 @@
           }
         ],
         "DisplayName": "Valentines Coins",
-        "_index": 29,
+        "_index": 30,
         "Desc": "Spread the love!",
         "IsWorldCurrency": false,
         "PermitAutoLootScaling": true,
@@ -818,7 +818,7 @@
           }
         ],
         "DisplayName": "Lucky Coins",
-        "_index": 22,
+        "_index": 23,
         "Desc": "Feeling lucky!",
         "IsWorldCurrency": false,
         "PermitAutoLootScaling": true,
@@ -862,7 +862,7 @@
           }
         ],
         "DisplayName": "Mining Coins",
-        "_index": 23,
+        "_index": 24,
         "Desc": "Keep digging!",
         "IsWorldCurrency": false,
         "PermitAutoLootScaling": true,
@@ -909,7 +909,7 @@
           }
         ],
         "DisplayName": "Fishing Coins",
-        "_index": 15,
+        "_index": 16,
         "IsWorldCurrency": false,
         "Desc": "Fishing Coins!",
         "BagTiers": [
@@ -923,7 +923,7 @@
       "collection": "Currency"
     },
     {
-      "configName": "Currency | FantasyCoins",
+      "configName": "Currency | FarmingCoins",
       "category": "Currency",
       "configData": {
         "Rarity": {
@@ -941,44 +941,30 @@
         "Tradable": false,
         "Tiers": [
           {
-            "orbImage": "rbxassetid://117074789458345",
-            "imageOutline": "rbxassetid://119268377814694",
-            "Order": 1,
+            "orbImage": "rbxassetid://86858731121151",
+            "imageOutline": "rbxassetid://110572622500059",
             "isBottom": true,
+            "Order": 1,
+            "rainData": {
+              "LightEmission": 0.2
+            },
             "value": 1,
-            "tierName": "Fantasy Coins",
-            "tinyImage": "",
-            "textColor": null
-          },
-          {
-            "orbImage": "rbxassetid://95717261050993",
-            "imageOutline": "rbxassetid://86892276061075",
-            "Order": 2,
-            "value": 1000000,
-            "tierName": "Fantasy Bars",
-            "tinyImage": "",
+            "tinyImage": "rbxassetid://15058306423",
+            "tierName": "Farming Coins",
             "textColor": null
           }
         ],
-        "DisplayName": "Fantasy Coins",
-        "_index": 13,
-        "IsWorldCurrency": true,
-        "Desc": "Fantasy!",
+        "DisplayName": "Farming Coins",
+        "_index": 14,
+        "IsWorldCurrency": false,
+        "Desc": "Farming Coins!",
         "BagTiers": [
           {
             "value": 0,
-            "image": "rbxassetid://16482243315"
-          },
-          {
-            "value": 1000,
-            "image": "rbxassetid://16480911112"
-          },
-          {
-            "value": 10000,
-            "image": "rbxassetid://16480911203"
+            "image": "rbxassetid://15058306423"
           }
         ],
-        "MaxAmount": 70000000000
+        "MaxAmount": 999999999
       },
       "collection": "Currency"
     }

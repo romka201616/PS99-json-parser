@@ -30585,6 +30585,174 @@
         "icon": "rbxassetid://15172355963"
       },
       "collection": "Eggs"
+    },
+    {
+      "configName": "Active Huge Egg",
+      "category": "Machine Eggs",
+      "configData": {
+        "disableGold": false,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableRainbow": false,
+        "shinyChance": 2,
+        "disableModifiers": true,
+        "rainbowChance": 2,
+        "name": "Active Huge Egg",
+        "pets": [
+          [
+            "Huge Helicopter Cat",
+            1
+          ],
+          [
+            "Huge Walrus",
+            1
+          ],
+          [
+            "Huge Llama",
+            1
+          ],
+          [
+            "Huge Skateboard Bulldog",
+            1
+          ]
+        ],
+        "goldChance": 5,
+        "icon": "rbxassetid://16756521111"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Exclusive Egg 50",
+      "category": "Exclusive Eggs",
+      "configData": {
+        "disableGold": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableRainbow": false,
+        "shinyChance": 2,
+        "disableModifiers": true,
+        "rainbowChance": 2,
+        "name": "Exclusive Aura Egg",
+        "pets": [
+          [
+            "Aura Fox",
+            50
+          ],
+          [
+            "Aura Bull",
+            35
+          ],
+          [
+            "Aura Dominus",
+            13
+          ],
+          [
+            "Huge Aura Fox",
+            1.5
+          ],
+          [
+            "Huge Aura Dominus",
+            0.39
+          ],
+          [
+            "Titanic Aura Kitsune",
+            0.1
+          ],
+          [
+            "Gargantuan Aura Cat",
+            0.01
+          ]
+        ],
+        "goldChance": 0,
+        "icon": "rbxassetid://121397272180623"
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Exclusive Egg 51",
+      "category": "Exclusive Eggs",
+      "configData": {
+        "disableGold": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "rainbowChance": 2,
+        "shinyChance": 2,
+        "disableRainbow": false,
+        "name": "Exclusive Spirit Egg",
+        "productIds": {
+          "Exclusive Egg": 3287449166,
+          "3 Exclusive Eggs": 3287449290,
+          "100 Exclusive Eggs": 3287449543,
+          "10 Exclusive Eggs": 3287449418
+        },
+        "pets": [
+          [
+            "Blossom Spirit",
+            50
+          ],
+          [
+            "Light Spirit",
+            35
+          ],
+          [
+            "Wave Spirit",
+            13
+          ],
+          [
+            "Huge Blossom Spirit",
+            1.5
+          ],
+          [
+            "Huge Wave Spirit",
+            0.39
+          ],
+          [
+            "Titanic Wood Spirit",
+            0.1
+          ],
+          [
+            "Gargantuan Magma Spirit",
+            0.01
+          ]
+        ],
+        "goldChance": 0,
+        "icon": "rbxassetid://92009010203013",
+        "disableModifiers": true
+      },
+      "collection": "Eggs"
     }
   ]
 }

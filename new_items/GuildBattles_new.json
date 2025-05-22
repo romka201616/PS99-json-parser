@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "configName": "PoisonTurtleBattle",
+      "configName": "BalloonCorgiBattle",
       "category": "GuildBattles",
       "configData": {
         "PlacementRewards": [
@@ -52,7 +52,7 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Poison Turtle",
+                "id": "Huge Balloon Corgi",
                 "pt": 2
               }
             },
@@ -62,7 +62,7 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Poison Turtle",
+                "id": "Huge Balloon Corgi",
                 "pt": 1
               }
             },
@@ -72,16 +72,16 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Poison Turtle"
+                "id": "Huge Balloon Corgi"
               }
             },
             "Best": 9,
             "Worst": 20
           }
         ],
-        "FinishTime": 1746806400,
-        "Title": "Poison Turtle Battle",
-        "StartTime": 1746288000,
+        "FinishTime": 1748016000,
+        "Title": "Balloon Corgi Battle",
+        "StartTime": 1747497600,
         "Rewards": {
           "Good": [],
           "Bronze": [],
