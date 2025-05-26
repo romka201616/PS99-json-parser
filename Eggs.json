@@ -30753,6 +30753,589 @@
         "disableModifiers": true
       },
       "collection": "Eggs"
+    },
+    {
+      "configName": "Active Huge Egg",
+      "category": "Machine Eggs",
+      "configData": {
+        "disableGold": false,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableRainbow": false,
+        "shinyChance": 2,
+        "disableModifiers": true,
+        "rainbowChance": 2,
+        "name": "Active Huge Egg",
+        "pets": [
+          [
+            "Huge Walrus",
+            1
+          ],
+          [
+            "Huge Robber Pug",
+            1
+          ],
+          [
+            "Huge Crocodile",
+            1
+          ],
+          [
+            "Huge Red Panda",
+            1
+          ]
+        ],
+        "goldChance": 5,
+        "icon": "rbxassetid://16756521111"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Eggs"
+    },
+    {
+      "configName": "252 | Fantasy Egg",
+      "category": "Update 59",
+      "configData": {
+        "eggNumber": 252,
+        "currency": "FantasyCoins",
+        "name": "Fantasy Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Enchanted Bunny",
+            90
+          ],
+          [
+            "Enchanted Dog",
+            10
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "253 | Flora Egg",
+      "category": "Update 59",
+      "configData": {
+        "eggNumber": 253,
+        "currency": "FantasyCoins",
+        "name": "Flora Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Enchanted Bunny",
+            90
+          ],
+          [
+            "Enchanted Dog",
+            9
+          ],
+          [
+            "Lilypad Cat",
+            1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "254 | Firefly Forest Egg",
+      "category": "Update 59",
+      "configData": {
+        "eggNumber": 254,
+        "currency": "FantasyCoins",
+        "name": "Firefly Forest Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Enchanted Dog",
+            90
+          ],
+          [
+            "Lilypad Cat",
+            9,
+            "Nice"
+          ],
+          [
+            "Wisp Deer",
+            1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "255 | Honeycomb Egg",
+      "category": "Update 59",
+      "configData": {
+        "eggNumber": 255,
+        "currency": "FantasyCoins",
+        "name": "Honeycomb Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Lilypad Cat",
+            90
+          ],
+          [
+            "Wisp Deer",
+            9
+          ],
+          [
+            "Pixie Bee",
+            1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "256 | Fairy Mushroom Egg",
+      "category": "Update 59",
+      "configData": {
+        "eggNumber": 256,
+        "currency": "FantasyCoins",
+        "name": "Fairy Mushroom Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Wisp Deer",
+            90
+          ],
+          [
+            "Pixie Bee",
+            9
+          ],
+          [
+            "Beegle Dog",
+            1,
+            "Nice"
+          ],
+          [
+            "Honey Golem",
+            0.1,
+            "Great"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "257 | Fantasy Meadow Egg",
+      "category": "Update 59",
+      "configData": {
+        "eggNumber": 257,
+        "currency": "FantasyCoins",
+        "name": "Fantasy Meadow Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Beegle Dog",
+            90
+          ],
+          [
+            "Honey Golem",
+            9
+          ],
+          [
+            "Mushroom Snail",
+            1,
+            "Nice"
+          ],
+          [
+            "Mushroom Corgi",
+            0.1,
+            "Great"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "258 | Radiant Runestones Egg",
+      "category": "Update 59",
+      "configData": {
+        "eggNumber": 258,
+        "currency": "FantasyCoins",
+        "name": "Radiant Runestones Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Mushroom Snail",
+            90
+          ],
+          [
+            "Mushroom Corgi",
+            9
+          ],
+          [
+            "Mossy Lamb",
+            1,
+            "Nice"
+          ],
+          [
+            "Flying Piggy",
+            0.1,
+            "Great"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "259 | Fogbound Forest Egg",
+      "category": "Update 59",
+      "configData": {
+        "eggNumber": 259,
+        "currency": "FantasyCoins",
+        "name": "Fogbound Forest Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Mossy Lamb",
+            90
+          ],
+          [
+            "Flying Piggy",
+            9
+          ],
+          [
+            "Relic Cat",
+            1,
+            "Nice"
+          ],
+          [
+            "Relic Deer",
+            0.1,
+            "Great"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "260 | Rune Graveyard Egg",
+      "category": "Update 59",
+      "configData": {
+        "eggNumber": 260,
+        "currency": "FantasyCoins",
+        "name": "Rune Graveyard Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Relic Cat",
+            90
+          ],
+          [
+            "Relic Deer",
+            9
+          ],
+          [
+            "Glade Griffin",
+            1,
+            "Nice"
+          ],
+          [
+            "Angel Dragon",
+            0.1,
+            "Great"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "261 | Halo Spires Egg",
+      "category": "Update 59",
+      "configData": {
+        "eggNumber": 261,
+        "currency": "FantasyCoins",
+        "name": "Halo Spires Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Glade Griffin",
+            91
+          ],
+          [
+            "Angel Dragon",
+            9.1
+          ],
+          [
+            "Empyrean Corgi",
+            0.001,
+            "Insane"
+          ],
+          [
+            "Empyrean Owl",
+            7.5e-05,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Large Diamond Dog Egg",
+      "category": "Other",
+      "configData": {
+        "disableGold": false,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableRainbow": false,
+        "shinyChance": 2,
+        "disableModifiers": true,
+        "rainbowChance": 2,
+        "name": "Large Diamond Dog Egg",
+        "pets": [
+          [
+            "Diamond Dog",
+            90
+          ],
+          [
+            "Huge Diamond Dog",
+            10
+          ]
+        ],
+        "goldChance": 5,
+        "icon": "rbxassetid://15249783107"
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Diamond Dog Egg",
+      "category": "Other",
+      "configData": {
+        "disableGold": false,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableRainbow": false,
+        "shinyChance": 2,
+        "disableModifiers": true,
+        "rainbowChance": 2,
+        "name": "Diamond Dog Egg",
+        "pets": [
+          [
+            "Diamond Dog",
+            68
+          ],
+          [
+            "Huge Diamond Dog",
+            30
+          ],
+          [
+            "Titanic Diamond Dog",
+            2
+          ]
+        ],
+        "goldChance": 5,
+        "icon": "rbxassetid://15249783107"
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "262 | Twilight Grove Egg",
+      "category": "Update 60",
+      "configData": {
+        "eggNumber": 262,
+        "currency": "FantasyCoins",
+        "name": "Twilight Grove Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Glimmercap Turtle",
+            90
+          ],
+          [
+            "Sprout Pegasus",
+            9
+          ],
+          [
+            "Meteor Mole",
+            1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "263 | Moonlight Ridge Egg",
+      "category": "Update 60",
+      "configData": {
+        "eggNumber": 263,
+        "currency": "FantasyCoins",
+        "name": "Moonlight Ridge Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Sprout Pegasus",
+            90
+          ],
+          [
+            "Meteor Mole",
+            9
+          ],
+          [
+            "Rootkin Fox",
+            1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "264 | Starroot Oak Egg",
+      "category": "Update 60",
+      "configData": {
+        "eggNumber": 264,
+        "currency": "FantasyCoins",
+        "name": "Starroot Oak Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Meteor Mole",
+            90
+          ],
+          [
+            "Rootkin Fox",
+            9
+          ],
+          [
+            "Starry Eye Bunny",
+            1,
+            "Nice"
+          ],
+          [
+            "Scroll Dragon",
+            0.1,
+            "Great"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "265 | Aether Egg",
+      "category": "Update 60",
+      "configData": {
+        "eggNumber": 265,
+        "currency": "FantasyCoins",
+        "name": "Aether Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Rootkin Fox",
+            90
+          ],
+          [
+            "Starry Eye Bunny",
+            9
+          ],
+          [
+            "Scroll Dragon",
+            1,
+            "Nice"
+          ],
+          [
+            "Wisp Wolf",
+            0.1,
+            "Great"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "266 | Crescent Moon Egg",
+      "category": "Update 60",
+      "configData": {
+        "bestEgg": true,
+        "eggNumber": 266,
+        "pets": [
+          [
+            "Scroll Dragon",
+            91
+          ],
+          [
+            "Wisp Wolf",
+            9.1
+          ],
+          [
+            "Telescope Owl",
+            0.001,
+            "Insane"
+          ],
+          [
+            "Starlight Pony",
+            2.5e-05,
+            "Insane"
+          ],
+          [
+            "Huge Rootkin Fox",
+            3.6e-06,
+            "Insane"
+          ]
+        ],
+        "currency": "FantasyCoins",
+        "name": "Crescent Moon Egg",
+        "oddsFFlags": {
+          "Starlight Pony": "FantasyEggPet2",
+          "Huge Rootkin Fox": "FantasyEggHuge",
+          "Telescope Owl": "FantasyEggPet1"
+        },
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963"
+      },
+      "collection": "Eggs"
     }
   ]
 }

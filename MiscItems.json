@@ -13789,6 +13789,396 @@
         "Desc": "Keeps your pet fed for 3 hours!"
       },
       "collection": "MiscItems"
+    },
+    {
+      "configName": "Pixel Rainbow Dust",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Pixel Rainbow Dust",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": true,
+        "InventoryTags": [
+          "FarmHoldable"
+        ],
+        "Icon": "rbxassetid://82237066339990",
+        "Desc": "Pixelized dust used in the Pixel Combine-O-Matic!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pixel Rainbow Shard",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Pixel Rainbow Shard",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": true,
+        "InventoryTags": [
+          "FarmHoldable"
+        ],
+        "Icon": "rbxassetid://80894759807292",
+        "Desc": "Pixelized shard used in the Pixel Combine-O-Matic!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pixel Rainbow Gem",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Pixel Rainbow Gem",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": true,
+        "InventoryTags": [
+          "FarmHoldable"
+        ],
+        "Icon": "rbxassetid://97872334211100",
+        "Desc": "Pixelized gem used in the Pixel Combine-O-Matic!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pixel Upgrade Token",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Pixel Upgrade Token",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "FarmHoldable"
+        ],
+        "Icon": "rbxassetid://96732862229830",
+        "Desc": "Used to purchase Farming World Upgrades!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pixel Carrot",
+      "category": "Farming",
+      "configData": {
+        "DisplayName": "Pixel Carrot",
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "FarmFood"
+        ],
+        "Icon": "rbxassetid://120094087159199",
+        "Desc": "Keeps your pet fed for 30 minutes!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pixel Potato",
+      "category": "Farming",
+      "configData": {
+        "DisplayName": "Pixel Potato",
+        "Rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "FarmFood"
+        ],
+        "Icon": "rbxassetid://76512518216985",
+        "Desc": "Keeps your pet fed for 2 hours!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pixel Corn",
+      "category": "Farming",
+      "configData": {
+        "DisplayName": "Pixel Corn",
+        "Rarity": {
+          "RarityNumber": 3,
+          "Lootbag": null,
+          "_id": "Epic",
+          "Color": null,
+          "DisplayName": "Epic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "FarmFood"
+        ],
+        "Icon": "rbxassetid://97208731808454",
+        "Desc": "Keeps your pet fed for 6 hours!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pixel Sprout",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Pixel Sprout",
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": true,
+        "InventoryTags": [
+          "FarmHoldable"
+        ],
+        "Icon": "rbxassetid://107207547721427",
+        "Desc": "Pixelized sprout used in the Pixel Combine-O-Matic!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pixel Bloom",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Pixel Bloom",
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": true,
+        "InventoryTags": [
+          "FarmHoldable"
+        ],
+        "Icon": "rbxassetid://103461948654704",
+        "Desc": "Pixelized bloom used in the Pixel Combine-O-Matic!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pixel Prism",
+      "category": "Event",
+      "configData": {
+        "DisplayName": "Pixel Prism",
+        "Rarity": {
+          "RarityNumber": 8,
+          "Lootbag": null,
+          "_id": "Superior",
+          "Color": null,
+          "DisplayName": "Superior",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": true,
+        "InventoryTags": [
+          "FarmHoldable"
+        ],
+        "Icon": "rbxassetid://127084758403255",
+        "Desc": "Pixelized prism used in the Pixel Combine-O-Matic!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Farming Sprinkler 1",
+      "category": "Farming",
+      "configData": {
+        "DisplayName": "Farming Sprinkler I",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "FarmHoldable"
+        ],
+        "Icon": "rbxassetid://117619087117505",
+        "Desc": "Nearby eggs grow 25% faster! Affects up to 5 eggs and lasts 10 minutes."
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pixel Cookie",
+      "category": "Farming",
+      "configData": {
+        "DisplayName": "Pixel Cookie",
+        "Rarity": {
+          "RarityNumber": 4,
+          "Lootbag": null,
+          "_id": "Legendary",
+          "Color": null,
+          "DisplayName": "Legendary",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "FarmFood"
+        ],
+        "Icon": "rbxassetid://88711965728566",
+        "Desc": "Keeps your pet fed for 12 hours. Additionally, your pet Ages 1.5x faster!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Pixel Burger",
+      "category": "Farming",
+      "configData": {
+        "DisplayName": "Pixel Burger",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "FarmFood"
+        ],
+        "Icon": "rbxassetid://117114420699088",
+        "Desc": "Keeps your pet fed for 24 hours. Additionally, your pet Ages 2x faster!"
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Farming Sprinkler 2",
+      "category": "Farming",
+      "configData": {
+        "DisplayName": "Farming Sprinkler II",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "FarmHoldable"
+        ],
+        "Icon": "rbxassetid://139811459269601",
+        "Desc": "Nearby eggs grow 50% faster! Affects up to 7 eggs and lasts 20 minutes."
+      },
+      "collection": "MiscItems"
+    },
+    {
+      "configName": "Farming Sprinkler 3",
+      "category": "Farming",
+      "configData": {
+        "DisplayName": "Farming Sprinkler III",
+        "Rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Tradable": false,
+        "InventoryTags": [
+          "FarmHoldable"
+        ],
+        "Icon": "rbxassetid://99804275060791",
+        "Desc": "Nearby eggs grow 100% faster! Affects up to 10 eggs and lasts one hour."
+      },
+      "collection": "MiscItems"
     }
   ]
 }

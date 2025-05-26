@@ -398,6 +398,233 @@
       "dateModified": null,
       "dateCreated": null,
       "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Lucky Tile",
+      "category": "Lucky Tile Event",
+      "configData": {
+        "StackMode": true,
+        "Discontinued": true,
+        "DisplayName": "Lucky Tile Boost",
+        "AssociatedItemID": "Lucky Tile",
+        "AssociatedItemClass": "Misc",
+        "Length": 1,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Ultra Lucky Tile",
+      "category": "Lucky Tile Event",
+      "configData": {
+        "StackMode": true,
+        "Discontinued": true,
+        "DisplayName": "Ultra Lucky Tile Boost",
+        "AssociatedItemID": "Ultra Lucky Tile",
+        "AssociatedItemClass": "Misc",
+        "Length": 1,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Lucky Dice",
+      "category": "RNG",
+      "configData": {
+        "DisplayName": "Lucky Dice",
+        "AssociatedItemID": "Lucky Dice",
+        "AssociatedItemClass": "Misc",
+        "Discontinued": true,
+        "Length": 60,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Lucky Dice II",
+      "category": "RNG",
+      "configData": {
+        "DisplayName": "Lucky Dice II",
+        "AssociatedItemID": "Lucky Dice II",
+        "AssociatedItemClass": "Misc",
+        "Discontinued": true,
+        "Length": 300,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Mega Lucky Dice",
+      "category": "RNG",
+      "configData": {
+        "StackMode": true,
+        "Discontinued": true,
+        "DisplayName": "Mega Lucky Dice",
+        "AssociatedItemID": "Mega Lucky Dice",
+        "AssociatedItemClass": "Misc",
+        "Length": 1,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Mega Lucky Dice II",
+      "category": "RNG",
+      "configData": {
+        "StackMode": true,
+        "Discontinued": true,
+        "DisplayName": "Mega Lucky Dice II",
+        "AssociatedItemID": "Mega Lucky Dice II",
+        "AssociatedItemClass": "Misc",
+        "Length": 1,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Fire Dice",
+      "category": "RNG",
+      "configData": {
+        "DisplayName": "Fire Dice",
+        "AssociatedItemID": "Fire Dice",
+        "AssociatedItemClass": "Misc",
+        "Discontinued": true,
+        "Length": 60,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Lucky Dice III",
+      "category": "RNG",
+      "configData": {
+        "DisplayName": "Lucky Dice III",
+        "AssociatedItemID": "Lucky Dice III",
+        "AssociatedItemClass": "Misc",
+        "Discontinued": true,
+        "Length": 300,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Rng Chest Luck",
+      "category": "RNG",
+      "configData": {
+        "DisplayName": "RNG Chest Luck",
+        "AssociatedItemID": "Rng Chest Luck",
+        "AssociatedItemClass": "Misc",
+        "Discontinued": true,
+        "Length": 120,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Super Rng Chest Luck",
+      "category": "RNG",
+      "configData": {
+        "DisplayName": "Super RNG Chest Luck",
+        "AssociatedItemID": "Super Rng Chest Luck",
+        "AssociatedItemClass": "Misc",
+        "Discontinued": true,
+        "Length": 120,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Ultra Rng Chest Luck",
+      "category": "RNG",
+      "configData": {
+        "DisplayName": "Ultra RNG Chest Luck",
+        "AssociatedItemID": "Ultra Rng Chest Luck",
+        "AssociatedItemClass": "Misc",
+        "Discontinued": true,
+        "Length": 120,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Adoption Token Boost",
+      "category": "Line For Huge",
+      "configData": {
+        "DisplayName": "Adoption Token Boost",
+        "AssociatedItemID": "Adoption Token Boost",
+        "AssociatedItemClass": "Misc",
+        "Discontinued": true,
+        "Length": 900,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Ultra Adoption Token Boost",
+      "category": "Line For Huge",
+      "configData": {
+        "DisplayName": "Ultra Adoption Token Boost",
+        "AssociatedItemID": "Ultra Adoption Token Boost",
+        "AssociatedItemClass": "Misc",
+        "Discontinued": true,
+        "Length": 900,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Grinch-B-Gone",
+      "category": "Christmas 2024",
+      "configData": {
+        "StackMode": true,
+        "Discontinued": true,
+        "DisplayName": "Grinch-B-Gone",
+        "AssociatedItemID": "Grinch-B-Gone",
+        "AssociatedItemClass": "Misc",
+        "Length": 1,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Ultra Grinch-B-Gone",
+      "category": "Christmas 2024",
+      "configData": {
+        "StackMode": true,
+        "Discontinued": true,
+        "DisplayName": "Ultra Grinch-B-Gone",
+        "AssociatedItemID": "Ultra Grinch-B-Gone",
+        "AssociatedItemClass": "Misc",
+        "Length": 1,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Pet Token Boost",
+      "category": "Paw Games",
+      "configData": {
+        "DisplayName": "Pet Token Boost",
+        "AssociatedItemID": "Pet Token Boost",
+        "AssociatedItemClass": "Misc",
+        "Discontinued": true,
+        "Length": 900,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
+    },
+    {
+      "configName": "Buff | Ultra Pet Token Boost",
+      "category": "Paw Games",
+      "configData": {
+        "DisplayName": "Ultra Pet Token Boost",
+        "AssociatedItemID": "Ultra Pet Token Boost",
+        "AssociatedItemClass": "Misc",
+        "Discontinued": true,
+        "Length": 900,
+        "IgnoreInstancePause": true
+      },
+      "collection": "Buffs"
     }
   ]
 }

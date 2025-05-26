@@ -8263,6 +8263,112 @@
         "MaxAmount": 999999999
       },
       "collection": "Currency"
+    },
+    {
+      "configName": "Currency | FantasyCoins",
+      "category": "Currency",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "Tiers": [
+          {
+            "orbImage": "rbxassetid://117074789458345",
+            "imageOutline": "rbxassetid://119268377814694",
+            "Order": 1,
+            "isBottom": true,
+            "value": 1,
+            "tierName": "Fantasy Coins",
+            "tinyImage": "",
+            "textColor": null
+          },
+          {
+            "orbImage": "rbxassetid://95717261050993",
+            "imageOutline": "rbxassetid://86892276061075",
+            "Order": 2,
+            "value": 1000000,
+            "tierName": "Fantasy Bars",
+            "tinyImage": "",
+            "textColor": null
+          }
+        ],
+        "DisplayName": "Fantasy Coins",
+        "_index": 13,
+        "IsWorldCurrency": true,
+        "Desc": "Fantasy!",
+        "BagTiers": [
+          {
+            "value": 0,
+            "image": "rbxassetid://16482243315"
+          },
+          {
+            "value": 1000,
+            "image": "rbxassetid://16480911112"
+          },
+          {
+            "value": 10000,
+            "image": "rbxassetid://16480911203"
+          }
+        ],
+        "MaxAmount": 3000000000000
+      },
+      "collection": "Currency"
+    },
+    {
+      "configName": "Currency | FarmingCoins",
+      "category": "Currency",
+      "configData": {
+        "Rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Tradable": false,
+        "Tiers": [
+          {
+            "orbImage": "rbxassetid://86858731121151",
+            "imageOutline": "rbxassetid://110572622500059",
+            "isBottom": true,
+            "Order": 1,
+            "rainData": {
+              "LightEmission": 0.2
+            },
+            "value": 1,
+            "tinyImage": "rbxassetid://15058306423",
+            "tierName": "Farming Coins",
+            "textColor": null
+          }
+        ],
+        "DisplayName": "Farming Coins",
+        "_index": 14,
+        "IsWorldCurrency": false,
+        "Desc": "Farming Coins!",
+        "BagTiers": [
+          {
+            "value": 0,
+            "image": "rbxassetid://15058306423"
+          }
+        ],
+        "MaxAmount": 999999999999
+      },
+      "collection": "Currency"
     }
   ]
 }

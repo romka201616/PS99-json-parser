@@ -351,6 +351,68 @@
         ]
       },
       "collection": "Worlds"
+    },
+    {
+      "configName": "World 1",
+      "category": "Worlds",
+      "configData": {
+        "SpawnId": "Spawn",
+        "FallbackSpawnLocation": null,
+        "Lighting": null,
+        "PlaceId": 80944282381556,
+        "MapName": "Map",
+        "WorldCurrency": "Coins",
+        "WorldNumber": 1
+      },
+      "hash": null,
+      "dateModified": null,
+      "dateCreated": null,
+      "collection": "Worlds"
+    },
+    {
+      "configName": "World 4",
+      "category": "Worlds",
+      "configData": {
+        "SpawnId": "Fantasy Spawn",
+        "FallbackSpawnLocation": null,
+        "WorldCurrency": "FantasyCoins",
+        "PlaceId": 15502302041,
+        "MapName": "Map4",
+        "WorldNumber": 4,
+        "Lighting": null,
+        "AdditionalMusic": [
+          "rbxassetid://134265348033487",
+          "rbxassetid://134265348033487",
+          "rbxassetid://134265348033487",
+          "rbxassetid://134265348033487",
+          "rbxassetid://134265348033487",
+          "rbxassetid://134265348033487",
+          "rbxassetid://134265348033487",
+          "rbxassetid://134265348033487",
+          "rbxassetid://134265348033487",
+          "rbxassetid://134265348033487",
+          "rbxassetid://134265348033487",
+          "rbxassetid://134265348033487",
+          "rbxassetid://134265348033487",
+          "rbxassetid://86186792657071",
+          "rbxassetid://78559354292307",
+          "rbxassetid://93560735917283",
+          "rbxassetid://78278497543728",
+          "rbxassetid://86186792657071",
+          "rbxassetid://78559354292307",
+          "rbxassetid://93560735917283",
+          "rbxassetid://78278497543728",
+          "rbxassetid://86186792657071",
+          "rbxassetid://78559354292307",
+          "rbxassetid://93560735917283",
+          "rbxassetid://78278497543728",
+          "rbxassetid://86186792657071",
+          "rbxassetid://78559354292307",
+          "rbxassetid://93560735917283",
+          "rbxassetid://78278497543728"
+        ]
+      },
+      "collection": "Worlds"
     }
   ]
 }
