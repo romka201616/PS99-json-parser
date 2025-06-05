@@ -1,49 +1,25 @@
 {
   "data": [
     {
-      "configName": "Deep Sea Treasure Chest",
-      "category": "Lootboxes",
-      "configData": {
-        "Rolls": 4,
-        "Rarity": {
-          "RarityNumber": 9,
-          "Lootbag": null,
-          "_id": "Celestial",
-          "Color": null,
-          "DisplayName": "Celestial",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "DisplayName": "Deep Sea Treasure Chest",
-        "Instant": true,
-        "Icon": "rbxassetid://134556771269079",
-        "Desc": "Open for the best high tier fishing loot!"
-      },
-      "collection": "Lootboxes"
-    },
-    {
-      "configName": "Time Trial Gift",
+      "configName": "Basketball Gift",
       "category": "Lootboxes",
       "configData": {
         "RequireSave": true,
         "Rarity": {
-          "RarityNumber": 7,
+          "RarityNumber": 6,
           "Lootbag": null,
-          "_id": "Divine",
+          "_id": "Exotic",
           "Color": null,
-          "DisplayName": "Divine",
+          "DisplayName": "Exotic",
           "Message": null,
           "ItemSlot": null,
           "Gradient": null,
           "Announce": true,
           "_script": null
         },
-        "DisplayName": "Time Trial Gift",
-        "Icon": "rbxassetid://123771590826264",
-        "Desc": "Reward for participating in the Fantasy World Time Trials!"
+        "DisplayName": "Basketball Gift",
+        "Icon": "rbxassetid://98133353621098",
+        "Desc": "Earned from scoring points in the Infinite Basketball Mode! Chance for a HUGE!"
       },
       "collection": "Lootboxes"
     }

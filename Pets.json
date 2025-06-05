@@ -93425,6 +93425,627 @@
         "goldenThumbnail": "rbxassetid://120267988715843"
       },
       "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Pixel M-2 PROTOTYPE",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "indexObtainable": true,
+        "name": "Titanic Pixel M-2 PROTOTYPE",
+        "indexDesc": "Found in the Farming Exclusive Titanic M-2 PROTOTYPE Egg!",
+        "fly": true,
+        "thumbnail": "rbxassetid://78274935877224",
+        "goldenThumbnail": "rbxassetid://75313078930604"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Electric Bunny Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 450,
+        "goldenThumbnail": "rbxassetid://100089931068990",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          530463214439808
+        ],
+        "name": "Electric Bunny Ball",
+        "thumbnail": "rbxassetid://88753213320794"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Hippomelon Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 300000,
+        "goldenThumbnail": "rbxassetid://73714618335491",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          561666932936267
+        ],
+        "name": "Hippomelon Ball",
+        "thumbnail": "rbxassetid://106362093464550"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "UV Kitsune Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 50,
+        "goldenThumbnail": "rbxassetid://101981104610427",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          517981727041225
+        ],
+        "name": "UV Kitsune Ball",
+        "thumbnail": "rbxassetid://125855245596038"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Basketball Corgi",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 12,
+        "goldenThumbnail": "rbxassetid://83883274965469",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          499259495943348
+        ],
+        "name": "Basketball Corgi",
+        "thumbnail": "rbxassetid://109035083604183"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Blurred Bear Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 5000,
+        "goldenThumbnail": "rbxassetid://123460115247306",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          542944701838391
+        ],
+        "name": "Blurred Bear Ball",
+        "thumbnail": "rbxassetid://112435188208455"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Meebo The Alien Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 1800,
+        "goldenThumbnail": "rbxassetid://91941747932069",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          536703958139099
+        ],
+        "name": "Meebo The Alien Ball",
+        "thumbnail": "rbxassetid://77564665928670"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Comet Cyclops Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 24000,
+        "goldenThumbnail": "rbxassetid://123395760220218",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          549185445537684
+        ],
+        "name": "Comet Cyclops Ball",
+        "thumbnail": "rbxassetid://119443690290433"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Kawaii Dragon Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 20,
+        "goldenThumbnail": "rbxassetid://95355661856168",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          511740983341931
+        ],
+        "name": "Kawaii Dragon Ball",
+        "fly": true,
+        "thumbnail": "rbxassetid://106721596264899"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Strawberry Cow Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 16,
+        "goldenThumbnail": "rbxassetid://123220498289638",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          505500239642640
+        ],
+        "name": "Strawberry Cow Ball",
+        "thumbnail": "rbxassetid://92202394698044"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Storm Axolotl Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 150,
+        "goldenThumbnail": "rbxassetid://93235225327123",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          524222470740516
+        ],
+        "name": "Storm Axolotl Ball",
+        "thumbnail": "rbxassetid://93329920424768"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Basketball Cat",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 10,
+        "goldenThumbnail": "rbxassetid://90461260609365",
+        "animations": {
+          "customAnimations": true
+        },
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          493712168210645
+        ],
+        "name": "Basketball Cat",
+        "thumbnail": "rbxassetid://110050529640840"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Glitched Cat Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 80000,
+        "goldenThumbnail": "rbxassetid://94742205746597",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          555426189236975
+        ],
+        "name": "Glitched Cat Ball",
+        "thumbnail": "rbxassetid://107843438483464"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Yin-Yang Bunny",
+      "category": "Uncategorized",
+      "configData": {
+        "exclusiveLevel": 3,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "name": "Yin-Yang Bunny",
+        "thumbnail": "rbxassetid://92814709755524",
+        "goldenThumbnail": ""
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Yin-Yang Dragon",
+      "category": "Uncategorized",
+      "configData": {
+        "exclusiveLevel": 1,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "name": "Yin-Yang Dragon",
+        "fly": true,
+        "thumbnail": "rbxassetid://75219124827136",
+        "goldenThumbnail": ""
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Yin-Yang Griffin",
+      "category": "Uncategorized",
+      "configData": {
+        "exclusiveLevel": 2,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "name": "Yin-Yang Griffin",
+        "fly": true,
+        "thumbnail": "rbxassetid://89062746959891",
+        "goldenThumbnail": ""
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Gargantuan Yin-Yang Kitsune",
+      "category": "Gargantuan",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "indexObtainable": true,
+        "gargantuan": true,
+        "thumbnail": "rbxassetid://90918977215657",
+        "name": "Gargantuan Yin-Yang Kitsune",
+        "indexDesc": "Found in the Exclusive Yin-Yang Egg!",
+        "goldenThumbnail": ""
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Basketball Corgi",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://81389984562273",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Basketball Corgi",
+        "indexDesc": "Found by earning points in the Infinite Basketball Mode!",
+        "thumbnail": "rbxassetid://88019287527866",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Storm Axolotl Ball",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://77737436698372",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Storm Axolotl Ball",
+        "indexDesc": "Found in the Basketball Forever Pack!",
+        "thumbnail": "rbxassetid://123709369335154",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Electric Bunny Ball",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://79897170213295",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Electric Bunny Ball",
+        "indexDesc": "Found in the Basketball Egg!",
+        "thumbnail": "rbxassetid://102519001047451",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Junkyard Hound",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://87376825839988",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Junkyard Hound",
+        "indexDesc": "Reward in the 2025 Basketball Clan Battle!",
+        "thumbnail": "rbxassetid://82197525577335",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Yin-Yang Dragon",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Yin-Yang Dragon",
+        "indexDesc": "Found in the Exclusive Yin-Yang Egg!",
+        "fly": true,
+        "thumbnail": "rbxassetid://139547008385454",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Yin-Yang Bunny",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Yin-Yang Bunny",
+        "indexDesc": "Found in the Exclusive Yin-Yang Egg!",
+        "thumbnail": "rbxassetid://75417612099373",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge UV Kitsune Ball",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://132783287609358",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge UV Kitsune Ball",
+        "indexDesc": "Found in the Basketball World's furthest throw contest!",
+        "thumbnail": "rbxassetid://133144353929951",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Kawaii Dragon Ball",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://81692833934753",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Kawaii Dragon Ball",
+        "indexDesc": "Found in the Basketball World's furthest throw contest!",
+        "fly": true,
+        "thumbnail": "rbxassetid://108289198978887",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Basketball Cat",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "indexObtainable": true,
+        "name": "Titanic Basketball Cat",
+        "indexDesc": "Found by earning points in the Infinite Basketball Mode!",
+        "thumbnail": "rbxassetid://88337098275915",
+        "goldenThumbnail": "rbxassetid://116557533191116"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Comet Cyclops Ball",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "indexObtainable": true,
+        "name": "Titanic Comet Cyclops Ball",
+        "indexDesc": "Found in the Basketball Egg!",
+        "thumbnail": "rbxassetid://83088944433726",
+        "goldenThumbnail": "rbxassetid://86193291227020"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Yin-Yang Grim Reaper",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "indexObtainable": true,
+        "name": "Titanic Yin-Yang Grim Reaper",
+        "fly": true,
+        "indexDesc": "Found in the Exclusive Yin-Yang Egg!",
+        "thumbnail": "rbxassetid://136807974742699",
+        "goldenThumbnail": ""
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Glitched Cat Ball",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "indexObtainable": true,
+        "name": "Titanic Glitched Cat Ball",
+        "indexDesc": "Found in the Basketball World's furthest throw contest!",
+        "thumbnail": "rbxassetid://106995873715009",
+        "goldenThumbnail": "rbxassetid://97063292261555"
+      },
+      "collection": "Pets"
     }
   ]
 }

@@ -1,134 +1,10 @@
 {
   "data": [
     {
-      "configName": "Angel Dragon",
-      "category": "Uncategorized",
+      "configName": "Titanic Pixel M-2 PROTOTYPE",
+      "category": "Titanic",
       "configData": {
-        "goldenThumbnail": "rbxassetid://130533071415265",
-        "rarity": {
-          "RarityNumber": 2,
-          "Lootbag": null,
-          "_id": "Rare",
-          "Color": null,
-          "DisplayName": "Rare",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "thumbnail": "rbxassetid://111443335088107",
-        "fromWorldNumber": 4,
-        "fromZoneNumber": 248,
-        "cachedPower": [
-          428563738681216
-        ],
-        "name": "Angel Dragon",
-        "fly": true,
-        "maxChance": 0.09090811462314466,
-        "fromEgg": "Rune Graveyard Egg"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Glade Griffin",
-      "category": "Uncategorized",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://87198689985064",
-        "rarity": {
-          "RarityNumber": 1,
-          "Lootbag": null,
-          "_id": "Basic",
-          "Color": null,
-          "DisplayName": "Basic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "thumbnail": "rbxassetid://140156706592555",
-        "fromWorldNumber": 4,
-        "fromZoneNumber": 248,
-        "cachedPower": [
-          401997589420080
-        ],
-        "name": "Glade Griffin",
-        "fly": true,
-        "maxChance": 0.9090811462314466,
-        "fromEgg": "Rune Graveyard Egg"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Empyrean Owl",
-      "category": "Uncategorized",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://132445427668851",
-        "rarity": {
-          "RarityNumber": 7,
-          "Lootbag": null,
-          "_id": "Divine",
-          "Color": null,
-          "DisplayName": "Divine",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "thumbnail": "rbxassetid://109702265808031",
-        "fromWorldNumber": 4,
-        "fromZoneNumber": 249,
-        "cachedPower": [
-          564949890458245
-        ],
-        "name": "Empyrean Owl",
-        "fly": true,
-        "maxChance": 7.492427029380054e-07,
-        "fromEgg": "Halo Spires Egg"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Empyrean Corgi",
-      "category": "Uncategorized",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://79988543098810",
-        "maxChance": 9.989902705840073e-06,
-        "fromWorldNumber": 4,
-        "fromZoneNumber": 249,
-        "thumbnail": "rbxassetid://133804075558939",
-        "cachedPower": [
-          539779533414711
-        ],
-        "name": "Empyrean Corgi",
-        "rarity": {
-          "RarityNumber": 6,
-          "Lootbag": null,
-          "_id": "Exotic",
-          "Color": null,
-          "DisplayName": "Exotic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "fromEgg": "Halo Spires Egg"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Enchanted Dog",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://109531042756169",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Enchanted Dog",
-        "indexDesc": "Found in the final zone of Fantasy World!",
-        "thumbnail": "rbxassetid://98036079803445",
+        "titanic": true,
         "rarity": {
           "RarityNumber": 999,
           "Lootbag": null,
@@ -140,12 +16,214 @@
           "Gradient": null,
           "Announce": true,
           "_script": null
-        }
+        },
+        "indexObtainable": true,
+        "name": "Titanic Pixel M-2 PROTOTYPE",
+        "indexDesc": "Found in the Farming Exclusive Titanic M-2 PROTOTYPE Egg!",
+        "fly": true,
+        "thumbnail": "rbxassetid://78274935877224",
+        "goldenThumbnail": "rbxassetid://75313078930604"
       },
       "collection": "Pets"
     },
     {
-      "configName": "Diamond Dog",
+      "configName": "Electric Bunny Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 450,
+        "goldenThumbnail": "rbxassetid://100089931068990",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          530463214439808
+        ],
+        "name": "Electric Bunny Ball",
+        "thumbnail": "rbxassetid://88753213320794"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Hippomelon Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 300000,
+        "goldenThumbnail": "rbxassetid://73714618335491",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          561666932936267
+        ],
+        "name": "Hippomelon Ball",
+        "thumbnail": "rbxassetid://106362093464550"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "UV Kitsune Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 50,
+        "goldenThumbnail": "rbxassetid://101981104610427",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          517981727041225
+        ],
+        "name": "UV Kitsune Ball",
+        "thumbnail": "rbxassetid://125855245596038"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Basketball Corgi",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 12,
+        "goldenThumbnail": "rbxassetid://83883274965469",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          499259495943348
+        ],
+        "name": "Basketball Corgi",
+        "thumbnail": "rbxassetid://109035083604183"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Blurred Bear Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 5000,
+        "goldenThumbnail": "rbxassetid://123460115247306",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          542944701838391
+        ],
+        "name": "Blurred Bear Ball",
+        "thumbnail": "rbxassetid://112435188208455"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Meebo The Alien Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 1800,
+        "goldenThumbnail": "rbxassetid://91941747932069",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          536703958139099
+        ],
+        "name": "Meebo The Alien Ball",
+        "thumbnail": "rbxassetid://77564665928670"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Comet Cyclops Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 24000,
+        "goldenThumbnail": "rbxassetid://123395760220218",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          549185445537684
+        ],
+        "name": "Comet Cyclops Ball",
+        "thumbnail": "rbxassetid://119443690290433"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Kawaii Dragon Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 20,
+        "goldenThumbnail": "rbxassetid://95355661856168",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          511740983341931
+        ],
+        "name": "Kawaii Dragon Ball",
+        "fly": true,
+        "thumbnail": "rbxassetid://106721596264899"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Strawberry Cow Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 16,
+        "goldenThumbnail": "rbxassetid://123220498289638",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          505500239642640
+        ],
+        "name": "Strawberry Cow Ball",
+        "thumbnail": "rbxassetid://92202394698044"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Storm Axolotl Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 150,
+        "goldenThumbnail": "rbxassetid://93235225327123",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          524222470740516
+        ],
+        "name": "Storm Axolotl Ball",
+        "thumbnail": "rbxassetid://93329920424768"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Basketball Cat",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 10,
+        "goldenThumbnail": "rbxassetid://90461260609365",
+        "animations": {
+          "customAnimations": true
+        },
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          493712168210645
+        ],
+        "name": "Basketball Cat",
+        "thumbnail": "rbxassetid://110050529640840"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Glitched Cat Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 80000,
+        "goldenThumbnail": "rbxassetid://94742205746597",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          555426189236975
+        ],
+        "name": "Glitched Cat Ball",
+        "thumbnail": "rbxassetid://107843438483464"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Yin-Yang Bunny",
       "category": "Uncategorized",
       "configData": {
         "exclusiveLevel": 3,
@@ -161,283 +239,62 @@
           "Announce": true,
           "_script": null
         },
-        "name": "Diamond Dog",
-        "goldenThumbnail": "rbxassetid://16250877669",
-        "thumbnail": "rbxassetid://16250877568"
+        "name": "Yin-Yang Bunny",
+        "thumbnail": "rbxassetid://92814709755524",
+        "goldenThumbnail": ""
       },
       "collection": "Pets"
     },
     {
-      "configName": "Sprout Pegasus",
+      "configName": "Yin-Yang Dragon",
       "category": "Uncategorized",
       "configData": {
-        "goldenThumbnail": "rbxassetid://83509357674494",
+        "exclusiveLevel": 1,
         "rarity": {
-          "RarityNumber": 1,
+          "RarityNumber": 999,
           "Lootbag": null,
-          "_id": "Basic",
+          "_id": "Exclusive",
           "Color": null,
-          "DisplayName": "Basic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "thumbnail": "rbxassetid://98017431135809",
-        "fromWorldNumber": 4,
-        "fromZoneNumber": 250,
-        "cachedPower": [
-          481324867738792
-        ],
-        "name": "Sprout Pegasus",
-        "fly": true,
-        "maxChance": 0.9,
-        "fromEgg": "Twilight Grove Egg"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Glimmercap Turtle",
-      "category": "Uncategorized",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://118781707548312",
-        "maxChance": 0.9,
-        "fromWorldNumber": 4,
-        "fromZoneNumber": 250,
-        "thumbnail": "rbxassetid://114375628222082",
-        "cachedPower": [
-          447056667259778
-        ],
-        "name": "Glimmercap Turtle",
-        "rarity": {
-          "RarityNumber": 1,
-          "Lootbag": null,
-          "_id": "Basic",
-          "Color": null,
-          "DisplayName": "Basic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "fromEgg": "Twilight Grove Egg"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Starry Eye Bunny",
-      "category": "Uncategorized",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://125853396305075",
-        "maxChance": 0.08991008991008992,
-        "fromWorldNumber": 4,
-        "fromZoneNumber": 252,
-        "thumbnail": "rbxassetid://79112231149984",
-        "cachedPower": [
-          643922408248327
-        ],
-        "name": "Starry Eye Bunny",
-        "rarity": {
-          "RarityNumber": 2,
-          "Lootbag": null,
-          "_id": "Rare",
-          "Color": null,
-          "DisplayName": "Rare",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "fromEgg": "Starroot Oak Egg"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Rootkin Fox",
-      "category": "Uncategorized",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://70889812465887",
-        "maxChance": 0.8991008991008992,
-        "fromWorldNumber": 4,
-        "fromZoneNumber": 251,
-        "thumbnail": "rbxassetid://121289968511149",
-        "cachedPower": [
-          572359357405787
-        ],
-        "name": "Rootkin Fox",
-        "rarity": {
-          "RarityNumber": 1,
-          "Lootbag": null,
-          "_id": "Basic",
-          "Color": null,
-          "DisplayName": "Basic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "fromEgg": "Moonlight Ridge Egg"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Meteor Mole",
-      "category": "Uncategorized",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://74578624494513",
-        "maxChance": 0.8991008991008992,
-        "fromWorldNumber": 4,
-        "fromZoneNumber": 250,
-        "thumbnail": "rbxassetid://119822151998946",
-        "cachedPower": [
-          508763873249588
-        ],
-        "name": "Meteor Mole",
-        "rarity": {
-          "RarityNumber": 1,
-          "Lootbag": null,
-          "_id": "Basic",
-          "Color": null,
-          "DisplayName": "Basic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "fromEgg": "Twilight Grove Egg"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Telescope Owl",
-      "category": "Uncategorized",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://124938966942585",
-        "fromWorldNumber": 4,
-        "fromZoneNumber": 254,
-        "isFromLastZone": true,
-        "fly": true,
-        "thumbnail": "rbxassetid://98284750058098",
-        "fromEgg": "Crescent Moon Egg",
-        "rarity": {
-          "RarityNumber": 6,
-          "Lootbag": null,
-          "_id": "Exotic",
-          "Color": null,
-          "DisplayName": "Exotic",
+          "DisplayName": "Exclusive",
           "Message": null,
           "ItemSlot": null,
           "Gradient": null,
           "Announce": true,
           "_script": null
         },
-        "cachedPower": [
-          972700237130348
-        ],
-        "name": "Telescope Owl",
-        "maxChance": 9.989907336476662e-06
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Wisp Wolf",
-      "category": "Uncategorized",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://139279715483574",
-        "fromWorldNumber": 4,
-        "fromZoneNumber": 253,
-        "maxChance": 0.09090815676193761,
-        "thumbnail": "rbxassetid://92321682149350",
-        "fromEgg": "Aether Egg",
-        "rarity": {
-          "RarityNumber": 2,
-          "Lootbag": null,
-          "_id": "Rare",
-          "Color": null,
-          "DisplayName": "Rare",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "cachedPower": [
-          772285772869481
-        ],
-        "name": "Wisp Wolf",
-        "isFromLastZone": true
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Scroll Dragon",
-      "category": "Uncategorized",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://105569614209982",
-        "fromWorldNumber": 4,
-        "fromZoneNumber": 252,
-        "maxChance": 0.9090815676193762,
+        "name": "Yin-Yang Dragon",
         "fly": true,
-        "thumbnail": "rbxassetid://100018564516934",
-        "fromEgg": "Starroot Oak Egg",
-        "rarity": {
-          "RarityNumber": 1,
-          "Lootbag": null,
-          "_id": "Basic",
-          "Color": null,
-          "DisplayName": "Basic",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": false,
-          "_script": null
-        },
-        "cachedPower": [
-          686476242550650
-        ],
-        "name": "Scroll Dragon",
-        "isFromLastZone": true
+        "thumbnail": "rbxassetid://75219124827136",
+        "goldenThumbnail": ""
       },
       "collection": "Pets"
     },
     {
-      "configName": "Starlight Pony",
+      "configName": "Yin-Yang Griffin",
       "category": "Uncategorized",
       "configData": {
-        "goldenThumbnail": "rbxassetid://115106268978557",
-        "fromWorldNumber": 4,
-        "fromZoneNumber": 254,
-        "isFromLastZone": true,
-        "fly": true,
-        "thumbnail": "rbxassetid://122718577025010",
-        "fromEgg": "Crescent Moon Egg",
+        "exclusiveLevel": 2,
         "rarity": {
-          "RarityNumber": 7,
+          "RarityNumber": 999,
           "Lootbag": null,
-          "_id": "Divine",
+          "_id": "Exclusive",
           "Color": null,
-          "DisplayName": "Divine",
+          "DisplayName": "Exclusive",
           "Message": null,
           "ItemSlot": null,
           "Gradient": null,
           "Announce": true,
           "_script": null
         },
-        "cachedPower": [
-          1035349022868540
-        ],
-        "name": "Starlight Pony",
-        "maxChance": 2.4974768341191655e-07
+        "name": "Yin-Yang Griffin",
+        "fly": true,
+        "thumbnail": "rbxassetid://89062746959891",
+        "goldenThumbnail": ""
       },
       "collection": "Pets"
     },
     {
-      "configName": "Gargantuan Dark Dragon",
+      "configName": "Gargantuan Yin-Yang Kitsune",
       "category": "Gargantuan",
       "configData": {
         "rarity": {
@@ -453,20 +310,125 @@
           "_script": null
         },
         "indexObtainable": true,
-        "flyingTitanic": true,
-        "thumbnail": "rbxassetid://100327262559787",
         "gargantuan": true,
-        "name": "Gargantuan Dark Dragon",
+        "thumbnail": "rbxassetid://90918977215657",
+        "name": "Gargantuan Yin-Yang Kitsune",
+        "indexDesc": "Found in the Exclusive Yin-Yang Egg!",
+        "goldenThumbnail": ""
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Basketball Corgi",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://81389984562273",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Basketball Corgi",
+        "indexDesc": "Found by earning points in the Infinite Basketball Mode!",
+        "thumbnail": "rbxassetid://88019287527866",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Storm Axolotl Ball",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://77737436698372",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Storm Axolotl Ball",
+        "indexDesc": "Found in the Basketball Forever Pack!",
+        "thumbnail": "rbxassetid://123709369335154",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Electric Bunny Ball",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://79897170213295",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Electric Bunny Ball",
+        "indexDesc": "Found in the Basketball Egg!",
+        "thumbnail": "rbxassetid://102519001047451",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Junkyard Hound",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://87376825839988",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Junkyard Hound",
+        "indexDesc": "Reward in the 2025 Basketball Clan Battle!",
+        "thumbnail": "rbxassetid://82197525577335",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Yin-Yang Dragon",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Yin-Yang Dragon",
+        "indexDesc": "Found in the Exclusive Yin-Yang Egg!",
         "fly": true,
-        "indexDesc": "Found in the Combine-O-Matic!\n\nGround Slam - Pet will damage breakables in a large area!",
-        "goldenThumbnail": "rbxassetid://87724546309932"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Gargantuan Exquisite Parrot",
-      "category": "Gargantuan",
-      "configData": {
+        "thumbnail": "rbxassetid://139547008385454",
         "rarity": {
           "RarityNumber": 999,
           "Lootbag": null,
@@ -478,27 +440,71 @@
           "Gradient": null,
           "Announce": true,
           "_script": null
-        },
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Yin-Yang Bunny",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "",
         "indexObtainable": true,
-        "indexDesc": "Found in the Exclusive Raffle!\n\nGround Slam - Pet will damage breakables in a large area!",
-        "thumbnail": "rbxassetid://112010823795135",
-        "name": "Gargantuan Exquisite Parrot",
-        "gargantuan": true,
+        "huge": true,
+        "name": "Huge Yin-Yang Bunny",
+        "indexDesc": "Found in the Exclusive Yin-Yang Egg!",
+        "thumbnail": "rbxassetid://75417612099373",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge UV Kitsune Ball",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://132783287609358",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge UV Kitsune Ball",
+        "indexDesc": "Found in the Basketball World's furthest throw contest!",
+        "thumbnail": "rbxassetid://133144353929951",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Kawaii Dragon Ball",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://81692833934753",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Kawaii Dragon Ball",
+        "indexDesc": "Found in the Basketball World's furthest throw contest!",
         "fly": true,
-        "goldenThumbnail": "rbxassetid://82214551800846"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Diamond Dog",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://16250896828",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Diamond Dog",
-        "indexDesc": "Chance to get from purchasing high-end Diamond packs!",
-        "thumbnail": "rbxassetid://16250896717",
+        "thumbnail": "rbxassetid://108289198978887",
         "rarity": {
           "RarityNumber": 999,
           "Lootbag": null,
@@ -515,270 +521,7 @@
       "collection": "Pets"
     },
     {
-      "configName": "Huge Starry Eye Bunny",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://140328101597636",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Starry Eye Bunny",
-        "indexDesc": "Found in the Time Trials Chests!",
-        "thumbnail": "rbxassetid://85579743157375",
-        "rarity": {
-          "RarityNumber": 999,
-          "Lootbag": null,
-          "_id": "Exclusive",
-          "Color": null,
-          "DisplayName": "Exclusive",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        }
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Pixel Griffin",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://105870206158937",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Pixel Griffin",
-        "indexDesc": "Found in the Farming World's weight contest!",
-        "fly": true,
-        "thumbnail": "rbxassetid://95210896396972",
-        "rarity": {
-          "RarityNumber": 999,
-          "Lootbag": null,
-          "_id": "Exclusive",
-          "Color": null,
-          "DisplayName": "Exclusive",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        }
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Pixel Otter",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://76452507134272",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Pixel Otter",
-        "indexDesc": "Found by hatching eggs in the Farming World!",
-        "thumbnail": "rbxassetid://98175499956412",
-        "rarity": {
-          "RarityNumber": 999,
-          "Lootbag": null,
-          "_id": "Exclusive",
-          "Color": null,
-          "DisplayName": "Exclusive",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        }
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Pixel Shadow Griffin",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://95594527175303",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Pixel Shadow Griffin",
-        "indexDesc": "Earned from the 2025 Farming Event!",
-        "fly": true,
-        "thumbnail": "rbxassetid://138870297063423",
-        "rarity": {
-          "RarityNumber": 999,
-          "Lootbag": null,
-          "_id": "Exclusive",
-          "Color": null,
-          "DisplayName": "Exclusive",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        }
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Pixel M-2 PROTOTYPE",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://113681719880388",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Pixel M-2 PROTOTYPE",
-        "indexDesc": "Found in the Farming Exclusive M-2 PROTOTYPE Egg!",
-        "fly": true,
-        "thumbnail": "rbxassetid://114437689272259",
-        "rarity": {
-          "RarityNumber": 999,
-          "Lootbag": null,
-          "_id": "Exclusive",
-          "Color": null,
-          "DisplayName": "Exclusive",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        }
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Telescope Owl",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://86691040324457",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Telescope Owl",
-        "indexDesc": "Found in the Time Trials Chests!",
-        "fly": true,
-        "thumbnail": "rbxassetid://81492004583287",
-        "rarity": {
-          "RarityNumber": 999,
-          "Lootbag": null,
-          "_id": "Exclusive",
-          "Color": null,
-          "DisplayName": "Exclusive",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        }
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Pixel Capybara",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://102060419488885",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Pixel Capybara",
-        "indexDesc": "Earned from the 2025 Farming Event!",
-        "thumbnail": "rbxassetid://120551262539366",
-        "rarity": {
-          "RarityNumber": 999,
-          "Lootbag": null,
-          "_id": "Exclusive",
-          "Color": null,
-          "DisplayName": "Exclusive",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        }
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Pixel Bee",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://127334098152762",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Pixel Bee",
-        "indexDesc": "Earned from the 2025 Farming Event!",
-        "fly": true,
-        "thumbnail": "rbxassetid://123894797425389",
-        "rarity": {
-          "RarityNumber": 999,
-          "Lootbag": null,
-          "_id": "Exclusive",
-          "Color": null,
-          "DisplayName": "Exclusive",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        }
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Pixel Sad Cat",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://130492854781431",
-        "indexObtainable": true,
-        "huge": true,
-        "name": "Huge Pixel Sad Cat",
-        "indexDesc": "Found in the Farming Forever Pack!",
-        "thumbnail": "rbxassetid://132317712200378",
-        "rarity": {
-          "RarityNumber": 999,
-          "Lootbag": null,
-          "_id": "Exclusive",
-          "Color": null,
-          "DisplayName": "Exclusive",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        }
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Huge Rootkin Fox",
-      "category": "Huge",
-      "configData": {
-        "goldenThumbnail": "rbxassetid://86841677202843",
-        "fromWorldNumber": 4,
-        "fromZoneNumber": 254,
-        "isFromLastZone": true,
-        "indexDesc": "Found in the final zone of Fantasy World!",
-        "thumbnail": "rbxassetid://76545663190754",
-        "fromEgg": "Crescent Moon Egg",
-        "rarity": {
-          "RarityNumber": 999,
-          "Lootbag": null,
-          "_id": "Exclusive",
-          "Color": null,
-          "DisplayName": "Exclusive",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "indexObtainable": true,
-        "huge": true,
-        "cachedPower": [
-          1060628861393910
-        ],
-        "name": "Huge Rootkin Fox",
-        "maxChance": 3.596366641131598e-08
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Titanic Starlight Pony",
+      "configName": "Titanic Basketball Cat",
       "category": "Titanic",
       "configData": {
         "titanic": true,
@@ -795,16 +538,66 @@
           "_script": null
         },
         "indexObtainable": true,
-        "name": "Titanic Starlight Pony",
-        "indexDesc": "Found in the Time Trials Chests!",
+        "name": "Titanic Basketball Cat",
+        "indexDesc": "Found by earning points in the Infinite Basketball Mode!",
+        "thumbnail": "rbxassetid://88337098275915",
+        "goldenThumbnail": "rbxassetid://116557533191116"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Comet Cyclops Ball",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "indexObtainable": true,
+        "name": "Titanic Comet Cyclops Ball",
+        "indexDesc": "Found in the Basketball Egg!",
+        "thumbnail": "rbxassetid://83088944433726",
+        "goldenThumbnail": "rbxassetid://86193291227020"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Yin-Yang Grim Reaper",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "indexObtainable": true,
+        "name": "Titanic Yin-Yang Grim Reaper",
         "fly": true,
-        "thumbnail": "rbxassetid://130735528136584",
-        "goldenThumbnail": "rbxassetid://122536694424506"
+        "indexDesc": "Found in the Exclusive Yin-Yang Egg!",
+        "thumbnail": "rbxassetid://136807974742699",
+        "goldenThumbnail": ""
       },
       "collection": "Pets"
     },
     {
-      "configName": "Titanic Pixel Agony",
+      "configName": "Titanic Glitched Cat Ball",
       "category": "Titanic",
       "configData": {
         "titanic": true,
@@ -821,111 +614,10 @@
           "_script": null
         },
         "indexObtainable": true,
-        "name": "Titanic Pixel Agony",
-        "indexDesc": "Earned from the 2025 Farming Event!",
-        "fly": true,
-        "thumbnail": "rbxassetid://79227180725829",
-        "goldenThumbnail": "rbxassetid://90478147806605"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Titanic Pixel Dominus Astra",
-      "category": "Titanic",
-      "configData": {
-        "titanic": true,
-        "rarity": {
-          "RarityNumber": 999,
-          "Lootbag": null,
-          "_id": "Exclusive",
-          "Color": null,
-          "DisplayName": "Exclusive",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "indexObtainable": true,
-        "name": "Titanic Pixel Dominus Astra",
-        "indexDesc": "Found in the Farming World's weight contest!",
-        "thumbnail": "rbxassetid://129315342087717",
-        "goldenThumbnail": "rbxassetid://109955211622378"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Titanic Pixel Monkey",
-      "category": "Titanic",
-      "configData": {
-        "titanic": true,
-        "rarity": {
-          "RarityNumber": 999,
-          "Lootbag": null,
-          "_id": "Exclusive",
-          "Color": null,
-          "DisplayName": "Exclusive",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "indexObtainable": true,
-        "name": "Titanic Pixel Monkey",
-        "indexDesc": "Found by hatching eggs in the Farming World!",
-        "thumbnail": "rbxassetid://109746451259530",
-        "goldenThumbnail": "rbxassetid://103486073608583"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Titanic Diamond Dog",
-      "category": "Titanic",
-      "configData": {
-        "titanic": true,
-        "rarity": {
-          "RarityNumber": 999,
-          "Lootbag": null,
-          "_id": "Exclusive",
-          "Color": null,
-          "DisplayName": "Exclusive",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "indexObtainable": true,
-        "name": "Titanic Diamond Dog",
-        "indexDesc": "Chance to get from purchasing high-end Diamond packs!",
-        "thumbnail": "rbxassetid://95245493036006",
-        "goldenThumbnail": "rbxassetid://120419472182294"
-      },
-      "collection": "Pets"
-    },
-    {
-      "configName": "Titanic Exquisite Cat",
-      "category": "Titanic",
-      "configData": {
-        "titanic": true,
-        "rarity": {
-          "RarityNumber": 999,
-          "Lootbag": null,
-          "_id": "Exclusive",
-          "Color": null,
-          "DisplayName": "Exclusive",
-          "Message": null,
-          "ItemSlot": null,
-          "Gradient": null,
-          "Announce": true,
-          "_script": null
-        },
-        "indexObtainable": true,
-        "name": "Titanic Exquisite Cat",
-        "indexDesc": "Found in the Exclusive Raffle!",
-        "thumbnail": "rbxassetid://71126391222560",
-        "goldenThumbnail": "rbxassetid://120267988715843"
+        "name": "Titanic Glitched Cat Ball",
+        "indexDesc": "Found in the Basketball World's furthest throw contest!",
+        "thumbnail": "rbxassetid://106995873715009",
+        "goldenThumbnail": "rbxassetid://97063292261555"
       },
       "collection": "Pets"
     }

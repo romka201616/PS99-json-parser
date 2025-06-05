@@ -5948,6 +5948,67 @@
         "BaseTier": 1
       },
       "collection": "Enchants"
+    },
+    {
+      "configName": "Enchant | Mega Chest Breaker",
+      "category": "Special",
+      "configData": {
+        "DiminishPowerThreshold": 500,
+        "MaxTier": 1,
+        "Tiers": [
+          {
+            "Rarity": {
+              "RarityNumber": 999,
+              "Lootbag": null,
+              "_id": "Exclusive",
+              "Color": null,
+              "DisplayName": "Exclusive",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": true,
+              "_script": null
+            },
+            "Power": 500,
+            "Desc": "Increases the damage you deal to chests by 500%!",
+            "Icon": "rbxassetid://116837175751892",
+            "DisplayName": "Mega Chest Breaker"
+          }
+        ],
+        "BaseTier": 1
+      },
+      "collection": "Enchants"
+    },
+    {
+      "configName": "Enchant | Superior Wisdom",
+      "category": "Exclusive",
+      "configData": {
+        "DiminishPowerThreshold": 600,
+        "ProductId": 3296149716,
+        "Tiers": [
+          {
+            "Rarity": {
+              "RarityNumber": 999,
+              "Lootbag": null,
+              "_id": "Exclusive",
+              "Color": null,
+              "DisplayName": "Exclusive",
+              "Message": null,
+              "ItemSlot": null,
+              "Gradient": null,
+              "Announce": true,
+              "_script": null
+            },
+            "Power": 300,
+            "Desc": "Grants 3x Huge, Titanic, and Gargantuan XP!",
+            "Icon": "rbxassetid://127001486940469",
+            "DisplayName": "Superior Wisdom"
+          }
+        ],
+        "MaxTier": 1,
+        "BaseTier": 1
+      },
+      "collection": "Enchants"
     }
   ]
 }

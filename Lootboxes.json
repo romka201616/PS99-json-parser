@@ -2043,6 +2043,29 @@
         "Desc": "Reward for participating in the Fantasy World Time Trials!"
       },
       "collection": "Lootboxes"
+    },
+    {
+      "configName": "Basketball Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Basketball Gift",
+        "Icon": "rbxassetid://98133353621098",
+        "Desc": "Earned from scoring points in the Infinite Basketball Mode! Chance for a HUGE!"
+      },
+      "collection": "Lootboxes"
     }
   ]
 }

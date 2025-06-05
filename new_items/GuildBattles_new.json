@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "configName": "BalloonCorgiBattle",
+      "configName": "BasketballBattle",
       "category": "GuildBattles",
       "configData": {
         "PlacementRewards": [
@@ -52,7 +52,7 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Balloon Corgi",
+                "id": "Huge Junkyard Hound",
                 "pt": 2
               }
             },
@@ -62,7 +62,7 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Balloon Corgi",
+                "id": "Huge Junkyard Hound",
                 "pt": 1
               }
             },
@@ -72,16 +72,16 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Balloon Corgi"
+                "id": "Huge Junkyard Hound"
               }
             },
             "Best": 9,
             "Worst": 20
           }
         ],
-        "FinishTime": 1748016000,
-        "Title": "Balloon Corgi Battle",
-        "StartTime": 1747497600,
+        "FinishTime": 1749225600,
+        "Title": "Basketball Battle",
+        "StartTime": 1748707200,
         "Rewards": {
           "Good": [],
           "Bronze": [],
