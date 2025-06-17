@@ -2808,6 +2808,29 @@
         "DiamondPrice": 600000
       },
       "collection": "Booths"
+    },
+    {
+      "configName": "Booth | Basketball",
+      "category": "Booths",
+      "configData": {
+        "DisplayName": "Basketball Booth",
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "Model": null,
+        "Icon": "rbxassetid://88815295630182",
+        "Desc": "🗑️ Grab your baskets!"
+      },
+      "collection": "Booths"
     }
   ]
 }

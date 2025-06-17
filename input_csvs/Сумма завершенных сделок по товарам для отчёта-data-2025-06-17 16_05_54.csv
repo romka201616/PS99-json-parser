@@ -1,12 +1,34 @@
 "Время","Товар","Сумма завершенных сделок (USD)"
-2025-03-17 03:00:00,1 000 000 000 gems,10
-2025-03-17 03:00:00,100 000 000 gems,15.2
-2025-03-17 03:00:00,10 000 000 gems,1.73
-2025-03-17 03:00:00,1 000 000 gems,2.13
+2025-03-03 03:00:00,1 000 000 000 gems,30
+2025-03-03 03:00:00,100 000 000 gems,1.35
+2025-03-03 03:00:00,10 000 000 gems,0.600
+2025-03-03 03:00:00,1 000 000 gems,21.1
+2025-03-03 03:00:00,Ancient Megalodon,0.350
+2025-03-03 03:00:00,Band Geek Plankton,0.200
+2025-03-03 03:00:00,Elf Cap,0.300
+2025-03-03 03:00:00,Huge Dog,3.30
+2025-03-03 03:00:00,Huge Egg Dino,0.600
+2025-03-03 03:00:00,Huge Fancy Axolotl,1
+2025-03-03 03:00:00,Huge Happy Rock,2.05
+2025-03-03 03:00:00,Huge Hot Dog,1.10
+2025-03-03 03:00:00,Huge Nightmare Corgi,6
+2025-03-10 03:00:00,1 000 000 000 gems,20
+2025-03-10 03:00:00,100 000 000 gems,5.75
+2025-03-10 03:00:00,10 000 000 gems,5.85
+2025-03-10 03:00:00,1 000 000 gems,6.49
+2025-03-10 03:00:00,Captain Magma,1.40
+2025-03-10 03:00:00,Chest Spell,1
+2025-03-10 03:00:00,Huge Cosmic Axolotl,2.10
+2025-03-10 03:00:00,Huge Happy Computer,4.05
+2025-03-10 03:00:00,Huge Happy Rock,7.56
+2025-03-10 03:00:00,Huge Warrior Wolf,0.800
+2025-03-10 03:00:00,Sea King Jaw,0.450
+2025-03-17 03:00:00,100 000 000 gems,23.8
+2025-03-17 03:00:00,10 000 000 gems,1.36
+2025-03-17 03:00:00,1 000 000 gems,2.48
 2025-03-17 03:00:00,Huge Baby Kitten,0.600
 2025-03-17 03:00:00,Huge Blurred Axolotl,0.330
 2025-03-17 03:00:00,Huge Colorful Slime,0.700
-2025-03-17 03:00:00,Huge Cosmic Axolotl,2.10
 2025-03-17 03:00:00,Huge Fancy Axolotl,0.560
 2025-03-17 03:00:00,Huge Fluffy Cat,0.660
 2025-03-17 03:00:00,Huge Fossil Dragon,0.330
@@ -17,19 +39,20 @@
 2025-03-17 03:00:00,Huge Hell Rock,1.13
 2025-03-17 03:00:00,Huge Nuclear Wild Dog,0.330
 2025-03-17 03:00:00,Huge Party Dragon,0.330
-2025-03-17 03:00:00,Huge Red Dragon,0.500
-2025-03-17 03:00:00,Huge Red Panda,0.330
+2025-03-17 03:00:00,Huge Red Dragon,0.730
+2025-03-17 03:00:00,Huge Red Panda,0.660
 2025-03-17 03:00:00,Huge Shadow Dominus,0.330
 2025-03-17 03:00:00,Huge Shiba,2.50
 2025-03-17 03:00:00,Huge Toy Chest Mimic,1.03
 2025-03-17 03:00:00,Huge Valentines Dominus,0.330
-2025-03-17 03:00:00,Huge Void Alien,0.330
-2025-03-17 03:00:00,Huge Warrior Wolf,0.800
+2025-03-17 03:00:00,Huge Void Alien,0.660
 2025-03-17 03:00:00,Rainbow Mini Chest,0.300
 2025-03-24 03:00:00,1 000 000 000 gems,5
-2025-03-24 03:00:00,100 000 000 gems,16.8
-2025-03-24 03:00:00,10 000 000 gems,0.600
-2025-03-24 03:00:00,1 000 000 gems,1.26
+2025-03-24 03:00:00,100 000 000 gems,10.1
+2025-03-24 03:00:00,10 000 000 gems,0.750
+2025-03-24 03:00:00,1 000 000 gems,1.03
+2025-03-24 03:00:00,Elastic Waistband,0.800
+2025-03-24 03:00:00,GG Rock SpongeBob,1.80
 2025-03-24 03:00:00,Huge Abyssal Jellyfish,0.330
 2025-03-24 03:00:00,Huge Angry Yeti,0.330
 2025-03-24 03:00:00,Huge Arcade Dog,1.36
@@ -43,44 +66,43 @@
 2025-03-24 03:00:00,Huge Inferno Cat,0.270
 2025-03-24 03:00:00,Huge Jolly Dino,0.330
 2025-03-24 03:00:00,Huge Lucki Elephant,0.330
+2025-03-24 03:00:00,Huge Mining Penguin,1.45
 2025-03-24 03:00:00,Huge Party Crown Ducky,2
 2025-03-24 03:00:00,Huge Party Dragon,0.330
 2025-03-24 03:00:00,Huge Rave Butterfly,0.450
-2025-03-24 03:00:00,Huge Red Dragon,1.38
-2025-03-24 03:00:00,Huge Red Panda,0.330
+2025-03-24 03:00:00,Huge Red Dragon,1.15
 2025-03-24 03:00:00,Huge Robber Pug,0.330
 2025-03-24 03:00:00,Huge Shadow Dominus,0.330
 2025-03-24 03:00:00,Huge Shattered Heart Agony,0.330
 2025-03-24 03:00:00,Huge Skeleton Cat,0.330
 2025-03-24 03:00:00,Huge Squirrel,0.330
 2025-03-24 03:00:00,Huge Stargazing Axolotl,0.950
+2025-03-24 03:00:00,Huge Stealth Dragon,0.330
 2025-03-24 03:00:00,Huge Temporal Owl,0.330
 2025-03-24 03:00:00,Huge Valentines Bear,0.330
-2025-03-24 03:00:00,Huge Void Alien,0.330
 2025-03-24 03:00:00,Huge Wizard Westie,0.330
 2025-03-24 03:00:00,Overload Charm,0.0900
-2025-03-31 03:00:00,1 000 000 000 gems,8.20
-2025-03-31 03:00:00,100 000 000 gems,6.40
-2025-03-31 03:00:00,10 000 000 gems,3.04
-2025-03-31 03:00:00,1 000 000 gems,0.490
+2025-03-24 03:00:00,Soaring starfish,0.700
+2025-03-31 03:00:00,1 000 000 000 gems,14.2
+2025-03-31 03:00:00,100 000 000 gems,4.60
+2025-03-31 03:00:00,10 000 000 gems,5.46
+2025-03-31 03:00:00,1 000 000 gems,0.390
 2025-03-31 03:00:00,500 000 gems,0.0200
-2025-03-31 03:00:00,Elastic Waistband,0.800
-2025-03-31 03:00:00,GG Rock SpongeBob,1.80
 2025-03-31 03:00:00,Huge Cyber Agony,0.660
 2025-03-31 03:00:00,Huge Green Balloon Cat,2
-2025-03-31 03:00:00,Huge Hell Rock,1.23
+2025-03-31 03:00:00,Huge Happy Rock,0.130
+2025-03-31 03:00:00,Huge Hell Rock,2.53
 2025-03-31 03:00:00,Huge Kitsune Fox,1
-2025-03-31 03:00:00,Huge Mining Penguin,1.45
+2025-03-31 03:00:00,Huge Prison Cat,0.170
 2025-03-31 03:00:00,Huge Red Dragon,0.460
 2025-03-31 03:00:00,Huge Red Wolf,1.50
 2025-03-31 03:00:00,Huge Shadow Dominus,0.420
-2025-03-31 03:00:00,Huge Stealth Dragon,0.330
-2025-03-31 03:00:00,Soaring starfish,0.700
+2025-03-31 03:00:00,Titan Sigma Man,1
 2025-03-31 03:00:00,Training Rod,0.0100
-2025-04-07 03:00:00,1 000 000 000 gems,22.8
-2025-04-07 03:00:00,100 000 000 gems,6.15
-2025-04-07 03:00:00,10 000 000 gems,13.9
-2025-04-07 03:00:00,1 000 000 gems,0.550
+2025-04-07 03:00:00,1 000 000 000 gems,16.8
+2025-04-07 03:00:00,100 000 000 gems,8.65
+2025-04-07 03:00:00,10 000 000 gems,12.9
+2025-04-07 03:00:00,1 000 000 gems,0.540
 2025-04-07 03:00:00,BattleAxe,1
 2025-04-07 03:00:00,Batwing,1
 2025-04-07 03:00:00,Huge Abyssal Jellyfish,0.260
@@ -89,20 +111,22 @@
 2025-04-07 03:00:00,Huge Baby Kitten,0.450
 2025-04-07 03:00:00,Huge Cyber Agony,0.660
 2025-04-07 03:00:00,Huge Devil Dominus,0.650
+2025-04-07 03:00:00,Huge Elephant,0.250
 2025-04-07 03:00:00,Huge Emoji Cat,1.25
 2025-04-07 03:00:00,Huge Gorgon,0.130
+2025-04-07 03:00:00,Huge Green Balloon Cat,2
 2025-04-07 03:00:00,Huge Guest Noob,0.420
-2025-04-07 03:00:00,Huge Happy Computer,0.380
-2025-04-07 03:00:00,Huge Happy Rock,3.04
-2025-04-07 03:00:00,Huge Hell Rock,2.52
+2025-04-07 03:00:00,Huge Happy Computer,0.630
+2025-04-07 03:00:00,Huge Happy Rock,3.43
+2025-04-07 03:00:00,Huge Hell Rock,1.22
 2025-04-07 03:00:00,Huge Hunter,0.660
 2025-04-07 03:00:00,Huge Kitsune Fox,1
 2025-04-07 03:00:00,Huge Lit Cat,0.590
 2025-04-07 03:00:00,Huge Nuclear Wild Dog,1.20
 2025-04-07 03:00:00,Huge Party Dragon,2.50
-2025-04-07 03:00:00,Huge Prison Cat,0.300
+2025-04-07 03:00:00,Huge Prison Cat,0.130
 2025-04-07 03:00:00,Huge Pumpkin Scarecrow,0.650
-2025-04-07 03:00:00,Huge Quantum Agony,0.450
+2025-04-07 03:00:00,Huge Quantum Agony,0.900
 2025-04-07 03:00:00,Huge Red Dragon,0.920
 2025-04-07 03:00:00,Huge Red Wolf,0.670
 2025-04-07 03:00:00,Huge Shadow Dominus,0.770
@@ -111,135 +135,130 @@
 2025-04-07 03:00:00,Huge Temporal Owl,1.04
 2025-04-07 03:00:00,Huge Toy Chest Mimic,1.17
 2025-04-07 03:00:00,Huge Wizard Westie,0.260
-2025-04-07 03:00:00,Hype Egg #2,0.560
+2025-04-07 03:00:00,Hype Egg #2,0.650
 2025-04-07 03:00:00,Lightbringer,1.20
 2025-04-07 03:00:00,Overload Charm,0.0900
 2025-04-07 03:00:00,Rainbow Mini Chest,0.680
-2025-04-07 03:00:00,Titan Sigma Man,1
 2025-04-14 03:00:00,1 000 000 000 gems,55.6
-2025-04-14 03:00:00,100 000 000 gems,15.7
-2025-04-14 03:00:00,10 000 000 gems,5.07
-2025-04-14 03:00:00,1 000 000 gems,1.38
+2025-04-14 03:00:00,100 000 000 gems,15.6
+2025-04-14 03:00:00,10 000 000 gems,3.35
+2025-04-14 03:00:00,1 000 000 gems,1.72
+2025-04-14 03:00:00,100 000 gems,4
+2025-04-14 03:00:00,500 000 gems,0.0200
 2025-04-14 03:00:00,Clan Voucher,0.650
+2025-04-14 03:00:00,Festive Skin Case,8
 2025-04-14 03:00:00,Huge 404 Demon,1
 2025-04-14 03:00:00,Huge Abyssal Axolotl,0.650
-2025-04-14 03:00:00,Huge Arcade Dog,1.69
+2025-04-14 03:00:00,Huge Arcade Dog,3.02
 2025-04-14 03:00:00,Huge Atomic Axolotl,1.30
 2025-04-14 03:00:00,Huge Baby Kitten,0.300
-2025-04-14 03:00:00,Huge Bat,0.400
+2025-04-14 03:00:00,Huge Bat,0.600
 2025-04-14 03:00:00,Huge Blurred Axolotl,11.8
 2025-04-14 03:00:00,Huge Capybara,6
 2025-04-14 03:00:00,Huge Circuit Cat,0.130
-2025-04-14 03:00:00,Huge Colorful Slime,0.200
+2025-04-14 03:00:00,Huge Colorful Slime,0.800
 2025-04-14 03:00:00,Huge Cyber Agony,0.720
 2025-04-14 03:00:00,Huge Devil Dominus,0.650
 2025-04-14 03:00:00,Huge Easter Dominus,2.30
-2025-04-14 03:00:00,Huge Elephant,0.250
 2025-04-14 03:00:00,Huge Fluffy Cat,3.77
-2025-04-14 03:00:00,Huge Green Balloon Cat,2
 2025-04-14 03:00:00,Huge Guest Noob,0.600
-2025-04-14 03:00:00,Huge Happy Computer,2.23
-2025-04-14 03:00:00,Huge Happy Rock,1.11
+2025-04-14 03:00:00,Huge Happy Computer,1.98
+2025-04-14 03:00:00,Huge Happy Rock,0.790
+2025-04-14 03:00:00,Huge Heartbreak Fairy,0.200
+2025-04-14 03:00:00,Huge Helicopter Cat,0.200
 2025-04-14 03:00:00,Huge Hell Rock,1.33
 2025-04-14 03:00:00,Huge Holographic Cat,2.31
 2025-04-14 03:00:00,Huge Hunter,0.500
 2025-04-14 03:00:00,Huge Hydra Axolotl,1.30
-2025-04-14 03:00:00,Huge Icy Phoenix,1.30
+2025-04-14 03:00:00,Huge Icy Phoenix,2.30
 2025-04-14 03:00:00,Huge Koi Fish,1.30
 2025-04-14 03:00:00,Huge Lit Cat,0.330
-2025-04-14 03:00:00,Huge Mining Penguin,0.250
-2025-04-14 03:00:00,Huge Nuclear Wild Dog,0.660
+2025-04-14 03:00:00,Huge Mining Penguin,0.500
+2025-04-14 03:00:00,Huge Nuclear Wild Dog,1.06
 2025-04-14 03:00:00,Huge Nutcracker Squirrel,0.230
 2025-04-14 03:00:00,Huge Party Dragon,0.800
 2025-04-14 03:00:00,Huge Poseidon Corgi,0.600
-2025-04-14 03:00:00,Huge Prison Cat,0.130
+2025-04-14 03:00:00,Huge Prison Cat,0.330
 2025-04-14 03:00:00,Huge Propeller Cat,0.990
-2025-04-14 03:00:00,Huge Quantum Agony,1.10
+2025-04-14 03:00:00,Huge Quantum Agony,0.650
 2025-04-14 03:00:00,Huge Shadow Dominus,1.18
 2025-04-14 03:00:00,Huge Shuriken Corgi,0.700
 2025-04-14 03:00:00,Huge Slimezilla,1.20
-2025-04-14 03:00:00,Huge Snow Elf,0.650
+2025-04-14 03:00:00,Huge Snow Elf,0.820
 2025-04-14 03:00:00,Huge Snowflake Dominus,0.270
 2025-04-14 03:00:00,Huge Stealth Dragon,0.330
 2025-04-14 03:00:00,Huge Tiedye Bunny,0.650
 2025-04-14 03:00:00,Huge Toy Chest Mimic,3.20
 2025-04-14 03:00:00,Huge UV Kitsune,0.650
 2025-04-14 03:00:00,Huge Valentines Bear,0.800
-2025-04-14 03:00:00,Huge Wizard Westie,0.530
-2025-04-14 03:00:00,Hype Egg #2,1.39
-2025-04-14 03:00:00,Rainbow Mini Chest,0.540
+2025-04-14 03:00:00,Huge Wizard Westie,0.990
+2025-04-14 03:00:00,Hype Egg #2,1.54
+2025-04-14 03:00:00,Rainbow Mini Chest,0.550
 2025-04-14 03:00:00,Royalty Charm,0.0400
 2025-04-14 03:00:00,Sea Bear,0.250
+2025-04-14 03:00:00,Secret Key,0.0400
+2025-04-14 03:00:00,Xmas,0.350
 2025-04-21 03:00:00,1 000 000 000 gems,11.3
-2025-04-21 03:00:00,100 000 000 gems,11.7
-2025-04-21 03:00:00,10 000 000 gems,2.82
-2025-04-21 03:00:00,1 000 000 gems,1.51
-2025-04-21 03:00:00,100 000 gems,4
-2025-04-21 03:00:00,500 000 gems,0.0600
+2025-04-21 03:00:00,100 000 000 gems,9.34
+2025-04-21 03:00:00,10 000 000 gems,2.87
+2025-04-21 03:00:00,1 000 000 gems,1.23
+2025-04-21 03:00:00,500 000 gems,0.0400
+2025-04-21 03:00:00,Chroma Boneblade,0.850
 2025-04-21 03:00:00,Chroma Darkbringer,1.60
 2025-04-21 03:00:00,Chroma Gemstone,1.10
 2025-04-21 03:00:00,Chroma Gingerblade,0.900
-2025-04-21 03:00:00,Festive Skin Case,8
+2025-04-21 03:00:00,Chroma Heat,1.40
+2025-04-21 03:00:00,God Potion,0.0100
 2025-04-21 03:00:00,Green Seer,0.230
 2025-04-21 03:00:00,Hallowscythe,0.470
 2025-04-21 03:00:00,Huge Anubis,0.0500
-2025-04-21 03:00:00,Huge Arcade Dog,1.33
 2025-04-21 03:00:00,Huge Astronaut Cat,0.200
-2025-04-21 03:00:00,Huge Bat,0.200
 2025-04-21 03:00:00,Huge Blurred Axolotl,0.500
 2025-04-21 03:00:00,Huge Capybara,0.0500
-2025-04-21 03:00:00,Huge Colorful Slime,0.600
 2025-04-21 03:00:00,Huge Elephant,0.250
 2025-04-21 03:00:00,Huge Empyrean Dragon,0.0500
 2025-04-21 03:00:00,Huge Fancy Axolotl,1.50
 2025-04-21 03:00:00,Huge Gargoyle Dragon,5.20
 2025-04-21 03:00:00,Huge Happy Computer,2.75
-2025-04-21 03:00:00,Huge Happy Rock,2.42
-2025-04-21 03:00:00,Huge Heartbreak Fairy,0.200
-2025-04-21 03:00:00,Huge Helicopter Cat,0.200
-2025-04-21 03:00:00,Huge Icy Phoenix,1
+2025-04-21 03:00:00,Huge Happy Rock,2.22
+2025-04-21 03:00:00,Huge Heartbreak Fairy,1.80
+2025-04-21 03:00:00,Huge Hunter,0.500
+2025-04-21 03:00:00,Huge Inferno Cat,0.270
 2025-04-21 03:00:00,Huge Mechatronic Robot,0.900
-2025-04-21 03:00:00,Huge Mining Penguin,3.16
-2025-04-21 03:00:00,Huge Nuclear Wild Dog,0.400
-2025-04-21 03:00:00,Huge Prison Cat,0.230
+2025-04-21 03:00:00,Huge Mining Penguin,2.91
+2025-04-21 03:00:00,Huge Prison Cat,0.0300
 2025-04-21 03:00:00,Huge Propeller Cat,0.500
+2025-04-21 03:00:00,Huge Pufferfish,0.0400
 2025-04-21 03:00:00,Huge Red Dragon,0.460
 2025-04-21 03:00:00,Huge Red Wolf,0.250
-2025-04-21 03:00:00,Huge Snow Elf,0.170
 2025-04-21 03:00:00,Huge Sphinx,0.0100
 2025-04-21 03:00:00,Huge UV Kitsune,0.650
 2025-04-21 03:00:00,Huge Valentine's Bear,0.0400
-2025-04-21 03:00:00,Huge Wizard Westie,0.460
-2025-04-21 03:00:00,Hype Egg #2,0.240
+2025-04-21 03:00:00,Hype Egg,0.0300
 2025-04-21 03:00:00,King Neptune,0.0100
 2025-04-21 03:00:00,Nessie,0.180
 2025-04-21 03:00:00,Peppermint,0.250
 2025-04-21 03:00:00,Phaser,0.250
-2025-04-21 03:00:00,Rainbow Mini Chest,0.0100
 2025-04-21 03:00:00,Royalty Charm,0.400
-2025-04-21 03:00:00,Secret Key,0.0400
 2025-04-21 03:00:00,Vampires Edge,0.250
 2025-04-21 03:00:00,Winters Edge,0.250
-2025-04-21 03:00:00,Xmas,0.350
 2025-04-21 03:00:00,Yellow Seer,0.300
 2025-04-28 03:00:00,1 000 000 000 gems,10.4
-2025-04-28 03:00:00,100 000 000 gems,20.2
-2025-04-28 03:00:00,10 000 000 gems,7.11
-2025-04-28 03:00:00,1 000 000 gems,1.15
+2025-04-28 03:00:00,100 000 000 gems,21.4
+2025-04-28 03:00:00,10 000 000 gems,7.07
+2025-04-28 03:00:00,1 000 000 gems,1.11
 2025-04-28 03:00:00,100m gems,3.52
 2025-04-28 03:00:00,Ancient Megalodon,0.0400
 2025-04-28 03:00:00,Chameleon,0.400
-2025-04-28 03:00:00,Chroma Boneblade,0.850
-2025-04-28 03:00:00,Chroma Heat,1.40
 2025-04-28 03:00:00,Crowned Anglerfish,0.0200
 2025-04-28 03:00:00,Crystallized Seadragon,0.230
 2025-04-28 03:00:00,Diamond Fishing Rod,0.130
 2025-04-28 03:00:00,Diamond Shovel,0.0600
 2025-04-28 03:00:00,Exalted Relic,0.0100
 2025-04-28 03:00:00,Frozen Leviathan,0.0400
-2025-04-28 03:00:00,God Potion,0.0100
 2025-04-28 03:00:00,Golden Sea Pearl,0.240
 2025-04-28 03:00:00,Huge 404 Demon,2
+2025-04-28 03:00:00,Huge Angry Yeti,0.0400
 2025-04-28 03:00:00,Huge Bison,1.50
 2025-04-28 03:00:00,Huge Classic Dog,1.30
 2025-04-28 03:00:00,Huge Electric Penguin,0.300
@@ -247,15 +266,13 @@
 2025-04-28 03:00:00,Huge Gorgon,0.500
 2025-04-28 03:00:00,Huge Guest Noob,0.300
 2025-04-28 03:00:00,Huge Happy Computer,1.32
-2025-04-28 03:00:00,Huge Happy Rock,2.31
-2025-04-28 03:00:00,Huge Heartbreak Fairy,1.80
-2025-04-28 03:00:00,Huge Hell Rock,1.65
-2025-04-28 03:00:00,Huge Hunter,1.50
-2025-04-28 03:00:00,Huge Inferno Cat,0.270
+2025-04-28 03:00:00,Huge Happy Rock,2.44
+2025-04-28 03:00:00,Huge Hell Rock,1.71
+2025-04-28 03:00:00,Huge Hunter,1
 2025-04-28 03:00:00,Huge Inferno Dominus,1.45
+2025-04-28 03:00:00,Huge Kitsune Fox,0.450
 2025-04-28 03:00:00,Huge Mining Penguin,0.220
 2025-04-28 03:00:00,Huge Mosaic Griffin,0.210
-2025-04-28 03:00:00,Huge Pufferfish,0.0400
 2025-04-28 03:00:00,Huge Punksky,0.640
 2025-04-28 03:00:00,Huge Slimezilla,0.330
 2025-04-28 03:00:00,Huge Snowflake Dominus,0.390
@@ -263,36 +280,37 @@
 2025-04-28 03:00:00,Huge UV Kitsune,0.800
 2025-04-28 03:00:00,Huge Void Alien,1.98
 2025-04-28 03:00:00,Huge Wizard Westie,0.570
-2025-04-28 03:00:00,Hype Egg,0.0300
 2025-04-28 03:00:00,Lovestorm Eel,0.140
 2025-04-28 03:00:00,Magma Leviathan,0.0500
 2025-04-28 03:00:00,Megalodon,0.0300
 2025-04-28 03:00:00,Nightmare,2.50
+2025-04-28 03:00:00,Obsidian Pickaxe,0.0300
 2025-04-28 03:00:00,Orca,0.0400
 2025-04-28 03:00:00,Overload Charm,0.180
-2025-04-28 03:00:00,Royalty Charm,0.0400
+2025-04-28 03:00:00,Rainbow Mini Chest,0.0300
+2025-04-28 03:00:00,Royalty Charm,0.160
 2025-04-28 03:00:00,Runic Pickaxe,0.0900
+2025-04-28 03:00:00,Season Premium Pass,4.37
 2025-04-28 03:00:00,SpongeHenge,5.43
 2025-04-28 03:00:00,The Kraken,0.340
 2025-04-28 03:00:00,Titanic Icy Phoenix,54
 2025-05-05 03:00:00,1 000 000 000 gems,34.4
-2025-05-05 03:00:00,100 000 000 gems,20.2
-2025-05-05 03:00:00,10 000 000 gems,1.47
-2025-05-05 03:00:00,1 000 000 gems,0.270
+2025-05-05 03:00:00,100 000 000 gems,23.3
+2025-05-05 03:00:00,10 000 000 gems,1.31
+2025-05-05 03:00:00,1 000 000 gems,0.450
 2025-05-05 03:00:00,Band Geek Mr. Krabs,0.0700
 2025-05-05 03:00:00,Band Geek Mrs. Puff,0.0700
 2025-05-05 03:00:00,Candy,3
 2025-05-05 03:00:00,Clan Voucher,0.650
+2025-05-05 03:00:00,Dennis,6.40
+2025-05-05 03:00:00,Dream Gary,1.25
 2025-05-05 03:00:00,Exclusive Anime Egg,0.500
 2025-05-05 03:00:00,Exclusive Raffle Ticket,0.0700
 2025-05-05 03:00:00,Fairy Bat Dragon,4
 2025-05-05 03:00:00,Hash Slinging Slasher,4.65
-2025-05-05 03:00:00,Huge Angry Yeti,0.0400
 2025-05-05 03:00:00,Huge Arcade Dog,0.330
 2025-05-05 03:00:00,Huge Fluffy Cat,0.270
-2025-05-05 03:00:00,Huge Happy Rock,0.130
-2025-05-05 03:00:00,Huge Hell Rock,0.390
-2025-05-05 03:00:00,Huge Kitsune Fox,0.450
+2025-05-05 03:00:00,Huge Hell Rock,0.660
 2025-05-05 03:00:00,Huge Loveserker,0.250
 2025-05-05 03:00:00,Huge Mining Monkey,0.240
 2025-05-05 03:00:00,Huge Mining Penguin,0.700
@@ -305,48 +323,140 @@
 2025-05-05 03:00:00,Huge Wild Corrupt Agony,0.650
 2025-05-05 03:00:00,Lava Dragon,2.08
 2025-05-05 03:00:00,Marshmallow Kitsune,0.0500
-2025-05-05 03:00:00,Obsidian Pickaxe,0.0300
-2025-05-05 03:00:00,Rainbow Mini Chest,0.230
+2025-05-05 03:00:00,Moon Egg,0.0200
+2025-05-05 03:00:00,Rainbow Mini Chest,0.200
 2025-05-05 03:00:00,Ram,0.800
 2025-05-05 03:00:00,Royal Egg,0.0300
-2025-05-05 03:00:00,Royalty Charm,0.120
-2025-05-05 03:00:00,Season Premium Pass,4.37
 2025-05-05 03:00:00,Soaring starfish,0.190
 2025-05-05 03:00:00,Wavelight Greatblade,0.900
 2025-05-12 03:00:00,1 000 000 000 gems,14.4
-2025-05-12 03:00:00,100 000 000 gems,13.9
-2025-05-12 03:00:00,10 000 000 gems,4.56
-2025-05-12 03:00:00,1 000 000 gems,0.270
+2025-05-12 03:00:00,100 000 000 gems,13.7
+2025-05-12 03:00:00,10 000 000 gems,4.76
+2025-05-12 03:00:00,1 000 000 gems,0.0800
 2025-05-12 03:00:00,100m gems,0.880
 2025-05-12 03:00:00,500m gems,8.46
 2025-05-12 03:00:00,Abyssal Dragon,0.500
 2025-05-12 03:00:00,Cerberus,0.440
-2025-05-12 03:00:00,Dennis,6.40
-2025-05-12 03:00:00,Dream Gary,1.25
 2025-05-12 03:00:00,Eternal Frostwhale,0.310
 2025-05-12 03:00:00,Huge Alien Octopus,0.300
+2025-05-12 03:00:00,Huge Clover Butterfly,0.550
+2025-05-12 03:00:00,Huge Fluffy Cat,0.270
 2025-05-12 03:00:00,Huge Happy Rock,0.0300
-2025-05-12 03:00:00,Huge Hell Rock,0.660
+2025-05-12 03:00:00,Huge Hell Rock,0.330
 2025-05-12 03:00:00,Huge Inferno Cat,0.150
 2025-05-12 03:00:00,Huge Mining Penguin,0.470
 2025-05-12 03:00:00,Moby,0.700
-2025-05-12 03:00:00,Moon Egg,0.0200
+2025-05-12 03:00:00,Monthly VIP Pass,4.50
 2025-05-12 03:00:00,Octophant,0.0400
 2025-05-12 03:00:00,Phantom Megalodon,0.200
 2025-05-12 03:00:00,Rainbow Shock,0.500
 2025-05-12 03:00:00,Scylla,0.0600
 2025-05-12 03:00:00,Titanic Anime Cat,55
-2025-05-19 03:00:00,100 000 000 gems,12.8
-2025-05-19 03:00:00,10 000 000 gems,0.830
-2025-05-19 03:00:00,1 000 000 gems,0.0200
+2025-05-19 03:00:00,100 000 000 gems,8.70
+2025-05-19 03:00:00,10 000 000 gems,0.750
 2025-05-19 03:00:00,1 000 Robux Game Pass,10
 2025-05-19 03:00:00,Ancient Dragon,1.12
-2025-05-19 03:00:00,Huge Clover Butterfly,0.550
-2025-05-19 03:00:00,Huge Fluffy Cat,0.270
+2025-05-19 03:00:00,Bauble Buddies,0.450
+2025-05-19 03:00:00,Chroma Elderwood Blade,1.20
+2025-05-19 03:00:00,Classic Trade Stand,0.620
+2025-05-19 03:00:00,Comet Pickaxe,0.370
+2025-05-19 03:00:00,Cupid Dragon,2.60
+2025-05-19 03:00:00,Frozen Penguin,0.180
+2025-05-19 03:00:00,Hamster,0.220
+2025-05-19 03:00:00,Huge Hacker Cat,0.110
+2025-05-19 03:00:00,Huge Happy Rock,0.230
 2025-05-19 03:00:00,Huge Hell Rock,0.460
+2025-05-19 03:00:00,Huge Nuclear Wild Dog,0.170
+2025-05-19 03:00:00,Huge Shadow Dominus,5
+2025-05-19 03:00:00,Huge Toy Chest Mimic,0.200
 2025-05-19 03:00:00,King Bee,0.700
 2025-05-19 03:00:00,Kitsune,1.20
 2025-05-19 03:00:00,Northstar Serpent,0.190
 2025-05-19 03:00:00,Pink Cat,2.80
+2025-05-19 03:00:00,Ride A Pet Potion,0.590
+2025-05-19 03:00:00,Shiver Wolf,0.120
 2025-05-19 03:00:00,Spectral Serpent,0.0600
 2025-05-19 03:00:00,Sunburst,0.0600
+2025-05-26 03:00:00,1 000 000 000 gems,3.56
+2025-05-26 03:00:00,100 000 000 gems,8.40
+2025-05-26 03:00:00,10 000 000 gems,0.840
+2025-05-26 03:00:00,10b Sheckels,4.80
+2025-05-26 03:00:00,Band Geek Sandy,0.680
+2025-05-26 03:00:00,Captain Magma,0.280
+2025-05-26 03:00:00,Dragonfly,6.50
+2025-05-26 03:00:00,Exclusive Raffle Ticket,0.600
+2025-05-26 03:00:00,GG Rock SpongeBob,2.50
+2025-05-26 03:00:00,Hibernation Sandy,0.0800
+2025-05-26 03:00:00,Huge Fancy Axolotl,0.170
+2025-05-26 03:00:00,Huge Party Dragon,0.400
+2025-05-26 03:00:00,Huge Shadow Dominus,0.500
+2025-05-26 03:00:00,Hype Egg #2,0.210
+2025-05-26 03:00:00,Kangaroo,7.85
+2025-05-26 03:00:00,Man Ray,0.0400
+2025-05-26 03:00:00,Mermaid Man,0.140
+2025-05-26 03:00:00,Rainbow Mini Chest,0.120
+2025-05-26 03:00:00,Turtle,11.4
+2025-06-02 03:00:00,1 000 000 000 gems,8.30
+2025-06-02 03:00:00,100 000 000 gems,11.4
+2025-06-02 03:00:00,10 000 000 gems,0.480
+2025-06-02 03:00:00,1 000 000 gems,0.220
+2025-06-02 03:00:00,10b Sheckels,0.900
+2025-06-02 03:00:00,Clan Voucher,0.650
+2025-06-02 03:00:00,Dragon Plushie,0.130
+2025-06-02 03:00:00,Huge Abyssal Axolotl,0.590
+2025-06-02 03:00:00,Huge Abyssal Jellyfish,0.600
+2025-06-02 03:00:00,Huge Baby Kitten,0.220
+2025-06-02 03:00:00,Huge Balloon Dragon,1.25
+2025-06-02 03:00:00,Huge Blurred Axolotl,0.200
+2025-06-02 03:00:00,Huge Cosmic Axolotl,2.50
+2025-06-02 03:00:00,Huge Cyber Agony,0.200
+2025-06-02 03:00:00,Huge Fluffy Cat,0.150
+2025-06-02 03:00:00,Huge Green Balloon Cat,1.50
+2025-06-02 03:00:00,Huge Guest Noob,0.220
+2025-06-02 03:00:00,Huge Happy Computer,0.300
+2025-06-02 03:00:00,Huge Hell Rock,0.150
+2025-06-02 03:00:00,Huge Hunter,0.150
+2025-06-02 03:00:00,Huge Jolly Dino,0.150
+2025-06-02 03:00:00,Huge Knight Beagle,0.150
+2025-06-02 03:00:00,Huge Lit Cat,0.200
+2025-06-02 03:00:00,Huge Nuclear Wild Dog,0.510
+2025-06-02 03:00:00,Huge Party Dragon,0.150
+2025-06-02 03:00:00,Huge Pastel Deer,0.150
+2025-06-02 03:00:00,Huge Propeller Cat,0.670
+2025-06-02 03:00:00,Huge Punksky,0.200
+2025-06-02 03:00:00,Huge Quantum Agony,0.640
+2025-06-02 03:00:00,Huge Rave Butterfly,0.500
+2025-06-02 03:00:00,Huge Shadow Dominus,0.600
+2025-06-02 03:00:00,Huge Slimezilla,0.500
+2025-06-02 03:00:00,Huge Snow Elf,0.150
+2025-06-02 03:00:00,Huge Toy Chest Mimic,0.540
+2025-06-02 03:00:00,Huge UV Kitsune,1.44
+2025-06-02 03:00:00,Huge Void Alien,0.500
+2025-06-02 03:00:00,Huge Wild Corrupt Agony,1
+2025-06-02 03:00:00,Huge Wizard Westie,0.300
+2025-06-02 03:00:00,Hype Egg #2,0.120
+2025-06-02 03:00:00,Mythic Dualcorn,0.450
+2025-06-02 03:00:00,Raccoon,31.6
+2025-06-02 03:00:00,Rainbow Mini Chest,0.160
+2025-06-02 03:00:00,Royalty Charm,0.0200
+2025-06-02 03:00:00,Shiny Demonic Hydra,0.0900
+2025-06-02 03:00:00,Shiny Green Hydra,0.0600
+2025-06-02 03:00:00,Shiny Mythic Diamond Serpent,0.170
+2025-06-02 03:00:00,Shiny Virus,0.100
+2025-06-02 03:00:00,Titanic Nyan Cat,35
+2025-06-09 03:00:00,1 000 000 000 gems,6.40
+2025-06-09 03:00:00,10 000 000 gems,0.0900
+2025-06-09 03:00:00,100m gems,1.76
+2025-06-09 03:00:00,10b Sheckels,0.900
+2025-06-09 03:00:00,1t Sheckels,1
+2025-06-09 03:00:00,5x Speed,5
+2025-06-09 03:00:00,Chicken Zombie,1.20
+2025-06-09 03:00:00,Huge Guest Noob,0.880
+2025-06-09 03:00:00,Huge Happy Rock,0.450
+2025-06-09 03:00:00,Huge Propeller Cat,0.170
+2025-06-09 03:00:00,Huge Toy Chest Mimic,0.360
+2025-06-09 03:00:00,Owl,1
+2025-06-09 03:00:00,Praying Mantis,1.99
+2025-06-09 03:00:00,Raccoon,8
+2025-06-09 03:00:00,Squirrel,1.20
+2025-06-09 03:00:00,Ultra Secret Hunter,7.22

@@ -27264,6 +27264,207 @@
         "CannonGroupId": 8
       },
       "collection": "Zones"
+    },
+    {
+      "configName": "255 | Whispering Hills",
+      "category": "Update 63",
+      "configData": {
+        "ZoneName": "Whispering Hills",
+        "MaximumAvailableEgg": 267,
+        "WorldNumber": 4,
+        "Currency": "FantasyCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 4,
+                "Type": "Small Coins (Fantasy)"
+              },
+              {
+                "Weight": 4,
+                "Type": "Medium Coins (Fantasy)"
+              },
+              {
+                "Weight": 4,
+                "Type": "Large Coins (Fantasy)"
+              },
+              {
+                "Weight": 10,
+                "Type": "Crate (Fabled Highlands)"
+              },
+              {
+                "Weight": 8,
+                "Type": "Present (Fabled Highlands)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 255,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 8
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "256 | Runestone Bluff",
+      "category": "Update 63",
+      "configData": {
+        "ZoneName": "Runestone Bluff",
+        "MaximumAvailableEgg": 268,
+        "WorldNumber": 4,
+        "Currency": "FantasyCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 3,
+                "Type": "Medium Coins (Fantasy)"
+              },
+              {
+                "Weight": 5,
+                "Type": "Large Coins (Fantasy)"
+              },
+              {
+                "Weight": 4,
+                "Type": "Present (Fabled Highlands)"
+              },
+              {
+                "Weight": 1,
+                "Type": "Safe (Fabled Highlands)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 256,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 8
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "257 | Totem Trail",
+      "category": "Update 63",
+      "configData": {
+        "ZoneName": "Totem Trail",
+        "MaximumAvailableEgg": 269,
+        "WorldNumber": 4,
+        "Currency": "FantasyCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 5,
+                "Type": "Crate (Fabled Highlands)"
+              },
+              {
+                "Weight": 2,
+                "Type": "Safe (Fabled Highlands)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 257,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 8
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "258 | Wyrmwatch Ridge",
+      "category": "Update 63",
+      "configData": {
+        "ZoneName": "Wyrmwatch Ridge",
+        "MaximumAvailableEgg": 270,
+        "WorldNumber": 4,
+        "Currency": "FantasyCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 7,
+                "Type": "Small Coins (Fantasy)"
+              },
+              {
+                "Weight": 7,
+                "Type": "Medium Coins (Fantasy)"
+              },
+              {
+                "Weight": 4,
+                "Type": "Large Coins (Fantasy)"
+              },
+              {
+                "Weight": 5,
+                "Type": "Safe (Fabled Highlands)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Vault (Fabled Highlands)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 258,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 8
+      },
+      "collection": "Zones"
+    },
+    {
+      "configName": "259 | Highcliff Sanctuary",
+      "category": "Update 63",
+      "configData": {
+        "ZoneName": "Highcliff Sanctuary",
+        "MaximumAvailableEgg": 271,
+        "WorldNumber": 4,
+        "Currency": "FantasyCoins",
+        "Breakables": {
+          "Main": {
+            "Settings": {
+              "RespawnTime": 0.05,
+              "Maximum": 35
+            },
+            "Data": [
+              {
+                "Weight": 1,
+                "Type": "Vault (Fabled Highlands)"
+              },
+              {
+                "Weight": 6,
+                "Type": "Crate (Fabled Highlands)"
+              },
+              {
+                "Weight": 3,
+                "Type": "Safe (Fabled Highlands)"
+              }
+            ]
+          }
+        },
+        "ZoneNumber": 259,
+        "TeleportToZoneOnFall": true,
+        "ExtraDropTable": null,
+        "CannonGroupId": 8
+      },
+      "collection": "Zones"
     }
   ]
 }

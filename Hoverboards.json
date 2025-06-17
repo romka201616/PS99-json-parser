@@ -3821,6 +3821,52 @@
         "Icon": "rbxassetid://130263953093664"
       },
       "collection": "Hoverboards"
+    },
+    {
+      "configName": "Hoverboard | Basketball",
+      "category": "Hoverboards",
+      "configData": {
+        "Sounds": [],
+        "DisplayName": "Basketball Hoverboard",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Icon": "rbxassetid://105651362878166",
+        "Desc": "🏀 Glide like a baller!"
+      },
+      "collection": "Hoverboards"
+    },
+    {
+      "configName": "Hoverboard | Cosmic Basketball",
+      "category": "Hoverboards",
+      "configData": {
+        "Sounds": [],
+        "DisplayName": "Cosmic Basketball Hoverboard",
+        "Rarity": {
+          "RarityNumber": 5,
+          "Lootbag": null,
+          "_id": "Mythical",
+          "Color": null,
+          "DisplayName": "Mythical",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "Icon": "rbxassetid://80084292488611",
+        "Desc": "⭐ Dunk across the galaxy!"
+      },
+      "collection": "Hoverboards"
     }
   ]
 }

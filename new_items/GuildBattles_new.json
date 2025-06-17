@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "configName": "BasketballBattle",
+      "configName": "TowerBattle",
       "category": "GuildBattles",
       "configData": {
         "PlacementRewards": [
@@ -52,7 +52,7 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Junkyard Hound",
+                "id": "Huge Nightmare Cyclops",
                 "pt": 2
               }
             },
@@ -62,7 +62,7 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Junkyard Hound",
+                "id": "Huge Nightmare Cyclops",
                 "pt": 1
               }
             },
@@ -72,16 +72,16 @@
           {
             "Item": {
               "_data": {
-                "id": "Huge Junkyard Hound"
+                "id": "Huge Nightmare Cyclops"
               }
             },
             "Best": 9,
             "Worst": 20
           }
         ],
-        "FinishTime": 1749225600,
-        "Title": "Basketball Battle",
-        "StartTime": 1748707200,
+        "FinishTime": 1750435200,
+        "Title": "Tower Defense Battle",
+        "StartTime": 1749916800,
         "Rewards": {
           "Good": [],
           "Bronze": [],

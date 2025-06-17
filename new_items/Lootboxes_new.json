@@ -1,7 +1,35 @@
 {
   "data": [
     {
-      "configName": "Basketball Gift",
+      "configName": "Ghostly Pack",
+      "category": "CardPacks",
+      "configData": {
+        "Rolls": 5,
+        "Rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Ghostly Pack",
+        "IsCardPack": true,
+        "Desc": "Contains 5 Ghostly Pack cards!\n\nCombine cards into EXCLUSIVE pets & chance for a TITANIC card!",
+        "InventoryTags": [
+          "Packs"
+        ],
+        "Icon": "rbxassetid://75735723611442",
+        "RequireSave": true
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Cosmic Basketball Gift",
       "category": "Lootboxes",
       "configData": {
         "RequireSave": true,
@@ -17,9 +45,32 @@
           "Announce": true,
           "_script": null
         },
-        "DisplayName": "Basketball Gift",
-        "Icon": "rbxassetid://98133353621098",
+        "DisplayName": "Cosmic Basketball Gift",
+        "Icon": "rbxassetid://128100365905918",
         "Desc": "Earned from scoring points in the Infinite Basketball Mode! Chance for a HUGE!"
+      },
+      "collection": "Lootboxes"
+    },
+    {
+      "configName": "Tower Defense Gift",
+      "category": "Lootboxes",
+      "configData": {
+        "RequireSave": true,
+        "Rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "DisplayName": "Tower Defense Gift",
+        "Icon": "rbxassetid://73523661611795",
+        "Desc": "Chance for a HUGE!"
       },
       "collection": "Lootboxes"
     }

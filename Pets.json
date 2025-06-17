@@ -94046,6 +94046,1517 @@
         "goldenThumbnail": "rbxassetid://97063292261555"
       },
       "collection": "Pets"
+    },
+    {
+      "configName": "Huge Hedgehog",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://128570959299987",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Hedgehog",
+        "indexDesc": "Found in the Series 3 Mystery Gift!",
+        "thumbnail": "rbxassetid://76079961004041",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Telescope Owl",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://124938966942585",
+        "rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "thumbnail": "rbxassetid://98284750058098",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 254,
+        "cachedPower": [
+          972700236424001
+        ],
+        "name": "Telescope Owl",
+        "fly": true,
+        "maxChance": 9.989907695750369e-06,
+        "fromEgg": "Crescent Moon Egg"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Wisp Wolf",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://139279715483574",
+        "rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "thumbnail": "rbxassetid://92321682149350",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 253,
+        "cachedPower": [
+          772285772869481
+        ],
+        "name": "Wisp Wolf",
+        "maxChance": 0.09090816003132836,
+        "fromEgg": "Aether Egg"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Scroll Dragon",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://105569614209982",
+        "rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "thumbnail": "rbxassetid://100018564516934",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          686476242550650
+        ],
+        "name": "Scroll Dragon",
+        "fly": true,
+        "maxChance": 0.9090816003132836,
+        "fromEgg": "Starroot Oak Egg"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Starlight Pony",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://115106268978557",
+        "rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "thumbnail": "rbxassetid://122718577025010",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 254,
+        "cachedPower": [
+          1035349022339360
+        ],
+        "name": "Starlight Pony",
+        "fly": true,
+        "maxChance": 2.497476923937592e-07,
+        "fromEgg": "Crescent Moon Egg"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Rootkin Fox",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://86841677202843",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Rootkin Fox",
+        "indexDesc": "Found in the final zone of Fantasy World!",
+        "thumbnail": "rbxassetid://76545663190754",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Electric Bunny Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 450,
+        "goldenThumbnail": "rbxassetid://100089931068990",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          555426189236975
+        ],
+        "name": "Electric Bunny Ball",
+        "thumbnail": "rbxassetid://88753213320794"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "UV Kitsune Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 50,
+        "goldenThumbnail": "rbxassetid://101981104610427",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          524222470740516
+        ],
+        "name": "UV Kitsune Ball",
+        "thumbnail": "rbxassetid://125855245596038"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Blurred Bear Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 5000,
+        "goldenThumbnail": "rbxassetid://123460115247306",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          549185445537684
+        ],
+        "name": "Blurred Bear Ball",
+        "thumbnail": "rbxassetid://112435188208455"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Meebo The Alien Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 1800,
+        "goldenThumbnail": "rbxassetid://91941747932069",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          530463214439808
+        ],
+        "name": "Meebo The Alien Ball",
+        "thumbnail": "rbxassetid://77564665928670"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Comet Cyclops Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 24000,
+        "goldenThumbnail": "rbxassetid://123395760220218",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          536703958139099
+        ],
+        "name": "Comet Cyclops Ball",
+        "thumbnail": "rbxassetid://119443690290433"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Storm Axolotl Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 150,
+        "goldenThumbnail": "rbxassetid://93235225327123",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          517981727041225
+        ],
+        "name": "Storm Axolotl Ball",
+        "thumbnail": "rbxassetid://93329920424768"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Glitched Cat Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 80000,
+        "goldenThumbnail": "rbxassetid://94742205746597",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          542944701838391
+        ],
+        "name": "Glitched Cat Ball",
+        "thumbnail": "rbxassetid://107843438483464"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Starry Tail Anteater",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://81055873156873",
+        "maxChance": 0.8991008991008992,
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 255,
+        "thumbnail": "rbxassetid://132417011227967",
+        "cachedPower": [
+          916809019516450
+        ],
+        "name": "Starry Tail Anteater",
+        "rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "fromEgg": "Whispering Hills Egg"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Happy Cyclops",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://94179136970254",
+        "rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "thumbnail": "rbxassetid://80854351808859",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 257,
+        "cachedPower": [
+          1237052479442549
+        ],
+        "name": "Happy Cyclops",
+        "isFromLastZone": true,
+        "maxChance": 0.9090815458234391,
+        "fromEgg": "Totem Trail Egg"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Ghostly Bunny",
+      "category": "Uncategorized",
+      "configData": {
+        "exclusiveLevel": 3,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "name": "Ghostly Bunny",
+        "thumbnail": "rbxassetid://114747127893314",
+        "goldenThumbnail": ""
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Ghostly Fox",
+      "category": "Uncategorized",
+      "configData": {
+        "exclusiveLevel": 1,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "name": "Ghostly Fox",
+        "goldenThumbnail": "",
+        "thumbnail": "rbxassetid://125047542679172"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Ghostly Cat",
+      "category": "Uncategorized",
+      "configData": {
+        "exclusiveLevel": 2,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "name": "Ghostly Cat",
+        "goldenThumbnail": "",
+        "thumbnail": "rbxassetid://112804128652434"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Junkyard Hound Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 155,
+        "goldenThumbnail": "rbxassetid://99235033184940",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          575708606259673
+        ],
+        "name": "Junkyard Hound Ball",
+        "thumbnail": "rbxassetid://82356812731968"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Glimmer Goat",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://104752876344014",
+        "rarity": {
+          "RarityNumber": 6,
+          "Lootbag": null,
+          "_id": "Exotic",
+          "Color": null,
+          "DisplayName": "Exotic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "thumbnail": "rbxassetid://120750866013404",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 259,
+        "cachedPower": [
+          1752837412418082
+        ],
+        "name": "Glimmer Goat",
+        "maxChance": 9.989907096960871e-06,
+        "isFromLastZone": true,
+        "fromEgg": "Highcliff Sanctuary Egg"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Holographic Axolotl Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 105000,
+        "goldenThumbnail": "rbxassetid://129063664346200",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          610812789568190
+        ],
+        "name": "Holographic Axolotl Ball",
+        "thumbnail": "rbxassetid://124267383251291"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Astronaut Cat Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 470,
+        "goldenThumbnail": "rbxassetid://94295220873172",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          582729442921378
+        ],
+        "name": "Astronaut Cat Ball",
+        "thumbnail": "rbxassetid://102076703098200"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Black Hole Angelus Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 945000,
+        "goldenThumbnail": "rbxassetid://80190911575674",
+        "animations": {
+          "spinZ": true
+        },
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          624854462891597
+        ],
+        "name": "Black Hole Angelus Ball",
+        "fly": true,
+        "thumbnail": "rbxassetid://97111467444087"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Robot Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 65,
+        "goldenThumbnail": "rbxassetid://80878819748871",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          568687769597970
+        ],
+        "name": "Robot Ball",
+        "thumbnail": "rbxassetid://137985517217586"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Fragmented Dominus Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 350000,
+        "goldenThumbnail": "rbxassetid://89120067520814",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          617833626229894
+        ],
+        "name": "Fragmented Dominus Ball",
+        "thumbnail": "rbxassetid://140173345738940"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Glitched Unicorn Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 5650,
+        "goldenThumbnail": "rbxassetid://110298826652568",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          596771116244784
+        ],
+        "name": "Glitched Unicorn Ball",
+        "thumbnail": "rbxassetid://113901555086837"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Atomic Monkey Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 32000,
+        "goldenThumbnail": "rbxassetid://92045704830079",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          603791952906487
+        ],
+        "name": "Atomic Monkey Ball",
+        "fly": true,
+        "thumbnail": "rbxassetid://129882012587386"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Brain Ball",
+      "category": "Uncategorized",
+      "configData": {
+        "yeetPower": 1385,
+        "goldenThumbnail": "rbxassetid://79738131583847",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 252,
+        "cachedPower": [
+          589750279583081
+        ],
+        "name": "Brain Ball",
+        "thumbnail": "rbxassetid://120725409968901"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Ancestor Eagle",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://113596837143606",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 259,
+        "isFromLastZone": true,
+        "fly": true,
+        "thumbnail": "rbxassetid://94889153466060",
+        "fromEgg": "Highcliff Sanctuary Egg",
+        "rarity": {
+          "RarityNumber": 7,
+          "Lootbag": null,
+          "_id": "Divine",
+          "Color": null,
+          "DisplayName": "Divine",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "cachedPower": [
+          1865732558355599
+        ],
+        "name": "Ancestor Eagle",
+        "maxChance": 2.497476774240218e-07
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Totem Cub",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://74978214524594",
+        "maxChance": 0.8991008991008992,
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 256,
+        "thumbnail": "rbxassetid://129266443861525",
+        "cachedPower": [
+          1031410146956006
+        ],
+        "name": "Totem Cub",
+        "rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "fromEgg": "Runestone Bluff Egg"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Runebound Bobcat",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://136236683767883",
+        "rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "thumbnail": "rbxassetid://85282294929293",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 258,
+        "cachedPower": [
+          1391684039372868
+        ],
+        "name": "Runebound Bobcat",
+        "isFromLastZone": true,
+        "maxChance": 0.09090815458234391,
+        "fromEgg": "Wyrmwatch Ridge Egg"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Sprout Wyrmling",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://133978189367057",
+        "maxChance": 0.08991008991008992,
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 257,
+        "thumbnail": "rbxassetid://97674775229660",
+        "cachedPower": [
+          1160369088276839
+        ],
+        "name": "Sprout Wyrmling",
+        "rarity": {
+          "RarityNumber": 2,
+          "Lootbag": null,
+          "_id": "Rare",
+          "Color": null,
+          "DisplayName": "Rare",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "fromEgg": "Totem Trail Egg"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Glow Worm",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://123295269589485",
+        "maxChance": 0.9,
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 255,
+        "thumbnail": "rbxassetid://88329168839090",
+        "cachedPower": [
+          867363040622190
+        ],
+        "name": "Glow Worm",
+        "rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "fromEgg": "Whispering Hills Egg"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Boulder Boar",
+      "category": "Uncategorized",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://109964783669648",
+        "maxChance": 0.9,
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 255,
+        "thumbnail": "rbxassetid://115138644167113",
+        "cachedPower": [
+          805610630646442
+        ],
+        "name": "Boulder Boar",
+        "rarity": {
+          "RarityNumber": 1,
+          "Lootbag": null,
+          "_id": "Basic",
+          "Color": null,
+          "DisplayName": "Basic",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": false,
+          "_script": null
+        },
+        "fromEgg": "Whispering Hills Egg"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Robot Ball",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://100695925221991",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Robot Ball",
+        "indexDesc": "Found by earning points in the Infinite Basketball Mode in Leagues Bronze-Platinum!",
+        "thumbnail": "rbxassetid://114904071316728",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Glitched Unicorn Ball",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://74614212639471",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Glitched Unicorn Ball",
+        "indexDesc": "Found by earning points in the Infinite Basketball Mode in Leagues Emerald-Master!",
+        "thumbnail": "rbxassetid://129837188566308",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Fragmented Dominus Ball",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://108318521072327",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Fragmented Dominus Ball",
+        "indexDesc": "Found in the Cosmic Basketball Egg!",
+        "thumbnail": "rbxassetid://100875909675761",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Blurred Bear Ball",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://108758768179939",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Blurred Bear Ball",
+        "indexDesc": "Found in the Basketball World's furthest throw contest!",
+        "thumbnail": "rbxassetid://133058816387774",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Meebo The Alien Ball",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://89321641684953",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Meebo The Alien Ball",
+        "indexDesc": "Found in the Hoop Forever Pack!",
+        "thumbnail": "rbxassetid://105987856358688",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Atomic Monkey Ball",
+      "category": "Huge",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Atomic Monkey Ball",
+        "fly": true,
+        "indexDesc": "Found by earning points in the Infinite Basketball Mode in Leagues Diamond-Master!",
+        "thumbnail": "rbxassetid://131025673327487",
+        "goldenThumbnail": "rbxassetid://128627830801703"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Runebound Bobcat",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://132407649475365",
+        "fromWorldNumber": 4,
+        "fromZoneNumber": 259,
+        "isFromLastZone": true,
+        "indexDesc": "Found in the final zone of Fantasy World!",
+        "thumbnail": "rbxassetid://75929351206941",
+        "fromEgg": "Highcliff Sanctuary Egg",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "indexObtainable": true,
+        "huge": true,
+        "cachedPower": [
+          1900365027727910
+        ],
+        "name": "Huge Runebound Bobcat",
+        "maxChance": 5.993944258176522e-08
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Ghostly Dragon",
+      "category": "Huge",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Ghostly Dragon",
+        "fly": true,
+        "indexDesc": "Found in the Ghostly Card Pack!",
+        "thumbnail": "rbxassetid://93813808986344",
+        "goldenThumbnail": ""
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge LeGoat Ball",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://102704278535022",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge LeGoat Ball",
+        "indexDesc": "Found in the Cosmic Basketball Egg!",
+        "thumbnail": "rbxassetid://85572580085074",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Brain Ball",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "indexObtainable": true,
+        "name": "Titanic Brain Ball",
+        "indexDesc": "Found by earning points in the Infinite Basketball Mode in Leagues Bronze-Diamond!",
+        "thumbnail": "rbxassetid://85082755103963",
+        "goldenThumbnail": "rbxassetid://126336101849034"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Holographic Axolotl Ball",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "indexObtainable": true,
+        "name": "Titanic Holographic Axolotl Ball",
+        "indexDesc": "Found by earning points in the Infinite Basketball Mode in League Master!",
+        "thumbnail": "rbxassetid://113783111337082",
+        "goldenThumbnail": "rbxassetid://92316347772802"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Black Hole Angelus Ball",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "animations": {
+          "ridingGravity": 65.3346,
+          "ridingCameraOffset": null,
+          "swerveMaxAngle": 45,
+          "flyHeight": 2.2,
+          "spinZ": true,
+          "swerve": true
+        },
+        "indexObtainable": true,
+        "name": "Titanic Black Hole Angelus Ball",
+        "fly": true,
+        "indexDesc": "Found in the Cosmic Basketball Egg!",
+        "thumbnail": "rbxassetid://113303682260217",
+        "goldenThumbnail": "rbxassetid://138247937692273"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Storm Axolotl Ball",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "indexObtainable": true,
+        "name": "Titanic Storm Axolotl Ball",
+        "indexDesc": "Found in the Basketball World's furthest throw contest!",
+        "thumbnail": "rbxassetid://140349148341918",
+        "goldenThumbnail": "rbxassetid://112592829971613"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Ghostly Wolf",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "indexObtainable": true,
+        "name": "Titanic Ghostly Wolf",
+        "indexDesc": "Found in the Ghostly Card Pack!",
+        "thumbnail": "rbxassetid://122682792759281",
+        "goldenThumbnail": ""
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Totem Bear",
+      "category": "Uncategorized",
+      "configData": {
+        "exclusiveLevel": 2,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "name": "Totem Bear",
+        "goldenThumbnail": "",
+        "thumbnail": "rbxassetid://119340679619960"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Totem Cat",
+      "category": "Uncategorized",
+      "configData": {
+        "exclusiveLevel": 3,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "name": "Totem Cat",
+        "goldenThumbnail": "",
+        "thumbnail": "rbxassetid://112385173013500"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Totem Wolf",
+      "category": "Uncategorized",
+      "configData": {
+        "exclusiveLevel": 1,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "name": "Totem Wolf",
+        "goldenThumbnail": "",
+        "thumbnail": "rbxassetid://87735422405164"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Gargantuan Totem Monkey",
+      "category": "Gargantuan",
+      "configData": {
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "gargantuan": true,
+        "name": "Gargantuan Totem Monkey",
+        "thumbnail": "rbxassetid://119822736449264",
+        "indexDesc": "Found in the Exclusive Totem Egg!",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Totem Wolf",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Totem Wolf",
+        "indexDesc": "Found in the Exclusive Totem Egg!",
+        "thumbnail": "rbxassetid://130997023659211",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Totem Cat",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Totem Cat",
+        "indexDesc": "Found in the Exclusive Totem Egg!",
+        "thumbnail": "rbxassetid://94635272523111",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Nightmare Cyclops",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://139883402781336",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Nightmare Cyclops",
+        "indexDesc": "Reward in the 2025 Nightmare Cyclops Clan Battle!",
+        "thumbnail": "rbxassetid://98277417659107",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Flamethrower Spider",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://102899091466775",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Flamethrower Spider",
+        "indexDesc": "Found in the Forever Pack!",
+        "thumbnail": "rbxassetid://73032919339096",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Arcade Angelus",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://132975828140043",
+        "animations": {
+          "spinZ": true
+        },
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Arcade Angelus",
+        "indexDesc": "Found in Tower Defense Gift Bag!",
+        "fly": true,
+        "thumbnail": "rbxassetid://119811643774598",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Safari Monkey",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://92731738674259",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Safari Monkey",
+        "indexDesc": "Found from completing Tower Defense maps!",
+        "thumbnail": "rbxassetid://131070721986590",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Ninja Dalmatian",
+      "category": "Huge",
+      "configData": {
+        "goldenThumbnail": "rbxassetid://79021582171284",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Ninja Dalmatian",
+        "indexDesc": "Found in Tower Defense Infinite Mode!",
+        "thumbnail": "rbxassetid://108653580991375",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Huge Zeus Bear",
+      "category": "Huge",
+      "configData": {
+        "tdadd": "Zeus Bear",
+        "goldenThumbnail": "rbxassetid://122725550519213",
+        "indexObtainable": true,
+        "huge": true,
+        "name": "Huge Zeus Bear",
+        "indexDesc": "Found in the Tower Defense Dark Unit Egg!",
+        "thumbnail": "rbxassetid://112711947085113",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        }
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Totem Owl",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "indexObtainable": true,
+        "name": "Titanic Totem Owl",
+        "indexDesc": "Found in the Exclusive Totem Egg!",
+        "fly": true,
+        "thumbnail": "rbxassetid://113883294151672",
+        "goldenThumbnail": ""
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Nuclear Dominus",
+      "category": "Titanic",
+      "configData": {
+        "titanic": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "indexObtainable": true,
+        "name": "Titanic Nuclear Dominus",
+        "indexDesc": "Found in Tower Defense Infinite Mode!",
+        "thumbnail": "rbxassetid://89079914653580",
+        "goldenThumbnail": "rbxassetid://107811785092987"
+      },
+      "collection": "Pets"
+    },
+    {
+      "configName": "Titanic Mechanical Griffin",
+      "category": "Titanic",
+      "configData": {
+        "tdadd": "Mechanical Griffin",
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "indexObtainable": true,
+        "titanic": true,
+        "name": "Titanic Mechanical Griffin",
+        "fly": true,
+        "indexDesc": "Found in the Tower Defense Dark Unit Egg!",
+        "thumbnail": "rbxassetid://139823159544156",
+        "goldenThumbnail": "rbxassetid://120316301549371"
+      },
+      "collection": "Pets"
     }
   ]
 }

@@ -31966,6 +31966,1135 @@
         ]
       },
       "collection": "Eggs"
+    },
+    {
+      "configName": "Active Huge Egg",
+      "category": "Machine Eggs",
+      "configData": {
+        "disableGold": false,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableRainbow": false,
+        "shinyChance": 2,
+        "disableModifiers": true,
+        "rainbowChance": 2,
+        "name": "Active Huge Egg",
+        "pets": [
+          [
+            "Huge Skateboard Bulldog",
+            1
+          ],
+          [
+            "Huge Beaver",
+            1
+          ],
+          [
+            "Huge Llama",
+            1
+          ],
+          [
+            "Huge Robber Pug",
+            1
+          ]
+        ],
+        "goldChance": 5,
+        "icon": "rbxassetid://16756521111"
+      },
+      "dateCreated": null,
+      "dateModified": null,
+      "hash": null,
+      "collection": "Eggs"
+    },
+    {
+      "configName": "262 | Twilight Grove Egg",
+      "category": "Update 61",
+      "configData": {
+        "eggNumber": 262,
+        "currency": "FantasyCoins",
+        "name": "Twilight Grove Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Glimmercap Turtle",
+            90
+          ],
+          [
+            "Sprout Pegasus",
+            9
+          ],
+          [
+            "Meteor Mole",
+            1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "263 | Moonlight Ridge Egg",
+      "category": "Update 61",
+      "configData": {
+        "eggNumber": 263,
+        "currency": "FantasyCoins",
+        "name": "Moonlight Ridge Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Sprout Pegasus",
+            90
+          ],
+          [
+            "Meteor Mole",
+            9
+          ],
+          [
+            "Rootkin Fox",
+            1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "264 | Starroot Oak Egg",
+      "category": "Update 61",
+      "configData": {
+        "eggNumber": 264,
+        "currency": "FantasyCoins",
+        "name": "Starroot Oak Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Meteor Mole",
+            90
+          ],
+          [
+            "Rootkin Fox",
+            9
+          ],
+          [
+            "Starry Eye Bunny",
+            1,
+            "Nice"
+          ],
+          [
+            "Scroll Dragon",
+            0.1,
+            "Great"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "265 | Aether Egg",
+      "category": "Update 61",
+      "configData": {
+        "eggNumber": 265,
+        "currency": "FantasyCoins",
+        "name": "Aether Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Rootkin Fox",
+            90
+          ],
+          [
+            "Starry Eye Bunny",
+            9
+          ],
+          [
+            "Scroll Dragon",
+            1,
+            "Nice"
+          ],
+          [
+            "Wisp Wolf",
+            0.1,
+            "Great"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "266 | Crescent Moon Egg",
+      "category": "Update 61",
+      "configData": {
+        "eggNumber": 266,
+        "currency": "FantasyCoins",
+        "name": "Crescent Moon Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Scroll Dragon",
+            91
+          ],
+          [
+            "Wisp Wolf",
+            9.1
+          ],
+          [
+            "Telescope Owl",
+            0.001,
+            "Insane"
+          ],
+          [
+            "Starlight Pony",
+            2.5e-05,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Basketball Egg",
+      "category": "Other",
+      "configData": {
+        "nonStackable": true,
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableGold": true,
+        "disableRainbow": false,
+        "shinyChance": 2,
+        "pets": [
+          [
+            "Blurred Bear Ball",
+            55
+          ],
+          [
+            "Comet Cyclops Ball",
+            37
+          ],
+          [
+            "Glitched Cat Ball",
+            5
+          ],
+          [
+            "Huge Electric Bunny Ball",
+            2.85
+          ],
+          [
+            "Titanic Comet Cyclops Ball",
+            0.15
+          ]
+        ],
+        "name": "Basketball Egg",
+        "allPetsRare": true,
+        "rainbowChance": 2,
+        "goldChance": 0,
+        "icon": "rbxassetid://92729315855673",
+        "disableModifiers": true
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Cosmic Basketball Egg",
+      "category": "Other",
+      "configData": {
+        "productIds": {
+          "100 Basketball Eggs": 3301571986,
+          "Basketball Egg": 3301571614,
+          "3 Basketball Eggs": 3301571711,
+          "10 Basketball Eggs": 3301571851
+        },
+        "nonStackable": true,
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableGold": true,
+        "disableModifiers": true,
+        "shinyChance": 2,
+        "allPetsRare": true,
+        "name": "Cosmic Basketball Egg",
+        "rainbowChance": 2,
+        "pets": [
+          [
+            "Atomic Monkey Ball",
+            55
+          ],
+          [
+            "Holographic Axolotl Ball",
+            36
+          ],
+          [
+            "Fragmented Dominus Ball",
+            5
+          ],
+          [
+            "Huge Fragmented Dominus Ball",
+            2.85
+          ],
+          [
+            "Huge LeGoat Ball",
+            1
+          ],
+          [
+            "Titanic Black Hole Angelus Ball",
+            0.15
+          ]
+        ],
+        "goldChance": 0,
+        "icon": "rbxassetid://127597256491079",
+        "disableRainbow": false
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "6 | Basketball Egg 6",
+      "category": "Basketball",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "BasketballCoins",
+        "name": "Basketball Egg 6",
+        "overrideCost": 5000,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Storm Axolotl Ball",
+            90
+          ],
+          [
+            "Electric Bunny Ball",
+            8
+          ],
+          [
+            "Meebo The Alien Ball",
+            2,
+            "Great"
+          ],
+          [
+            "Robot Ball",
+            0.1,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "5 | Basketball Egg 5",
+      "category": "Basketball",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "BasketballCoins",
+        "name": "Basketball Egg 5",
+        "overrideCost": 4000,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Kawaii Dragon Ball",
+            90
+          ],
+          [
+            "UV Kitsune Ball",
+            8
+          ],
+          [
+            "Storm Axolotl Ball",
+            2,
+            "Great"
+          ],
+          [
+            "Electric Bunny Ball",
+            0.1,
+            "Insane"
+          ],
+          [
+            "Meebo The Alien Ball",
+            0.01,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "7 | Basketball Egg 7",
+      "category": "Basketball",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "BasketballCoins",
+        "name": "Basketball Egg 7",
+        "overrideCost": 6000,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Electric Bunny Ball",
+            90
+          ],
+          [
+            "Meebo The Alien Ball",
+            8
+          ],
+          [
+            "Robot Ball",
+            2,
+            "Great"
+          ],
+          [
+            "Junkyard Hound Ball",
+            0.1,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "8 | Basketball Egg 8 Tier 1",
+      "category": "Basketball",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "BasketballCoins",
+        "name": "Basketball Egg 8 Tier 1",
+        "overrideCost": 7000,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Robot Ball",
+            90
+          ],
+          [
+            "Junkyard Hound Ball",
+            8
+          ],
+          [
+            "Astronaut Cat Ball",
+            2,
+            "Great"
+          ],
+          [
+            "Brain Ball",
+            0.1,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "8 | Basketball Egg 8 Tier 2",
+      "category": "Basketball",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "BasketballCoins",
+        "name": "Basketball Egg 8 Tier 2",
+        "overrideCost": 7000,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Junkyard Hound Ball",
+            92
+          ],
+          [
+            "Astronaut Cat Ball",
+            6
+          ],
+          [
+            "Brain Ball",
+            1,
+            "Great"
+          ],
+          [
+            "Glitched Unicorn Ball",
+            0.1,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "8 | Basketball Egg 8 Tier 3",
+      "category": "Basketball",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "BasketballCoins",
+        "name": "Basketball Egg 8 Tier 3",
+        "overrideCost": 7000,
+        "isCustomEgg": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Junkyard Hound Ball",
+            80
+          ],
+          [
+            "Astronaut Cat Ball",
+            15
+          ],
+          [
+            "Brain Ball",
+            3,
+            "Great"
+          ],
+          [
+            "Glitched Unicorn Ball",
+            0.5,
+            "Insane"
+          ],
+          [
+            "Atomic Monkey Ball",
+            0.1,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "8 | Basketball Egg 8 Tier 4",
+      "category": "Basketball",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "BasketballCoins",
+        "name": "Basketball Egg 8 Tier 4",
+        "overrideCost": 7000,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Holographic Axolotl Ball": "EggMultiplier_K1"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Astronaut Cat Ball",
+            92
+          ],
+          [
+            "Brain Ball",
+            7
+          ],
+          [
+            "Glitched Unicorn Ball",
+            1,
+            "Great"
+          ],
+          [
+            "Atomic Monkey Ball",
+            0.2,
+            "Great"
+          ],
+          [
+            "Holographic Axolotl Ball",
+            0.0005,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "8 | Basketball Egg 8 Tier 5",
+      "category": "Basketball",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "BasketballCoins",
+        "name": "Basketball Egg 8 Tier 5",
+        "overrideCost": 7000,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Holographic Axolotl Ball": "EggMultiplier_K1",
+          "Fragmented Dominus Ball": "EggMultiplier_K2"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Astronaut Cat Ball",
+            86
+          ],
+          [
+            "Brain Ball",
+            12
+          ],
+          [
+            "Glitched Unicorn Ball",
+            2,
+            "Great"
+          ],
+          [
+            "Atomic Monkey Ball",
+            0.5,
+            "Great"
+          ],
+          [
+            "Holographic Axolotl Ball",
+            0.0005,
+            "Insane"
+          ],
+          [
+            "Fragmented Dominus Ball",
+            5e-05,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "8 | Basketball Egg 8 Tier 6",
+      "category": "Basketball",
+      "configData": {
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "currency": "BasketballCoins",
+        "name": "Basketball Egg 8 Tier 6",
+        "overrideCost": 7000,
+        "isCustomEgg": true,
+        "oddsFFlags": {
+          "Fragmented Dominus Ball": "EggMultiplier_K2",
+          "Holographic Axolotl Ball": "EggMultiplier_K1",
+          "Black Hole Angelus Ball": "EggMultiplier_K3"
+        },
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Astronaut Cat Ball",
+            80
+          ],
+          [
+            "Brain Ball",
+            15
+          ],
+          [
+            "Glitched Unicorn Ball",
+            3,
+            "Great"
+          ],
+          [
+            "Atomic Monkey Ball",
+            0.5,
+            "Great"
+          ],
+          [
+            "Holographic Axolotl Ball",
+            0.0005,
+            "Insane"
+          ],
+          [
+            "Fragmented Dominus Ball",
+            5e-05,
+            "Insane"
+          ],
+          [
+            "Black Hole Angelus Ball",
+            2e-05,
+            "Insane"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "267 | Whispering Hills Egg",
+      "category": "Update 63",
+      "configData": {
+        "eggNumber": 267,
+        "currency": "FantasyCoins",
+        "name": "Whispering Hills Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Boulder Boar",
+            90
+          ],
+          [
+            "Glow Worm",
+            9
+          ],
+          [
+            "Starry Tail Anteater",
+            1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "268 | Runestone Bluff Egg",
+      "category": "Update 63",
+      "configData": {
+        "eggNumber": 268,
+        "currency": "FantasyCoins",
+        "name": "Runestone Bluff Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Glow Worm",
+            90
+          ],
+          [
+            "Starry Tail Anteater",
+            9
+          ],
+          [
+            "Totem Cub",
+            1,
+            "Nice"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "269 | Totem Trail Egg",
+      "category": "Update 63",
+      "configData": {
+        "eggNumber": 269,
+        "currency": "FantasyCoins",
+        "name": "Totem Trail Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Starry Tail Anteater",
+            90
+          ],
+          [
+            "Totem Cub",
+            9
+          ],
+          [
+            "Sprout Wyrmling",
+            1,
+            "Nice"
+          ],
+          [
+            "Happy Cyclops",
+            0.1,
+            "Great"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "270 | Wyrmwatch Ridge Egg",
+      "category": "Update 63",
+      "configData": {
+        "eggNumber": 270,
+        "currency": "FantasyCoins",
+        "name": "Wyrmwatch Ridge Egg",
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "Totem Cub",
+            90
+          ],
+          [
+            "Sprout Wyrmling",
+            9
+          ],
+          [
+            "Happy Cyclops",
+            1,
+            "Nice"
+          ],
+          [
+            "Runebound Bobcat",
+            0.1,
+            "Great"
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "271 | Highcliff Sanctuary Egg",
+      "category": "Update 63",
+      "configData": {
+        "bestEgg": true,
+        "eggNumber": 271,
+        "pets": [
+          [
+            "Happy Cyclops",
+            91
+          ],
+          [
+            "Runebound Bobcat",
+            9.1
+          ],
+          [
+            "Glimmer Goat",
+            0.001,
+            "Insane"
+          ],
+          [
+            "Ancestor Eagle",
+            2.5e-05,
+            "Insane"
+          ],
+          [
+            "Huge Runebound Bobcat",
+            6e-06,
+            "Insane"
+          ]
+        ],
+        "currency": "FantasyCoins",
+        "name": "Highcliff Sanctuary Egg",
+        "oddsFFlags": {
+          "Ancestor Eagle": "FantasyEggPet2",
+          "Glimmer Goat": "FantasyEggPet1",
+          "Huge Runebound Bobcat": "FantasyEggHuge"
+        },
+        "worldNumber": 4,
+        "icon": "rbxassetid://15172355963"
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Exclusive Egg 53",
+      "category": "Exclusive Eggs",
+      "configData": {
+        "disableGold": true,
+        "rarity": {
+          "RarityNumber": 999,
+          "Lootbag": null,
+          "_id": "Exclusive",
+          "Color": null,
+          "DisplayName": "Exclusive",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "rainbowChance": 2,
+        "shinyChance": 2,
+        "disableRainbow": false,
+        "name": "Exclusive Totem Egg",
+        "productIds": {
+          "Exclusive Egg": 3307203282,
+          "3 Exclusive Eggs": 3307203413,
+          "100 Exclusive Eggs": 3307203655,
+          "10 Exclusive Eggs": 3307203535
+        },
+        "pets": [
+          [
+            "Totem Wolf",
+            50
+          ],
+          [
+            "Totem Bear",
+            35
+          ],
+          [
+            "Totem Cat",
+            13
+          ],
+          [
+            "Huge Totem Wolf",
+            1.5
+          ],
+          [
+            "Huge Totem Cat",
+            0.39
+          ],
+          [
+            "Titanic Totem Owl",
+            0.1
+          ],
+          [
+            "Gargantuan Totem Monkey",
+            0.01
+          ]
+        ],
+        "goldChance": 0,
+        "icon": "rbxassetid://95622991998696",
+        "disableModifiers": true
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "Dark Unit Egg",
+      "category": "Other",
+      "configData": {
+        "nonStackable": true,
+        "disableRainbow": true,
+        "disableModifiers": true,
+        "disableShiny": true,
+        "goldChance": 0,
+        "icon": "rbxassetid://135486833669615",
+        "productIds": {
+          "100 Basketball Eggs": 3307633300,
+          "Basketball Egg": 3307632885,
+          "3 Basketball Eggs": 3307633046,
+          "10 Basketball Eggs": 3307633203
+        },
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "shinyChance": 0,
+        "allPetsRare": true,
+        "name": "Dark Unit Egg",
+        "disableGold": true,
+        "rainbowChance": 0,
+        "pets": [
+          [
+            "(TD) Demolition Panda",
+            54.65
+          ],
+          [
+            "(TD) Tech Samurai Axolotl",
+            40
+          ],
+          [
+            "(TD) Electric Eel",
+            5
+          ],
+          [
+            "Huge Zeus Bear",
+            0.25
+          ],
+          [
+            "Titanic Mechanical Griffin",
+            0.1
+          ]
+        ]
+      },
+      "collection": "Eggs"
+    },
+    {
+      "configName": "0 | Unit Egg",
+      "category": "TD",
+      "configData": {
+        "disableGold": true,
+        "rarity": {
+          "RarityNumber": 9,
+          "Lootbag": null,
+          "_id": "Celestial",
+          "Color": null,
+          "DisplayName": "Celestial",
+          "Message": null,
+          "ItemSlot": null,
+          "Gradient": null,
+          "Announce": true,
+          "_script": null
+        },
+        "disableRainbow": true,
+        "isCustomEgg": true,
+        "currency": "TowerDefenseRubies",
+        "name": "Unit Egg",
+        "overrideCost": 50,
+        "disableShiny": true,
+        "icon": "rbxassetid://15172355963",
+        "pets": [
+          [
+            "(TD) Safari Monkey",
+            43.765
+          ],
+          [
+            "(TD) Ninja Dalmatian",
+            43.765
+          ],
+          [
+            "(TD) Cyborg Kitsune",
+            4
+          ],
+          [
+            "(TD) Demolition Panda",
+            4
+          ],
+          [
+            "(TD) Flamethrower Spider",
+            2
+          ],
+          [
+            "(TD) Frostbyte Griffin",
+            0.8
+          ],
+          [
+            "(TD) Tech Samurai Axolotl",
+            0.6
+          ],
+          [
+            "(TD) Shadow Pegasus",
+            0.4
+          ],
+          [
+            "(TD) Torpedo Cat",
+            0.2
+          ],
+          [
+            "(TD) Comet Dragon",
+            0.2
+          ],
+          [
+            "(TD) Electric Eel",
+            0.12
+          ],
+          [
+            "(TD) Forged Armadillo",
+            0.08
+          ],
+          [
+            "(TD) Arcade Angelus",
+            0.03335
+          ],
+          [
+            "(TD) Nuclear Dominus",
+            0.02668
+          ],
+          [
+            "(TD) Nightmare Cyclops",
+            0.00667
+          ]
+        ]
+      },
+      "collection": "Eggs"
     }
   ]
 }
